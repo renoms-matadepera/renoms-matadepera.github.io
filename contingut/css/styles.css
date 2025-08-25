@@ -1,0 +1,303 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: sans-serif;
+}
+a {
+    color: #793a07;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+header {
+    background: #411305;
+    color: #fbf0de;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+header img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 970px;
+    height: auto;
+}
+
+.bloc-foto-header {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+.peu-foto {
+    text-align: right;
+    font-size: xx-small; /* o x-small */
+    margin: 0.3em 0.5em 0.5em 0;
+    color: #d1bbb8;
+}
+.titol-lloc {
+    display: inline-block;
+    font-family: Georgia, "Bitstream Charter", serif;
+    font-size: 21px;
+    font-size: 2.1rem;
+}
+header h1{
+    margin-bottom: 0.2em;
+}
+.description {
+    margin: 0 1em;
+    padding-bottom: 1.5em;
+    font-size: 18px;
+}
+.navbar {
+    background: #1f0903;
+    color: #fbf0de;
+    padding: 0.2em;
+    position: relative;
+    box-shadow: 4px 3px 9px 0px rgba(35, 35, 35, 0.7);
+}
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #1f0903;
+}
+
+.menu li {
+  margin: 0;
+}
+
+.menu a {
+  display: block;
+  padding: 0.8em 1.2em;
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.menu a:hover {
+  color: #ffa53a; 
+}
+
+.menu a.active {
+  background-color: #411305;
+  font-weight: bold;
+}
+
+.menu-icon {
+    display: none;
+    font-size: 2em;
+    cursor: pointer;
+}
+#toggle-menu {
+    display: none;
+}
+main {
+    flex: 1;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1em;
+    width: 100%;
+    box-sizing: border-box;
+}
+.titol-mob {
+    display: none;
+}
+.centrat { /*text index */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+/* ===== ESTILS AFEGITS PER LES TAULES DE RENOMS ===== */
+table.taula-renoms {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+table.taula-renoms th,
+table.taula-renoms td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+table.taula-renoms th {
+  background-color: #f2f2f2;
+  font-size: small;
+}
+table.taula-renoms td:nth-child(2),
+table.taula-renoms td:nth-child(3) {
+  font-weight: bold;
+}
+table.taula-renoms td:nth-child(4),
+table.taula-renoms td:nth-child(5) {
+  text-align: left;
+  vertical-align: top;
+}
+.taula-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.back-to-list {
+  font-size: 1.2em;      /* mida de la fletxa */
+  text-decoration: none; /* sense ratlleta */
+}
+
+.back-to-list:hover {
+  color: #ffa53a;    /* color en passar el cursor */
+  text-decoration: none; /* assegura que no apareix la ratlleta */
+}
+/* ===== Taules Cases ===== */
+.taula-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  max-width: 1000px;
+  margin: 2em auto 0.5em;
+}
+.taula-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+.back-to-list {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1;
+  color: #411305;
+}
+.back-to-list:hover {
+  color: #a32900;
+  text-decoration: none;
+}
+
+/* Taula */
+.taula-renoms {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto 2em;
+}
+.taula-renoms th,
+.taula-renoms td {
+  border: 1px solid #ccc;
+  padding: 0.5em;
+  text-align: center;
+  vertical-align: middle;
+}
+.taula-renoms th {
+  background-color: #e8ded1;
+  font-weight: bold;
+}
+
+/* Panell informatiu lateral */
+.info-panel {
+  position: fixed;
+  top: 0;
+  right: -100%;
+  width: 90%;
+  max-width: 380px;
+  height: 100%;
+  background: #fff;
+  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.3);
+  padding: 1em;
+  overflow-y: auto;
+  transition: right 0.3s ease-in-out;
+  z-index: 1000;
+}
+.info-panel.open {
+  right: 0;
+}
+.info-panel h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  color: #411305;
+}
+.info-panel .close-btn {
+  background: none;
+  border: none;
+  font-size: 2em;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  cursor: pointer;
+  color: #411305;
+}
+.info-label {
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-top: 1em;
+  color: #444;
+}
+.info-text {
+  margin: 0.2em 0 1em;
+  text-align: justify;
+}
+.info-text-altres {
+  margin: 0.2em 0 1em;
+  color: #411305;
+  font-weight: bold;
+}
+.info-address {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 3em;
+}
+.info-link {
+  background: none;
+  border: none;
+  color: #793a07;
+  cursor: pointer;
+  font: inherit;
+  padding: 0;
+  text-decoration: none;
+}
+
+.info-link:hover {
+  text-decoration: underline;
+}
+/* ===== Fi Taules Cases ===== */
+@media (max-width: 768px) {
+    .menu {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+    #toggle-menu:checked + .menu-icon + .menu {
+        display: flex;
+    }
+    .menu-icon {
+        text-align: center;
+        display: block;
+    }
+    .titol-mob {
+        display: block;
+        color: #790b07;
+        font-weight: bold;
+        margin-top: 0;
+    }
+}
+footer {
+    background: #333;
+    color: #b9b9b9;
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 1em;
+    margin-top: auto;
+}
