@@ -590,13 +590,6 @@ Abans de viure a aquesta casa, la família havia estat masovera de Can Roure, d�
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 1, Matadepera`
    },
-"cal-rei": {
-    title:`Cal Rei`,
-    altres:``,
-    historia:`Aquesta casa s’ubicava a la cantonada del carrer Sant Llorenç amb el carrer Sant Isidre, on avui hi ha una petita placeta amb una font i un banc que popularment es coneix com “la plaça de la Fanta” perquè, en la seva inauguració el 27 d’agost de 1972, la companyia d’aigües no va autoritzar el subministrament i, per poder celebrar l’acte, els organitzadors de la Festa Major hi van fer rajar aquest refresc.`,
-    origen:``,
-    adreca:`Adreça actual: Placeta "de la Fanta"`
-   },
 "cal-xic-cama-negra": {
     title:`Cal Xic Cama Negra`,
     altres:``,
@@ -760,7 +753,13 @@ Ca l'Abuela`,
 
 
 // Carrer de Sant Isidre
-
+"cal-rei": {
+    title:`Cal Rei`,
+    altres:``,
+    historia:`Aquesta casa, situada al capdamunt del carrer de Sant Isidre, inicialment feia cantonada directa amb el carrer de Sant Llorenç. Amb el temps, una part de l’immoble es va enderrocar per eixamplar l’accés al carrer Sant Isidre i aquell espai es convertí en una petita placeta amb una font i un banc. Popularment és coneguda com “la plaça de la Fanta” perquè, en la seva inauguració el 27 d’agost de 1972, la companyia d’aigües no havia autoritzat encara el subministrament i, per poder celebrar l’acte, els organitzadors de la Festa Major hi van fer rajar aquest refresc`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 1, Matadepera`
+   },
 "ca-la-bona-maria": {
     title:`Ca la Bona Maria`,
     altres:``,
