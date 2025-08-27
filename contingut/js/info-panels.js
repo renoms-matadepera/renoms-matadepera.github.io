@@ -500,8 +500,8 @@ El seu fill, en Salvador Sala, nascut l'any 1801, es va casar amb na Rosa Casass
     origen:`Pel Cognom`,
     adreca:`Adreça actual: Carrer de Sant Joan, 82, Matadepera`
    },
-"cal-perrot": {
-    title:`Cal Perrot`,
+"cal-parrot": {
+    title:`Cal Parrot`,
     altres:`Cal Tofunarire`,
     historia:`El primer cop que trobem el nom de <em>Cal Parrot</em> és l’any 1886, amb el naixement de Josep Aimerich i Genescà, segons Manel Atmeller i Bassets (Programa de Festa Major 2005, pàg. 62).`,
     origen:`<em>Cal Tofonaire</em> rep el nom perquè qui hi vivia era un home apassionat per la cerca de tòfones. Passava més temps fora de casa, recorrent boscos i camps, en la seva eterna recerca del preuat fong. La seva dona, que segons es comenta era tan bonica com la Rita Hayworth, es quedava sovint sola. I com que <em>el Tofonaire</em> s’estimava més rastrejar el sotabosc que estar per casa, al poble hi corria el rumor que ella, amb alguns vilatans, també sabia trobar allò que li mancava. Ves a saber... potser tot plegat no era res més que xerrameca de poble.`,
@@ -778,11 +778,11 @@ D’aquí en va quedar el renom de <em>Ca la Bona Maria</em>.`,
     origen:`Deformació i contracció final del nom Delfí, en referència a Delfí Busqueta, avi de Delfí Busqueta Vicente.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 5, Matadepera`
    },
-"cal-joan-sort": {
-    title:`Cal Joan Sort`,
+"cal-joan-sord": {
+    title:`Cal Joan Sord`,
     altres:``,
     historia:``,
-    origen:``,
+    origen:`El renom prové d’en Joan Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 6A, Matadepera`
    },
 "cal-fusteret": {
