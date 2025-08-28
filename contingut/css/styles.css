@@ -16,14 +16,6 @@
    estils tipogràfics i colors, navegació, taules i panells informatius.
    ========================================================================== */
 
-/* Evita la inversió automàtica del navegador */
-:root, html, body {
-  color-scheme: light;
-}
-header, .navbar, main, .info-panel, footer {
-  color-scheme: light;
-}
-
 body {
     display: flex;
     flex-direction: column;
