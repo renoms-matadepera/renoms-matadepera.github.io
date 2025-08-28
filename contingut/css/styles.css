@@ -299,20 +299,36 @@ table.taula-renoms td:nth-child(5) {
 /* Ordre llistat TESTIMONIS a fonts */
 .testimonis {
     display: table;
-    font-family: serif;
-    margin-left: 1em;
+    /* font-family: serif; */
+    margin-left: clamp(0em, 2vw, 1em); /* entre 0 i 1em depenent de l'ample */
   }
   .testimoni {
     display: table-row;
   }
   .testimoni span {
     display: table-cell;
-    padding: 0 .5em;
+    padding: 0 .1em;
     white-space: nowrap;
   }
   .nom { text-align: left; }
   .cognoms { text-align: left; }
   .renom { text-align: left; }
+
+@media (max-width: 428px) {
+  .testimonis {
+    display: block;      /* deixem de fer servir taula */
+    margin-left: 0;
+  }
+  .testimoni {
+    display: block;      /* cada testimoni ocupa tota l’amplada */
+    margin-bottom: 0.3em;
+  }
+  .testimoni span {
+    display: inline;     /* que el text pugui saltar de línia */
+    white-space: normal; /* permet trencar */
+    padding: 0;
+  }
+}
 
 /* ===== Fi Ordre TESTIMONIS ===== */
 
