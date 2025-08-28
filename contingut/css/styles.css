@@ -16,7 +16,7 @@
    estils tipogràfics i colors, navegació, taules i panells informatius.
    ========================================================================== */
 
-body {
+   body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -295,6 +295,27 @@ table.taula-renoms td:nth-child(5) {
   text-decoration: underline;
 }
 /* ===== Fi Taules Cases ===== */
+
+/* Ordre llistat TESTIMONIS a fonts */
+.testimonis {
+    display: table;
+    font-family: serif;
+    margin-left: 1em;
+  }
+  .testimoni {
+    display: table-row;
+  }
+  .testimoni span {
+    display: table-cell;
+    padding: 0 .5em;
+    white-space: nowrap;
+  }
+  .nom { text-align: left; }
+  .cognoms { text-align: left; }
+  .renom { text-align: left; }
+
+/* ===== Fi Ordre TESTIMONIS ===== */
+
 @media (max-width: 768px) {
     .menu {
         display: none;
