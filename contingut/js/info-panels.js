@@ -781,7 +781,7 @@ D’aquí en va quedar el renom de <em>Ca la Bona Maria</em>.`,
     title:`Cal Joan Sord`,
     altres:``,
     historia:``,
-    origen:`El renom prové d’en Joan Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
+    origen:`El renom prové d’en Joan Uset Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 6A, Matadepera`
    },
 "cal-fusteret": {
@@ -996,3 +996,4 @@ Quan passaven pel burot <sup>1</sup>, en Pere Puig Font va començar a tossir, e
   function closeInfo() {
     document.getElementById("info-panel").classList.remove("open");
   }
+
