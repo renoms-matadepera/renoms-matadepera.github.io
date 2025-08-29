@@ -296,10 +296,14 @@ table.taula-renoms td:nth-child(5) {
 }
 /* ===== Fi Taules Cases ===== */
 
+.fonts-doc{
+font-family: serif;  
+}
+
 /* Ordre llistat TESTIMONIS a fonts */
+
 .testimonis {
     display: table;
-    /* font-family: serif; */
     margin-left: clamp(0em, 2vw, 1em); /* entre 0 i 1em depenent de l'ample */
   }
   .testimoni {
@@ -318,6 +322,7 @@ table.taula-renoms td:nth-child(5) {
   .testimonis {
     display: block;      /* deixem de fer servir taula */
     margin-left: 0;
+    font-size: 0.9em; 
   }
   .testimoni {
     display: block;      /* cada testimoni ocupa tota l’amplada */
