@@ -36,20 +36,30 @@ La casa també va ser l’habitatge de la seva filla, <strong>Francesca Marlet</
     origen:`La casa sempre fou coneguda com a <em>Cal Marlet</em> pel cognom del seu resident més emblemàtic.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 9, Matadepera`
    },
+"ca-lestevet": {
+    title:`Ca l'Estevet`,
+    altres:`Villa Catalina<br>
+Cal Barret`,
+    historia:`En aquesta casa visqué <strong>Esteve Genescà Gutés</strong> (1915-1985), casat amb Montserrat Garrigosa Palet. D’aquest matrimoni descendeix l’extensa nissaga Genescà Garrigosa de Matadepera.<br>
+La casa va ser construïda pel seu pare, Enric Genescà Cortès, just davant de casa seva <em>Cal Enriquet</em>, i li posà el nom de “<em>Villa Catalina</em>” en record de la seva dona, Catalina Gutés Arnau.<br>`,
+    origen:`<strong><em>Ca l'Estevet</em></strong>: El nom Esteve es repeteix constantment en tota la branca familiar dels Genescà, descendents d’Esteve Genescà Padrós. Tant el mateix Esteve Genescà Gutés com el seu avi havien estat dels germans més petits, d’aquí el diminutiu “<em>Estevet</em>”. Segons expliquen, el renom l’hauria heretat del seu avi, però també era una manera pràctica de distingir-lo entre tants “Esteves” de la família.<br><br>
+<strong><em>Villa Catalina</em></strong>: Nom triat per Enric Genescà Cortès en homenatge a la seva dona, Catalina Gutés Arnau, quan va construir aquesta casa davant de casa seva, <em>Cal Enriquet</em>.<br><br>
+<strong><em>Cal Barret</em></strong>: La família Genescà Cortès treballava al bosc, però el fill Esteve, que era qui portava els comptes, sempre anava molt ben vestit. Els treballadors en feien broma, i ell, cansat, un dia va dir: “<em>Algun dia, fins i tot, em veureu amb barret!</em>”. A partir de llavors, gairebé sempre portà barret, i així va néixer aquest renom.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 11, Matadepera`
+   },
 "cal-negre": {
     title:`Cal Negre`,
     altres:``,
-    historia:``,
-    origen:`En Joan Genescà Cortés, era molt moreno de pell i d'aquí el malnom.`,
+    historia:`En aquesta casa visqué Joan Genescà Gutés (1917-1969), fill d’Enric Genescà Cortès de Ca l’Enriquet. Casat amb Dolors Arnau Pi, tingueren quatre fills. De la branca Genescà Arnau també descendeix una extensa nissaga familiar.`,
+    origen:`En Joan Genescà Gutés, era molt moreno de pell i d'aquí el malnom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 13, Matadepera`
    },
-"cal-barret": {
-    title:`Cal Barret`,
+"ca-l’enriquet": {
+    title:`Ca l’Enriquet`,
     altres:``,
-    historia:``,
-    origen:`Els germans Genescà Cortès treballaven al bosc, però qui portava els comptes era l'Esteve. Sempre anava com un pinzell, fins i tot quan anava a veure els treballadors. Ells se’n fotien una mica de com anava vestit. Un dia, cansat de les bromes, els va dir:<br>
-<em>"Algun dia, fins i tot, em veureu amb barret!"</em>
-I mira per on, aquell comentari va fer que li quedés el mot de <em>Cal Barret</em>.`,
+    historia:`En aquesta casa hi va viure <strong>Enric Genescà Cortès</strong> (1888-1970), casat amb Catalina Gutés Arnau, amb qui tingueren sis fills (dos dels quals van morir infants).<br>
+L’Enric morí l’1 de novembre de 1970 al carrer Montserrat, 8 (actual 36). Segons explica el seu net Enric Genescà Garrigosa, quan es traslladà del carrer Sant Joan al carrer Montserrat, ell mateix va posar al nou habitatge el número 8, igual que el que tenia la casa del carrer Sant Joan, com a record del lloc on havia viscut.`,
+    origen:`El renom “<em>Ca l’Enriquet</em>” prové del diminutiu d’Enric Genescà Cortès, que era un dels germans més petits dels cinc fills d’Esteve Genescà Padrós i Rosa Cortès Riera.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 14, Matadepera`
    },
 "cal-cendra": {
@@ -243,11 +253,16 @@ Altre versions també expliquen que, com que el carrer Sant Joan era part del ca
 Sigui per una raó, per l'altra o totes dues, la família va acabar sent coneguda com <em>Cal Muletes</em>`,
     adreca:`Adreça actual: Carrer de Sant Joan, 43, Matadepera`
    },
-"ca-lasuncion": {
-    title:`Ca l'Asuncion`,
+"ca-lassuncion": {
+    title:`Ca l'Assuncion`,
     altres:``,
-    historia:``,
-    origen:``,
+    historia:`Aquesta va ser <strong>la primera casa del nou nucli urbà de Matadepera</strong>.<br>
+Cap a finals del segle XVIII, en Narcís Gorina, de Can Gorina, aclaparat pels deutes, decidí parcel·lar les seves terres al voltant del Camí Ral per establir-hi famílies a la vora del camí.<br>
+El 7 de desembre de 1786, Narcís Gorina vengué a Tomàs Martí, qui més endavant donaria nom a la nissaga de <em>Cal Tomasset</em>, una parcel·la situada al límit de les terres de Can Vinyes, per edificar-hi una casa de 45 pams d’amplada per 27 canes de llargada (aprox. 10,50 m de façana per 41,85 m de fons).<br>
+Amb el pas dels anys, la propietat passà a la família Genescà. Allà hi visqué <strong>Assumpció Clusellas Clapés</strong> (1873-1961), casada amb Joan Genescà Cortés (1874-1922).<br>
+Quan Assumpció quedà vídua el 1922, als 49 anys, continuà vivint a la casa fins a la seva mort als 88 anys, després de 39 anys de viduïtat. Aquest llarg període explicaria que el nom de la casa acabés associat a ella.`,
+    origen:`El renom <em>Ca l’Assunción</em> prové d’Assumpció Clusellas, que hi visqué molts anys. Popularment, el seu nom es pronunciava “Assunsión”, amb una n final a la manera castellana però amb fonètica catalana, un tret habitual a la cultura rural d’aquella època.<br>
+Per respecte a la memòria oral, conservem l’escriptura “Ca l’Assunción”, tot i que en català normatiu el nom és Assumpció.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 44, Matadepera`
    },
 "cal-mabres": {
@@ -294,8 +309,8 @@ Cal destacar també que, l’any 1846, fou un dels primers cafès i sales de bal
     title:`Cal Gallifa`,
     altres:``,
     historia:`<strong>Una de les primeres cases del nucli urbà de Matadepera</strong>.<br>
-El 1772, Josep Argemí Puigdomench, natural de Gallifa, esdevé un dels primers pobladors de la Matadepera urbana. Compra a Narcís Gorina, propietari de les terres de Can Gorina, una parcel·la de 40 pams d’amplada per 27 canes de llargada al carrer nou de Matadepera (avui carrer Sant Joan), on construeix la seva casa: l’actual <em>Cal Gallifa</em>.`,
-    origen:`En Josep Argemí Puigdomench era natural de Gallifa i de qui ve el Renom.`,
+El 1772, <strong>Josep Argemir Puigdomench</strong> (avui Argemí, ja que amb el temps es perdé la “r” final), , natural de Gallifa, esdevé un dels primers pobladors de la Matadepera urbana. Compra a Narcís Gorina, propietari de les terres de Can Gorina, una parcel·la de 40 pams d’amplada per 27 canes de llargada al carrer nou de Matadepera (avui carrer Sant Joan), on construeix la seva casa: l’actual <em>Cal Gallifa</em>.`,
+    origen:`En Josep Argemir Puigdomench era natural de Gallifa i de qui ve el Renom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 48, Matadepera`
    },
 "cal-magi": {
@@ -781,7 +796,7 @@ D’aquí en va quedar el renom de <em>Ca la Bona Maria</em>.`,
     title:`Cal Joan Sord`,
     altres:``,
     historia:``,
-    origen:`El renom prové d’en Joan Uset Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
+    origen:`El renom prové d’en Joan Utset Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 6A, Matadepera`
    },
 "cal-fusteret": {
@@ -996,4 +1011,3 @@ Quan passaven pel burot <sup>1</sup>, en Pere Puig Font va començar a tossir, e
   function closeInfo() {
     document.getElementById("info-panel").classList.remove("open");
   }
-
