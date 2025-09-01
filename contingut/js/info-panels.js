@@ -261,8 +261,8 @@ Cap a finals del segle XVIII, en Narcís Gorina, de Can Gorina, aclaparat pels d
 El 7 de desembre de 1786, Narcís Gorina vengué a Tomàs Martí, qui més endavant donaria nom a la nissaga de <em>Cal Tomasset</em>, una parcel·la situada al límit de les terres de Can Vinyes, per edificar-hi una casa de 45 pams d’amplada per 27 canes de llargada (aprox. 10,50 m de façana per 41,85 m de fons).<br>
 Amb el pas dels anys, la propietat passà a la família Genescà. Allà hi visqué <strong>Assumpció Clusellas Clapés</strong> (1873-1961), casada amb Joan Genescà Cortés (1874-1922).<br>
 Quan Assumpció quedà vídua el 1922, als 49 anys, continuà vivint a la casa fins a la seva mort als 88 anys, després de 39 anys de viduïtat. Aquest llarg període explicaria que el nom de la casa acabés associat a ella.`,
-    origen:`El renom <em>Ca l’Assunción</em> prové d’Assumpció Clusellas, que hi visqué molts anys. Popularment, el seu nom es pronunciava “Assunsión”, amb una n final a la manera castellana però amb fonètica catalana, un tret habitual a la cultura rural d’aquella època.<br>
-Per respecte a la memòria oral, conservem l’escriptura “Ca l’Assunción”, tot i que en català normatiu el nom és Assumpció.`,
+    origen:`El renom <em>Ca l’Assuncion</em> prové d’Assumpció Clusellas, que hi visqué molts anys. Popularment, el seu nom es pronunciava “Assunsion”, amb una n final a la manera castellana però amb fonètica catalana, un tret habitual a la cultura rural d’aquella època.<br>
+Per respecte a la memòria oral, conservem l’escriptura “Ca l’Assuncion”, tot i que en català normatiu el nom és Assumpció.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 44, Matadepera`
    },
 "cal-mabres": {
