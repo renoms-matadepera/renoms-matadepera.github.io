@@ -309,8 +309,8 @@ Cal destacar també que, l’any 1846, fou un dels primers cafès i sales de bal
     title:`Cal Gallifa`,
     altres:``,
     historia:`<strong>Una de les primeres cases del nucli urbà de Matadepera</strong>.<br>
-El 1772, <strong>Josep Argemir Puigdomench</strong> (avui Argemí, ja que amb el temps es perdé la “r” final), , natural de Gallifa, esdevé un dels primers pobladors de la Matadepera urbana. Compra a Narcís Gorina, propietari de les terres de Can Gorina, una parcel·la de 40 pams d’amplada per 27 canes de llargada al carrer nou de Matadepera (avui carrer Sant Joan), on construeix la seva casa: l’actual <em>Cal Gallifa</em>.`,
-    origen:`En Josep Argemir Puigdomench era natural de Gallifa i de qui ve el Renom.`,
+El 1772, <strong>Josep Argemir Puigdomènech</strong> (avui Argemí, ja que amb el temps es perdé la “r” final), , natural de Gallifa, esdevé un dels primers pobladors de la Matadepera urbana. Compra a Narcís Gorina, propietari de les terres de Can Gorina, una parcel·la de 40 pams d’amplada per 27 canes de llargada al carrer nou de Matadepera (avui carrer Sant Joan), on construeix la seva casa: l’actual <em>Cal Gallifa</em>.`,
+    origen:`En Josep Argemir Puigdomènech era natural de Gallifa i de qui ve el Renom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 48, Matadepera`
    },
 "cal-magi": {
