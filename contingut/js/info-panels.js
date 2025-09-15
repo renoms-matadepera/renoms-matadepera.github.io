@@ -451,10 +451,12 @@ Cal Beltrà ocupava des de l'actual numero 68 fins la cantonada i part del carre
 "cal-picarrocs": {
     title:`Cal Picarrocs`,
     altres:``,
-    historia:`La família Grané vivia al carrer Sant Joan, a tocar de l’església, a la casa coneguda com <em>Cal Fuster</em>. En casar-se Jaume Grané Busqueta amb Pilar Porta Manau, van anar a viure a aquesta casa, on van tenir tres fills: Rosa, Maria i Joan Grané Porta. Aquest darrer, casat amb Neus Calvó Blanco, va tenir tretze fills, d’on prové l’actual descendència Grané Calvó.<br>
-La família Grané es dedicava a la fusta i al treball forestal.<br>
-L’any 1948, la casa també va ser seu social de la Germandat de Sant Sebastià, just al costat de Cal Genet, on s’havia fundat originalment.`,
-    origen:`El renom prové dels picapedrers que havien viscut a la casa abans que fos comprada per Jaume Grané i Porta de <em>Cal Fuster</em>, avi de la família Grané Calvó.`,
+    historia:`L’origen d’aquesta casa es remunta a finals del <strong>segle XVIII</strong>. L’any 1784, <strong>Josep Puigdoure</strong>, jornaler vingut de Mura, hi establí una primera casa, que el 1790 passà a la seva filla Marianna, casada amb Francesc Padrós, descendent de l’antic mas Padrós i masover de Can Farrés de Baix.<br>
+La nissaga Padrós es consolidà al carrer Sant Joan: el seu fill <strong>Esteve Padrós i Puigdoure</strong> (1807-1877), també masover de Can Farrés, prosperà amb vinyes i, sobretot, gràcies a l’explotació d’una pedrera —probablement la de Can Candi—, que subministrava pedra a Terrassa. La seva activitat li donà renom i li valgué el sobrenom que acabaria definint aquesta casa. L’Esteve Padrós fou alcalde de Matadepera entre 1863 i 1865.<br>
+A finals del segle XIX, la família Padrós es dispersà, però <strong>el renom “Picarrocs” quedà associat a l’habitatge</strong>.<br>
+<strong>La família Grané</strong>, de <em>Cal Fuster</em> —per l’ofici— i establerta al carrer Sant Joan a tocar de l’església, hi arribà més tard: Jaume Grané Busqueta, en casar-se amb Pilar Porta Manau, s’instal·là a aquesta casa. Van tenir tres fills: Rosa, Maria i Joan Grané Porta. En Joan es casà amb Neus Calvó Blanco i van tenir tretze fills, d’on prové l’actual descendència <strong>Grané Calvó</strong>. La família es dedicava principalment al treball forestal.<br>
+Jaume Grané va ser president de la Germandat de Sant Sebastià entre 1940 i 1949; per aquest motiu, la casa també fou seu social de la Germandat, just al costat de <em>Cal Genet</em>, on s’havia fundat inicialment.`,
+    origen:`El renom <em>Picarrocs</em> prové de la família Padrós, primers habitants de la casa, i especialment de l’Esteve Padrós i Puigdoure, que al segle XIX explotava una pedrera pròpia i era conegut com a “picarrocs”. Tot i que els Padrós van marxar, el nom va arrelar a l’habitatge i va passar a identificar també els seus posteriors estadants, la família Grané Calvó, que encara avui és recordada per aquest renom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 73, Matadepera`
    },
 "cal-jep": {
