@@ -182,7 +182,7 @@ Cal fer <strong>un reconeixement a Joan Font Pi “Corcola”</strong> (1902-198
     altres:``,
     historia:``,
     origen:`En <strong>Joan Cortès i Codina</strong>, considerat el primer “Quistó” a finals del segle XIX, passava el Sant Crist per les cases demanant almoina per la capella. Del mot "Crist", deformat, en derivà "Cristo". A la mainada d’aquella casa, quan els preguntaven d'on eren, responien pronunciant <em>"soc de casa del quisto"</em> en comptes de "cristo", i d'aquí va derivar a <em>Quistó</em>.<br>
-<strong>Àngel Guimerà va adoptar aquest renom</strong> per a la seva obra de teatre Maria Rosa, on Cal Quistó apareix com l’indret on es reunien els enginyers i on els obrers cobraven el jornal per les obres de la carretera que havia de comunicar Matadepera amb Sabadell.<br>
+<strong>Àngel Guimerà va adoptar aquest renom</strong> per a la seva obra de teatre Maria Rosa, on <em>Cal Quistó</em> apareix com l’indret on es reunien els enginyers i on els obrers cobraven el jornal per les obres de la carretera que havia de comunicar Matadepera amb Sabadell.<br>
 <strong>Altres fonts apunten que</strong>, si Guimerà es va inspirar en un fet real, el nom podria estar relacionat amb el mot <em>quistó</em> en el sentit de “salari” o “compensació”. Aquest terme provindria de <em>quaestio</em> (llatí: allò que es reclama, el que toca rebre) i s’havia usat per designar el jornal en espècie: blat, vi, oli o altres productes en comptes de diners, una pràctica habitual al món rural fins ben entrat el segle XIX. Això reforçaria l’associació del renom amb aquest significat.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 34, Matadepera`
    },
