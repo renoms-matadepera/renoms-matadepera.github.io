@@ -1014,7 +1014,7 @@ Quan passaven pel burot <sup>1</sup>, en Pere Puig Font va començar a tossir, e
     let html = "";
     if (data.altres) html += `<div class="info-label">Altres RENOMS</div><div class="info-text-altres">${data.altres}</div>`;
     if (data.historia) html += `<div class="info-label">HISTÒRIA</div><div class="info-text">${data.historia}</div>`;
-    if (data.origen) html += `<div class="info-label">ORIGEN RENOM</div><div class="info-text">${data.origen}</div>`;
+    if (data.origen) html += `<div class="info-label">ORIGEN DEL RENOM</div><div class="info-text">${data.origen}</div>`;
     if (data.adreca) html += `<div class="info-address">${data.adreca}</div>`;
 
     document.getElementById("info-content").innerHTML = html;
