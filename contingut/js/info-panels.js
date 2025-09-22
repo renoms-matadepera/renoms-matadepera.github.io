@@ -563,8 +563,8 @@ El fill Joaquim Altimira i Marcet, conegut com <em>el Quim de Can Roure</em>, es
     origen:`<em>Cal Quim</em> prové del diminutiu “Quim”, de Joaquim Altimira. El seu net, Joaquim Altimira Colomé “en Quimet de Cal Quim”, juntament amb la seva esposa Palmira Estrada, regentà durant molts anys la popular taverna coneguda com <em>Cal Quim</em>, ubicada a la mateixa casa. Aquesta activitat consolidà definitivament el renom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 87, Matadepera`
    },
-"cal-jordi": {
-    title:`Cal Jordi`,
+"ca-la-filomena": {
+    title:`Ca la Filomena`,
     altres:``,
     historia:``,
     origen:``,
@@ -572,7 +572,7 @@ El fill Joaquim Altimira i Marcet, conegut com <em>el Quim de Can Roure</em>, es
    },
 "cal-cesc-de-can-roure": {
     title:`Cal Cesc de can Roure`,
-    altres:``,
+    altres:`Cal Jordi`,
     historia:`Casa de la família Altimira.<br>
 En Bonaventura Altimira, procedent de Sant Vicenç, a la comarca d’Osona, prop del riu Ter, va arribar a Matadepera a finals del segle XVIII.<br>
 Un dels seus fills, l’Andreu Altimira i Carcassona, es va casar amb Teresa Marcet i Carreras, de Can Marcet. L’any 1854 els trobem com a masovers de Can Roure, on van viure amb els seus fills: Francesc, Joaquim i Maria.<br>
