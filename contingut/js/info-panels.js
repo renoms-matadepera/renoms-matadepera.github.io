@@ -827,7 +827,7 @@ La seva esposa es deia Dolores, i el seu fill era conegut amb el malnom de "el X
 "cal-cot": {
     title:`Cal Cot`,
     altres:`Ca la Naspa`,
-    historia:`Els de <em>Cal Cot</em> eren els propietaris que estiuejava al pis de dalt i tenien llogat els baixos als de <em>Ca la Naspa</em>`,
+    historia:`Els de <em>Cal Cot</em> eren els propietaris que estiuejaven al pis de dalt i tenien llogat els baixos als de <em>Ca la Naspa</em>`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Isidre, 12, Matadepera`
    },
