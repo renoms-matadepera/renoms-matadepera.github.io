@@ -826,10 +826,27 @@ La seva esposa es deia Dolores, i el seu fill era conegut amb el malnom de "el X
    },
 "cal-cot": {
     title:`Cal Cot`,
-    altres:``,
-    historia:` Vivien al pis de dalt, sobre Ca la Naspa`,
+    altres:`Ca la Naspa`,
+    historia:`Els de <em>Cal Cot</em> eren els propietaris que estiuejava al pis de dalt i tenien llogat els baixos als de <em>Ca la Naspa</em>`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Isidre, 12, Matadepera`
+   },
+"ca-la-lola-rossa": {
+    title:`Ca la Lola Rossa`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 13, Matadepera`
+   },
+"cal-peret-ros": {
+    title:`Cal Peret Ros`,
+    altres:`Cal Mero`,
+    historia:`Al padró de 1911 hi consta que en aquesta casa hi vivien Pere Bruach Cases, nascut a Sant Llorenç Savall, casat amb Angeleta Valls Cuixart, i els seus sis fills: Antònia, Maria, Agustí, Eulògia i Baldomero.<br>
+Segons el testimoni de Pere Bruach Utzet, net d’en Pere Bruach Cases i fill d’Agustí Bruach Valls i Lluïsa Utset Genescà, les cases del costat —<em>Cal Cot</em> (<em>Ca la Naspa</em>) i <em>Cal Arturo de Badalona</em> (<em>Cal Soley</em>)— havien estat anteriorment l’hort de <em>Cal Peret Ros</em>.`,
+    origen:`El més probable és que el renom provingui del mateix Pere Bruach Cases, que devia ser ros de cabells. <br>
+El malnom <em> Mero</em>, en canvi, hauria estat associat al seu fill Baldomero Bruach Valls, abreujant el seu nom de pila.<br> 
+Tanmateix, ambdues versions resten pendents de confirmació definitiva.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 14, Matadepera`
    },
 "cal-tanta": {
     title:`Cal Tanta`,
@@ -856,9 +873,9 @@ Cal Guerresenyo`,
    },
 "cal-pauet": {
     title:`Cal Pauet`,
-    altres:``,
+    altres:`Cal la Pietat`,
     historia:``,
-    origen:`<em>Pauet</em>: Del diminutiu del nom Pau`,
+    origen:`<em>Pauet</em>: Del diminutiu del nom Pau Solé`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 23, Matadepera`
    },
 "cal-natzaret": {
