@@ -889,8 +889,8 @@ Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina er
 "cal-blanco": {
     title:`Cal Blanco`,
     altres:``,
-    historia:``,
-    origen:`Aquest renom prové d’un home que hi vivia i que es distingia per tenir molt de cabell i completament blanc. El mot <em>Blanco</em> és un castellanisme de “blanc”, però pronunciat a la manera catalana. Aquesta forma hibridada era força comuna en temps passats, quan el contacte amb el castellà influïa sovint el parlar popular.`,
+    historia:`<strong>Isidre Pi Riera</strong> era un home de cabells molt blancs. Es dedicava a treure sorra de la riera, garbellar-la i classificar-la per vendre-la al sector de la construcció. Era el principal subministrador d’aquest tipus de sorra, conegut com “palluc”, als paletes de Matadepera.`,
+    origen:`El renom prové del color de cabells d’Isidre Pi Riera, que eren completament blancs. El mot "Blanco" és un castellanisme de blanc, pronunciat a la manera catalana. Aquesta forma hibridada era força comuna en temps passats, quan el contacte amb el castellà influïa sovint el parlar popular.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 27, Matadepera`
    },
 "cal-talant": {
