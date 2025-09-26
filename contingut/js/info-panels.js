@@ -774,7 +774,7 @@ Ca l'Abuela`,
     title:`Cal Rei`,
     altres:``,
     historia:`Aquesta casa, situada al capdamunt del carrer de Sant Isidre, inicialment feia cantonada directa amb el carrer de Sant Llorenç. Amb el temps, una part de l’immoble es va enderrocar per eixamplar l’accés al carrer Sant Isidre i aquell espai es convertí en una petita placeta amb una font i un banc. Popularment és coneguda com “la plaça de la Fanta” perquè, en la seva inauguració el 27 d’agost de 1972, la companyia d’aigües no havia autoritzat encara el subministrament i, per poder celebrar l’acte, els organitzadors de la Festa Major hi van fer rajar aquest refresc`,
-    origen:``,
+    origen:`En Joan Riera, molt bon caçador, era conegut com el Rei de l’escopeta i d’aquí prové el renom de la casa.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 1, Matadepera`
    },
 "ca-la-bona-maria": {
