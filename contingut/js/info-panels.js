@@ -880,8 +880,8 @@ Cal Guerresenyo`,
    },
 "cal-natzaret": {
     title:`Cal Natzaret`,
-    altres:`Cal Quim Bardisa`,
-    historia:`Aquesta casa, coneguda originalment com a <em>Cal Quim Bardisa</em>, en va canviar l’estadant,  va passar a ser coneguda com <em>Cal Natzaret</em>.
+    altres:`Cal Quim Bardissa`,
+    historia:`Aquesta casa, coneguda originalment com a <em>Cal Quim Bardissa</em>, en va canviar l’estadant,  va passar a ser coneguda com <em>Cal Natzaret</em>.
 Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina era tiet de l’Emili Gorina Puig, “El Motxo”.`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Isidre, 25, Matadepera`
