@@ -283,8 +283,13 @@ Durant la guerra, per la pèrdua del fill, van tancar la botiga i se’n van ana
 "cal-pere-bolet": {
     title:`Cal Pere Bolet`,
     altres:``,
-    historia:``,
-    origen:``,
+    historia:`A mitjans del segle XIX, Domènec Pi de la Serra, pagès de Rubí i hereu de les terres de Can Vinyers, s’adonà que amb les seves propietats podia fer el mateix que havia fet en Gorina al sector nord del carrer Sant Joan, però amb una mentalitat ja més especulativa que no pas per necessitat.<br>
+Va dissenyar un pla urbanístic amb parcel·les de 225 pams de llarg (uns 43,75 m), a tocar del camí ral de Barcelona a Manresa, des de les terres de Can Gorina, separades per la travessia oberta (l’actual carretera de Terrassa) fins al camí de Can Vinyers (avui carrer de Montserrat).<br>
+<strong>L’any 1834</strong>, Pi de la Serra establí la segona parcel·la des de la banda nord a favor de <strong>Francesc Casanovas</strong>, traginer i fill de Matadepera, casat amb Teresa Rius.<br>
+El seu fill, Josep Casanovas i Rius, també visqué a la casa, casat amb Maria Argemí i Busqueta. La seva filla, Catalina Casanovas Rius, es casà amb Ramon Gutés i Sola. D’aquest matrimoni en descendí la família Gutés-Orriols, que s’establí definitivament a la casa.<br>
+<strong>Joan Gutés Arnau</strong>, conegut com <em>el Bolet</em>, es casà amb Francesca Orriols Elies. Els seus fills, Jaume i Pere, van ser molt coneguts al poble per la fruiteria Gutés, que ja havia començat a gestionar el seu pare als anys quaranta. <strong>Pere Gutés (1929-2021)</strong>, era un personatge entranyable i peculiar, també molt conegut per ser durant anys “el mestre campaner”.`,
+    origen:`Segons explicava la família, el sobrenom prové de <strong>Joan Gutés Arnau (1891-1974)</strong>, que era un gran boletaire i per aquest motiu fou conegut com el Bolet.<br>
+El renom va arrelar a la casa i, amb el temps, fou a través del seu fill Pere, personatge molt popular i de caràcter peculiar, que quedà definitivament identificada com <em>Cal Pere Bolet</em>.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 47, Matadepera`
    },
 "cal-caga-cristos": {
