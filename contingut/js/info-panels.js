@@ -335,7 +335,7 @@ Actualment és un edifici de pisos i locals comercials.`,
 "ca-la-sibina": {
     title:`Ca la Sibina`,
     altres:``,
-    historia:`Una de de les primeres cases del nucli urbà de Matadepera.<br>
+    historia:`De les primeres cases del nucli urbà de Matadepera.<br>
 El 1772, Josep Argemí Puigdomench, natural de Gallifa, esdevé un dels primers pobladors de la Matadepera urbana. Compra a Narcís Gorina, propietari de les terres de Can Gorina, una parcel·la de 40 pams d’amplada per 27 canes de llargada al carrer nou de Matadepera (avui carrer Sant Joan), on construeix la seva casa: l’actual <em>Cal Gallifa</em> (núm. 48).<br>
 Aquell mateix any adquireix també el terreny just al costat nord, de 27 pams més, i més tard el seu germà Pantaló Argemí compra una altra franja similar, la que correspondria a aquesta casa, l’actual <em>Ca la Sibina</em>.<br>
 D’aquesta línia familiar en deriven diverses branques conegudes del poble. Però és la besneta de Josep, Sabina Argemí Pratginestós, casada amb Joan Ventayol Pi, qui establerta en aquesta casa, donarà origen al renom <em>Ca la Sibina</em>, fruit de la deformació popular del seu nom.
@@ -375,9 +375,9 @@ Passada la guerra, la sala de ball va ser convertida en el cinema Recreo (actual
 "ca-les-virginies": {
     title:`Ca les Virginies`,
     altres:`Cal Noi-Noi`,
-    historia:`La casa era coneguda com <em>Ca les Virginies</em>, perquè hi vivien dues germanes que la gent anomenava així.
+    historia:``,
+    origen:`La casa era coneguda com <em>Ca les Virginies</em>, perquè hi vivien dues germanes que la gent anomenava així.
 Una d’elles estava casada amb qui era conegut pel sobrenom de el <em>Noi-Noi</em>, i per això també en deien <em>Cal Noi-Noi</em>.`,
-    origen:``,
     adreca:`Adreça actual: Carrer de Sant Joan, 56, Matadepera`
    },
 "ca-la-feliua": {
@@ -598,11 +598,10 @@ Abans de viure a aquesta casa, la família havia estat masovera de Can Roure, d�
     title:`Cal Xisco`,
     altres:`Ca La Cecília`,
     historia:`També conegut com <em>Ca La Cecília</em>, Al padró de 1911, la casa —que aleshores constava amb el número 129— acollia un dels fills d’en Francisco, Salvador Puig Mas, casat amb Matilde Sellarès Gutés, i els seus fills: Dolors, Maria, Cecília, Vicenç i Melcior Puig Sellarès. La Cecília seria qui donaria el nou sobrenom a la casa de <em>Ca la Cecilia</em>.`,
-    origen:`Casa d'en Francesc Puig Sala, de "Francisco" probablement vingui el renom zem>Xisco</em>. 
-<em>Ca La Cecília</em> pel nom de la seva filla`,
+    origen:`Casa d'en Francesc Puig Sala. De "Francisco" probablement vingui el renom <em>Xisco</em>. 
+<em>Ca La Cecília</em> pel nom de la seva filla.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 103, Matadepera`
    },
-
 
 // Carrer de Sant Llorenç
 "cal-granota": {
@@ -1034,7 +1033,7 @@ Quan passaven pel burot <sup>1</sup>, en Pere Puig Font va començar a tossir, e
     document.getElementById("info-title").innerHTML = data.title;
 
     let html = "";
-    if (data.altres) html += `<div class="info-label">Altres RENOMS</div><div class="info-text-altres">${data.altres}</div>`;
+    if (data.altres) html += `<div class="info-label">ALTRES RENOMS</div><div class="info-text-altres">${data.altres}</div>`;
     if (data.historia) html += `<div class="info-label">HISTÒRIA</div><div class="info-text">${data.historia}</div>`;
     if (data.origen) html += `<div class="info-label">ORIGEN DEL RENOM</div><div class="info-text">${data.origen}</div>`;
     if (data.adreca) html += `<div class="info-address">${data.adreca}</div>`;
