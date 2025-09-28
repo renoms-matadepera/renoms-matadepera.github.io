@@ -603,6 +603,169 @@ Abans de viure a aquesta casa, la família havia estat masovera de Can Roure, d�
     adreca:`Adreça actual: Carrer de Sant Joan, 103, Matadepera`
    },
 
+
+// Carrer de Sant Isidre
+"cal-rei": {
+    title:`Cal Rei`,
+    altres:``,
+    historia:`Aquesta casa, situada al capdamunt del carrer de Sant Isidre, inicialment feia cantonada directa amb el carrer de Sant Llorenç. Amb el temps, una part de l’immoble es va enderrocar per eixamplar l’accés al carrer Sant Isidre i aquell espai es convertí en una petita placeta amb una font i un banc. Popularment és coneguda com “la plaça de la Fanta” perquè, en la seva inauguració el 27 d’agost de 1972, la companyia d’aigües no havia autoritzat encara el subministrament i, per poder celebrar l’acte, els organitzadors de la Festa Major hi van fer rajar aquest refresc`,
+    origen:`En Joan Riera, molt bon caçador, era conegut com el Rei de l’escopeta i d’aquí prové el renom de la casa.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 1, Matadepera`
+   },
+"ca-la-bona-maria": {
+    title:`Ca la Bona Maria`,
+    altres:``,
+    historia:`El celler d’aquesta casa feia de vestidor improvisat per als partits que es jugaven al camp de futbol dels camps de Cal Torradamer (més o menys on actualment hi ha l’escola). Els jugadors visitants es canviaven a <em>Cal Fusteret</em>. Era habitual que les noies del poble hi anessin a festejar amb els jugadors contraris.`,
+    origen:`Segons explica Maria Pi Gutés, dona centenària i originària de la casa, el renom prové de la seva besàvia, Maria Puiggròs Morera. En una època en què molts homes treballaven al bosc tot el dia, les dones els portaven el dinar i sovint deixaven els fills petits al poble.<br>
+L’àvia Maria s’oferia voluntàriament a tenir cura de tota la canalla dels matrimonis del veïnat. La seva dedicació desinteressada era molt valorada, i la gent agraïda solia dir:<br>
+“Sort en tenim, que bona és la Maria.”<br>
+D’aquí en va quedar el renom de <em>Ca la Bona Maria</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 4, Matadepera`
+   },
+"cal-fin": {
+    title:`Cal Fin`,
+    altres:``,
+    historia:``,
+    origen:`Deformació i contracció final del nom Delfí, en referència a Delfí Busqueta, avi de Delfí Busqueta Vicente.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 5, Matadepera`
+   },
+"cal-joan-sord": {
+    title:`Cal Joan Sord`,
+    altres:``,
+    historia:``,
+    origen:`El renom prové d’en Joan Utset Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 6A, Matadepera`
+   },
+"cal-fusteret": {
+    title:`Cal Fusteret`,
+    altres:`Ca la Dolores<br>
+Cal Xispa`,
+    historia:``,
+    origen:`En Ramon Codina era fuster i treballava a la cantonada del carrer Sant Isidre amb l’actual carrer Josep Porcar, on ara hi ha un edifici de pisos.<br>
+La seva esposa es deia Dolores, i el seu fill era conegut amb el malnom de "el Xispa"`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 6B, Matadepera`
+   },
+"ca-larturo-de-badalona": {
+    title:`Ca l'Arturo de Badalona`,
+    altres:``,
+    historia:`La casa va ser construïda per Artur Serra i Forn, de Badalona, casat amb Maria Casedemunt i Pi. La van fer per passar-hi els estius amb els seus fills i néts. Amb el temps, es va convertir en la llar de la seva néta, Maria Cardona, i del seu marit Joan Soley Pons, que s’hi van instal·lar el 1958 en tornar de Mèxic. A partir d’aleshores, la casa esdevingué la residència definitiva de la família Soley.`,
+    origen:`Tot i que el senyor Arturo de Badalona no hi vivia de manera permanent, el seu vincle amb la casa fou prou significatiu perquè quedés associada al seu nom i lloc d’origen, donant peu al renom <em>Ca l'Arturo de Badalona</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 10, Matadepera`
+   },
+"cal-mando": {
+    title:`Cal Mando`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 11, Matadepera`
+   },
+"cal-cot": {
+    title:`Cal Cot`,
+    altres:`Ca la Naspa`,
+    historia:`Els de <em>Cal Cot</em> eren els propietaris que estiuejaven al pis de dalt i tenien llogat els baixos als de <em>Ca la Naspa</em>`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 12, Matadepera`
+   },
+"ca-la-lola-rossa": {
+    title:`Ca la Lola Rossa`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 13, Matadepera`
+   },
+"cal-peret-ros": {
+    title:`Cal Peret Ros`,
+    altres:`Cal Mero`,
+    historia:`Al padró de 1911 hi consta que en aquesta casa hi vivien Pere Bruach Cases, nascut a Sant Llorenç Savall, casat amb Angeleta Valls Cuixart, i els seus sis fills: Antònia, Maria, Agustí, Eulògia i Baldomero.<br>
+Segons el testimoni de Pere Bruach Utzet, net d’en Pere Bruach Cases i fill d’Agustí Bruach Valls i Lluïsa Utset Genescà, les cases del costat —<em>Cal Cot</em> (<em>Ca la Naspa</em>) i <em>Cal Arturo de Badalona</em> (<em>Cal Soley</em>)— havien estat anteriorment l’hort de <em>Cal Peret Ros</em>.`,
+    origen:`El més probable és que el renom provingui del mateix Pere Bruach Cases, que devia ser ros de cabells. <br>
+El malnom <em> Mero</em>, en canvi, hauria estat associat al seu fill Baldomero Bruach Valls, abreujant el seu nom de pila.<br> 
+Tanmateix, ambdues versions resten pendents de confirmació definitiva.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 14, Matadepera`
+   },
+"cal-tanta": {
+    title:`Cal Tanta`,
+    altres:``,
+    historia:``,
+    origen:`El pare de Josep Porcar Fabres, conegut com “Tanta”, era una persona molt popular i estimada al poble. Es deia Constantí, però en un entorn col·loquial rural, la gent solia pronunciar aquest nom com “Constanta”, i d’aquí en va derivar el renom final de <em>Tanta</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 15, Matadepera`
+   },
+"cal-sidro-pobre": {
+    title:`Cal Sidro Pobre`,
+    altres:`Ca la Mundeta<br>
+Cal Martí del Tango<br>
+Cal Guerresenyo`,
+    historia:``,
+    origen:`També conegut com Ca la Mundeta, perquè era el nom de l'àvia de la família Riera`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 17, Matadepera`
+   },
+"cal-sereno": {
+    title:`Cal Sereno`,
+    altres:``,
+    historia:`El 19 de abril de 1958, en Pi de la Serra, estableix al carrer Sant Isidre, a la banda esquerra, mirant des de la plaça, dins dels seus terrenys que pertanyien a Can Vinyes, 40 pams de façana i 192 pams de llargària, on avui encara s’alça la casa de <em>Ca l’Arnau</em> a en Josep Arnau i Mundet, Pagès de Granera, que va arribar ser l’agutzil i sereno del poble, de manera que tothom l’anomenava “El Sereno”`,
+    origen:`Per la professió de sereno del seu primer propietari, Josep Arnau i Mundet`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 22, Matadepera`
+   },
+"cal-pauet": {
+    title:`Cal Pauet`,
+    altres:`Cal la Pietat`,
+    historia:``,
+    origen:`<em>Pauet</em>: Del diminutiu del nom Pau Solé`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 23, Matadepera`
+   },
+"cal-natzaret": {
+    title:`Cal Natzaret`,
+    altres:`Cal Quim Bardissa`,
+    historia:`Aquesta casa, coneguda originalment com a <em>Cal Quim Bardissa</em>, en va canviar l’estadant,  va passar a ser coneguda com <em>Cal Natzaret</em>.
+Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina era tiet de l’Emili Gorina Puig, “El Motxo”.`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 25, Matadepera`
+   },
+"cal-blanco": {
+    title:`Cal Blanco`,
+    altres:``,
+    historia:`<strong>Isidre Pi Riera</strong> era un home de cabells molt blancs. Es dedicava a treure sorra de la riera, garbellar-la i classificar-la per vendre-la al sector de la construcció. Era el principal subministrador d’aquest tipus de sorra, conegut com “palluc”, als paletes de Matadepera.`,
+    origen:`El renom prové del color de cabells d’Isidre Pi Riera, que eren completament blancs. El mot "Blanco" és un castellanisme de blanc, pronunciat a la manera catalana. Aquesta forma hibridada era força comuna en temps passats, quan el contacte amb el castellà influïa sovint el parlar popular.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 27, Matadepera`
+   },
+"cal-talant": {
+    title:`Cal Talant`,
+    altres:``,
+    historia:``,
+    origen:`En Joan Gutés de cal Monet festejava l'Angeleta de cal Rei. Sortí un altre pretendent i, en fer-li observar els amics que li perillava la promesa perquè el pretendent tenia molt talent, respongué que ell tenia més talent (presència o decisió) i així nasqué el motiu de "Talant".`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 29, Matadepera`
+   },
+"ca-loliva": {
+    title:`Ca l'Oliva`,
+    altres:``,
+    historia:`Tenien oliveres a la font de l'Oliva a Can Candi`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 31, Matadepera`
+   },
+"ca-la-marcelina": {
+    title:`Ca la Marcelina`,
+    altres:``,
+    historia:`Era una de les últimes cases del carrer de Sant Isidre, pràcticament a tocar de la plaça de Cal Baldiró. Actualment, al seu lloc hi ha pisos que ocupen diversos dels antics casals.<br>
+Hi va viure i morir <strong>Marcelina Genescà Arch (1871-1943)</strong>, casada amb Ramon Arnau Pi (1862-1905). El matrimoni tingué dos fills: Joan i Josep. El fill gran, Joan, morí el 1920 amb només 17 anys.<br>
+El fill petit, Josep Arnau Genescà (1900-?), es casà amb Filomèna Cortès Boada (1905-1989), de <em>Cal Carreter</em>. Van tenir tres fills: Maria, Joan i Ramon.<br>
+Josep Arnau Genescà fou alcalde de Matadepera entre 1931 i 1933. Posteriorment, marxà a Caracas (Veneçuela) amb Teresa Duat, esposa del seu millor amic i cosí Marc Genescà Cortés de <em>Cal Marc</em>. Davant aquesta situació, Filomèna Cortès es traslladà a viure a la seva casa natal, <em>Cal Carreter</em> (carrer de Sant Joan, actual núm. 25), amb els seus tres fills.<br>
+Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als 72 anys.`,
+    origen:`El renom prové de <strong>Marcelina Genescà Arch</strong>, que en quedar vídua el 1905, als 34 anys, continuà vivint a la casa fins a la seva mort. Va ser vídua durant 38 anys, fet que explica que el nom de la casa quedés associat a ella.`,
+    adreca:`Adreça antiga: Carrer de Sant Isidre, 33, Matadepera`
+   },
+"cal-baldiró": {
+    title:`Cal Baldiró`,
+    altres:`Cal Tut`,
+    historia:`Antoni Genescà i Riera, pagès nascut a Mura el 1802, vivia a Sant Pere de Terrassa. Es va casar el 3 d’agost de 1830 amb Maria Ventayol i Pineda, de Vacarisses. Maria va morir als 30 anys de verola, poc després de tenir el segon fill. Antoni es tornà a casar amb Maria Padrós i Puigdoure, de Can Farrés de Baix, Matadepera.<br>
+El 13 d’abril de 1853, els Pratginestós li van establir una peça de terra al carrer de Sant Isidre, 33, davant la bassa que abastia els primers carrers del poble. A mitjans del segle XIX, aquesta bassa es va tapar, i més tard l’espai es convertiria en l’actual plaça de <em>Cal Baldiró</em>.<br>
+En aquest indret, Antoni i el seu fill gran Francesc van fundar <em>Cal Baldiró</em>, una fonda que esdevingué un punt neuràlgic de Matadepera, amb teatres, cafès i dues sales de ball.<br>
+Més endavant, la família Genescà va cedir una franja de la seva terra per obrir un carrer, inicialment anomenat d’Antoni Genescà i actualment Pratginestós.<br>
+Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquirit per la família San Nicolàs. Avui dia és un habitatge amb locals comercials.`,
+    origen:`D'origen desconegut, però potser inspirat amb un famós Hotel-Restaurant, de la zona alta de Barcelona, famós per els seus arrossos, que era homònim de la <em>Masia de Cal Baldiró</em>, propietat del Güell i que el devia el seu sobrenom al masover que es deia Baldiri.`,
+    adreca:`Adreça actual: Plaça del Cal Baldiró, 2, Matadepera`
+   },
+
+   
 // Carrer de Sant Llorenç
 "cal-granota": {
     title:`Cal Granota`,
@@ -770,168 +933,6 @@ Ca l'Abuela`,
     historia:``,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 89, Matadepera`
-   },
-
-
-// Carrer de Sant Isidre
-"cal-rei": {
-    title:`Cal Rei`,
-    altres:``,
-    historia:`Aquesta casa, situada al capdamunt del carrer de Sant Isidre, inicialment feia cantonada directa amb el carrer de Sant Llorenç. Amb el temps, una part de l’immoble es va enderrocar per eixamplar l’accés al carrer Sant Isidre i aquell espai es convertí en una petita placeta amb una font i un banc. Popularment és coneguda com “la plaça de la Fanta” perquè, en la seva inauguració el 27 d’agost de 1972, la companyia d’aigües no havia autoritzat encara el subministrament i, per poder celebrar l’acte, els organitzadors de la Festa Major hi van fer rajar aquest refresc`,
-    origen:`En Joan Riera, molt bon caçador, era conegut com el Rei de l’escopeta i d’aquí prové el renom de la casa.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 1, Matadepera`
-   },
-"ca-la-bona-maria": {
-    title:`Ca la Bona Maria`,
-    altres:``,
-    historia:`El celler d’aquesta casa feia de vestidor improvisat per als partits que es jugaven al camp de futbol dels camps de Cal Torradamer (més o menys on actualment hi ha l’escola). Els jugadors visitants es canviaven a <em>Cal Fusteret</em>. Era habitual que les noies del poble hi anessin a festejar amb els jugadors contraris.`,
-    origen:`Segons explica Maria Pi Gutés, dona centenària i originària de la casa, el renom prové de la seva besàvia, Maria Puiggròs Morera. En una època en què molts homes treballaven al bosc tot el dia, les dones els portaven el dinar i sovint deixaven els fills petits al poble.<br>
-L’àvia Maria s’oferia voluntàriament a tenir cura de tota la canalla dels matrimonis del veïnat. La seva dedicació desinteressada era molt valorada, i la gent agraïda solia dir:<br>
-“Sort en tenim, que bona és la Maria.”<br>
-D’aquí en va quedar el renom de <em>Ca la Bona Maria</em>.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 4, Matadepera`
-   },
-"cal-fin": {
-    title:`Cal Fin`,
-    altres:``,
-    historia:``,
-    origen:`Deformació i contracció final del nom Delfí, en referència a Delfí Busqueta, avi de Delfí Busqueta Vicente.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 5, Matadepera`
-   },
-"cal-joan-sord": {
-    title:`Cal Joan Sord`,
-    altres:``,
-    historia:``,
-    origen:`El renom prové d’en Joan Utset Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 6A, Matadepera`
-   },
-"cal-fusteret": {
-    title:`Cal Fusteret`,
-    altres:`Ca la Dolores<br>
-Cal Xispa`,
-    historia:``,
-    origen:`En Ramon Codina era fuster i treballava a la cantonada del carrer Sant Isidre amb l’actual carrer Josep Porcar, on ara hi ha un edifici de pisos.<br>
-La seva esposa es deia Dolores, i el seu fill era conegut amb el malnom de "el Xispa"`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 6B, Matadepera`
-   },
-"ca-larturo-de-badalona": {
-    title:`Ca l'Arturo de Badalona`,
-    altres:``,
-    historia:`La casa va ser construïda per Artur Serra i Forn, de Badalona, casat amb Maria Casedemunt i Pi. La van fer per passar-hi els estius amb els seus fills i néts. Amb el temps, es va convertir en la llar de la seva néta, Maria Cardona, i del seu marit Joan Soley Pons, que s’hi van instal·lar el 1958 en tornar de Mèxic. A partir d’aleshores, la casa esdevingué la residència definitiva de la família Soley.`,
-    origen:`Tot i que el senyor Arturo de Badalona no hi vivia de manera permanent, el seu vincle amb la casa fou prou significatiu perquè quedés associada al seu nom i lloc d’origen, donant peu al renom <em>Ca l'Arturo de Badalona</em>.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 10, Matadepera`
-   },
-"cal-mando": {
-    title:`Cal Mando`,
-    altres:``,
-    historia:``,
-    origen:``,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 11, Matadepera`
-   },
-"cal-cot": {
-    title:`Cal Cot`,
-    altres:`Ca la Naspa`,
-    historia:`Els de <em>Cal Cot</em> eren els propietaris que estiuejaven al pis de dalt i tenien llogat els baixos als de <em>Ca la Naspa</em>`,
-    origen:``,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 12, Matadepera`
-   },
-"ca-la-lola-rossa": {
-    title:`Ca la Lola Rossa`,
-    altres:``,
-    historia:``,
-    origen:``,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 13, Matadepera`
-   },
-"cal-peret-ros": {
-    title:`Cal Peret Ros`,
-    altres:`Cal Mero`,
-    historia:`Al padró de 1911 hi consta que en aquesta casa hi vivien Pere Bruach Cases, nascut a Sant Llorenç Savall, casat amb Angeleta Valls Cuixart, i els seus sis fills: Antònia, Maria, Agustí, Eulògia i Baldomero.<br>
-Segons el testimoni de Pere Bruach Utzet, net d’en Pere Bruach Cases i fill d’Agustí Bruach Valls i Lluïsa Utset Genescà, les cases del costat —<em>Cal Cot</em> (<em>Ca la Naspa</em>) i <em>Cal Arturo de Badalona</em> (<em>Cal Soley</em>)— havien estat anteriorment l’hort de <em>Cal Peret Ros</em>.`,
-    origen:`El més probable és que el renom provingui del mateix Pere Bruach Cases, que devia ser ros de cabells. <br>
-El malnom <em> Mero</em>, en canvi, hauria estat associat al seu fill Baldomero Bruach Valls, abreujant el seu nom de pila.<br> 
-Tanmateix, ambdues versions resten pendents de confirmació definitiva.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 14, Matadepera`
-   },
-"cal-tanta": {
-    title:`Cal Tanta`,
-    altres:``,
-    historia:``,
-    origen:`El pare de Josep Porcar Fabres, conegut com “Tanta”, era una persona molt popular i estimada al poble. Es deia Constantí, però en un entorn col·loquial rural, la gent solia pronunciar aquest nom com “Constanta”, i d’aquí en va derivar el renom final de <em>Tanta</em>.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 15, Matadepera`
-   },
-"cal-sidro-pobre": {
-    title:`Cal Sidro Pobre`,
-    altres:`Ca la Mundeta<br>
-Cal Martí del Tango<br>
-Cal Guerresenyo`,
-    historia:``,
-    origen:`També conegut com Ca la Mundeta, perquè era el nom de l'àvia de la família Riera`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 17, Matadepera`
-   },
-"cal-sereno": {
-    title:`Cal Sereno`,
-    altres:``,
-    historia:`El 19 de abril de 1958, en Pi de la Serra, estableix al carrer Sant Isidre, a la banda esquerra, mirant des de la plaça, dins dels seus terrenys que pertanyien a Can Vinyes, 40 pams de façana i 192 pams de llargària, on avui encara s’alça la casa de <em>Ca l’Arnau</em> a en Josep Arnau i Mundet, Pagès de Granera, que va arribar ser l’agutzil i sereno del poble, de manera que tothom l’anomenava “El Sereno”`,
-    origen:`Per la professió de sereno del seu primer propietari, Josep Arnau i Mundet`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 22, Matadepera`
-   },
-"cal-pauet": {
-    title:`Cal Pauet`,
-    altres:`Cal la Pietat`,
-    historia:``,
-    origen:`<em>Pauet</em>: Del diminutiu del nom Pau Solé`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 23, Matadepera`
-   },
-"cal-natzaret": {
-    title:`Cal Natzaret`,
-    altres:`Cal Quim Bardissa`,
-    historia:`Aquesta casa, coneguda originalment com a <em>Cal Quim Bardissa</em>, en va canviar l’estadant,  va passar a ser coneguda com <em>Cal Natzaret</em>.
-Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina era tiet de l’Emili Gorina Puig, “El Motxo”.`,
-    origen:``,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 25, Matadepera`
-   },
-"cal-blanco": {
-    title:`Cal Blanco`,
-    altres:``,
-    historia:`<strong>Isidre Pi Riera</strong> era un home de cabells molt blancs. Es dedicava a treure sorra de la riera, garbellar-la i classificar-la per vendre-la al sector de la construcció. Era el principal subministrador d’aquest tipus de sorra, conegut com “palluc”, als paletes de Matadepera.`,
-    origen:`El renom prové del color de cabells d’Isidre Pi Riera, que eren completament blancs. El mot "Blanco" és un castellanisme de blanc, pronunciat a la manera catalana. Aquesta forma hibridada era força comuna en temps passats, quan el contacte amb el castellà influïa sovint el parlar popular.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 27, Matadepera`
-   },
-"cal-talant": {
-    title:`Cal Talant`,
-    altres:``,
-    historia:``,
-    origen:`En Joan Gutés de cal Monet festejava l'Angeleta de cal Rei. Sortí un altre pretendent i, en fer-li observar els amics que li perillava la promesa perquè el pretendent tenia molt talent, respongué que ell tenia més talent (presència o decisió) i així nasqué el motiu de "Talant".`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 29, Matadepera`
-   },
-"ca-loliva": {
-    title:`Ca l'Oliva`,
-    altres:``,
-    historia:`Tenien oliveres a la font de l'Oliva a Can Candi`,
-    origen:``,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 31, Matadepera`
-   },
-"ca-la-marcelina": {
-    title:`Ca la Marcelina`,
-    altres:``,
-    historia:`Era una de les últimes cases del carrer de Sant Isidre, pràcticament a tocar de la plaça de Cal Baldiró. Actualment, al seu lloc hi ha pisos que ocupen diversos dels antics casals.<br>
-Hi va viure i morir <strong>Marcelina Genescà Arch (1871-1943)</strong>, casada amb Ramon Arnau Pi (1862-1905). El matrimoni tingué dos fills: Joan i Josep. El fill gran, Joan, morí el 1920 amb només 17 anys.<br>
-El fill petit, Josep Arnau Genescà (1900-?), es casà amb Filomèna Cortès Boada (1905-1989), de <em>Cal Carreter</em>. Van tenir tres fills: Maria, Joan i Ramon.<br>
-Josep Arnau Genescà fou alcalde de Matadepera entre 1931 i 1933. Posteriorment, marxà a Caracas (Veneçuela) amb Teresa Duat, esposa del seu millor amic i cosí Marc Genescà Cortés de <em>Cal Marc</em>. Davant aquesta situació, Filomèna Cortès es traslladà a viure a la seva casa natal, <em>Cal Carreter</em> (carrer de Sant Joan, actual núm. 25), amb els seus tres fills.<br>
-Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als 72 anys.`,
-    origen:`El renom prové de <strong>Marcelina Genescà Arch</strong>, que en quedar vídua el 1905, als 34 anys, continuà vivint a la casa fins a la seva mort. Va ser vídua durant 38 anys, fet que explica que el nom de la casa quedés associat a ella.`,
-    adreca:`Adreça antiga: Carrer de Sant Isidre, 33, Matadepera`
-   },
-"cal-baldiró": {
-    title:`Cal Baldiró`,
-    altres:`Cal Tut`,
-    historia:`Antoni Genescà i Riera, pagès nascut a Mura el 1802, vivia a Sant Pere de Terrassa. Es va casar el 3 d’agost de 1830 amb Maria Ventayol i Pineda, de Vacarisses. Maria va morir als 30 anys de verola, poc després de tenir el segon fill. Antoni es tornà a casar amb Maria Padrós i Puigdoure, de Can Farrés de Baix, Matadepera.<br>
-El 13 d’abril de 1853, els Pratginestós li van establir una peça de terra al carrer de Sant Isidre, 33, davant la bassa que abastia els primers carrers del poble. A mitjans del segle XIX, aquesta bassa es va tapar, i més tard l’espai es convertiria en l’actual plaça de <em>Cal Baldiró</em>.<br>
-En aquest indret, Antoni i el seu fill gran Francesc van fundar <em>Cal Baldiró</em>, una fonda que esdevingué un punt neuràlgic de Matadepera, amb teatres, cafès i dues sales de ball.<br>
-Més endavant, la família Genescà va cedir una franja de la seva terra per obrir un carrer, inicialment anomenat d’Antoni Genescà i actualment Pratginestós.<br>
-Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquirit per la família San Nicolàs. Avui dia és un habitatge amb locals comercials.`,
-    origen:`D'origen desconegut, però potser inspirat amb un famós Hotel-Restaurant, de la zona alta de Barcelona, famós per els seus arrossos, que era homònim de la <em>Masia de Cal Baldiró</em>, propietat del Güell i que el devia el seu sobrenom al masover que es deia Baldiri.`,
-    adreca:`Adreça actual: Plaça del Cal Baldiró, 2, Matadepera`
    },
 
 
