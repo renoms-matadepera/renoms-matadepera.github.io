@@ -891,10 +891,16 @@ La casa es va repartir i dividir en dues vivendes:<br>
 "cal-croc-croc": {
     title:`Cal Croc-croc`,
     altres:`Cal Passaserres`,
-    historia:`L’avi Isidre Bosch era conegut com el “Croc”, però el lloc també era conegut com <em>Cal Passaserres</em>, pel pare de l’Angeleta, en Joan Bosch Casals, que caminava molt. Deien que en un sol dia era capaç de donar tres voltes a la muntanya de Sant Llorenç.`,
-    origen:`<em>Cal Croc-croc</em>: L'Isidre Bosch Puig, avi de l’Angelata Bosch, va anar un dia a caçar amb els seus quatre fills. Entre matolls i branques, van topar-se amb un esquirol ben espavilat que no hi havia manera d'encertar. Després d’uns quants intents fallits, l’Isidre, ja fart, li va cridar amb veu forta:<br>
-—Au, escapa’t tant com vulguis, però quan caiguis… ja faràs “Croc”!
-Altre caçador que el van sentir els hi va fer gracia i des d’aquell dia, li va quedar el sobrenom de <em>Croc</em>`,
+    historia:`<strong>Isidre Bosch Puig</strong>, conegut com el "<em>Croc</em>", havia nascut a <em>Can Poble</em>. Casat amb Clotilde Casals, van fer de masovers primer a <em>Can Garrigosa</em>, on van tenir cinc fills, i més tard, a principis del segle XX, a <em>Can Torres</em>, on residiren una vintena d’anys.<br>
+Un dels seus fills, <strong>Joan Bosch Casals</strong> (1906-1990), conegut també com "<em>el Joan de Can Torres</em>", es casà el 1931 amb Maria Borrell Sellarès (1906-1991), de Can Gorina. La parella s’instal·là en aquesta casa del carrer Sant Llorenç, on ja vivien els pares i el germà petit Ramon des de feia uns deu anys.<br>
+En Joan Bosch fou un home de bosc i de camp: treballava netejant boscos i tallant arbres per fer-ne bigues, i era tan bon coneixedor de l’entorn natural de l’actual Parc Natural de Sant Llorenç del Munt i l’Obac que organismes i institucions oficials requerien sovint la seva col·laboració per datar camins i termes i ajudar a elaborar mapes.<br>
+Al llarg de la seva vida es dedicà també al conreu arbres fruiters, especialment les pomeres i la vinya —que ell considerava només un entreteniment per a diumenges i dies festius—. A més de caçador, també era un expert boletaire, coneixent tots els secrets dels bolets i els millors indrets per trobar-los. Però sobretot <strong>va destacar com a apicultor</strong>: cuidava molts ruscos i elaborava mel que ell i la seva dona venien des de casa seva. Per aquest motiu, també era conegut popularment com el "<em>Joan de la mel</em>".`,
+    origen:`<strong><em>Cal Croc-croc</em></strong>: Aquest renom s’originà amb <strong>Isidre Bosch Puig</strong>, pare d’en Joan Bosch Casals. Segons la tradició oral, un dia que caçava amb els seus fills, topà amb un esquirol espavilat que no aconseguia encertar. Fart de la situació, Isidre exclamà:
+—«<em>Au, escapa’t tant com vulguis, però quan caiguis… ja faràs croc!</em>»
+Els altres caçadors que l’acompanyaven en feren broma i des d’aquell dia li quedà el sobrenom de “<em>el Croc</em>”.<br>
+Amb el temps, aquest sobrenom passà a la casa del carrer Sant Llorenç i s’hi arrelà amb la forma repetida <em>Croc-croc</em>.<br>
+<br>
+<strong><em>Cal Passaserres</em></strong>: El <strong>Joan Bosch Casals</strong> (1906-1990), entre molts altres sobrenoms, també era conegut com <em>el Passaserres</em>, perquè era un caminador infatigable. Bon coneixedor de tots els termes i de les muntanyes de l’entorn, es deia que era capaç de donar tres voltes a la muntanya de Sant Llorenç en un sol dia.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 73, Matadepera`
    },
 "cal-ximu": {
