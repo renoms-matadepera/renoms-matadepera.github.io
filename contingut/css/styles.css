@@ -34,7 +34,7 @@ a:hover {
     text-decoration: underline;
 }
 header {
-    background: #411305;
+    background: #461200;
     color: #fbf0de;
     text-align: center;
     padding-top: 1em;
@@ -107,7 +107,7 @@ header h1{
 }
 
 .menu a.active {
-  background-color: #411305;
+  background-color: #461200;
   font-weight: bold;
 }
 
@@ -201,7 +201,7 @@ table.taula-renoms td:nth-child(5) {
   text-decoration: none;
   font-weight: bold;
   font-size: 1;
-  color: #411305;
+  color: #461200;
 }
 .back-to-list:hover {
   color: #a32900;
@@ -248,7 +248,7 @@ table.taula-renoms td:nth-child(5) {
 .info-panel h3 {
   margin-top: 0;
   font-size: 1.2rem;
-  color: #411305;
+  color: #461200;
 }
 .info-panel .close-btn {
   background: none;
@@ -258,7 +258,7 @@ table.taula-renoms td:nth-child(5) {
   top: 10px;
   right: 15px;
   cursor: pointer;
-  color: #411305;
+  color: #461200;
 }
 .info-label {
   font-weight: bold;
@@ -272,7 +272,7 @@ table.taula-renoms td:nth-child(5) {
 }
 .info-text-altres {
   margin: 0.2em 0 1em;
-  color: #411305;
+  color: #461200;
   font-weight: bold;
 }
 .info-address {
