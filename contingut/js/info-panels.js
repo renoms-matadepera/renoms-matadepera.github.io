@@ -126,13 +126,18 @@ També era conegut pel malnom de <em>Crema Morros</em>.`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Joan, 25, Matadepera`
    },
-"cal-marco": {
+"cal-marcó": {
     title:`Cal Marcó`,
-    altres:`Ca la Castissa<br>
-Ca la Meta-meta<br>
-Cal Peta-peta`,
-    historia:`Abans que Marc Genescà Ventayol “Marcó” la comprés el 1950, la casa va tenir diversos renoms amb els seus anteriors propietaris.`,
-    origen:`El renom <em>Marco</em> ve per ell Marc Genescà, el més petit de Cal Baldiró. De la contracció del diminutiu "Marconet" va quedar "Marcó"`,
+    altres:`Cal Petapet`,
+    historia:`Aquesta casa fou propietat i la residència on va viure més anys <strong>Marc Genescà Ventayol (1907-1986)</strong>, conegut per tothom com “<strong><em>el Marcó</em></strong>”. Era el fill petit de <em>Cal Baldiró</em> casat amb Antònia Pociello Monsonet (1905-1998). <strong>S’hi establiren definitivament cap al 1950</strong>, on hi viurien amb la seva família i descendència. Encara avui, hi resideix una de les seves netes.<br>
+En Marco, de professió paleta constructor, va participar en la construcció de moltes de les torres de la nova i creixent Matadepera residencial. Persona amb molta empenta, sempre disposada a ajudar on calgués i ha qui ho necessités, fou molt popular i estimat per tothom al poble.<br>
+Abans que el “<em>Marcó</em>” hi visqués, diversos testimonis i veïns de l’època expliquen que la casa havia tingut diversos renoms associats als seus antics propietaris o llogaters, com <strong><em>Ca la Castissa, Cal Pitus, Ca la Meta-meta, Cal Pep-pep Cal Petapet</em></strong>...<br>
+Ens centrarem en <strong><em>Cal Petapet</em></strong>, del qual en tenim constància escrita. <strong>Josep Vives</strong>, que s’hi establí abans que la família Genescà-Pociello, es dedicava al transport de llenya, a l’agricultura i, si calia, també feia feines de peó. També era conegut com el<em> Pep-pep</em> i era home de confiança de Felip Elies, de <em>Cal Puetó</em> o <em>Cal Rejoler</em>, quan aquest tenia un forn d’obra i una bòbila.<br>
+Quan el “Marcó” va entrar a viure a la casa, la família Vives es traslladà a l’actual carrer Josep Porcar, 41, on muntaren una carnisseria i serien coneguts com <em>Cal Peta-peta</em>.`,
+    origen:`El renom “<strong><em>Marcó</em></strong>” prové de Marc Genescà, el més petit de Cal Baldiró. De la contracció del diminutiu “Marconet”, en quedà “Marcó”.<br>
+<br>
+Pel que fa al renom “<strong><em>Petapet</em></strong>”, era un dels molts pels quals es coneixia la família Vives, antics estadants de la casa abans de l’arribada d’en Marcó.
+`,
     adreca:`Adreça actual: Carrer de Sant Joan, 27, Matadepera`
    },
 "cal-soca": {
