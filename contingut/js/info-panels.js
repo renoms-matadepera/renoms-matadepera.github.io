@@ -856,8 +856,8 @@ Altres versions apunten que podria tractar-se d’una variant d'esgarriat, fent 
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 30, Matadepera`
    },
-"cal-puató": {
-    title:`Cal Puató`,
+"cal-puetó": {
+    title:`Cal Puetó`,
     altres:`Cal Rajoler`,
     historia:``,
     origen:`Més tard, també seria conegut com <em>Cal Rajoler</em>, per en Felip Elies Padilla, que era rajoler i es va casar amb la Maria de <em>Cal Puetó</em>, i va anar a viure allà.`,
