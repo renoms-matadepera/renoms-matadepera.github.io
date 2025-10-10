@@ -122,8 +122,13 @@ També era conegut pel malnom de <em>Crema Morros</em>.`,
 "cal-carreter": {
     title:`Cal Carreter`,
     altres:``,
-    historia:``,
-    origen:``,
+    historia:`Els qui som de la generació de mitjans del segle XX reconeixem els de <em>Cal Carreter</em> com la <strong>família Arnau Corbí</strong>, formada per Joan Arnau Cortès (1932-2013) i Montserrat Corbí (1930-1999), que vivien amb la <strong>família Cortès-Boada</strong>: Filomena Cortès i el seu germà Josep Cortès, “<em>el tiet Pepet</em>”, casat amb Montserrat Vinyes. Aquestes famílies descendien, per la branca Cortès, del primer <em>Quistó</em> (Joan Cortès i Codina), i per la branca Arnau, de <em>Ca la Marcelina</em>.<br>
+El padró de 1936 registra com a habitants d’aquesta casa Joan Cortès Clapés (n. 1870), casat amb Rosa Boades Torres (n. 1871), i el seu fill Josep, casat amb Montserrat Vinyes. L’altra filla, Filomena Cortès Boada, ja no hi vivia, ja que en casar-se amb Josep Arnau Genescà (n. 1900) es traslladà a casa d’ell, al carrer Sant Isidre, 33, <em>Ca la Marcelina</em>. El matrimoni tingué allà tres fills: Maria, Joan i Ramon.<br>
+Cap a mitjans de la dècada del 1930, Josep Arnau va abandonar la seva esposa Filomena per emigrar a Caracas (Veneçuela) amb Teresa Duat, esposa del seu millor amic i cosí Marc Genescà Cortès. Davant aquesta situació, Filomena i els seus tres fills van tornar a aquesta casa del carrer Sant Joan, la seva casa natal, on el seu fill Joan Arnau Cortès formà la família que la generació posterior continuaria coneixent com els de <em>Cal Carreter</em>.`,
+    origen:`Segons explicava la família Arnau Cortès i els seus descendents, el renom <em>Cal Carreter</em> prové de l’ofici de carreter d’una família que hi havia viscut abans dels Cortès.<br>
+El padró de 1892 ja hi registra la família Cortès-Clapés: Josep Cortès Riera (n. 1848), hereu del primer <em>Quistó</em>, casat amb Filomena Clapés (n. 1842), amb sis fills, entre ells Joan, l’hereu també, que seria qui continuaria la nissaga familiar a la casa.<br>
+Tanmateix, el primer <strong>establiment documentat data de 1843</strong>, quan Domènec Pi de la Serra atorgà el terreny, de 25 pams, a favor d’un tal Joan Riera.
+De moment, encara no hem pogut determinar si aquesta família Riera eren realment els carreters, o si entre ells i els Cortès hi hagué algun altre habitant dedicat a aquesta professió, que acabaria arrelant el renom <em>Cal Carreter</em> a la casa i a les famílies que hi visqueren posteriorment.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 25, Matadepera`
    },
 "cal-marcó": {
