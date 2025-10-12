@@ -486,8 +486,9 @@ Lluïsa Pratginestós, —coneguda com la "Lluïsa de <em>Cal Jep</em>"—, últ
 "cal-parot": {
     title:`Cal Parot`,
     altres:``,
-    historia:`Era la casa situada entre <em>Cal Picarrocs</em> i <em>Cal Genet</em>, que més endavant acabaria formant part també de <em>Cal Picarrocs</em>.
-Sembla que hi havia viscut un tal Josep Farrés.`,
+    historia:`Era la casa situada entre <em>Cal Picarrocs</em> i <em>Cal Genet</em>, que més endavant acabaria integrant-se dins la propietat de <em>Cal Picarrocs</em>.<br>
+Hi vivia <strong>Josep Farrés i Garriga</strong> (1907-1952), originari de Caldes de Montbui, casat amb Maria Lladó i Planas (1906-2009), de Matadepera. En Josep, de professió paleta, havia estat un temps estadant a la fonda de <em>Cal Baldiró</em> fins que, en casar-se, s’instal·là en aquesta casa. El matrimoni tingué tres fills: Paquita, Antònia i Joan.<br>
+Poc després de néixer la Paquita, la família es traslladà al carrer Narcís Monturiol, on encara hi té la seva casa la mateixa Paquita Farrés i Lladó, vídua de Joan Marimon i Datzira (1932-1979). En Joan va morir sobtadament als Cortins, un monòlit situat al vessant nord-oest del massís de Sant Llorenç del Munt, durant una excursió amb amics, tots ells amants de la muntanya.`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Joan, 75, Matadepera`
    },
