@@ -122,13 +122,13 @@ També era conegut pel malnom de <em>Crema Morros</em>.`,
 "cal-carreter": {
     title:`Cal Carreter`,
     altres:``,
-    historia:`Els qui som de la generació de mitjans del segle XX reconeixem els de <em>Cal Carreter</em> com la <strong>família Arnau Corbí</strong>, formada per Joan Arnau Cortès (1932-2013) i Montserrat Corbí (1930-1999), que vivien amb la <strong>família Cortès-Boada</strong>: Filomena Cortès i el seu germà Josep Cortès, “<em>el tiet Pepet</em>”, casat amb Montserrat Vinyes. Aquestes famílies descendien, per la branca Cortès, del primer <em>Quistó</em> (Joan Cortès i Codina), i per la branca Arnau, de <em>Ca la Marcelina</em>.<br>
-El padró de 1936 registra com a habitants d’aquesta casa Joan Cortès Clapés (n. 1870), casat amb Rosa Boades Torres (n. 1871), i el seu fill Josep, casat amb Montserrat Vinyes. L’altra filla, Filomena Cortès Boada, ja no hi vivia, ja que en casar-se amb Josep Arnau Genescà (n. 1900) es traslladà a casa d’ell, al carrer Sant Isidre, 33, <em>Ca la Marcelina</em>. El matrimoni tingué allà tres fills: Maria, Joan i Ramon.<br>
-Cap a mitjans de la dècada del 1930, Josep Arnau va abandonar la seva esposa Filomena per emigrar a Caracas (Veneçuela) amb Teresa Duat, esposa del seu millor amic i cosí Marc Genescà Cortès. Davant aquesta situació, Filomena i els seus tres fills van tornar a aquesta casa del carrer Sant Joan, la seva casa natal, on el seu fill Joan Arnau Cortès formà la família que la generació posterior continuaria coneixent com els de <em>Cal Carreter</em>.`,
-    origen:`Segons explicava la família Arnau Cortès i els seus descendents, el renom <em>Cal Carreter</em> prové de l’ofici de carreter d’una família que hi havia viscut abans dels Cortès.<br>
-El padró de 1892 ja hi registra la família Cortès-Clapés: Josep Cortès Riera (n. 1848), hereu del primer <em>Quistó</em>, casat amb Filomena Clapés (n. 1842), amb sis fills, entre ells Joan, l’hereu també, que seria qui continuaria la nissaga familiar a la casa.<br>
-Tanmateix, el primer <strong>establiment documentat data de 1843</strong>, quan Domènec Pi de la Serra atorgà el terreny, de 25 pams, a favor d’un tal Joan Riera.
-De moment, encara no hem pogut determinar si aquesta família Riera eren realment els carreters, o si entre ells i els Cortès hi hagué algun altre habitant dedicat a aquesta professió, que acabaria arrelant el renom <em>Cal Carreter</em> a la casa i a les famílies que hi visqueren posteriorment.`,
+    historia:`Els qui som de la generació de mitjans del segle XX reconeixem els de Cal Carreter com la família Arnau Corbí, formada per  <strong>Joan Arnau Cortès </strong> (1930-2018) i  <strong>Montserrat Corbí </strong> (1929-1999), que vivien amb la família Cortès-Boada: Filomena Cortès i el seu germà Josep Cortès, casat amb Montserrat Vinyes. Aquestes famílies descendien, per la branca Cortès, del primer Quistó (Joan Cortès i Codina), i per la branca Arnau, de <em>Ca la Marcelina</em>.
+El primer "<em>Quistó</em>" vivia a la casa que el 1904 fou venuda al bisbat per ampliar la parròquia, però ja molt abans trobem el seu primer fill i hereu,  <strong>Josep Cortès Riera </strong> (n. 1848), que havia marxat de casa. Segons el padró de  <strong>1892 </strong>, vivia casat amb  <strong>Filomena Clapés Urpina </strong> (n. 1842) i sis fills al carrer de Sant Joan, 9.<br>
+No sabem amb certesa si aquella casa corresponia a la de <em>Cal Carreter</em> o si hi residien de lloguer, ja que no és fins al  <strong>5 de maig de 1920 </strong> que el seu fill gran i hereu,  <strong>Joan Cortès Clapés </strong>, la compra a  <strong>Antònia Juliana Riera </strong>, filla d’Àngela Riera Torrella, molt probablement descendent de  <strong>Joan Riera </strong>, a qui Domènec Pi de la Serra havia establert per primer cop aquest terreny el  <strong>1843 </strong>.<br>
+El padró de 1936 registra com a habitants d’aquesta casa  <strong>Joan Cortès Clapés </strong> (n. 1870), casat amb  <strong>Rosa Boades Torres </strong> (1872-1958), i el seu fill Josep, casat amb Montserrat Vinyes. L’altra filla, Filomena Cortès Boada, ja no hi vivia, ja que en casar-se amb Josep Arnau Genescà es traslladà a casa d’ell, al carrer Sant Isidre, 33 (<em>Ca la Marcelina</em>). El matrimoni tingué allà tres fills: Maria, Joan i Ramon.<br>
+Cap al 1933, Josep Arnau va abandonar la seva esposa Filomena per emigrar a Caracas (Veneçuela) amb Teresa Duat, esposa del seu millor amic i cosí Marc Genescà Cortès. Davant aquesta situació, Filomena i els seus tres fills tornaren a aquesta casa del carrer Sant Joan —la seva casa natal—, provablement passada la guerra. El seu fill  <strong>Joan Arnau Cortès </strong> hi formà la família que la generació posterior continuaria coneixent com els de <em>Cal Carreter</em>.`,
+    origen:`Segons explicava en Juan Arnau Cortès i els seus descendents, <strong>el renom <em>Cal Carreter</em></strong> prové de l’ofici de carreter d’una família que hi havia viscut abans dels Cortès.<br>
+Tot i que no s’ha pogut determinar si la família Riera eren realment els carreters, o si entre ells i els Cortès hi hagué algun altre habitant (de lloguer) dedicat a aquesta professió, el fet és que el renom va quedar associat a la casa i a les famílies que hi visqueren posteriorment.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 25, Matadepera`
    },
 "cal-marcó": {
@@ -137,7 +137,7 @@ De moment, encara no hem pogut determinar si aquesta família Riera eren realmen
     historia:`Aquesta casa fou propietat i la residència on va viure més anys <strong>Marc Genescà Ventayol (1907-1986)</strong>, conegut per tothom com “<strong><em>el Marcó</em></strong>”. Era el fill petit de <em>Cal Baldiró</em> casat amb Antònia Pociello Monsonet (1905-1998). <strong>S’hi establiren definitivament cap al 1950</strong>, on hi viurien amb la seva família i descendència. Encara avui, hi resideix una de les seves netes.<br>
 En Marco, de professió paleta constructor, va participar en la construcció de moltes de les torres de la nova i creixent Matadepera residencial. Persona amb molta empenta, sempre disposada a ajudar on calgués i ha qui ho necessités, fou molt popular i estimat per tothom al poble.<br>
 Abans que el “<em>Marcó</em>” hi visqués, diversos testimonis i veïns de l’època expliquen que la casa havia tingut diversos renoms associats als seus antics propietaris o llogaters, com <strong><em>Ca la Castissa, Cal Pitus, Ca la Meta-meta, Cal Pep-pep Cal Petapet</em></strong>...<br>
-Ens centrarem en <strong><em>Cal Petapet</em></strong>, del qual en tenim constància escrita. <strong>Josep Vives</strong>, que s’hi establí abans que la família Genescà-Pociello, es dedicava al transport de llenya, a l’agricultura i, si calia, també feia feines de peó. També era conegut com el<em> Pep-pep</em> i era home de confiança de Felip Elies, de <em>Cal Puetó</em> o <em>Cal Rejoler</em>, quan aquest tenia un forn d’obra i una bòbila.<br>
+Ens centrarem en <strong><em>Cal Petapet</em></strong>, del qual en tenim constància escrita. <strong>Josep Vives</strong>, que s’hi establí abans que la família Genescà-Pociello, es dedicava al transport de llenya, a l’agricultura i, si calia, també feia feines de peó. També era conegut com el<em> Pep-pep</em> i era home de confiança de Felip Elies de <em>Cal Rejoler</em>, quan aquest tenia un forn d’obra i una bòbila.<br>
 Quan el “Marcó” va entrar a viure a la casa, la família Vives es traslladà a l’actual carrer Josep Porcar, 41, on muntaren una carnisseria i serien coneguts com <em>Cal Peta-peta</em>.`,
     origen:`El renom “<strong><em>Marcó</em></strong>” prové de Marc Genescà, el més petit de Cal Baldiró. De la contracció del diminutiu “Marconet”, en quedà “Marcó”.<br>
 <br>
@@ -867,11 +867,11 @@ Altres versions apunten que podria tractar-se d’una variant d'esgarriat, fent 
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 30, Matadepera`
    },
-"cal-puetó": {
-    title:`Cal Puetó`,
+"cal-poetó": {
+    title:`Cal Poetó`,
     altres:`Cal Rajoler`,
     historia:``,
-    origen:`Més tard, també seria conegut com <em>Cal Rajoler</em>, per en Felip Elies Padilla, que era rajoler i es va casar amb la Maria de <em>Cal Puetó</em>, i va anar a viure allà.`,
+    origen:`Més tard, també seria conegut com <em>Cal Rajoler</em>, per en Felip Elies Padilla, que era rajoler i es va casar amb la Maria de <em>Cal Poetó</em>, i va anar a viure allà.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 31, Matadepera`
    },
 "cal-fuster-crispin": {
