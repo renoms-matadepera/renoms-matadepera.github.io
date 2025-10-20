@@ -510,9 +510,14 @@ Avui dia, a l’edifici encara hi funciona un petit supermercat. A la façana, h
 "cal-julià": {
     title:`Cal Julià`,
     altres:`Cal Paifarre`,
-    historia:`Forn fundat per Julià Pi Pi. <br>
-El Julia, tambe era conegut per "El Paifarre", perquè quan anava a escola i li preguntaven, que has menjat per esmorzat, contestava "Paifarre" referint-se al pa amb botifarra.`,
-    origen:`Pel nom Julià Pi Pi`,
+    historia:`Tota una generació recorda <strong><em>Cal Julià</em></strong> per les seves coques, ensaïmades i croissants, per les entranyables <strong>Maria Sellarès i Teresa Altimira</strong> darrere el taulell, i per les llargues cues de gent, fins i tot de fora de Matadepera, que els diumenges al matí esperaven el seu torn per comprar pa.<br>
+Però el nom de Cal Julià ve de molt més lluny. Francesc Gorina i Riera ja esmenta al seu dietari de finals del segle XIX (transcrit per Joan Comasòlivas) el “Magí de Cal Julià”, i les següents dades fan pensar que es tracta del mateix lloc:  Aquest Magí era <strong>Magí Pi Torras</strong> (1834–1896), fill de <strong>Julià Pi Singla</strong> (n. 1795) i avi de <strong>Julià Pi i Pi</strong> (1896–1972).<br>
+Al padró de 1911, hi trobem <strong>Joan Pi Ribera</strong> (1861–1948), <strong>de professió forner</strong>, casat amb Concepció Pi Aymerich (1872–1933). El matrimoni tingué quatre fills: Magí (1892), Teresa (1894), Julià (1896) i Josep (1904), tots empadronats al carrer Sant Joan, 89 (act.79).<br>
+D’entre ells, <strong>Julià Pi i Pi</strong> (1896–1972), <strong>casat amb Maria Sellarès Vives</strong> (n. 1906), continuaren amb el negoci familiar del forn, que es mantingué obert durant dècades i fou conegut popularment com <em>Cal Julià</em>.<br>
+Actualment, aquest lloc és una botiga-taller de bicicletes.`,
+    origen:`Per a la generació més recent, el nom <em>Cal Julià</em> s’associa al forn, però l’origen es remunta molt més enrere: tot indica que prové de <strong>Julià Pi Singla</strong> (n. 1795), probablement el primer “Julià” de la nissaga.<br>
+<br>
+Segons recorda la gent més gran, <strong>Julià Pi i Pi</strong> també era conegut amb el malnom de <em>Paifarre</em>. Quan era petit i li preguntaven a l’escola què havia esmorzat, ell responia amb ingenuïtat: “Pa i farra” —referint-se al pa amb botifarra—, i d’aquí li quedà el sobrenom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 79, Matadepera`
    },
 "cal-nasi": {
