@@ -968,10 +968,10 @@ Ca l'Abuela`,
 "cal-siset": {
     title:`Cal Siset`,
     altres:``,
-    historia:`Narcís Riba Arnau, conegut com en "Siset", era fill de Joan Riba i net de Narcís Riba, tots ells ferrers originaris de Sant Llorenç Savall. L’avi Narcís va ser qui es va encarregar de trempar les barres de perforació per als treballadors que construïen la carretera de Navarcles, un fet que va afavorir que la família s’establís definitivament a Matadepera.<br>
-La ferreria es trobava al carrer Sant Joan, al costat del pou, on actualment hi ha la porta de ferro que dona al menjador dels <em>Tastets del Saint Honoré</em>. Més endavant, l’activitat va passar a mans d’en Nasplè, que n’havia estat treballador.<br>
-Narcís Riba Arnau, Siset, va ser alcalde de Matadepera entre els anys 1965 i 1970.`,
-    origen:`El renom prové del diminutiu del nom Narcís, “Narciset”, del qual en deriva la forma reduïda i modificada “Siset”.`,
+    historia:`En aquesta casa residia <strong>Narcís Riba Arnau, <em>Siset</em></strong>, que fou alcalde de Matadepera entre els anys 1965 i 1970, sota el mandat del qual es va construir l’actual Ajuntament.<br>
+Narcís Riba Arnau era fill de Joan Riba i net de Narcís Riba, tots dos ferrers originaris de Sant Llorenç Savall. L’avi Narcís fou qui es va encarregar de trempar les barres de perforació per als treballadors que construïen la carretera de Talamanca a finals del segle XIX, un fet que va afavorir que la família s’establís definitivament a Matadepera.<br>
+La ferreria dels Riba es trobava al carrer Sant Joan, al costat del pou, on actualment hi ha la porta de ferro que dona al menjador dels Tastets del Saint Honoré. Més endavant, l’activitat va passar a mans d’en Nasplé, que n’havia estat treballador.`,
+    origen:`El renom prové del diminutiu del nom Narcís, «Narciset», del qual en deriva la forma reduïda i modificada <strong><em>Siset</em></strong>.`,
     adreca:`Adreça actual: Carretera de Terrassa, 11, Matadepera`
    },
 "cal-jepet": {
@@ -1016,8 +1016,9 @@ Quan passaven pel burot <sup>1</sup>, en Pere Puig Font va començar a tossir, e
 "ca-langelet": {
     title:`Ca l'Angelet`,
     altres:``,
-    historia:`Net de Narcis  Riba i fill de Joan Riba, els primers ferrers del poble, Àngel Riba Arnau s’instal·là al carrer Balmes, on inicialment es dedicava al subministrament de carbons minerals i vegetals, abans de dedicar-se als asfalts.`,
-    origen:`El renom prové del diminutiu del nom Àngel`,
+    historia:`<strong>Àngel Riba Arnau</strong> (1906–2001), conegut com <strong><em> l’Angelet</em></strong>, casat amb Àngela Satlari Cardellach (1909–1959), s’instal·là en aquesta casa del carrer Balmes, on inicialment es dedicà al subministrament de carbons minerals i vegetals abans de passar al negoci dels asfalts.<br>
+Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, originaris de Sant Llorenç Savall, que s’establiren a Matadepera cap a finals del segle XIX. Inicialment hi van venir per donar servei a les obres de construcció de la carretera de Talamanca, i després ja s’hi quedaren definitivament.`,
+    origen:`El renom prové del diminutiu del nom de pila d’Àngel Riba, conegut familiarment i per tot el poble com <strong><em> l’Angelet</em></strong>.`,
     adreca:`Adreça actual: Carrer de Balmes, 8, Matadepera`
    },
 
