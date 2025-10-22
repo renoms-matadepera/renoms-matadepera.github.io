@@ -968,8 +968,8 @@ Ca l'Abuela`,
 "cal-siset": {
     title:`Cal Siset`,
     altres:``,
-    historia:`En aquesta casa residia <strong>Narcís Riba Arnau, <em>Siset</em></strong>, que fou alcalde de Matadepera entre els anys 1965 i 1970, sota el mandat del qual es va construir l’actual Ajuntament.<br>
-Narcís Riba Arnau era fill de Joan Riba i net de Narcís Riba, tots dos ferrers originaris de Sant Llorenç Savall. L’avi Narcís fou qui es va encarregar de trempar les barres de perforació per als treballadors que construïen la carretera de Talamanca a finals del segle XIX, un fet que va afavorir que la família s’establís definitivament a Matadepera.<br>
+    historia:`En aquesta casa residia <strong>Narcís Riba Arnau</strong> (1900–1985), conegut com «<strong><em>Siset</em></strong>», casat amb Josefa Casas Villaescusa (1907–1986). Fou alcalde de Matadepera entre els anys 1965 i 1970, període durant el qual es va construir l’actual Ajuntament.<br>
+Era fill de Joan Riba Lleonart i de Teresa Arnau Gorina, i nét de Narcís Riba, originari de Sant Llorenç Savall. Aquest darrer fou el primer membre de la família establert a Matadepera. Era ferrer i es dedicava a trempar les barres de perforació per als treballadors que construïen la carretera de Talamanca a finals del segle XIX, fet que propicià que la família s’hi arrelés definitivament.<br>
 La ferreria dels Riba es trobava al carrer Sant Joan, al costat del pou, on actualment hi ha la porta de ferro que dona al menjador dels Tastets del Saint Honoré. Més endavant, l’activitat va passar a mans d’en Nasplé, que n’havia estat treballador.`,
     origen:`El renom prové del diminutiu del nom Narcís, «Narciset», del qual en deriva la forma reduïda i modificada <strong><em>Siset</em></strong>.`,
     adreca:`Adreça actual: Carretera de Terrassa, 11, Matadepera`
