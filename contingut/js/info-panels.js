@@ -445,12 +445,12 @@ En Joan Vivet, que va comprar la casa a Josep Arnau, hi muntaria una carnisseria
     origen:`Sembla que el renom podria tenir relació amb el fet de ser carboners, potser per la duresa de l’ofici al bosc, o bé pel fet que el carbó també és un mineral.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 64, Matadepera`
    },
-"cal-curreló": {
-    title:`Cal Curreló`,
+"cal-correló": {
+    title:`Cal Correló`,
     altres:``,
     historia:`El fill gran de l’Antoni Sellarès Santllehí, en Joan Sellarès Vives, l’hereu, es va quedar la casa. Es va casar amb la Fautina “Fustina” Sellarès Pi, i van tenir un fill, el Salvador Sellarès Sellarès, que també hi va viure, casat amb la Paquita Ribera, i els seus fills.<br>
 Per decret, abans que s’obrís el passatge del Rellotge, tenien l’obligació de cedir el dret de pas per dins la casa per accedir a la plaça de Cal Baldiró.`,
-    origen:`El renom <em>Cal Curreló</em>, tant per ser un lloc de pas com per haver estat, durant molts anys, a tocar del passatge del Rellotge.`,
+    origen:`El renom <em>Cal Correló</em>, tant per ser un lloc de pas com per haver estat, durant molts anys, a tocar del passatge del Rellotge.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 67, Matadepera`
    },
 "cal-beltrà": {
@@ -875,8 +875,12 @@ Altres versions apunten que podria tractar-se d’una variant d'esgarriat, fent 
 "cal-poetó": {
     title:`Cal Poetó`,
     altres:`Cal Rajoler`,
-    historia:``,
-    origen:`Més tard, també seria conegut com <em>Cal Rajoler</em>, per en Felip Elies Padilla, que era rajoler i es va casar amb la Maria de <em>Cal Poetó</em>, i va anar a viure allà.`,
+    historia:`Els Pratginestós establiren el 23 de desembre de 1829 aquest indret, amb una façana de 75 pams (equivalent a tres casals), a favor de Joan Carantela i Valls, serrador i veí de Terrassa. Deu anys més tard, l’1 de juny de 1839, Carantela vengué la casa a <strong>Pere Tarrés i Solà</strong>, també serrador i comerciant, natural de Linyà (el Solsonès), casat amb Francesca Farell i Marganell, de Mura.<br>
+La <strong>Maria Font Tarrés</strong> (1913–2008), coneguda com <strong>«la Maria de Cal Poetó»</strong>, va néixer en aquesta casa. Descendent de la família Tarrés, era filla de Josep Font Torres, de <em>Cal Corcola</em>, i d’Àngela Tarrés Girbau. Es casà el 31 de març de 1933 amb <strong>Felip Elies Padilla (1909–1989), de professió rajoler</strong>. En una entrevista de 1991 a Matadepera TV, la Maria explicava que preferia que li diguessin "<em>la Maria del Felip</em>", perquè n’estava molt del Felip, com ella mateixa expressava amb un somriure trist ple d’afecte.<br>
+Quan la Maria i el Felip es van casar, van anar a viure al carrer Sant Joan, a casa dels pares d’ell, però hi van estar poc temps: la relació amb la sogra i madrastra del Felip, una dona de caràcter molt dominant, no va funcionar. Després d’haver viscut en diversos llocs, entre ells la casa de <em>Cal Correló</em>, finalment tornaren a aquesta casa del carrer Sant Llorenç, la casa natal de la Maria. Aleshores, fou coneguda també com <strong><em>Cal Rajoler</em></strong>, pel Felip Elies.`,
+    origen:`<strong><em>Cal Poetó</em></strong>: En Pere Tarrés i Solà, serrador, també es dedicava al transport de llenya amb carro. Un dia, en tornar de Montcada, explicà als seus amics de Matadepera que en aquella població hi farien un nou “camí poetonal” (en lloc de peatonal). Aquella confusió va fer tanta gràcia que, des d’aquell dia, fou conegut com «el Poetó».<br>
+<br>
+<strong><em>Cal Rajoler</em></strong>: Nom que prengué la casa quan hi anaren a viure Felip Elies Padilla casat amb Maria Font Tarrés. En Felip, que era rajoler i propietari d’una bòbila a Matadepera, donà així un altre renom a la casa familiar.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 31, Matadepera`
    },
 "cal-fuster-crispin": {
