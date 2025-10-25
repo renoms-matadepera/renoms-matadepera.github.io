@@ -448,9 +448,12 @@ En Joan Vivet, que va comprar la casa a Josep Arnau, hi muntaria una carnisseria
 "cal-correló": {
     title:`Cal Correló`,
     altres:``,
-    historia:`El fill gran de l’Antoni Sellarès Santllehí, en Joan Sellarès Vives, l’hereu, es va quedar la casa. Es va casar amb la Fautina “Fustina” Sellarès Pi, i van tenir un fill, el Salvador Sellarès Sellarès, que també hi va viure, casat amb la Paquita Ribera, i els seus fills.<br>
-Per decret, abans que s’obrís el passatge del Rellotge, tenien l’obligació de cedir el dret de pas per dins la casa per accedir a la plaça de Cal Baldiró.`,
-    origen:`El renom <em>Cal Correló</em>, tant per ser un lloc de pas com per haver estat, durant molts anys, a tocar del passatge del Rellotge.`,
+    historia:`Aquesta propietat passà per diverses mans fins que, <strong>cap al 1826, Marianna Sanllehí Pratginestós</strong>, hereva de la finca, es casà amb <strong>Joan Sellarès Escudé</strong>. El padró de 1911 ja registra en aquesta casa els seus descendents, Antoni Sellarès Santllehí i Àngela Vives Tatxé, amb cinc fills: Joan, Pantaleó, Montserrat, Maria i Miquel.<br>
+El fill gran, <strong>Joan Sellarès Vives</strong> (1894–1947), es casà amb <strong>Faustina Sellarès Pi</strong> (1898–1969), i el seu fill <strong>Salvador Sellarès Sellarès</strong> (1927–1987), casat amb <strong>Francisca Ribera Lorenzo</strong> (1930–2022) i els seus fills, visqueren en aquesta casa, sent coneguts popularment com <strong><em>els del Correló</em></strong>.<br>
+L’origen d’aquesta casa, però, és molt anterior. A finals del segle XVIII, en aquest indret ja existia un pas públic de 9 pams d’amplada que travessava la finca per comunicar el carrer de dalt (Sant Isidre) i la bassa (plaça de Cal Baldiró) amb el carrer de baix (Sant Joan). Aquell pas, que donà el renom a la casa, fou establert l’any 1796 per Francesc Martí a benefici dels veïns, amb la condició de poder-hi construir al damunt.<br>
+El pas del «<em>correló</em>» per dins la casa va existir fins ben entrat el segle XX.<br> Finalment, a la dècada del 1920, amb l’obertura del Passatge del Rellotge, l’Ajuntament autoritzà els Sellarès a tancar aquell antic pas, que havia servit durant més d’un segle com a comunicació pública entre dos punts neuràlgics del poble.<br>
+Avui, la casa original ha desaparegut i en el seu lloc s’aixeca un edifici d’habitatges i locals comercials.`,
+    origen:`El renom <strong><em>Cal Correló</em></strong> prové d’aquest antic pas interior que travessava la casa i comunicava el carrer de Sant Joan amb la plaça de Cal Baldiró —una servitud històrica que acabà donant nom a la família i a l’indret.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 67, Matadepera`
    },
 "cal-beltrà": {
