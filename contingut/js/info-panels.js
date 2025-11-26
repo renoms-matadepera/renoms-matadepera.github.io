@@ -439,10 +439,22 @@ Actualment, l’edifici és un bloc de pisos.`,
    },
 "cal-roc": {
     title:`Cal Roc`,
-    altres:`Cal Vivet`,
-    historia:`Hi havia viscut la família Garcia, de lloguer, que eren carboners, però la casa era propietat del Pepet Arnau de <em>Cal Jepet</em>.<br>
-En Joan Vivet, que va comprar la casa a Josep Arnau, hi muntaria una carnisseria que acabaria sent coneguda com a <em>Cal Vivet</em>.`,
-    origen:`Sembla que el renom podria tenir relació amb el fet de ser carboners, potser per la duresa de l’ofici al bosc, o bé pel fet que el carbó també és un mineral.`,
+    altres:`  Cal Vinyes
+<br>
+  Cal Vivet`,
+    historia:`En <strong>Joan i en Josep Pi Roure</strong>, que vivien en aquesta casa, es dedicaven al  transport de pedra i fusta. En aquella &egrave;poca la casa era coneguda com &laquo;<em>Cal  Vinyes</em>&raquo;.<br>
+<br>
+  M&eacute;s tard, quan era propietat del Pepet Arnau, de &laquo;<em>Cal  Jepet</em>&raquo;, la va llogar la fam&iacute;lia Garcia de Sant Lloren&ccedil; Savall: <strong>Roque Garcia  Font</strong>, casat amb Maria Mart&iacute; Tanach. Ell era carboner i treballava a la zona de  les Castellasses, a la cova del Gorg del General. Durant aquesta &egrave;poca, la casa  fou coneguda com &laquo;<em>Cal Roc</em>&raquo;.<br>
+<br>
+  Finalment, en Joan Vivet la compr&agrave; a Josep Arnau i hi munt&agrave;  una carnisseria, etapa en qu&egrave; la casa pass&agrave; a ser coneguda com &laquo;<em>Cal Vivet</em>&raquo;.<br>
+ <br>
+  <span style="color: #444444;"><strong>EN CONSTRUCCI&Oacute;</strong></span>: En estudi encara, les dates  de tots els fets i altres dades.<br />
+  <br />`,
+    origen:` <strong><em>Cal Vinyes</em></strong>: Nom amb qu&egrave; era coneguda la casa quan hi vivien  la fam&iacute;lia Pi Roure.<br>
+<br>
+  <strong><em>Cal Roc</em></strong>: Quan hi visqu&eacute; la fam&iacute;lia Garcia. El  renom prov&eacute; del nom Roque Garcia Font (&laquo;Roc&raquo; en catal&agrave;).<br>
+<br>
+<strong><em>Cal Vivet</em></strong>: Etapa  en qu&egrave; en Joan Vivet compr&agrave; la casa i hi instal&middot;l&agrave; una carnisseria.<br>`,
     adreca:`Adreça actual: Carrer de Sant Joan, 64, Matadepera`
    },
 "cal-correló": {
