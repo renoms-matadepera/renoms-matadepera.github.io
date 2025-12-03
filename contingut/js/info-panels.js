@@ -442,15 +442,14 @@ Actualment, l’edifici és un bloc de pisos.`,
     altres:`  Cal Vinyes
 <br>
   Cal Vivet`,
-    historia:`En <strong>Joan i en Josep Pi Roure</strong>, que vivien en aquesta casa, es dedicaven al  transport de pedra i fusta. En aquella &egrave;poca la casa era coneguda com &laquo;<em>Cal  Vinyes</em>&raquo;.<br>
+    historia:`<strong>Els Pi són una arrel de les més antigues de Matadepera</strong>, amb qui molts matadeperencs estem emparentats. <strong>L’any 1758, trobem un Josep Pi</strong>, a qui l’amo de <em>Can Vinyés</em> estableix una vinya, i el 1768 consta com a masover de del mateix mas.<br>
+En els primers establiments que fa Narcís Gorina, <strong>el 1773</strong>, n’estableix un en aquest lloc, situat entre la casa d’en Francesc Busqueta (<em>Cal Macià</em>) i <em>Cal Jep</em> dels Pratginestós (actual Residència Sagrada Família), a favor d’un Josep Pi que pensem que és el mateix esmentat anteriorment.<br>
+En algunes publicacions consta que en aquesta casa hi van viure en Joan i Francesc Pi Roure, probablement descendents d’aquest Josep Pi, que tot i dedicar-se al transport de pedra i fusta eren coneguts com els de <em>Cal Vinyes</em>.<br>
 <br>
-  M&eacute;s tard, quan era propietat del Pepet Arnau, de &laquo;<em>Cal  Jepet</em>&raquo;, la va llogar la fam&iacute;lia Garcia de Sant Lloren&ccedil; Savall: <strong>Roque Garcia  Font</strong>, casat amb Maria Mart&iacute; Tanach. Ell era carboner i treballava a la zona de  les Castellasses, a la cova del Gorg del General. Durant aquesta &egrave;poca, la casa  fou coneguda com &laquo;<em>Cal Roc</em>&raquo;.<br>
+<strong>L’any 1945</strong>, quan la casa era propietat del Pepet Arnau, de <em>Cal Jepet</em>, la va llogar la <strong>família Garcia</strong> que vivien a Sant Feliu del Racó: Roque Garcia Font, casat amb Maria Martí Tanach de Matadepera i per això van tornar a viure al poble. En Roque Garcia era carboner i treballava a la zona de les Castellasses, a la cova del Gorg del General. Durant aquesta època, la casa fou coneguda com <em>Cal Roc</em>, pel nom de Roque Garcia («Roc» en català).<br>
 <br>
-  Finalment, en Joan Vivet la compr&agrave; a Josep Arnau i hi munt&agrave;  una carnisseria, etapa en qu&egrave; la casa pass&agrave; a ser coneguda com &laquo;<em>Cal Vivet</em>&raquo;.<br>
- <br>
-  <span style="color: #444444;"><strong>EN CONSTRUCCI&Oacute;</strong></span>: En estudi encara, les dates  de tots els fets i altres dades.<br />
-  <br />`,
-    origen:` <strong><em>Cal Vinyes</em></strong>: Nom amb qu&egrave; era coneguda la casa quan hi vivien  la fam&iacute;lia Pi Roure.<br>
+Finalment, en <strong>Joan Vivet</strong> la comprà a Josep Arnau i hi muntà una carnisseria, etapa en què la casa passà a ser coneguda com <em>Cal Vivet</em>.`,
+    origen:` <strong><em>Cal Vinyes</em></strong>: Provablement pel vincle de Josep Pi amb les vinyes i per haver estat masover de <em>Can Vinyés</em><br>
 <br>
   <strong><em>Cal Roc</em></strong>: Quan hi visqu&eacute; la fam&iacute;lia Garcia. El  renom prov&eacute; del nom Roque Garcia Font (&laquo;Roc&raquo; en catal&agrave;).<br>
 <br>
