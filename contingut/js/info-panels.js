@@ -134,15 +134,22 @@ Tot i que no s’ha pogut determinar si la família Riera eren realment els carr
 "cal-marcó": {
     title:`Cal Marcó`,
     altres:`Cal Petapet`,
-    historia:`Aquesta casa fou propietat i la residència on va viure més anys <strong>Marc Genescà Ventayol (1907-1986)</strong>, conegut per tothom com “<strong><em>el Marcó</em></strong>”. Era el fill petit de <em>Cal Baldiró</em> casat amb Antònia Pociello Monsonet (1905-1998). <strong>S’hi establiren definitivament cap al 1950</strong>, on hi viurien amb la seva família i descendència. Encara avui, hi resideix una de les seves netes.<br>
-En Marco, de professió paleta constructor, va participar en la construcció de moltes de les torres de la nova i creixent Matadepera residencial. Persona amb molta empenta, sempre disposada a ajudar on calgués i ha qui ho necessités, fou molt popular i estimat per tothom al poble.<br>
-Abans que el “<em>Marcó</em>” hi visqués, diversos testimonis i veïns de l’època expliquen que la casa havia tingut diversos renoms associats als seus antics propietaris o llogaters, com <strong><em>Ca la Castissa, Cal Pitus, Ca la Meta-meta, Cal Pep-pep Cal Petapet</em></strong>...<br>
-Ens centrarem en <strong><em>Cal Petapet</em></strong>, del qual en tenim constància escrita. <strong>Josep Vives</strong>, que s’hi establí abans que la família Genescà-Pociello, es dedicava al transport de llenya, a l’agricultura i, si calia, també feia feines de peó. També era conegut com el<em> Pep-pep</em> i era home de confiança de Felip Elies de <em>Cal Rejoler</em>, quan aquest tenia un forn d’obra i una bòbila.<br>
-Quan el “Marcó” va entrar a viure a la casa, la família Vives es traslladà a l’actual carrer Josep Porcar, 41, on muntaren una carnisseria i serien coneguts com <em>Cal Peta-peta</em>.`,
-    origen:`El renom “<strong><em>Marcó</em></strong>” prové de Marc Genescà, el més petit de Cal Baldiró. De la contracció del diminutiu “Marconet”, en quedà “Marcó”.<br>
+    historia:`En Pi de la Serra continuava fent establiments als seus  terrenys de Can Vinyes al voltant del Cam&iacute; Ral. El 9 de novembre de 1843  establ&iacute; en aquest lloc 30 pams d&rsquo;amplada a favor de <strong>Josep Mitjana i Tarr&eacute;s</strong>,  de 27 anys, natural de la Gu&agrave;rdia (Lleida), que es va casar amb Josefa Robert i  Torras, de Matadepera.<br>
+  <br>
+    <strong>Cap al 1932</strong> va comprar aquesta casa <strong>Juli&agrave; G&uuml;ell  Guerrero</strong> (1898&ndash;1935). En Juli&agrave; era de Vilafranca del Pened&egrave;s. De professi&oacute;  paleta, emigr&agrave; amb 18 anys a l&rsquo;Havana (Cuba), on gr&agrave;cies al seu ofici i,  segurament al seu cognom, es va guanyar for&ccedil;a b&eacute; la vida. Passats uns anys va  tornar i conegu&eacute; al Gran Casino de Terrassa <strong>Josefa Montes&oacute; Cudi&eacute;</strong> (1903&ndash;1972), amb qui es cas&agrave;, establint-se a Terrassa. En Juli&agrave; deia sempre que  calia invertir a Matadepera i va comen&ccedil;ar per aquesta casa; per&ograve; mor&iacute; jove i la  seva esposa la va haver de llogar.<br>
+    <br>
+  A causa dels successius inquilins, la casa tingu&eacute; diversos  renoms. Testimonis i ve&iuml;ns de l&rsquo;&egrave;poca recorden que havia estat coneguda com <strong><em>Ca  la Castissa</em></strong>, <strong><em>Cal Pitus</em></strong>, <strong><em>Ca la Meta-meta</em></strong>,  <strong><em>Cal Pep-pep</em></strong>, <strong><em>Cal Peta-pet</em></strong> i d&rsquo;altres.<br>
+  Ens centrem en <strong><em>Cal Peta-pet</em></strong>, del qual tenim  const&agrave;ncia escrita: Era quan hi vivia en <strong>Josep Vives</strong>, que en va ser uns dels inquilins. Es dedicava  al transport de llenya, a l&rsquo;agricultura i, quan calia, feia tamb&eacute; feines de  pe&oacute;. Tamb&eacute; conegut com el &laquo;<em>Pep-pep</em>&raquo;, fou home de confian&ccedil;a de Felip  Elies, de <em>Cal Poet&oacute;</em> o <em>Cal Rajole</em>, quan aquest tenia forn  d&rsquo;obra i b&ograve;bila.<br>
+  <br>
+  Josefa Montes&oacute; Cudi&eacute;, v&iacute;dua de feia uns quants anys i amb  necessitats econ&ograve;miques, acab&agrave; venent la casa. El 15 d&rsquo;octubre de 1945 la  vengu&eacute; a Marc Genesc&agrave; Ventayol (1907&ndash;1986), conegut per tothom com &laquo;<strong><em>el Marc&oacute;</em></strong>&raquo;.<br>
+  En Marc&oacute; era el fill petit de Cal Baldir&oacute;. Casat amb Ant&ograve;nia  Pociello Monsonet (1905&ndash;1998), <strong>s&rsquo;hi establiren definitivament cap al 1950</strong>,  on visqueren amb la seva fam&iacute;lia i descend&egrave;ncia. <br>
+  <br>
+  <strong>En <em>Marco</em></strong>, de professi&oacute; paleta constructor, va participar en la  construcci&oacute; de moltes de les torres de la nova i creixent Matadepera  residencial. Persona amb molta empenta, sempre disposada a ajudar on calgu&eacute;s i  ha qui ho necessit&eacute;s, fou molt popular i estimat per tothom al poble.<br>
+  <br>
+Quan el Marc&oacute; va entrar a viure a la casa, la fam&iacute;lia Vives  es trasllad&agrave; a l&rsquo;actual carrer Josep Porcar, 41, on muntaren una carnisseria i  serien coneguts com <em>Cal Peta-peta</em>.`,
+    origen:`</strong>El renom <strong><em>Cal Marc&oacute;</em></strong> prov&eacute; de Marc Genesc&agrave;, el m&eacute;s petit de  Cal Baldir&oacute;. De la contracci&oacute; del diminutiu &laquo;Marconet<em>&raquo;</em>, en qued&agrave; &laquo;Marc&oacute;<em>&raquo;</em>.<br>
 <br>
-Pel que fa al renom “<strong><em>Petapet</em></strong>”, era un dels molts pels quals es coneixia la família Vives, antics estadants de la casa abans de l’arribada d’en Marcó.
-`,
+Pel que fa al renom <strong><em>Cal Petapet</em></strong>, era  un dels varis molts pels quals es coneixia la fam&iacute;lia Vives, antics estadants  de la casa abans de instal&middot;lar-s&rsquo;hi la fam&iacute;lia de &laquo;<em>Cal Marc&oacute;&raquo;</em>.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 27, Matadepera`
    },
 "cal-soca": {
@@ -868,8 +875,12 @@ Altres versions apunten que podria tractar-se d’una variant d'esgarriat, fent 
 "ca-la-pepa": {
     title:`Ca la Pepa`,
     altres:``,
-    historia:``,
-    origen:``,
+    historia:`En Jaume Pratginest&oacute;s i Pi, hereu de Josep Pratginest&oacute;s i Gorina, i la seva  mare, Maria Pi i Illa (v&iacute;dua), van fer diversos establiments en aquesta zona  situada a ponent del cam&iacute; Ral de Sant Lloren&ccedil; Savall, que havia estat una &agrave;rea  boscosa coneguda com &ldquo;<em>el bosc del Cam&iacute; Ral</em>&rdquo;.<br>
+<br>
+<strong>L&rsquo;any 1824</strong>, despr&eacute;s de diversos establiments previs,  aquest fou el pen&uacute;ltim abans del de <em>Cal Xumeco</em>: establiren 37 pams  d&rsquo;amplada a favor de <strong>Lloren&ccedil; Torres i Quer</strong>, casat amb una Gorina.  Lloren&ccedil; era fill de Mag&iacute; Torras Juliana, de la pedrera (<em>Cal Mag&iacute;</em>).<br>
+<br>
+Als voltants dels anys trenta del segle XX, en aquesta casa  hi vivia <strong>Josefa Ramon Gunfaus</strong>, de <em>Cal Muletes</em>, nascuda el 1897.  La Josefa, coneguda com &laquo;<strong><em>Pepa</em></strong>&raquo;, estava casada amb Pere Gal&iacute;  Creus, nascut a Barcelona el 1886. La filla del matrimoni fou <strong>Teresa Gal&iacute;  Ramon</strong> (1929&ndash;2021), que visqu&eacute; soltera en aquesta casa tota la vida.`,
+    origen:`En morir jove Pere Gal&iacute;, la casa qued&agrave; marcada pel  llarg ve&iuml;natge de la seva v&iacute;dua, la Pepa Ramon. Per aix&ograve; fou coneguda  popularment com &laquo;<strong><em>Ca la Pepa</em></strong>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 27, Matadepera`
    },
 "cal-xumeco": {
