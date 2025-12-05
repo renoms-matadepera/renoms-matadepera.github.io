@@ -98,7 +98,7 @@ Ca la Valencieneta`,
 "cal-monet": {
     title:`Cal Monet`,
     altres:``,
-    historia:`Domènec Pi de la Serra, propietari dels terrenys de Can Vinyes, va parcel·lar l’entorn del camí ral en el recent creat carrer Sant Joan (part baixa). Entre altres, el 1846, va establir, en un solar de 25 pams —l’emplaçament que avui ocupa el número 21 del carrer Sant Joan— el jove pagès Ramon Gutés Solà, de 22 anys, natural de Sant Llorenç Savall, que es va casar amb Catalina Casanovas i Rius, de Matadepera.<br>
+    historia:`Domènec Pi de la Serra, propietari dels terrenys de Can Vinyés, va parcel·lar l’entorn del camí ral en el recent creat carrer Sant Joan (part baixa). Entre altres, el 1846, va establir, en un solar de 25 pams —l’emplaçament que avui ocupa el número 21 del carrer Sant Joan— el jove pagès Ramon Gutés Solà, de 22 anys, natural de Sant Llorenç Savall, que es va casar amb Catalina Casanovas i Rius, de Matadepera.<br>
 Dels seus fills descendeixen diverses branques de la família Gutés de Matadepera, entre elles la de Cal Trapet. Una de les branques que va continuar vivint a la casa és la del seu besnet Josep Gutés Viñas, casat amb Eulàlia Turu.`,
     origen:`El renom de la casa prové del primer propietari, Ramon Gutés Solà. Com que era el més petit de la seva família, se’l coneixia com a <em>“Monet”</em>, contracció del diminutiu <em>“Ramonet”.</em>`,
     adreca:`Adreça actual: Carrer de Sant Joan, 21, Matadepera`
@@ -162,7 +162,7 @@ Pel que fa al renom <strong><em>Cal Petapet</em></strong>, era  un dels varis mo
 "cal-corcola": {
     title:`Cal Corcola`,
     altres:``,
-    historia:`A mitjans segle XIX, Domènec Pi de la Serra, propietari dels terrenys de Can Vinyes, va urbanitzar la part baixa de l’actual carrer de Sant Joan, aleshores conegut popularment com a carrer de la Llagosta, perquè molts pagesos locals veien els nous habitants com una “plaga” vinguda de fora. En aquest sector, Pi de la Serra hi construí una bassa per recollir aigües pluvials, situada on avui hi ha el número 26 del carrer de Sant Joan, a tocar de la casa de Pere Aldavert.<br>
+    historia:`A mitjans segle XIX, Domènec Pi de la Serra, propietari dels terrenys de Can Vinyés, va urbanitzar la part baixa de l’actual carrer de Sant Joan, aleshores conegut popularment com a carrer de la Llagosta, perquè molts pagesos locals veien els nous habitants com una “plaga” vinguda de fora. En aquest sector, Pi de la Serra hi construí una bassa per recollir aigües pluvials, situada on avui hi ha el número 26 del carrer de Sant Joan, a tocar de la casa de Pere Aldavert.<br>
 <br>
 Després de diversos establiments, l’any 1852, a prop de la bassa, va establir un solar de 25 pams a <strong>Joan Torras i Arnella</strong>, natural de Sant Pere de Terrassa i casat amb Serafina Torres, de Manresa. El matrimoni va tenir diverses filles, entre elles Maria Torras i Torres, que es casà amb Benet Font i Serra, originari de Caldes de Montbui, vingut a Matadepera cap al 1877.<br>
 <br>
@@ -280,7 +280,7 @@ Sigui per una raó, per l'altra o totes dues, la família va acabar sent conegud
     altres:``,
     historia:`Aquesta va ser <strong>la primera casa del nou nucli urbà de Matadepera</strong>.<br>
 Cap a finals del segle XVIII, en Narcís Gorina, de Can Gorina, aclaparat pels deutes, decidí parcel·lar les seves terres al voltant del Camí Ral per establir-hi famílies a la vora del camí.<br>
-El 7 de desembre de 1786, Narcís Gorina vengué a Tomàs Martí, qui més endavant donaria nom a la nissaga de <em>Cal Tomasset</em>, una parcel·la situada al límit de les terres de Can Vinyes, per edificar-hi una casa de 45 pams d’amplada per 27 canes de llargada (aprox. 10,50 m de façana per 41,85 m de fons).<br>
+El 7 de desembre de 1786, Narcís Gorina vengué a Tomàs Martí, qui més endavant donaria nom a la nissaga de <em>Cal Tomasset</em>, una parcel·la situada al límit de les terres de Can Vinyés, per edificar-hi una casa de 45 pams d’amplada per 27 canes de llargada (aprox. 10,50 m de façana per 41,85 m de fons).<br>
 Amb el pas dels anys, la propietat passà a la família Genescà. Allà hi visqué <strong>Assumpció Clusellas Clapés</strong> (1873-1961), casada amb Joan Genescà Cortés (1874-1922).<br>
 Quan Assumpció quedà vídua el 1922, als 49 anys, continuà vivint a la casa fins a la seva mort als 88 anys, després de 39 anys de viduïtat. Aquest llarg període explicaria que el nom de la casa acabés associat a ella.`,
     origen:`El renom <em>Ca l’Assuncion</em> prové d’Assumpció Clusellas, que hi visqué molts anys. Popularment, el seu nom es pronunciava “Assunsion”, amb una n final a la manera castellana però amb fonètica catalana, un tret habitual a la cultura rural d’aquella època.<br>
@@ -744,7 +744,7 @@ Cal Guerresenyo`,
 "cal-sereno": {
     title:`Cal Sereno`,
     altres:``,
-    historia:`El 19 de abril de 1958, en Pi de la Serra, estableix al carrer Sant Isidre, a la banda esquerra, mirant des de la plaça, dins dels seus terrenys que pertanyien a Can Vinyes, 40 pams de façana i 192 pams de llargària, on avui encara s’alça la casa de <em>Ca l’Arnau</em> a en Josep Arnau i Mundet, Pagès de Granera, que va arribar ser l’agutzil i sereno del poble, de manera que tothom l’anomenava “El Sereno”`,
+    historia:`El 19 de abril de 1958, en Pi de la Serra, estableix al carrer Sant Isidre, a la banda esquerra, mirant des de la plaça, dins dels seus terrenys que pertanyien a Can Vinyés, 40 pams de façana i 192 pams de llargària, on avui encara s’alça la casa de <em>Ca l’Arnau</em> a en Josep Arnau i Mundet, Pagès de Granera, que va arribar ser l’agutzil i sereno del poble, de manera que tothom l’anomenava “El Sereno”`,
     origen:`Per la professió de sereno del seu primer propietari, Josep Arnau i Mundet`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 22, Matadepera`
    },
