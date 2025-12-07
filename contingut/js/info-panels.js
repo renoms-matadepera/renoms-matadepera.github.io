@@ -131,7 +131,7 @@ Cap al 1933, Josep Arnau va abandonar la seva esposa Filomena per emigrar a Cara
 Tot i que no s’ha pogut determinar si la família Riera eren realment els carreters, o si entre ells i els Cortès hi hagué algun altre habitant (de lloguer) dedicat a aquesta professió, el fet és que el renom va quedar associat a la casa i a les famílies que hi visqueren posteriorment.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 25, Matadepera`
    },
-"cal-marcó": {
+"cal-marco": {
     title:`Cal Marcó`,
     altres:`Cal Petapet`,
     historia:`En Pi de la Serra continuava fent establiments als seus  terrenys de Can Vinyés al voltant del Cam&iacute; Ral. El 9 de novembre de 1843  establ&iacute; en aquest lloc 30 pams d&rsquo;amplada a favor de <strong>Josep Mitjana i Tarr&eacute;s</strong>,  de 27 anys, natural de la Gu&agrave;rdia (Lleida), que es va casar amb Josefa Robert i  Torras, de Matadepera.<br>
@@ -194,7 +194,7 @@ Cal fer <strong>un reconeixement a Joan Font Pi “Corcola”</strong> (1902-198
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Joan, 33, Matadepera`
    },
-"cal-quistó": {
+"cal-quisto": {
     title:`Cal Quistó`,
     altres:``,
     historia:`L’any 1846, Domènec Pi de la Serra inicià els establiments del carrer Sant Joan Sud pel costat de llevant. El primer establiment fou de 25 pams, a favor de <strong>Joan Cortès i Codina</strong> (<strong>el primer “Quistó”</strong>), just al costat dels terrenys reservats a la rectoria i a l’església, destinats a la futura parròquia.<br>
@@ -463,7 +463,7 @@ Finalment, en <strong>Joan Vivet</strong> la comprà a Josep Arnau i hi muntà u
 <strong><em>Cal Vivet</em></strong>: Etapa  en qu&egrave; en Joan Vivet compr&agrave; la casa i hi instal&middot;l&agrave; una carnisseria.<br>`,
     adreca:`Adreça actual: Carrer de Sant Joan, 64, Matadepera`
    },
-"cal-correló": {
+"cal-correlo": {
     title:`Cal Correló`,
     altres:``,
     historia:`Aquesta propietat passà per diverses mans fins que, <strong>cap al 1826, Marianna Sanllehí Pratginestós</strong>, hereva de la finca, es casà amb <strong>Joan Sellarès Escudé</strong>. El padró de 1911 ja registra en aquesta casa els seus descendents, Antoni Sellarès Santllehí i Àngela Vives Tatxé, amb cinc fills: Joan, Pantaleó, Montserrat, Maria i Miquel.<br>
@@ -474,7 +474,7 @@ Avui, la casa original ha desaparegut i en el seu lloc s’aixeca un edifici d�
     origen:`El renom <strong><em>Cal Correló</em></strong> prové d’aquest antic pas interior que travessava la casa i comunicava el carrer de Sant Joan amb la plaça de Cal Baldiró —una servitud històrica que acabà donant nom a la família i a l’indret.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 67, Matadepera`
    },
-"cal-beltrà": {
+"cal-beltra": {
     title:`Cal Beltrà`,
     altres:``,
     historia:`Forn de pa.<br>
@@ -528,7 +528,7 @@ Avui dia, a l’edifici encara hi funciona un petit supermercat. A la façana, h
     origen:`El renom prové del fet que els antics habitants de la casa es dedicaven al transport de terres i materials de construcció utilitzant cavalls, una feina habitual en l’època. El mot <em>genet</em>, que fa referència a qui munta o condueix cavalls, va acabar identificant la casa.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 77, Matadepera`
    },
-"cal-julià": {
+"cal-julia": {
     title:`Cal Julià`,
     altres:`Cal Paifarre`,
     historia:`Tota una generació recorda <strong><em>Cal Julià</em></strong> per les seves coques, ensaïmades i croissants, per les entranyables <strong>Maria Sellarès i Teresa Altimira</strong> darrere el taulell, i per les llargues cues de gent, fins i tot de fora de Matadepera, que els diumenges al matí esperaven el seu torn per comprar pa.<br>
@@ -795,7 +795,7 @@ Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als
     origen:`El renom prové de <strong>Marcelina Genescà Arch</strong>, que en quedar vídua el 1905, als 34 anys, continuà vivint a la casa fins a la seva mort. Va ser vídua durant 38 anys, fet que explica que el nom de la casa quedés associat a ella.`,
     adreca:`Adreça antiga: Carrer de Sant Isidre, 33, Matadepera`
    },
-"cal-baldiró": {
+"cal-baldiro": {
     title:`Cal Baldiró`,
     altres:`Cal Tut`,
     historia:`Antoni Genescà i Riera, pagès nascut a Mura el 1802, vivia a Sant Pere de Terrassa. Es va casar el 3 d’agost de 1830 amb Maria Ventayol i Pineda, de Vacarisses. Maria va morir als 30 anys de verola, poc després de tenir el segon fill. Antoni es tornà a casar amb Maria Padrós i Puigdoure, de Can Farrés de Baix, Matadepera.<br>
@@ -863,7 +863,7 @@ Més tard, la casa passaria a ser coneguda com <em>Ca les Galotes</em>, pel maln
     origen:`El renom <em>Cal Pelleringa</em> prové de Salvador Puig. L'any 1875, mentre treballava tallant arbres amb altres homes, un carreter els va demanar qui el convidava a esmorzar. Algú, fent broma, va dir que el Salvador, perquè havia matat un porc gros. Però ell va respondre que ja quasi no en quedava res, “només una pelleringa”. L’expressió va fer gràcia i d’aquí va sorgir el nom.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 19, Matadepera`
    },
-"cal-segarrí": {
+"cal-segarri": {
     title:`Cal Segarrí`,
     altres:`Ca la Montserrat`,
     historia:`Amb el temps, el lloc es va fer més conegut com <em>Ca la Montserrat</em>, pel nom de la botiga de comestibles de la família Borrell. El nom venia de la Montserrat de Cal la Feliueta, que va obrir la botiga el mateix dia que es va casar amb en Valentí Borrell, avis dels germans Borrell d’avui dia.`,
@@ -897,7 +897,7 @@ Als voltants dels anys trenta del segle XX, en aquesta casa  hi vivia <strong>Jo
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 30, Matadepera`
    },
-"cal-poetó": {
+"cal-poeto": {
     title:`Cal Poetó`,
     altres:`Cal Rajoler`,
     historia:`Els Pratginestós establiren el 23 de desembre de 1829 aquest indret, amb una façana de 75 pams (equivalent a tres casals), a favor de Joan Carantela i Valls, serrador i veí de Terrassa. Deu anys més tard, l’1 de juny de 1839, Carantela vengué la casa a <strong>Pere Tarrés i Solà</strong>, també serrador i comerciant, natural de Linyà (el Solsonès), casat amb Francesca Farell i Marganell, de Mura.<br>
@@ -927,7 +927,7 @@ Cal Fusteret`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 65, Matadepera`
    },
-"cal-lluís": {
+"cal-lluis": {
     title:`Cal Lluís`,
     altres:``,
     historia:`Abarcava els actuals números 67 i 69 del carrer Sant Llorenç.<br>
@@ -983,7 +983,7 @@ Ca l'Abuela`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 81, Matadepera`
    },
-"cal-gabarró": {
+"cal-gabarro": {
     title:`Cal Gabarró`,
     altres:``,
     historia:``,
