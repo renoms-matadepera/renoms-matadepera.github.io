@@ -294,6 +294,12 @@ table.taula-renoms td:nth-child(5) {
 .info-link:hover {
   text-decoration: underline;
 }
+
+.highlight-row td {/* Ressaltat temporal quan s’arriba per àncora */
+    background-color: #ededed;
+    transition: background-color 1s ease;
+}
+
 /* ===== Fi Taules Cases ===== */
 
 .fonts-doc{
