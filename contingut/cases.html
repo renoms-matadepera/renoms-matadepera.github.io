@@ -185,7 +185,7 @@ Ca la Valencieneta</td>
 </tr>
 <tr id="cal-quisto">
     <td>34</td>
-    <td><button class="info-link" onclick="openInfo('cal-quistó')">Cal Quistó</button></td>
+    <td><button class="info-link" onclick="openInfo('cal-quisto')">Cal Quistó</button></td>
     <td></td>
 </tr>
 <tr>
@@ -794,21 +794,19 @@ Ca la Valencieneta</td>
 </table>
 
 
-<!-- Info Panels -->
-<!-- Panell ÚNIC -->
+<!-- Panell informatiu -->
 <div id="info-panel" class="info-panel">
   <button class="close-btn" onclick="closeInfo()">&times;</button>
   <h3 id="info-title"></h3>
   <div id="info-content"></div>
 </div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 </main>
 
-<!-- JavaScript -->
-<script src="js/info-panels.js?v=07122025"></script>
+<!-- JS del panell -->
+<script src="js/info-panels.js?v=08122025"></script>
 
-<!-- Info Panels venint de enllaç àncla-->
+<!-- Accions quan venim d'una àncora externa -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
     const target = window.location.hash.replace("#", "").trim();
@@ -817,24 +815,14 @@ document.addEventListener("DOMContentLoaded", function () {
     const row = document.getElementById(target);
     if (!row) return;
 
-    // DESPLAÇAMENT SUAUMENT CONTROLAT
-    setTimeout(() => {
-        row.scrollIntoView({
-            behavior: "smooth",
-            block: "center"
-        });
-    }, 50); // retarda una mica per evitar el salt instantani del navegador
-
-    // Obrir panell lateral
+    /* Obrir panell lateral una mica més tard */
     setTimeout(() => {
         openInfo(target);
     }, 400);
-
-    // Ressaltar la fila
-    row.classList.add("highlight-row");
-    setTimeout(() => row.classList.remove("highlight-row"), 4000);
 });
 </script>
+
+
 
 <footer>
 &copy; 2025 Llorenç Robert Lairla i Marc Sellarès Genescà: tots els continguts d'aquest web,<br>
