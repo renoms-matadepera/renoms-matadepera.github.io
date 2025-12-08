@@ -1084,16 +1084,15 @@ Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, orig
   };
 
 /* ============================================================
-                        PANEL INFORMATIU
+   PANEL INFORMATIU - Versió final, neta i estable
    Funcionalitats:
    - Obertura del panell amb contingut
-   - Marcatge de la fila activa mentre el panell és obert
-   - Desmarcatge automàtic en tancar
-   - Tancament també amb el botó "enrere" (popstate)
+   - Marcatge de la fila activa
+   - Desmarcatge suau en tancar el panell
+   - Tancament via "X" o botó enrere (popstate)
    ============================================================ */
 
-/* Fila actualment activa */
-let activeRow = null;
+let activeRow = null;   // Fila marcada actualment
 
 /* ------------------------------------------------------------
    OBRIR PANELL
@@ -1102,7 +1101,7 @@ function openInfo(id) {
     const data = casesData[id];
     if (!data) return;
 
-    /* Actualitza contingut */
+    // Actualitza contingut del panell
     document.getElementById("info-title").innerHTML = data.title;
 
     let html = "";
@@ -1116,19 +1115,18 @@ function openInfo(id) {
         html += `<div class="info-address">${data.adreca}</div>`;
 
     document.getElementById("info-content").innerHTML = html;
-
-    /* Obrir panell */
     document.getElementById("info-panel").classList.add("open");
 
-    /* Marcar fila activa */
-    if (activeRow) activeRow.classList.remove("active-row"); // netejem l'anterior
+    // Marcar fila activa
+    if (activeRow) activeRow.classList.remove("active-row");
+
     const row = document.getElementById(id);
     if (row) {
         row.classList.add("active-row");
         activeRow = row;
     }
 
-    /* Afegir estat d’historial per interceptar "enrere" */
+    // Estat per interceptar el botó enrere
     history.pushState({ panelOpen: true }, "");
 }
 
@@ -1136,25 +1134,28 @@ function openInfo(id) {
    TANCAR PANELL
    ------------------------------------------------------------ */
 function closeInfo() {
-    document.getElementById("info-panel").classList.remove("open");
+    const panel = document.getElementById("info-panel");
+    panel.classList.remove("open");
 
-    /* Desmarcar fila després d’un temps */
+    // Desmarcar fila després d’un temps
     if (activeRow) {
         const rowToUnmark = activeRow;
         setTimeout(() => {
             rowToUnmark.classList.remove("active-row");
             if (activeRow === rowToUnmark) activeRow = null;
-        }, 500);
+        }, 1000);
     }
 }
 
 /* ------------------------------------------------------------
-   BOTÓ "ENRERE" DEL MÒBIL / NAVEGADOR
+   BOTÓ ENRERE DEL MÒBIL (popstate)
    ------------------------------------------------------------ */
 window.addEventListener("popstate", function () {
     const panel = document.getElementById("info-panel");
+
     if (panel.classList.contains("open")) {
         closeInfo();
     }
 });
+
 
