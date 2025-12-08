@@ -1083,23 +1083,78 @@ Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, orig
    },
   };
 
-// contrucció panell i obertura
-  function openInfo(id) {
+/* ============================================================
+                        PANEL INFORMATIU
+   Funcionalitats:
+   - Obertura del panell amb contingut
+   - Marcatge de la fila activa mentre el panell és obert
+   - Desmarcatge automàtic en tancar
+   - Tancament també amb el botó "enrere" (popstate)
+   ============================================================ */
+
+/* Fila actualment activa */
+let activeRow = null;
+
+/* ------------------------------------------------------------
+   OBRIR PANELL
+   ------------------------------------------------------------ */
+function openInfo(id) {
     const data = casesData[id];
     if (!data) return;
 
+    /* Actualitza contingut */
     document.getElementById("info-title").innerHTML = data.title;
 
     let html = "";
-    if (data.altres) html += `<div class="info-label">ALTRES RENOMS</div><div class="info-text-altres">${data.altres}</div>`;
-    if (data.historia) html += `<div class="info-label">HISTÒRIA</div><div class="info-text">${data.historia}</div>`;
-    if (data.origen) html += `<div class="info-label">ORIGEN DEL RENOM</div><div class="info-text">${data.origen}</div>`;
-    if (data.adreca) html += `<div class="info-address">${data.adreca}</div>`;
+    if (data.altres)
+        html += `<div class="info-label">ALTRES RENOMS</div><div class="info-text-altres">${data.altres}</div>`;
+    if (data.historia)
+        html += `<div class="info-label">HISTÒRIA</div><div class="info-text">${data.historia}</div>`;
+    if (data.origen)
+        html += `<div class="info-label">ORIGEN DEL RENOM</div><div class="info-text">${data.origen}</div>`;
+    if (data.adreca)
+        html += `<div class="info-address">${data.adreca}</div>`;
 
     document.getElementById("info-content").innerHTML = html;
-    document.getElementById("info-panel").classList.add("open");
-  }
 
-  function closeInfo() {
+    /* Obrir panell */
+    document.getElementById("info-panel").classList.add("open");
+
+    /* Marcar fila activa */
+    if (activeRow) activeRow.classList.remove("active-row"); // netejem l'anterior
+    const row = document.getElementById(id);
+    if (row) {
+        row.classList.add("active-row");
+        activeRow = row;
+    }
+
+    /* Afegir estat d’historial per interceptar "enrere" */
+    history.pushState({ panelOpen: true }, "");
+}
+
+/* ------------------------------------------------------------
+   TANCAR PANELL
+   ------------------------------------------------------------ */
+function closeInfo() {
     document.getElementById("info-panel").classList.remove("open");
-  }
+
+    /* Desmarcar fila després d’un temps */
+    if (activeRow) {
+        const rowToUnmark = activeRow;
+        setTimeout(() => {
+            rowToUnmark.classList.remove("active-row");
+            if (activeRow === rowToUnmark) activeRow = null;
+        }, 500);
+    }
+}
+
+/* ------------------------------------------------------------
+   BOTÓ "ENRERE" DEL MÒBIL / NAVEGADOR
+   ------------------------------------------------------------ */
+window.addEventListener("popstate", function () {
+    const panel = document.getElementById("info-panel");
+    if (panel.classList.contains("open")) {
+        closeInfo();
+    }
+});
+
