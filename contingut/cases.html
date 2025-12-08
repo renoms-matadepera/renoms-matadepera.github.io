@@ -794,7 +794,7 @@ Ca la Valencieneta</td>
 </table>
 
 
-<!-- Panell informatiu -->
+<!-- Info Panels: panell únic -->
 <div id="info-panel" class="info-panel">
   <button class="close-btn" onclick="closeInfo()">&times;</button>
   <h3 id="info-title"></h3>
@@ -804,9 +804,9 @@ Ca la Valencieneta</td>
 </main>
 
 <!-- JS del panell -->
-<script src="js/info-panels.js?v=08122025"></script>
+<script src="js/info-panels.js?v=final"></script>
 
-<!-- Accions quan venim d'una àncora externa -->
+<!-- Obrir panell automàticament si venim d'un enllaç àncora -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
     const target = window.location.hash.replace("#", "").trim();
@@ -815,14 +815,16 @@ document.addEventListener("DOMContentLoaded", function () {
     const row = document.getElementById(target);
     if (!row) return;
 
-    /* Obrir panell lateral una mica més tard */
+    // Ressaltar temporalment quan arribes d’una àncora
+    row.classList.add("highlight-row");
+    setTimeout(() => row.classList.remove("highlight-row"), 1500);
+
+    // Obrir panell una mica més tard per evitar salts
     setTimeout(() => {
         openInfo(target);
-    }, 400);
+    }, 300);
 });
 </script>
-
-
 
 <footer>
 &copy; 2025 Llorenç Robert Lairla i Marc Sellarès Genescà: tots els continguts d'aquest web,<br>
