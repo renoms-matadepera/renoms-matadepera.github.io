@@ -296,8 +296,12 @@ table.taula-renoms td:nth-child(5) {
 }
 
 .highlight-row td {/* Ressaltat temporal quan s’arriba per àncora */
-    background-color: #ededed;
+    background-color: #edbfb1;
     transition: background-color 1s ease;
+}
+
+.active-row td {
+    background-color: #e5ccb7 !important;
 }
 
 /* ===== Fi Taules Cases ===== */
