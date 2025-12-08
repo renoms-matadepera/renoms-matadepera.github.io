@@ -295,9 +295,9 @@ table.taula-renoms td:nth-child(5) {
   text-decoration: underline;
 }
 
-.highlight-row td {/* Ressaltat temporal quan s’arriba per àncora */
+.highlight-row td {
     background-color: #edbfb1;
-    transition: background-color 1s ease;
+    transition: background-color 0.8s ease;
 }
 
 .active-row td {
