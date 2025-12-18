@@ -12,11 +12,11 @@ const casesData = {
 "ca-la-guadall": {
     title:`Ca la Guadall`,
     altres:``,
-    historia:`La casa, situada a l’inici del carrer de Sant Joan, fou la residència de <strong>Matilde Guadall i Rosàs</strong>, hereva de les terres de <em>Can Vinyés</em>.<br>
+    historia:`La casa, situada a l’inici del carrer de Sant Joan, fou la residència de <strong>Matilde Guadall i Rosas</strong>, hereva de les terres de <em>Can Vinyés</em>.<br>
 L’origen de la propietat de les seves terres, es remunta al mas Vinyés amb Pere Joan Vinyés i Barata. La seva filla Magdalena Vinyés es casà amb Antoni Pi de la Serra, de Rubí, i així la finca passà a la família Pi de la Serra, que en mantingué el cognom però residí a Rubí.<br>
-A mitjan segle XIX, Domènec Pi de la Serra i Margenat, hereu de la nissaga, parcel·là part dels terrenys de Can Vinyés i urbanitzà la zona sud de l’actual carrer de Sant Joan, configurant un dels primers nuclis del poble de Matadepera.<br>
-El seu fill Josep Pi de la Serra i Rosàs, ofegat pels deutes, vengué la finca el 8 de març de 1900 a Wenceslau Guadall i Mateu, comerciant barceloní, casat amb Eduvigis Rosàs i Saladrigas. En morir Wenceslau el 1923, la propietat passà a la seva filla Matilde Guadall i Rosàs, que en fou titular fins a la seva mort el 1987.`,
-    origen:`Prové directament del cognom Guadall, ja que la casa fou residència de Matilde Guadall i Rosàs, propietària de les terres de <em>Can Vinyés</em>.`,
+A mitjan del segle XIX, Domènec Pi de la Serra i Margenat, hereu de la nissaga, parcel·là part dels terrenys de Can Vinyés i urbanitzà la zona sud de l’actual carrer de Sant Joan, configurant un dels primers nuclis del poble de Matadepera.<br>
+El seu fill Josep Pi de la Serra i Rosas, ofegat pels deutes, vengué la finca el 8 de març de 1900 a Wenceslau Guadall i Mateu, comerciant barceloní, casat amb Eduvigis Rosas i Saladrigas. En morir Wenceslau el 1923, la propietat passà a la seva filla Matilde Guadall i Rosas, que en fou titular fins a la seva mort el 1987.`,
+    origen:`Prové directament del cognom Guadall, ja que la casa fou residència de Matilde Guadall i Rosas, propietària de les terres de <em>Can Vinyés</em>.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 4, Matadepera`
    },
 "cal-marcet": {
@@ -1084,7 +1084,7 @@ Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, orig
   };
 
 /* ============================================================
-   PANEL INFORMATIU - Versió final, neta i estable
+   PANEL INFORMATIU
    Funcionalitats:
    - Obertura del panell amb contingut
    - Marcatge de la fila activa
