@@ -240,11 +240,23 @@ La Maria i l’Angelina, tot i que en un principi van viure a la casa del carrer
    },
 "cal-ferreret": {
     title:`Cal Ferreret`,
-    altres:``,
-    historia:`Casa amb prop de 130 anys d’història (1890 – 2017).<br>
-La casa va acollir una ferreria, que li va donar el nom, però també una merceria, una tenda d’ultramarins, l’administració de la Germandat de Sant Sebastià, un taller de confecció i fins i tot una botiga de fotografia.`,
-    origen:`Inicialment conegut com <em>Cal ferrer Nou</em>, quant Salvador Sellarès Pi, va comprar la casa a Francisco Padrós Codina el 1890, per viure-hi i muntar-hi una ferreria. 
-El seu fill Josep Sellarès Pi, que seguiria les passes del seu pare, condicionaria definitivament el sobrenom de <em>Cal Ferreret</em>`,
+    altres:`Cal Ferrer Nou`,
+    historia:`<strong>Casa amb m&eacute;s de 185 anys d&rsquo;hist&ograve;ri</strong>a<br>
+        <br>
+        L&rsquo;any 1834, Dom&egrave;nec Pi de la Serra i Margenat parcel&middot;l&agrave; part dels seus terrenys de <em>Can Viny&eacute;s</em> i urbanitz&agrave; la zona sud de l&rsquo;actual carrer de Sant Joan, iniciant els primers establiments de nord a sud per la banda de ponent, just davant d&rsquo;on avui hi ha l&rsquo;esgl&eacute;sia, que encara no existia.<br>
+        <br>
+        Despr&eacute;s dels tres primers establiments, el dia abans de Nadal d&rsquo;aquell mateix any, establ&iacute; 37 pams (casal i mig) a favor de Joan Ventayol al carrer de la Llagosta, nom amb qu&egrave; era conegut el carrer nou de Matadepera, que apareix amb diferents denominacions segons l&rsquo;escriptura notarial. Actualment &eacute;s el carrer de Sant Joan.<br>
+        <br>
+        Joan Ventayol, despr&eacute;s de set anys sense edificar i abans d&rsquo;exhaurir el termini imposat per Pi de la Serra, vengu&eacute; el terreny el 28 de novembre de 1841 a Jeroni Padr&oacute;s i Puigdoura, de <em>Can Farr&eacute;s de Baix</em>, qui s&iacute; que hi    constru&iacute; una casa de planta baixa i pis, pensada per establir-s&rsquo;hi en casar-se amb Maria Codinas i Ventayol, dos anys m&eacute;s tard. Al padr&oacute; de 1865 ja hi consta vivint la fam&iacute;lia Padr&oacute;s, amb cinc fills.<br>
+        <br>
+        El 13 de desembre de 1878 fou embargat Francesc Gorina i Riera, darrer propietari del mas <em>Can Gorina</em>, que rest&agrave; literalment al carrer amb tota la seva fam&iacute;lia i els mobles. Despr&eacute;s de passar un temps allotjats en diferents cases per la solidaritat de la gent del poble, finalment Jeroni Padr&oacute;s, que ja no hi vivia, els llog&agrave; aquesta casa del carrer de Sant Joan.<br>
+        <br>
+        Jeroni Padr&oacute;s mor&iacute; el 27 de juliol de 1888 a Matadepera sense deixar    testament. El seu fill gran i hereu &uacute;nic, Francesc Padr&oacute;s Codina, que ja    vivia a Sant Pere de Terrassa, vengu&eacute; la casa l&rsquo;11 de febrer de 1890 a    <strong>Salvador Sellar&egrave;s Pi </strong>(1857&ndash;1935), de <em>Can Robert</em>, que ja hi residia, casat    feia poc m&eacute;s de dos anys amb <strong>Elvira Pi Soler</strong> (1861-1927), de &laquo;<em>Cal Xic    Xumeco</em>&raquo;, i hi havia instal&middot;lat una ferreria. El seu primer fill, <strong>Josep Sellar&egrave;s Pi</strong> (1888&ndash;1973), seria qui acabaria sent conegut com &laquo;<em>el Ferreret</em>&raquo; i consolidaria definitivament el renom de la casa.<br>
+        <br>
+        Aquesta casa, que fou resid&egrave;ncia i lloc de naixement dels descendents de la fam&iacute;lia Sellar&egrave;s durant tres generacions, a m&eacute;s de la ferreria, acoll&iacute; tamb&eacute; una merceria. M&eacute;s endavant, la ferreria es convert&iacute; en una botiga d&rsquo;ultramarins; durant molts anys tamb&eacute; hi tingu&eacute; la seu l&rsquo;administraci&oacute; de la Germandat de Sant Sebasti&agrave;, tamb&eacute; hi va haver un taller de confecci&oacute; i fins i tot una botiga de fotografia.`,
+    origen:`Quan <strong>Salvador Sellar&egrave;s Pi</strong> (1857&ndash;1935) compr&agrave; la casa a Francesc Padr&oacute;s Codina l&rsquo;any 1890 per viure-hi i muntar-hi una ferreria, fou coneguda com &laquo;<em><strong>Cal Ferrer Nou</strong></em>&raquo;, ja que a Matadepera ja hi havia altres ferrers des de finals del segle XIX, els Riba, vinguts de Sant Lloren&ccedil; Savall.<br />
+  <br />
+Ben aviat, el seu fill <strong>Josep Sellar&egrave;s Pi </strong>(1888&ndash;1973) segu&iacute; l&rsquo;ofici del pare. Per aquell vailet que tamb&eacute; feia de ferrer, la casa pass&agrave; a ser coneguda definitivament com &laquo;<strong><em>Cal Ferreret</em></strong>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 39, Matadepera`
    },
 "cal-fuster": {
