@@ -916,7 +916,7 @@ Quan la Maria i el Felip es van casar, van anar a viure al carrer Sant Joan, a c
 "ca-lespanol": {
     title:`Ca l'Español`,
     altres:``,
-    historia:`Darrer establiment fet pels Pratginest&oacute;s al carrer de Sant Lloren&ccedil;, dins dels  terrenys de <em>Can Gorina</em> i a tocar de l&rsquo;heretat de <em>Can Sola</em>,  realitzat per Jaume Pratginest&oacute;s i Pi l&rsquo;any 1839 a favor de Salvador Sala.<br>
+    historia:`Darrer establiment fet pels Pratginest&oacute;s al carrer de Sant Lloren&ccedil;, dins dels  terrenys de <em>Can Gorina</em> i a tocar de l&rsquo;heretat de <em>Can Sola</em>,  realitzat per Jaume Pratginest&oacute;s i Pi l&rsquo;any 1839 a favor de Salvador Sala, fill de <em>Cal l’Espardenyer</em>.<br>
 <br>
   L&rsquo;any 1926, <strong>Jaume Espanyol i Serraclara</strong> (1889&ndash;1960), casat  amb Adela Ramon Gunfaus (1900&ndash;1987), de &laquo;<em>Cal Muletes</em>&raquo;, compr&agrave; aquesta  casa a Rosa Sala Argem&iacute; (1891&ndash;1960), n&eacute;ta de Salvador Sala Planell. Els Espa&ntilde;ol  Ramon, amb el seu fill Arturo Espanyol Ramon (1926&ndash;1998), casat amb Teresa Mora  Corbera, formaren la coneguda nissaga dels Espa&ntilde;ol al poble.<br>
 <br>
