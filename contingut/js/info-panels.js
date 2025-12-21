@@ -902,13 +902,6 @@ Als voltants dels anys trenta del segle XX, en aquesta casa  hi vivia <strong>Jo
     origen:`L'avi Xumeco, que mai no perdia l'humor, sembrava tomàquets i feia bones penjades d'aquells petits, per a sucar el pa o fer sofregits; ell en deia «Xumecus» i això va condicionar el sobrenom.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 29, Matadepera`
    },
-"cal-simon-dels-carros": {
-    title:`Cal Simon dels Carros`,
-    altres:``,
-    historia:``,
-    origen:``,
-    adreca:`Adreça actual: Carrer de Sant Llorenç, 30, Matadepera`
-   },
 "cal-poeto": {
     title:`Cal Poetó`,
     altres:`Cal Rajoler`,
@@ -919,6 +912,24 @@ Quan la Maria i el Felip es van casar, van anar a viure al carrer Sant Joan, a c
 <br>
 <strong><em>Cal Rajoler</em></strong>: Nom que prengué la casa quan hi anaren a viure Felip Elies Padilla casat amb Maria Font Tarrés. En Felip, que era rajoler i propietari d’una bòbila a Matadepera, donà així un altre renom a la casa familiar.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 31, Matadepera`
+   },
+"ca-lespanol": {
+    title:`Ca l'Español`,
+    altres:``,
+    historia:`Darrer establiment fet pels Pratginest&oacute;s al carrer de Sant Lloren&ccedil;, dins dels  terrenys de <em>Can Gorina</em> i a tocar de l&rsquo;heretat de <em>Can Sola</em>,  realitzat per Jaume Pratginest&oacute;s i Pi l&rsquo;any 1839 a favor de Salvador Sala.<br>
+<br>
+  L&rsquo;any 1926, <strong>Jaume Espanyol i Serraclara</strong> (1889&ndash;1960), casat  amb Adela Ramon Gunfaus (1900&ndash;1987), de &laquo;<em>Cal Muletes</em>&raquo;, compr&agrave; aquesta  casa a Rosa Sala Argem&iacute; (1891&ndash;1960), n&eacute;ta de Salvador Sala Planell. Els Espa&ntilde;ol  Ramon, amb el seu fill Arturo Espanyol Ramon (1926&ndash;1998), casat amb Teresa Mora  Corbera, formaren la coneguda nissaga dels Espa&ntilde;ol al poble.<br>
+<br>
+  Jaume Espanyol i Serraclara fou paleta constructor, ofici  que continuaren tots els seus descendents, per&ograve; destac&agrave; especialment per la  seva forta personalitat i per les seves actuacions en el teatre local durant  les primeres d&egrave;cades del segle XX. Era un personatge molt reconegut i estimat,  amb una manera d&rsquo;actuar pr&ograve;pia i inconfusible, especialment recordada en el seu  paper de diable als <em>Pastorets</em>, que el convert&iacute; en una figura emblem&agrave;tica  del teatre popular matadeperenc. Matadepera li t&eacute; dedicat un carrer.`,
+    origen:`M&eacute;s que per un renom concret, la casa fou coneguda pel cognom de la nissaga  Espa&ntilde;ol, una fam&iacute;lia molt destacada en la vida social i en l&rsquo;activitat  constructiva de Matadepera.</p>`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 35, Matadepera`
+   },
+"cal-simon-dels-carros": {
+    title:`Cal Simon dels Carros`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 30, Matadepera`
    },
 "cal-fuster-crispin": {
     title:`Cal Fuster Crispin`,
