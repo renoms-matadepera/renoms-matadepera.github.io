@@ -287,18 +287,6 @@ Altre versions també expliquen que, com que el carrer Sant Joan era part del ca
 Sigui per una raó, per l'altra o totes dues, la família va acabar sent coneguda com <em>Cal Muletes</em>`,
     adreca:`Adreça actual: Carrer de Sant Joan, 43, Matadepera`
    },
-"ca-lassuncion": {
-    title:`Ca l'Assuncion`,
-    altres:``,
-    historia:`Aquesta va ser <strong>la primera casa del nou nucli urbà de Matadepera</strong>.<br>
-Cap a finals del segle XVIII, en Narcís Gorina, de Can Gorina, aclaparat pels deutes, decidí parcel·lar les seves terres al voltant del Camí Ral per establir-hi famílies a la vora del camí.<br>
-El 7 de desembre de 1786, Narcís Gorina vengué a Tomàs Martí, qui més endavant donaria nom a la nissaga de <em>Cal Tomasset</em>, una parcel·la situada al límit de les terres de Can Vinyés, per edificar-hi una casa de 45 pams d’amplada per 27 canes de llargada (aprox. 10,50 m de façana per 41,85 m de fons).<br>
-Amb el pas dels anys, la propietat passà a la família Genescà. Allà hi visqué <strong>Assumpció Clusellas Clapés</strong> (1873-1961), casada amb Joan Genescà Cortés (1874-1922).<br>
-Quan Assumpció quedà vídua el 1922, als 49 anys, continuà vivint a la casa fins a la seva mort als 88 anys, després de 39 anys de viduïtat. Aquest llarg període explicaria que el nom de la casa acabés associat a ella.`,
-    origen:`El renom <em>Ca l’Assuncion</em> prové d’Assumpció Clusellas, que hi visqué molts anys. Popularment, el seu nom es pronunciava “Assunsion”, amb una n final a la manera castellana però amb fonètica catalana, un tret habitual a la cultura rural d’aquella època.<br>
-Per respecte a la memòria oral, conservem l’escriptura “Ca l’Assuncion”, tot i que en català normatiu el nom és Assumpció.`,
-    adreca:`Adreça actual: Carrer de Sant Joan, 44, Matadepera`
-   },
 "cal-mabres": {
     title:`Cal Mabres`,
     altres:``,
@@ -343,6 +331,18 @@ Cal destacar també que, l’any 1846, fou un dels primers cafès i sales de bal
 <br>
 <em>Cal Parramon</em>: pel cognom del darrer carnisser que hi va haver.`,
     adreca:`Adreça actual: Plaça de la Germandat de Sant Sebastià, Matadepera`
+   },
+"ca-lassuncion": {
+    title:`Ca l'Assuncion`,
+    altres:``,
+    historia:`Aquesta va ser <strong>la primera casa del nou nucli urbà de Matadepera</strong>.<br>
+Cap a finals del segle XVIII, en Narcís Gorina, de Can Gorina, aclaparat pels deutes, decidí parcel·lar les seves terres al voltant del Camí Ral per establir-hi famílies a la vora del camí.<br>
+El 7 de desembre de 1786, Narcís Gorina vengué a Tomàs Martí, qui més endavant donaria nom a la nissaga de <em>Cal Tomasset</em>, una parcel·la situada al límit de les terres de Can Vinyés, per edificar-hi una casa de 45 pams d’amplada per 27 canes de llargada (aprox. 10,50 m de façana per 41,85 m de fons).<br>
+Amb el pas dels anys, la propietat passà a la família Genescà. Allà hi visqué <strong>Assumpció Clusellas Clapés</strong> (1873-1961), casada amb Joan Genescà Cortés (1874-1922).<br>
+Quan Assumpció quedà vídua el 1922, als 49 anys, continuà vivint a la casa fins a la seva mort als 88 anys, després de 39 anys de viduïtat. Aquest llarg període explicaria que el nom de la casa acabés associat a ella.`,
+    origen:`El renom <em>Ca l’Assuncion</em> prové d’Assumpció Clusellas, que hi visqué molts anys. Popularment, el seu nom es pronunciava “Assunsion”, amb una n final a la manera castellana però amb fonètica catalana, un tret habitual a la cultura rural d’aquella època.<br>
+Per respecte a la memòria oral, conservem l’escriptura “Ca l’Assuncion”, tot i que en català normatiu el nom és Assumpció.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 44, Matadepera`
    },
 "cal-gallifa": {
     title:`Cal Gallifa`,
