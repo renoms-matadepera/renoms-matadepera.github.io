@@ -844,14 +844,11 @@ Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquiri
    },
 "cal-sidro": {
     title:`Cal Sidro`,
-    altres:`Ca les Galotes<br>
-Ca la Doloretes`,
+    altres:`Ca la Doloretes`,
     historia:``,
     origen:`<em>Cal Sidró</em>: Deformació del nom Isidre, d’Isidre Lladó, avi de la Maria Lladó, esposa del Peret de Can Arnella.<br>
 <br>
-<em>Ca la Doloretes</em>: Pel nom de la mare de dues filles, una de les quals es va casar amb en Miquel Marimon i Costa, del servei d’autocars Marimon.<br>
-<br>
-Més tard, la casa passaria a ser coneguda com <em>Ca les Galotes</em>, pel malnom associat a les dues germanes.`,
+<em>Ca la Doloretes</em>: Pel nom de la mare de dues filles, una de les quals es va casar amb en Miquel Marimon i Costa, del servei d’autocars Marimon.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 11, Matadepera`
    },
 "ca-la-feliueta": {
