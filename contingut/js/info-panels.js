@@ -985,8 +985,13 @@ Ca l'Abuela`,
 "cal-mingo": {
     title:`Cal Mingo`,
     altres:``,
-    historia:``,
-    origen:`Contracció del nom de Domingo Comasòlivas`,
+    historia:`Aquesta &eacute;s la casa que probablement en Jaume Torrella, l&rsquo;any 1826, establ&iacute; 50 pams d&rsquo;amplada per 26 canes de llarg&agrave;ria a en Pau Cuixar i Rovira, i que va heretar la seva filla Francesca, casada amb Joan Pi Cort&egrave;s, de <em>Cal Xumeco</em>.<br>
+<br>
+Per&ograve; &eacute;s m&eacute;s coneguda per ser la resid&egrave;ncia de la fam&iacute;lia d&rsquo;en <strong>Domingo Comas&ograve;livas Borrell </strong>(1930&ndash;2015), en &laquo;<em>Mingo</em>&raquo;, considerat un dels darrers representants de la Matadepera rural, la de les vinyes i els conreus.<br>
+Nascut el 31 de desembre de 1930 a la masia de <em>Can Gorina</em>, en &laquo;<em>Mingo</em>&raquo; va ser el tercer de sis germans. La seva fam&iacute;lia hi havia viscut des de feia prop d&rsquo;un segle. Va treballar de pag&egrave;s a la masia fins als 28 anys, quan es va casar amb Magdalena Font Utset, de <em>Cal Corcola</em>, i anaren a viure a aquesta casa, que encara avui conserva el seu aspecte rural, amb l&rsquo;entrada plena de botes de vi i estris del camp.<br>
+Per guanyar-se una mica m&eacute;s la vida, va fer d&rsquo;escorxador a Terrassa i a la comarca, &ldquo;perqu&egrave; aix&ograve; de pag&egrave;s no donava gaire per viure, i tot i aix&iacute; et feies un tip de treballar per no res&rdquo;, segons explicava en una entrevista a La Gaseta de Matadepera de l&rsquo;octubre de 2001.<br>
+Nomenat &laquo;Amic Gegant&oacute;&raquo; l&rsquo;any 2001, en &laquo;Mingo&raquo; sempre va enyorar la Matadepera rural, aquella de pocs centenars d&rsquo;habitants en qu&egrave; tothom es coneixia. &ldquo;Les coses han canviat molt &mdash;havia dit&mdash;, i &eacute;s una ll&agrave;stima que els nens d&rsquo;avui no s&agrave;piguen qu&egrave; &eacute;s una gallina&rdquo;.`,
+    origen:`El renom &laquo;Mingo&raquo; prov&eacute; de la contracci&oacute; del nom Domingo, propi de Domingo Comas&ograve;livas Borrell.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 77, Matadepera`
    },
 "cal-garbonaire": {
