@@ -106,9 +106,11 @@ Dels seus fills descendeixen diverses branques de la família Gutés de Matadepe
 "cal-dents-xic": {
     title:`Cal Dents Xic`,
     altres:`Cal Crema Morros`,
-    historia:`Joan Arola Caelles era fill de “Cal Dents”. El seu germà gran, Josep Arola, l’hereu, es va quedar amb la casa i els terrenys <em>Cal Dents</em>, situats a la carretera de Terrassa, 23, cantonada amb el carrer Balmes, que arribaven fins al capdavall del carrer Balmes, a la cantonada amb el carrer Montserrat.<br>
-En Joan Arola es va instal·lar en aquesta casa del carrer Sant Joan, on hi tenia una botiga de queviures. Va ser alcalde de Matadepera abans i durant la Guerra. Com a alcalde, el 6 de desembre de 1925, en Joan Arola va col·locar una ampolla als fonaments de les noves escoles de la carretera de Terrassa, amb els noms de tots els membres del consistori.<br>
-També era conegut pel malnom de <em>Crema Morros</em>.`,
+    historia:`<strong>Joan Arola Caelles</strong> era <strong>fill de &laquo;<em>Cal Dents</em>&raquo</strong>;. El seu germ&agrave; gran, Josep Arola,  l&rsquo;hereu, es va quedar amb la casa i els terrenys de Cal Dents, situats a la  carretera de Terrassa, 23, cantonada amb el carrer Balmes, que arribaven fins  al capdavall del carrer Balmes, a la cantonada amb el carrer Montserrat.<br>
+  <br>
+  En Joan Arola es va instal&middot;lar en aquesta casa del carrer Sant Joan, on hi  tenia una botiga de queviures. Va ser alcalde de Matadepera abans i durant la  Guerra. En qualitat d&rsquo;alcalde, l&rsquo;any 1923 va col&middot;locar una ampolla als  fonaments de les futures escoles de la carretera de Terrassa, amb els noms de  tots els membres del consistori. Aquelles escoles serien inaugurades el 20 de  desembre de 1925.<br />
+  <br>
+  Tamb&eacute; era conegut pel malnom de &laquo;<em>Crema Morros</em>&raquo;.`,
     origen:`L’origen del malnom <em>Crema Morros</em> ve d’un episodi explicat per Magdalena Font, segons el qual en Joan Arola, en veure una nena al seu càrrec amb els morros tacats de xocolata —fet que delatava que n’havia agafat de la botiga—, li hauria netejat la cara amb una collera calenta.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 23, Matadepera`
    },
