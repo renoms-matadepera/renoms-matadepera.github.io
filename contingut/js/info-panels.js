@@ -1092,8 +1092,8 @@ Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, orig
 
 
 // Carrer de Josep Porcar
-"cal-llavitallat": {
-    title:`Cal Llavitallat`,
+"cal-bocatort": {
+    title:`Cal Bocatort`,
     altres:``,
     historia:``,
     origen:``,
