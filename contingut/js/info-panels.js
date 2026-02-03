@@ -870,8 +870,14 @@ Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquiri
 "cal-pelleringa": {
     title:`Cal Pelleringa`,
     altres:``,
-    historia:``,
-    origen:`El renom <em>Cal Pelleringa</em> prové de Salvador Puig. L'any 1875, mentre treballava tallant arbres amb altres homes, un carreter els va demanar qui el convidava a esmorzar. Algú, fent broma, va dir que el Salvador, perquè havia matat un porc gros. Però ell va respondre que ja quasi no en quedava res, “només una pelleringa”. L’expressió va fer gràcia i d’aquí va sorgir el nom.`,
+    historia:`L&rsquo;any 1824</strong>, els Pratginest&oacute;s, Maria  Pi, v&iacute;dua de Josep Pratginest&oacute;s i Gorina (creador de la part alta a ponent del  carrer de Sant Joan) i el seu fill Jaume, continuaren venent parcel&middot;les, ara a  pontet del Cam&iacute; Ral de Sant Lloren&ccedil; Savall (actual carrer de Sant Lloren&ccedil;), en  una zona que havia estat boscosa i coneguda com &laquo;el bosc del Cam&iacute; Ral&raquo;.<br>
+    <br>
+  El 19 de desembre  d&rsquo;aquell mateix any establiren en aquest indret una parcel&middot;la de 37 pams  d&rsquo;amplada (un casal i mig) i de allargaria fins a la Riera de les Arenes a <strong>Mart&iacute;  Puig i Botifoll</strong>, natural de Sant Vicen&ccedil; de Castellet, amb el comprom&iacute;s  d&rsquo;edificar-hi en el termini de sis anys.<br>
+  <br>
+  <strong>Mart&iacute; Puig i Botifoll</strong>, casat amb Ant&ograve;nia  Sala Planell, de <em>Cal l&rsquo;Espardenyer</em>, s&rsquo;establ&iacute; en aquesta casa. El  matrimoni tingu&eacute; dos fills, Salvador i Francesc, dels quals descendiria la  nissaga dels <strong>Puig-Tordera</strong>.<br>
+  <br>
+  <strong>En Salvador </strong>fou qui don&agrave; origen al  renom de la casa.`,
+    origen:`El renom &laquo;<em>Cal  Pelleringa</em>&raquo; prov&eacute; de <strong>Salvador Puig i Sala </strong>(1832&ndash;1906). L&rsquo;any 1875,  mentre treballava tallant arbres amb altres homes, un carreter els va demanar  qui el convidava a esmorzar. Alg&uacute;, fent broma, va dir que el Salvador, perqu&egrave;  havia matat un porc gros. Per&ograve; ell va respondre que ja quasi no en quedava res,  &laquo;<em>nom&eacute;s una pelleringa</em>&raquo;. L&rsquo;expressi&oacute; va fer gr&agrave;cia i d&rsquo;aqu&iacute; va sorgir el renom.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 19, Matadepera`
    },
 "cal-segarri": {
