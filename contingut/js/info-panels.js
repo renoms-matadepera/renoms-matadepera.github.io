@@ -1099,7 +1099,7 @@ Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, orig
     origen:``,
     adreca:`Adreça actual: Carrer de Josep Porcar, 37, Matadepera`
    },
-"cal-dr.-boya": {
+"cal-dr-boya": {
     title:`Cal Dr. Boya`,
     altres:``,
     historia:`Josep Boya Saura va  n&eacute;ixer el 4 de novembre de 1899 a Campo (Osca), en el si d&rsquo;una fam&iacute;lia molt  nombrosa i humil. Va cursar el batxillerat als Escolapis de Barbastro,  compaginant els estudis amb feines al mateix col&middot;legi per poder-se&rsquo;ls costejar.  Posteriorment es va llicenciar en medicina a la Facultat de Medicina de  Barcelona, mentre treballava a la Catalana de Gas i Electricitat. Un cop  acabada la carrera, l&rsquo;any 1926, fou destinat a Vacarisses i, a finals de 1929,  despr&eacute;s de superar unes oposicions a Madrid, obtingu&eacute; la pla&ccedil;a de metge titular  de Matadepera, c&agrave;rrec que exerc&iacute; fins a la seva mort, amb nom&eacute;s 51 anys.<br>
