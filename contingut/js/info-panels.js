@@ -788,7 +788,7 @@ Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina er
     title:`Cal Talant`,
     altres:``,
     historia:``,
-    origen:`En Joan Gutés de cal Monet festejava l'Angeleta de cal Rei. Sortí un altre pretendent i, en fer-li observar els amics que li perillava la promesa perquè el pretendent tenia molt talent, respongué que ell tenia més talent (presència o decisió) i així nasqué el motiu de "Talant".`,
+    origen:`En Joan Gutés de cal Monet festejava l'Angeleta de cal Rei. Sortí un altre pretendent i, en fer-li observar els amics que li perillava la promesa perquè el pretendent tenia molt talent, respongué que ell tenia més talant (presència o decisió) i així nasqué el motiu de «Talant».`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 29, Matadepera`
    },
 "ca-loliva": {
@@ -844,14 +844,19 @@ Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquiri
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 7, Matadepera`
    },
+"ca-la-doloretes": {
+    title:`Ca la Doloretes`,
+    altres:``,
+    historia:``,
+    origen:`<em>Ca la Doloretes</em>: Pel nom de la mare de dues filles, una de les quals es va casar amb en Miquel Marimon i Costa, del servei d’autocars Marimon.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 11, Matadepera`
+   },
 "cal-sidro": {
     title:`Cal Sidro`,
-    altres:`Ca la Doloretes`,
+    altres:``,
     historia:``,
-    origen:`<em>Cal Sidró</em>: Deformació del nom Isidre, d’Isidre Lladó, avi de la Maria Lladó, esposa del Peret de Can Arnella.<br>
-<br>
-<em>Ca la Doloretes</em>: Pel nom de la mare de dues filles, una de les quals es va casar amb en Miquel Marimon i Costa, del servei d’autocars Marimon.`,
-    adreca:`Adreça actual: Carrer de Sant Llorenç, 11, Matadepera`
+    origen:`<em>Cal Sidró</em>: Deformació del nom Isidre, d’Isidre Lladó, avi de la Maria Lladó, esposa del Peret de Can Arnella.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 13, Matadepera`
    },
 "ca-la-feliueta": {
     title:`Ca la Feliueta`,
@@ -1021,13 +1026,6 @@ L&rsquo;habitatge avui encara conserva el seu aspecte rural aturat en el temps, 
     historia:``,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 81, Matadepera`
-   },
-"cal-gabarro": {
-    title:`Cal Gabarró`,
-    altres:``,
-    historia:``,
-    origen:``,
-    adreca:`Adreça actual: Carrer de Sant Llorenç, 89, Matadepera`
    },
 
 
