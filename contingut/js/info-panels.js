@@ -668,6 +668,16 @@ Abans de viure a aquesta casa, la família havia estat masovera de Can Roure, d�
     origen:`En Joan Riera, molt bon caçador, era conegut com el Rei de l’escopeta i d’aquí prové el renom de la casa.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 1, Matadepera`
    },
+"cal-blanco": {
+    title:`Cal Blanco`,
+    altres:``,
+    historia:`Aquesta era una casa que avui dia ja no existeix. Estava situada a tocar de  l&rsquo;antic ajuntament, per la banda de llevant, en el lloc on actualment hi ha el  garatge de l&rsquo;edifici de pisos que ocupa l&rsquo;espai de l&rsquo;antiga fusteria de <em>Cal  Fustaret</em>.<br>
+  Hi vivia <strong>Isidre Pi Riera</strong>, un home conegut pels seus  cabells completament blancs. Es dedicava a extreure sorra de la riera,  garbellar-la i classificar-la per vendre-la al sector de la construcci&oacute;. Va ser  el principal subministrador d&rsquo;aquest tipus de sorra, coneguda com a &ldquo;palluc&rdquo;,  per als paletes de Matadepera.<br>
+  <br>
+  M&eacute;s endavant, <strong>Isidre Pi Riera</strong> va anar a viure al  n&uacute;mero 27 del mateix carrer, una casa que la gent de la nostra generaci&oacute; tamb&eacute;  recorda amb el nom de <em>Cal Blanco</em>.`,
+    origen:`El renom prov&eacute; del color de cabells d&rsquo;Isidre Pi Riera, que eren completament  blancs. El mot <em>&laquo;Blanco&raquo;</em> &eacute;s un castellanisme de <em>&laquo;blanc</em>&raquo;, pronunciat a  la manera catalana. Aquesta forma hibridada era for&ccedil;a comuna en temps passats,  quan el contacte amb el castell&agrave; influ&iuml;a sovint el parlar popular.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 2, Matadepera`
+   },
 "ca-la-bona-maria": {
     title:`Ca la Bona Maria`,
     altres:``,
@@ -776,13 +786,6 @@ Cal Guerresenyo`,
 Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina era tiet de l’Emili Gorina Puig, “El Motxo”.`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Isidre, 25, Matadepera`
-   },
-"cal-blanco": {
-    title:`Cal Blanco`,
-    altres:``,
-    historia:`<strong>Isidre Pi Riera</strong> era un home de cabells molt blancs. Es dedicava a treure sorra de la riera, garbellar-la i classificar-la per vendre-la al sector de la construcció. Era el principal subministrador d’aquest tipus de sorra, conegut com “palluc”, als paletes de Matadepera.`,
-    origen:`El renom prové del color de cabells d’Isidre Pi Riera, que eren completament blancs. El mot "Blanco" és un castellanisme de blanc, pronunciat a la manera catalana. Aquesta forma hibridada era força comuna en temps passats, quan el contacte amb el castellà influïa sovint el parlar popular.`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 27, Matadepera`
    },
 "cal-talant": {
     title:`Cal Talant`,
