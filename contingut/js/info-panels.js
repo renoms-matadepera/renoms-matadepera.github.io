@@ -690,9 +690,26 @@ D’aquí en va quedar el renom de <em>Ca la Bona Maria</em>.`,
    },
 "cal-fin": {
     title:`Cal Fin`,
-    altres:``,
-    historia:``,
-    origen:`Deformació i contracció final del nom Delfí, en referència a Delfí Busqueta, avi de Delfí Busqueta Vicente.`,
+    altres:`Cal Busquetó`,
+    historia:`L&rsquo;any 1805, en Josep Pratsginest&oacute;s realitz&agrave; un dels seus  &uacute;ltims establiments, establint en aquest lloc 25 pams de terra a <strong>Jaume  Busqueta i Alsina</strong> (1781-1852), natural del <em>Mas Busqueta</em> de Sant  Feliu del Rac&oacute;.<br>
+<br>
+  Jaume Busqueta es cas&agrave; amb <strong>Catarina Casas i Daura</strong> (1783-1861), de Vacarisses, i tingueren tres fills. Nomen&agrave; hereu el fill petit,  fet poc habitual a l&rsquo;&egrave;poca, <strong>Andreu Busqueta Casas</strong> (1823-1888), que fou  alcalde de Matadepera (1872-1873). Casat amb <strong>Paula Valls Amat</strong>, tingueren  quatre fills, origen d&rsquo;algunes de les nissagues Busqueta al poble.<br>
+<br>
+El fill gran, <strong>Jaume Busqueta Valls</strong> (1849-1915), casat  amb <strong>Isabel Torres Obiols</strong> (1854-1901), tingu&eacute; cinc fills. El tercer, <strong>Delf&iacute;  Busqueta Torras</strong> (1879-1956), casat amb <strong>J&uacute;lia Bargu&eacute;s Par&eacute;s</strong> (1883-1967), tingu&eacute; nou fills que ampliaran encara m&eacute;s les nissagues Busqueta a  Matadepera.<br>
+<br>
+El fill gran d&rsquo;aquest matrimoni, <strong>Joan Busqueta Bargu&eacute;s</strong> (1906-1977), casat amb <strong>Lucrecia Vicente Carretero</strong>, consolid&agrave; la branca  familiar de <strong>&laquo;<em>Cal Fin</em>&raquo;</strong> en aquesta casa.<br>
+<br>
+Joan Busqueta tenia un taller de bicicletes molt a prop, al  local del carrer Josep Porcar amb cantonada amb el passatge del Dr. Boya. El  seu fill, Delf&iacute; Busqueta Vicente (1934-2018), matricer a l&rsquo;AEG, hi obr&iacute; tamb&eacute;  en el mateix lloc una ferreria com a many&agrave;, aprofitant el creixement urban&iacute;stic  de Matadepera durant la d&egrave;cada de 1960. Ferreria que mantingu&eacute; fins a la  jubilaci&oacute;.<br>
+<br>
+Delf&iacute; Busqueta Vicente, conegut popularment com el &laquo;<em>Fin</em>&raquo;,  es va casar amb Montserrat Segura Cort&eacute;s, de <em>Cal Quist&oacute;</em>, a qui conegu&eacute; a  la coral del poble.<br>
+  <br>
+  <strong>&laquo;<em>El Fin</em>&raquo;</strong> fou una persona molt rellevant en la vida social i  cultural del poble. Molt vinculat al teatre des de jove, <strong>fund&agrave; el 1977 els  Amics del Teatre</strong>. Particip&agrave; activament en la construcci&oacute; de l&rsquo;antic pavell&oacute;  esportiu i en l&rsquo;organitzaci&oacute; de la Festa Major (1977-1984); fou un dels  fundadors de la formaci&oacute; pol&iacute;tica municipal Units per Matadepera i impuls&agrave;  espais com el Casal de Cultura i la biblioteca municipal. Presid&iacute; i col&middot;labor&agrave;  amb diverses entitats locals: la Germandat de Sant Sebasti&agrave;, els Amics dels  Gegants i el Club Billar Matadepera... Finalment presid&iacute; l&rsquo;Associaci&oacute; Gent Gran  de Matadepera (1999-2008).<br>
+  <br>
+  L&rsquo;any 2014  l&rsquo;Ajuntament de Matadepera li atorg&agrave; la <strong>Medalla d&rsquo;Honor del municipi</strong>.`,
+    origen:`<strong><em>Cal Busquet&oacute;</em></strong><strong>:</strong> &nbsp;Un dels primers renoms de la casa, que  provindria d&rsquo;Andreu Busqueta Casas, hereu i fill petit de Jaume Busqueta, del  qual derivaria la forma diminutiva &laquo;<em>Busquet&oacute;</em>&raquo;.<br>
+    <br>
+    <strong><em>Cal Fin</em></strong><strong>: &nbsp;</strong>&Eacute;s, per&ograve;, el renom amb qu&egrave; m&eacute;s s&rsquo;ha recordat la casa.  Prov&eacute; de la contracci&oacute; final del nom &laquo;<strong><em>Delf&iacute;n</em></strong>&raquo;, forma castellana  aleshores d&rsquo;&uacute;s habitual i pronunciada a la catalana, de <strong>Delf&iacute; Busqueta  Torras</strong> (1879-1956). Aquest sobrenom el va heretar posteriorment el seu n&eacute;t, <strong>Delf&iacute; Busqueta Vicente</strong>, popularment conegut com el &laquo;<strong><em>Fin</em></strong>&raquo;.</p>
+<em>`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 5, Matadepera`
    },
 "cal-joan-sord": {
