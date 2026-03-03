@@ -451,11 +451,29 @@ Actualment, l’edifici és un bloc de pisos.`,
     origen:`<em>Cal Macià</em> és el renom que deriva de Macià Busqueta, fill del primer propietari, que donaria continuïtat al llinatge Busqueta en aquell indret.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 62, Matadepera`
    },
-"cal-nasplè": {
-    title:`Cal Nasplè`,
-    altres:``,
-    historia:`En Nasplè treballava per a els Riba, els primers ferrers procedents de Sant Llorenç Savall que s'hi van instal·lar. Finalment, la ferreria va passar a ser seva, i per això se la coneixeria amb el seu cognom`,
-    origen:`Pel cognom del ferrer`,
+"cal-ferrer": {
+    title:`Cal Ferrer`,
+    altres:`Cal Nasplè`,
+    historia:`<strong>Narc&iacute;s Riba Sorribes</strong>, nascut a Sallent el  1836, era ferrer de professi&oacute;. Fill de Joan Riba (n. 1800), fuster, i de  Francisca Sorribas (n. 1808), es cas&agrave; amb Teresa Lleonart Vilatersana, nascuda  a Sant Lloren&ccedil; Savall el 1844.<br>
+    <br>
+A mitjan segle XIX  tenia contracte per forjar i trempar les barrines destinades a la perforaci&oacute; de  la roca per a les voladures, aix&iacute; com per mantenir les eines emprades en la  construcci&oacute; de la carretera de Matadepera a Talamanca. Com que la feina li  quedava lluny, s&rsquo;establ&iacute; a Matadepera, on instal&middot;l&agrave; la ferreria i la resid&egrave;ncia  en aquesta casa, on viuria definitivament amb la seva fam&iacute;lia.<br>
+<br>
+Amb Teresa Lleonart  tingueren tres fills: Rosa, Carme i Joan.<br>
+Carme Riba Lleonart es  cas&agrave; amb Jaume Mabres Rius i foren els pares de la coneguda &laquo;<em>Pepeta de Cal  Mabras</em>&raquo;. <br>
+Del fill Joan descendeix l&rsquo;extensa nissaga Riba de Matadepera.<br>
+<br>
+<strong>Joan Riba Lleonart</strong> (1872&ndash;1926) es cas&agrave;  amb <strong>Teresa Arnau Gorina</strong> (1881&ndash;1964) i continu&agrave; l&rsquo;ofici de ferrer del seu  pare. Tingueren dos fills: Narc&iacute;s Riba Arnau (1900&ndash;1985), &laquo;Siset&raquo;, i &Agrave;ngel Riba  Arnau (1906&ndash;2001), &laquo;Angelet&raquo;.<br>
+<br>
+Al padr&oacute; de 1911 el  matrimoni, els dos fills i l&rsquo;&agrave;via consten vivint a la Carretera de Terrassa,  11, <em>Cal Siset</em>. Probablement fou aleshores que Joan Naspl&egrave; Antonell,  nascut a Castellter&ccedil;ol el 15 d&rsquo;agost de 1885 i establert a Matadepera des de  1909 per treballar de ferrer amb els Riba, s&rsquo;instal&middot;l&agrave; a aquesta casa i pass&agrave; a  regentar la ferreria.<br>
+<br>
+<strong>Joan Naspl&egrave; Antonell</strong> (1885&ndash;1966) es cas&agrave;  amb <strong>Assumpci&oacute; Altimira Soler</strong>, de <em>Cal Quim</em>, nascuda a Matadepera  el 1888. Tingueren quatre fills: Bernard&iacute; (1912), Joaquim (1914), Teresa (1922)  i Maria (1926).<br>
+<br>
+Joaquim Naspl&egrave;  Altimira, &laquo;<em>El Quimet</em>&raquo;, continu&agrave; la ferreria en el mateix lloc fins als  seus darrers dies. Un personatge for&ccedil;a peculiar.<br>
+<br>
+Actualment la casa &eacute;s  el <em>Restaurant Cal Madu</em>, i l&rsquo;antiga ferreria &eacute;s avui un dels menjadors de la  cafeteria <em>Els Tastets de Saint Honor&eacute;</em>.<br>`,
+    origen:`<em>Cal Ferrer</em>:  pel fet que <strong>Narc&iacute;s Riba Sorribes</strong> (1836&ndash;1926) hi establ&iacute; la ferreria,  essent un dels primers ferrers documentats de Matadepera.<br>
+  <br>
+  <em>Cal Naspl&egrave;</em>:  pel cognom de <strong>Joan Naspl&egrave; Antonell</strong>, que continu&agrave; la ferreria dels Riba  en aquest mateix indret, ofici que tamb&eacute; mantingu&eacute; el seu fill Joaquim, &laquo;<em>El  Quimet</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 63, Matadepera`
    },
 "cal-roc": {
@@ -491,9 +509,21 @@ Avui, la casa original ha desaparegut i en el seu lloc s’aixeca un edifici d�
 "cal-beltra": {
     title:`Cal Beltrà`,
     altres:``,
-    historia:`Forn de pa.<br>
-Cal Beltrà ocupava des de l'actual numero 68 fins la cantonada i part del carrer, que van cedir per fer el carrer tal com es avui.`,
-    origen:`Pel Cognom`,
+    historia:`</strong>Aquest indret era propietat dels Pratginest&oacute;s i abastava des de l&rsquo;actual  n&uacute;m. 64, <em>Cal Vivet</em>, fins gaireb&eacute; tocar <em>Cal Jep</em>, la seva  resid&egrave;ncia (avui Resid&egrave;ncia Sagrada Fam&iacute;lia Matadepera). El carrer que  actualment separa els dos espais no existia, i la finca arribava pel darrere  fins a l&rsquo;actual passeig d&rsquo;&Agrave;ngel Guimer&agrave;.<br>
+    <br>
+  Durant la primera d&egrave;cada del segle XX, els Pratginest&oacute;s  llogaren aquesta lloc a <strong>Joan Oliver Casanovas</strong>, forner nascut el 1886 a  Sant Lloren&ccedil; Savall, perqu&egrave; hi instal&middot;l&eacute;s un forn i una fleca. A la banda on  avui hi ha el carrer hi havia la porta d&rsquo;acc&eacute;s a l&rsquo;estable, el galliner i la  cort dels porcs, aix&iacute; com una barra on s&rsquo;apilaven els costals de llenya i  l&rsquo;acc&eacute;s al forn.<br>
+  <br>
+  Al padr&oacute; de 1911 hi consta Joan Oliver, de 25 anys, casat  amb Manuela Rusi&ntilde;ol Garriga, tamb&eacute; de 25 anys i natural de Sant Lloren&ccedil; Savall,  amb dues filles ja nascudes a Matadepera, Josefa i Antonia. Amb ells hi vivia i  treballava des de feia sis mesos un dependent de 23 anys arribat d&rsquo;Alacant: <strong>Josep  Beltr&agrave; Valero</strong>, nascut el 1888 a El Castell de Guadalest.<br>
+  <br>
+  El 16 de juny de 1919 <strong>Josep Beltr&agrave; Valero</strong> (1888&ndash;1974)  es cas&agrave; amb <strong>Engr&agrave;cia Ventayol Aymerich</strong> (1893&ndash;1967), de Matadepera.  Tingueren tres fills: In&eacute;s, Joan i David.<br>
+  <br>
+  L&rsquo;11 de gener de 1943 Llu&iuml;sa Pratginest&oacute;s Codina  (1865&ndash;1944), &laquo;la Llu&iuml;sa de Cal Jep&raquo;, &uacute;ltima hereva dels Pratginest&oacute;s, v&iacute;dua i  sense descend&egrave;ncia, ced&iacute; tota la finca a l&rsquo;Institut de les Germanes de la  Sagrada Fam&iacute;lia a canvi d&rsquo;atenci&oacute; fins a la seva mort.<br>
+  Ja sota propietat de la comunitat religiosa, el 8 de febrer  de 1946 l&rsquo;immoble fou venut a Josep Beltr&agrave; Valero, que ja regentava el forn i  la fleca, conegut popularment com &laquo;El Forn de Cal Beltr&agrave;&raquo;. Segons expliquen els  seus descendents, en &egrave;poques de pen&uacute;ries la fam&iacute;lia Beltr&agrave; regalava m&eacute;s pa als  vilatans amb pocs recursos que no pas en venia.<br>
+  <br>
+  L&rsquo;any 1949 la fam&iacute;lia Beltr&agrave; ced&iacute; la part de la parcel&middot;la on  hi havia l&rsquo;estable i l&rsquo;acc&eacute;s al forn perqu&egrave; l&rsquo;Ajuntament hi obr&iacute;s un carrer des  del carrer de Sant Joan fins al passeig d&rsquo;&Agrave;ngel Guimer&agrave;.<br>
+  <br>
+  Aquest vial, inicialment anomenat carrer d&rsquo;Ignasi Iglesias,  fou rebatejat oficialment l&rsquo;any 2016, per acord de la Comissi&oacute; del Nomencl&agrave;tor  de l&rsquo;Ajuntament de Matadepera, com a<em> Carrer de Cal Beltr&agrave;</em>, nom amb qu&egrave;  popularment ja era conegut.`,
+    origen:`<em>Cal Beltr&agrave;</em>: pel cognom de la fam&iacute;lia que hi regent&agrave; el forn, un  dels primers de Matadepera.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 68, Matadepera`
    },
 "cal-saltlari": {
@@ -867,15 +897,18 @@ Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquiri
 "ca-la-doloretes": {
     title:`Ca la Doloretes`,
     altres:``,
-    historia:``,
-    origen:`<em>Ca la Doloretes</em>: Pel nom de la mare de dues filles, una de les quals es va casar amb en Miquel Marimon i Costa, del servei d’autocars Marimon.`,
+    historia:`En aquesta casa, als  voltants dels anys 20 del segle XX, hi van viure<strong> Enric Bargu&eacute;s i Par&eacute;s</strong>, casat  amb <strong>Dolores Puig i Sellar&egrave;s</strong>, de <em>Cal Xisco</em>. Van tenir tres fills: Joan,  Maria i Matilde.<br>
+<br>M&eacute;s tard, <strong>Maria Bargu&eacute;s  Puig</strong>, casada amb <strong>Valent&iacute; Marimon i Costa</strong>, continu&agrave; vivint a la casa juntament  amb la seva germana <strong>Matilde</strong>.`,
+    origen:`El renom de &laquo;<em>Ca la  Doloretes</em>&raquo; prov&eacute; del diminutiu afectiu i popular del nom de <strong>Dolores Puig i  Sellar&egrave;s</strong>.<br>
+<br>M&eacute;s endavant, quan Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb Maria  Bargu&eacute;s Puig i la seva cunyada Matilde, les dues germanes foren conegudes  popularment amb el malnom de &laquo;<em>les Galotes</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 11, Matadepera`
    },
 "cal-sidro": {
     title:`Cal Sidro`,
     altres:``,
     historia:``,
-    origen:`<em>Cal Sidró</em>: Deformació del nom Isidre, d’Isidre Lladó, avi de la Maria Lladó, esposa del Peret de Can Arnella.`,
+    origen:`<em>Cal Sidro</em>: Prov&eacute; de la forma popular del nom d&rsquo;<strong>Isidre Llad&oacute; Calvet</strong>. <br />
+En la parla col&middot;loquial de l&rsquo;&egrave;poca era habitual escur&ccedil;ar o alterar lleument els noms propis, i, en aquest cas, Isidre el pronunciaven com a &laquo;Sidro&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 13, Matadepera`
    },
 "ca-la-feliueta": {
