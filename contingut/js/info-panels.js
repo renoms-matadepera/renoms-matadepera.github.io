@@ -135,13 +135,13 @@ Tot i que no s’ha pogut determinar si la família Riera eren realment els carr
    },
 "cal-marco": {
     title:`Cal Marcó`,
-    altres:`Cal Petapet`,
+    altres:`Cal Peta-peta`,
     historia:`En Pi de la Serra continuava fent establiments als seus  terrenys de Can Vinyés al voltant del Cam&iacute; Ral. El 9 de novembre de 1843  establ&iacute; en aquest lloc 30 pams d&rsquo;amplada a favor de <strong>Josep Mitjana i Tarr&eacute;s</strong>,  de 27 anys, natural de la Gu&agrave;rdia (Lleida), que es va casar amb Josefa Robert i  Torras, de Matadepera.<br>
   <br>
     <strong>Cap al 1932</strong> va comprar aquesta casa <strong>Juli&agrave; G&uuml;ell  Guerrero</strong> (1898&ndash;1935). En Juli&agrave; era de Vilafranca del Pened&egrave;s. De professi&oacute;  paleta, emigr&agrave; amb 18 anys a l&rsquo;Havana (Cuba), on gr&agrave;cies al seu ofici i,  segurament al seu cognom, es va guanyar for&ccedil;a b&eacute; la vida. Passats uns anys va  tornar i conegu&eacute; al Gran Casino de Terrassa <strong>Josefa Montes&oacute; Cudi&eacute;</strong> (1903&ndash;1972), amb qui es cas&agrave;, establint-se a Terrassa. En Juli&agrave; deia sempre que  calia invertir a Matadepera i va comen&ccedil;ar per aquesta casa; per&ograve; mor&iacute; jove i la  seva esposa la va haver de llogar.<br>
     <br>
   A causa dels successius inquilins, la casa tingu&eacute; diversos  renoms. Testimonis i ve&iuml;ns de l&rsquo;&egrave;poca recorden que havia estat coneguda com <strong><em>Ca  la Castissa</em></strong>, <strong><em>Cal Pitus</em></strong>, <strong><em>Ca la Meta-meta</em></strong>,  <strong><em>Cal Pep-pep</em></strong>, <strong><em>Cal Peta-pet</em></strong> i d&rsquo;altres.<br>
-  Ens centrem en <strong><em>Cal Peta-pet</em></strong>, del qual tenim  const&agrave;ncia escrita: Era quan hi vivia en <strong>Josep Vives</strong>, que en va ser uns dels inquilins. Es dedicava  al transport de llenya, a l&rsquo;agricultura i, quan calia, feia tamb&eacute; feines de  pe&oacute;. Tamb&eacute; conegut com el &laquo;<em>Pep-pep</em>&raquo;, fou home de confian&ccedil;a de Felip  Elies, de <em>Cal Rajole</em>, quan aquest tenia forn  d&rsquo;obra i b&ograve;bila.<br>
+  Ens centrem en <strong><em>Cal Peta-peta</em></strong>, del qual tenim  const&agrave;ncia escrita: Era quan hi vivia en <strong>Josep Vives</strong>, que en va ser uns dels inquilins. Es dedicava  al transport de llenya, a l&rsquo;agricultura i, quan calia, feia tamb&eacute; feines de  pe&oacute;. Tamb&eacute; conegut com el &laquo;<em>Pep-pep</em>&raquo;, fou home de confian&ccedil;a de Felip  Elies, de <em>Cal Rajole</em>, quan aquest tenia forn  d&rsquo;obra i b&ograve;bila.<br>
   <br>
   Josefa Montes&oacute; Cudi&eacute;, v&iacute;dua de feia uns quants anys i amb  necessitats econ&ograve;miques, acab&agrave; venent la casa. El 15 d&rsquo;octubre de 1945 la  vengu&eacute; a Marc Genesc&agrave; Ventayol (1907&ndash;1986), conegut per tothom com &laquo;<strong><em>el Marc&oacute;</em></strong>&raquo;.<br>
   En Marc&oacute; era el fill petit de Cal Baldir&oacute;. Casat amb Ant&ograve;nia  Pociello Monsonet (1905&ndash;1998), <strong>s&rsquo;hi establiren definitivament cap al 1950</strong>,  on visqueren amb la seva fam&iacute;lia i descend&egrave;ncia. <br>
@@ -151,7 +151,7 @@ Tot i que no s’ha pogut determinar si la família Riera eren realment els carr
 Quan el Marc&oacute; va entrar a viure a la casa, la fam&iacute;lia Vives  es trasllad&agrave; a l&rsquo;actual carrer Josep Porcar, 41, on muntaren una carnisseria i  serien coneguts com <em>Cal Peta-peta</em>.`,
     origen:`</strong>El renom <strong><em>Cal Marc&oacute;</em></strong> prov&eacute; de Marc Genesc&agrave;, el m&eacute;s petit de  Cal Baldir&oacute;. De la contracci&oacute; del diminutiu &laquo;Marconet<em>&raquo;</em>, en qued&agrave; &laquo;Marc&oacute;<em>&raquo;</em>.<br>
 <br>
-Pel que fa al renom <strong><em>Cal Petapet</em></strong>, era  un dels varis molts pels quals es coneixia la fam&iacute;lia Vives, antics estadants  de la casa abans de instal&middot;lar-s&rsquo;hi la fam&iacute;lia de &laquo;<em>Cal Marc&oacute;&raquo;</em>.`,
+Pel que fa al renom <strong><em>Cal Peta-peta</em></strong>, era  un dels varis molts pels quals es coneixia la fam&iacute;lia Vives, antics estadants  de la casa abans de instal&middot;lar-s&rsquo;hi la fam&iacute;lia de &laquo;<em>Cal Marc&oacute;&raquo;</em>.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 27, Matadepera`
    },
 "cal-soca": {
@@ -1168,13 +1168,16 @@ Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, orig
     origen:``,
     adreca:`Adreça actual: Carrer de Josep Porcar, 40, Matadepera`
    },
-"cal-peta-peta": {
-    title:`Cal Peta-peta`,
+"cal-peta-pet": {
+    title:`Cal Peta-pet`,
     altres:``,
-    historia:`Abans de la Guerra Civil, a la casa hi havia una carnisseria, regentada per la família que hi vivia.<br> Durant el conflicte, van perdre un fill, fet que els va afectar profundament. Incapaços de superar aquell cop, van acabar tancant la carnisseria i es van traslladar a viure a Terrassa.`,
-    origen:``,
+    historia:`Abans de la Guerra Civil, a la casa hi havia una <strong>carnisseria, regentada per Joan Arola</strong> de <em>Cal Dents Xic</em>. Durant el conflicte, van perdre un fill, fet que els va afectar profundament. Incapaços de superar aquell cop, van acabar tancant la carnisseria i es van traslladar a viure a Terrassa.<br>
+<br>
+Més endavant, quant en Marc Genescà Ventayol <em>Cal Marcó</em> va comprar la casa del Carrer Sant Joan per anar-hi viure, va llogar aquesta casa als llogaters de l’anterior propietària de la casa del carrer Sant Joan, a <strong>la família Vives, arrastrant cap aquí un del seus renoms</strong>.`,
+    origen:`<em>Cal Peta-pet</em>: Quan la família Vives es va traslladar a viure en aquesta casa, hi van portar un dels diversos renoms amb què eren coneguts al seu antic habitatge del carrer de Sant Joan.`,
     adreca:`Adreça actual: Carrer de Josep Porcar, 41, Matadepera`
    },
+
   };
 
 /* ============================================================
