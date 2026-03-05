@@ -515,10 +515,10 @@ Avui, la casa original ha desaparegut i en el seu lloc s’aixeca un edifici d�
   <br>
   Al padr&oacute; de 1911 hi consta Joan Oliver, de 25 anys, casat  amb Manuela Rusi&ntilde;ol Garriga, tamb&eacute; de 25 anys i natural de Sant Lloren&ccedil; Savall,  amb dues filles ja nascudes a Matadepera, Josefa i Antonia. Amb ells hi vivia i  treballava des de feia sis mesos un dependent de 23 anys arribat d&rsquo;Alacant: <strong>Josep  Beltr&agrave; Valero</strong>, nascut el 1888 a El Castell de Guadalest.<br>
   <br>
-  El 16 de juny de 1919 <strong>Josep Beltr&agrave; Valero</strong> (1888&ndash;1974)  es cas&agrave; amb <strong>Engr&agrave;cia Ventayol Aymerich</strong> (1893&ndash;1967), de Matadepera.  Tingueren tres fills: In&eacute;s, Joan i David.<br>
+  El 16 de juny de 1919 <strong>Josep Beltr&agrave; Valero</strong> (1888&ndash;1974)  es cas&agrave; amb <strong>Engr&agrave;cia Ventayol Aymerich</strong> (1893&ndash;1971), de Matadepera. Tingueren quatre fills: Inés, Joan, David i Francisco.<br>
   <br>
   L&rsquo;11 de gener de 1943 Llu&iuml;sa Pratginest&oacute;s Codina  (1865&ndash;1944), &laquo;la Llu&iuml;sa de Cal Jep&raquo;, &uacute;ltima hereva dels Pratginest&oacute;s, v&iacute;dua i  sense descend&egrave;ncia, ced&iacute; tota la finca a l&rsquo;Institut de les Germanes de la  Sagrada Fam&iacute;lia a canvi d&rsquo;atenci&oacute; fins a la seva mort.<br>
-  Ja sota propietat de la comunitat religiosa, el 8 de febrer  de 1946 l&rsquo;immoble fou venut a Josep Beltr&agrave; Valero, que ja regentava el forn i  la fleca, conegut popularment com &laquo;El Forn de Cal Beltr&agrave;&raquo;. Segons expliquen els  seus descendents, en &egrave;poques de pen&uacute;ries la fam&iacute;lia Beltr&agrave; regalava m&eacute;s pa als  vilatans amb pocs recursos que no pas en venia.<br>
+<br>Ja sota propietat de la comunitat religiosa, el 8 de febrer  de 1946 l&rsquo;immoble fou venut a Josep Beltr&agrave; Valero, que ja regentava el forn i  la fleca, conegut popularment com &laquo;El Forn de Cal Beltr&agrave;&raquo;.<br>
   <br>
   L&rsquo;any 1949 la fam&iacute;lia Beltr&agrave; ced&iacute; la part de la parcel&middot;la on  hi havia l&rsquo;estable i l&rsquo;acc&eacute;s al forn perqu&egrave; l&rsquo;Ajuntament hi obr&iacute;s un carrer des  del carrer de Sant Joan fins al passeig d&rsquo;&Agrave;ngel Guimer&agrave;.<br>
   <br>
