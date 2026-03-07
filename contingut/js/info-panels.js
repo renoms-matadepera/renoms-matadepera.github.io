@@ -459,8 +459,9 @@ Actualment, l’edifici és un bloc de pisos.`,
 A mitjan segle XIX  tenia contracte per forjar i trempar les barrines destinades a la perforaci&oacute; de  la roca per a les voladures, aix&iacute; com per mantenir les eines emprades en la  construcci&oacute; de la carretera de Matadepera a Talamanca. Com que la feina li  quedava lluny, s&rsquo;establ&iacute; a Matadepera, on instal&middot;l&agrave; la ferreria i la resid&egrave;ncia  en aquesta casa, on viuria definitivament amb la seva fam&iacute;lia.<br>
 <br>
 Amb Teresa Lleonart  tingueren tres fills: Rosa, Carme i Joan.<br>
-Carme Riba Lleonart es  cas&agrave; amb Jaume Mabres Rius i foren els pares de la coneguda &laquo;<em>Pepeta de Cal  Mabras</em>&raquo;. <br>
-Del fill Joan descendeix l&rsquo;extensa nissaga Riba de Matadepera.<br>
+La Rosa Riba Lleonart es casà amb Salvador Pi Soler, de <em>Cal Xic Xumeco</em>, durant molts anys carter de Matadepera i germà d’Elvira Pi Soler, de <em>Cal Ferreret</em>.<br>
+La Carme Riba Lleonart es casà amb Jaume Mabres Rius i foren els pares de la coneguda «<em>Pepeta de Cal Mabras</em>.<br>
+<strong>Del fill Joan descendeix l’extensa nissaga Riba de Matadepera</strong>.<br>
 <br>
 <strong>Joan Riba Lleonart</strong> (1872&ndash;1926) es cas&agrave;  amb <strong>Teresa Arnau Gorina</strong> (1881&ndash;1964) i continu&agrave; l&rsquo;ofici de ferrer del seu  pare. Tingueren dos fills: Narc&iacute;s Riba Arnau (1900&ndash;1985), &laquo;Siset&raquo;, i &Agrave;ngel Riba  Arnau (1906&ndash;2001), &laquo;Angelet&raquo;.<br>
 <br>
@@ -664,13 +665,23 @@ El fill Joaquim Altimira i Marcet, conegut com <em>el Quim de Can Roure</em>, es
 "cal-cesc-de-can-roure": {
     title:`Cal Cesc de can Roure`,
     altres:`Cal Jordi`,
-    historia:`Casa de la família Altimira.<br>
-En Bonaventura Altimira, procedent de Sant Vicenç, a la comarca d’Osona, prop del riu Ter, va arribar a Matadepera a finals del segle XVIII.<br>
-Un dels seus fills, l’Andreu Altimira i Carcassona, es va casar amb Teresa Marcet i Carreras, de Can Marcet. L’any 1854 els trobem com a masovers de Can Roure, on van viure amb els seus fills: Francesc, Joaquim i Maria.<br>
-En Pratginestós estableix 37 pams a nom d’Andreu Altimira i Carcassona, al costat del seu cunyat Francesc Marcet, també propietari de <em>Can Marcet</em>.
-Aquesta casa del carrer Sant Joan va passar al seu fill gran, i per tant hereu, que acabaria donant el renom a la casa.`,
-    origen:`El nom prové del diminutiu "Cesc" d’en Francesc Altimira i Marcet, fill d’Andreu Altimira i Teresa Marcet.
-Abans de viure a aquesta casa, la família havia estat masovera de Can Roure, d’aquí que el renom complet sigui <em>Cal Cesc de Can Roure</em>.`,
+    historia:`En Bonaventura Altimira,  procedent de Sant Vicen&ccedil;, a la comarca d&rsquo;Osona, prop del riu Ter, va arribar a  Matadepera a finals del segle XVIII. Un dels seus fills, Andreu Altimira i  Carcassona (1799-1886), es va casar amb Teresa Marcet i Carreras (1820-1880),  de Can Marcet. L&rsquo;any 1854 els trobem com a masovers de Can Roure, on van viure  amb els seus fills: Francesc, Joaquim i Maria.<br>
+  <br>
+  L&rsquo;any 1844, Jaume Pratginest&oacute;s estableix 37 pams a nom d&rsquo;Andreu Altimira i  Carcassona, al costat de la casa que el seu cunyat Francesc Marcet, propietari  de Can Marcet, tenia al carrer de Sant Joan.<br>
+  <br>
+Aquesta casa del carrer de Sant Joan va passar al seu fill gran, <strong>Francesc  Altimira i Marcet (1840-1903)</strong>, l&rsquo;hereu, que &eacute;s qui dona origen al renom de  la casa: <strong>&laquo;<em>Cal Cesc de Can Roure</em>&raquo;</strong>.<br>
+<br>
+No obstant aix&ograve;, molta gent que hem consultat recorda aquesta casa amb el nom  de <strong>&laquo;<em>Cal Jordi</em>&raquo;</strong>, especialment per l&rsquo;Arturo i l&rsquo;Enriqueta, a qui  anaven a buscar la llet.<br>
+<br>
+Efectivament, l&rsquo;any 1940 localitzem establerts en aquesta casa, de lloguer, <strong>Enriqueta  Sala Mas</strong>, nascuda a Matadepera el 1903, casada amb <strong>Arturo Padr&oacute;s Mussons</strong>,  pastor nascut a Matadepera el 1909. Amb ells tamb&eacute; hi vivia el pare d&rsquo;ella, <strong>Jaume  Sala Flaquer, de <em>Cal Jordi</em></strong>, aix&iacute; com la seva altra filla,  Encarnaci&oacute;, casada i amb dos fills.<br>
+<br>
+Jaume Sala Flaquer, nascut el 1870 a Rocafort, casat amb Vicenta Mas Fabr&eacute;s,  nascuda el 1881 a Mura, s&rsquo;havien establert a Matadepera l&rsquo;any 1899, inicialment  al carrer de Sant Isidre, n&uacute;m. 11 (de la numeraci&oacute; de l&rsquo;&egrave;poca). All&agrave; van tenir  quatre fills: Jordi Josep, Rosa, Enriqueta i Encarnaci&oacute;.<br>
+<br>
+<strong>L&rsquo;Enriqueta de <em>Cal Jordi</em></strong>, i el seu marit Arturo van viure en  diferents indrets del poble. Tot i aix&ograve;, per record popular aquest renom tamb&eacute;  ha quedat associat a aquesta casa.`,
+    origen:`<strong><em>Cal Cesc de Can  Roure</em></strong>: El nom prov&eacute; de la forma familiar <strong>&laquo;Cesc&raquo;</strong>,  diminutiu de Francesc, en refer&egrave;ncia a <strong>Francesc Altimira i Marcet  (1840-1903)</strong>, fill d&rsquo;Andreu Altimira i Teresa Marcet. Abans de viure en  aquesta casa, la fam&iacute;lia havia estat masovera de <em><strong>Can Roure</strong></em>, fet que  completa el renom.<br>
+  <br>
+  <strong><em>Cal Jord</em>i</strong>: El renom prov&eacute; de la  fam&iacute;lia <strong>Sala Mas</strong>. L&rsquo;Enriqueta Sala Mas, casada amb Arturo Padr&oacute;s, era  coneguda com <strong>l&rsquo;<em>Enriqueta de Cal Jordi</em></strong>, pel renom de la seva fam&iacute;lia. El  seu pare, <strong>Jaume Sala Flaquer</strong>, tenia un fill gran anomenat <strong>Jordi Josep</strong>,  i els seus descendents tamb&eacute; han continuat portant el nom de Jordi, fet que fa  pensar que el renom familiar prov&eacute; d&rsquo;algun avantpassat amb aquest nom.<br />
+Tenint en compte que a <strong>Mura</strong> tamb&eacute; hi havia una casa coneguda com<strong> &laquo;<em>Cal Jordi</em>&raquo;</strong>, &eacute;s possible que el renom fos importat d&rsquo;all&agrave;, tot i que aquest  origen encara est&agrave; pendent de confirmaci&oacute;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 91, Matadepera`
    },
 "cal-cuixes": {
@@ -899,8 +910,9 @@ Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquiri
     altres:``,
     historia:`En aquesta casa, als  voltants dels anys 20 del segle XX, hi van viure<strong> Enric Bargu&eacute;s i Par&eacute;s</strong>, casat  amb <strong>Dolores Puig i Sellar&egrave;s</strong>, de <em>Cal Xisco</em>. Van tenir tres fills: Joan,  Maria i Matilde.<br>
 <br>M&eacute;s tard, <strong>Maria Bargu&eacute;s  Puig</strong>, casada amb <strong>Valent&iacute; Marimon i Costa</strong>, continu&agrave; vivint a la casa juntament  amb la seva germana <strong>Matilde</strong>.`,
-    origen:`El renom de &laquo;<em>Ca la  Doloretes</em>&raquo; prov&eacute; del diminutiu afectiu i popular del nom de <strong>Dolores Puig i  Sellar&egrave;s</strong>.<br>
-<br>M&eacute;s endavant, quan Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb Maria  Bargu&eacute;s Puig i la seva cunyada Matilde, les dues germanes foren conegudes  popularment amb el malnom de &laquo;<em>les Galotes</em>&raquo;.`,
+    origen:`El renom de &laquo;<em>Ca la  Doloretes</em>&raquo; prov&eacute; del diminutiu afectiu i popular del nom de Dolores Puig i  Sellar&egrave;s.<br />
+  <br />
+M&eacute;s endavant, Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb Maria Bargu&eacute;s  Puig, i amb ells tamb&eacute; hi resid&iacute; la seva cunyada Matilde. Les dues germanes,  Maria i Matilde, que fins aleshores havien viscut soles a la casa, eren  conegudes popularment amb el malnom de &laquo;<em>les Galotes</em>&raquo;. `,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 11, Matadepera`
    },
 "cal-sidro": {
