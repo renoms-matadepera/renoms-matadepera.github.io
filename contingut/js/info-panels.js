@@ -918,9 +918,18 @@ M&eacute;s endavant, Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb M
 "cal-sidro": {
     title:`Cal Sidro`,
     altres:``,
-    historia:``,
-    origen:`<em>Cal Sidro</em>: Prov&eacute; de la forma popular del nom d&rsquo;<strong>Isidre Llad&oacute; Calvet</strong>. <br />
-En la parla col&middot;loquial de l&rsquo;&egrave;poca era habitual escur&ccedil;ar o alterar lleument els noms propis, i, en aquest cas, Isidre el pronunciaven com a &laquo;Sidro&raquo;.`,
+    historia:`Quan a Matadepera es parla del &laquo;<em>Sidro</em>&raquo;, molta  gent pensa en una persona molt entranyable i estimada al poble, Isidre Mart&iacute;nez  Llad&oacute;. Tanmateix, el renom de la casa no fa refer&egrave;ncia a ell, sin&oacute; al seu  besavi, <strong>Isidre Llad&oacute; Calvet, nascut a Matadepera el 1880</strong> i casat amb  Catarina Planes. Aquest Isidre Llad&oacute; &eacute;s qui va viure aquesta casa del carrer de  Sant Isidre, 13, i qui don&agrave; origen al renom.<br>
+  <br>
+  La primera refer&egrave;ncia a &laquo;<em>Cal Sidro</em>&raquo; la trobem a  la relaci&oacute; de socis de la Germandat de Sant Sebasti&agrave; de l&rsquo;any 1925, on consta  Isidre Llad&oacute; amb el sobrenom de &laquo;<em>Sidro</em>&raquo;.<br>
+  <br>
+  Isidre Llad&oacute; Calvet, casat en primeres n&uacute;pcies amb  Catarina Planes, va anar a viure inicialment al principi del carrer de Sant  Joan Sud. All&agrave; hi van tenir dos fills, Josep i Maria. Segons recorda la seva  neta Montserrat Llad&oacute; Puig, aquell indret era conegut com <em>Cal S&rsquo;Esquitlla</em>.<br>
+  <br>
+  El fill gran, <strong>Josep Llad&oacute; Planes</strong> (1910), es  cas&agrave; amb <strong>Antonia Puig Sol&agrave;</strong> (1911). Van tenir tres filles: Catarina,  Maria i Montserrat.<br>
+  <br>
+  Josep Llad&oacute; Planes fou regidor a Matadepera per ERC a  l&rsquo;Ajuntament de Concentraci&oacute; creat l&rsquo;any 1937, en plena Guerra Civil, amb Joan  Arola, &laquo;<em>Dents Xic</em>&raquo;, com a alcalde. El 14 de febrer de 1939 les  autoritats franquistes el van empresonar, com a molts altres en aquells anys.  Quan va poder sortir de la pres&oacute;, la fam&iacute;lia va anar a viure al passeig Arnau,  en una de les cases que m&eacute;s endavant serien conegudes com les cases dels  mestres. All&agrave; va n&eacute;ixer Montserrat Llad&oacute;, que ens ha ajudat a reconstruir  aquest relat.<br>
+  <br>
+  Amb els anys, la fam&iacute;lia Llad&oacute; va poder tornar al  carrer de Sant Isidre, una mica m&eacute;s avall d&rsquo;aquesta casa. Curiosament, &eacute;s en aquell  lloc on actualment viu l&rsquo;Isidre Mart&iacute;nez Llad&oacute;, conegut tamb&eacute; al poble com &laquo;<em>El  Sidro</em>&raquo;.`,
+    origen:` El renom de &laquo;Cal Sidro&raquo;  prov&eacute; de la forma popular del nom d&rsquo;Isidre Llad&oacute; Calvet. En la parla  col&middot;loquial de l&rsquo;&egrave;poca era habitual escur&ccedil;ar o alterar lleument els noms  propis, i en aquest cas Isidre es pronunciava sovint com &laquo;<em>Sidro</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 13, Matadepera`
    },
 "ca-la-feliueta": {
@@ -973,8 +982,15 @@ Als voltants dels anys trenta del segle XX, en aquesta casa  hi vivia <strong>Jo
 "cal-xumeco": {
     title:`Cal Xumeco`,
     altres:``,
-    historia:``,
-    origen:`L'avi Xumeco, que mai no perdia l'humor, sembrava tomàquets i feia bones penjades d'aquells petits, per a sucar el pa o fer sofregits; ell en deia «Xumecus» i això va condicionar el sobrenom.`,
+    historia:` Aquesta casa  fou un dels &uacute;ltims establiments fets per la v&iacute;dua de Josep Pratginest&oacute;s Gorina,  Maria Pi Illa, juntament amb el seu fill Jaume, a la part de ponent del cam&iacute;  ral de Sant Lloren&ccedil; Savall, en la zona coneguda com &laquo;<em>el bosc del cam&iacute; ral</em>&raquo;.<br>
+  <br>
+  <strong>El desembre  de l&rsquo;any 1824</strong> establ&iacute; en aquest lloc 27 pams de terra a <strong>Bartomeu Pi  Singla</strong> (&dagger;1852), que, casat amb <strong>Francesca Cort&eacute;s Codina</strong> (1806&ndash;1874),  va tenir quatre fills: Joan (1827), Magdalena (1828), Josep (1830) i Eul&agrave;lia  (1840).<br>
+  <br>
+  El fill gran, <strong>Joan  Pi Cort&eacute;s</strong>, nascut en aquesta casa l&rsquo;any 1827, &eacute;s qui acabaria donant lloc  al renom de la casa pels motius que s&rsquo;expliquen a l&rsquo;apartat &laquo;Origen del renom&raquo;.<br>
+  <br>
+  <strong>El cognom Pi</strong> ha estat hist&ograve;ricament molt est&egrave;s a Matadepera. Tant &eacute;s aix&iacute; que moltes de les  fam&iacute;lies amb arrels antigues al poble hi estem emparentades d&rsquo;una manera o  altra. Entre els descendents de la fam&iacute;lia Pi Cort&eacute;s trobem nissagues  vinculades, amb el cognoms &ldquo;Pi&rdquo;, a cases com <em>Cal Corcola</em>, <em>Cal  Pinetell</em>, <em>Cal Sereno</em>, <em>Cal Ferrer</em> o <em>Cal Ferreret</em>,  entre d&rsquo;altres.`,
+    origen:`Joan Font Pi,  &laquo;<em>Corcola</em>&raquo;, en el llibre de Miquel Ballb&eacute;: <em>Matadepera fins ara (1994)</em>,  parlant del seu avi <strong>Joan Pi Cort&eacute;s</strong>, explica:<br>
+  &laquo;<em>L&rsquo;avi Xumecu, que mai no perdia l&rsquo;humor, sembrava tom&agrave;quets i feia bones  penjades d&rsquo;aquells petits, per sucar el pa o fer sofregits. Ell en deia  &ldquo;xumecus&rdquo;, i aix&ograve; va acabar condicionant el sobrenom.</em>&raquo;`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 29, Matadepera`
    },
 "cal-poeto": {
