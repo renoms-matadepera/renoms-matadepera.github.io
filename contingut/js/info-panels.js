@@ -934,7 +934,7 @@ M&eacute;s endavant, Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb M
    },
 "ca-la-feliueta": {
     title:`Ca la Feliueta`,
-    altres:``,
+    altres:`Ca la Pastorela`,
     historia:``,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 15, Matadepera`
@@ -959,13 +959,12 @@ M&eacute;s endavant, Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb M
     origen:`El renom &laquo;<em>Cal  Pelleringa</em>&raquo; prov&eacute; de <strong>Salvador Puig i Sala </strong>(1832&ndash;1906). L&rsquo;any 1875,  mentre treballava tallant arbres amb altres homes, un carreter els va demanar  qui el convidava a esmorzar. Alg&uacute;, fent broma, va dir que el Salvador, perqu&egrave;  havia matat un porc gros. Per&ograve; ell va respondre que ja quasi no en quedava res,  &laquo;<em>nom&eacute;s una pelleringa</em>&raquo;. L&rsquo;expressi&oacute; va fer gr&agrave;cia i d&rsquo;aqu&iacute; va sorgir el renom.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 19, Matadepera`
    },
-"cal-segarri": {
-    title:`Cal Segarrí`,
-    altres:`Ca la Montserrat`,
-    historia:`Amb el temps, el lloc es va fer més conegut com <em>Ca la Montserrat</em>, pel nom de la botiga de comestibles de la família Borrell. El nom venia de la Montserrat de Cal la Feliueta, que va obrir la botiga el mateix dia que es va casar amb en Valentí Borrell, avis dels germans Borrell d’avui dia.`,
-    origen:`<em>Cal Segarri</em> sembla que prové d’un malnom vinculat a un avantpassat de la família Borrell, que era conegut per ser especialment "agarrat" o garrepa. El mot "Segarri" podria derivar de l’expressió "ser agarrat", escurçada i adaptada a la fonètica popular. En parlar ràpid, "és agarrat" pot sonar com segarrat, i amb el temps transformar-se en Segarri.
-
-Altres versions apunten que podria tractar-se d’una variant d'esgarriat, fent referència al fet que un avantpassat dels Borrell era escanyolit i escarransit, per ser molt prim i físicament feble.`,
+"ca-la-montserrat": {
+    title:`Ca la Montserrat`,
+    altres:`Cal Pelegrí<br>
+Cal Segarrí`,
+    historia:``,
+    origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 25, Matadepera`
    },
 "ca-la-pepa": {
