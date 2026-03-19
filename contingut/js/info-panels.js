@@ -852,13 +852,6 @@ Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina er
     origen:`En Joan Gutés de cal Monet festejava l'Angeleta de cal Rei. Sortí un altre pretendent i, en fer-li observar els amics que li perillava la promesa perquè el pretendent tenia molt talent, respongué que ell tenia més talant (presència o decisió) i així nasqué el motiu de «Talant».`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 29, Matadepera`
    },
-"ca-loliva": {
-    title:`Ca l'Oliva`,
-    altres:``,
-    historia:`Tenien oliveres a la font de l'Oliva a Can Candi`,
-    origen:``,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 31, Matadepera`
-   },
 "ca-la-marcelina": {
     title:`Ca la Marcelina`,
     altres:``,
@@ -868,7 +861,14 @@ El fill petit, Josep Arnau Genescà (1900-?), es casà amb Filomèna Cortès Boa
 Josep Arnau Genescà fou alcalde de Matadepera entre 1931 i 1933. Posteriorment, marxà a Caracas (Veneçuela) amb Teresa Duat, esposa del seu millor amic i cosí Marc Genescà Cortès. Davant aquesta situació, Filomèna Cortès es traslladà a viure a la seva casa natal, <em>Cal Carreter</em> (carrer de Sant Joan, actual núm. 25), amb els seus tres fills.<br>
 Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als 72 anys.`,
     origen:`El renom prové de <strong>Marcelina Genescà Arch</strong>, que en quedar vídua el 1905, als 34 anys, continuà vivint a la casa fins a la seva mort. Va ser vídua durant 38 anys, fet que explica que el nom de la casa quedés associat a ella.`,
-    adreca:`Adreça antiga: Carrer de Sant Isidre, 33, Matadepera`
+    adreca:`Adreça antiga: Carrer de Sant Isidre, 31, Matadepera`
+   },
+"ca-loliva": {
+    title:`Ca l'Oliva`,
+    altres:``,
+    historia:`Tenien oliveres a la font de l'Oliva a Can Candi`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 33, Matadepera`
    },
 "cal-baldiro": {
     title:`Cal Baldiró`,
@@ -904,6 +904,13 @@ Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquiri
     historia:``,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 7, Matadepera`
+   },
+"cal-peret-mas": {
+    title:`Cal Peret Mas`,
+    altres:``,
+    historia:``,
+    origen:`El renom «Peret Mas» prové de Pere Mas Carabasa nascut a Matadepera 1848`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 9, Matadepera`
    },
 "ca-la-doloretes": {
     title:`Ca la Doloretes`,
