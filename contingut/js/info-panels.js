@@ -941,14 +941,33 @@ M&eacute;s endavant, Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb M
    },
 "ca-la-feliueta": {
     title:`Ca la Feliueta`,
-    altres:`Ca la Pastorela`,
-    historia:``,
-    origen:``,
+    altres:`Cal Pastorelo`,
+    historia:`Entre 1822 i 1824, Maria Pi Illa, v&iacute;dua de Josep  Pratginest&oacute;s Gorina, juntament amb el seu fill i hereu Jaume, promogu&eacute; diversos  establiments a la part de ponent del cam&iacute; ral de Sant Lloren&ccedil; Savall, l&rsquo;actual  carrer de Sant Lloren&ccedil;, en la zona coneguda com &laquo;el bosc del cam&iacute; ral&raquo;.<br>
+  <br>
+  Un d&rsquo;aquests establiments fou el d&rsquo;aquest lloc <strong>l&rsquo;any 1822, concedit a  Francesc Codina, jove pag&egrave;s natural de Vacarisses</strong>, que hi adquir&iacute; una  parcel&middot;la de cinquanta pams d&rsquo;amplada que s&rsquo;estenia fins a la riera de les  Arenes, amb el comprom&iacute;s d&rsquo;edificar-hi una casa en el termini de sis anys.<br>
+  <br>
+  <strong>Francesc Codina</strong> es cas&agrave; en primeres n&uacute;pcies amb <strong>Maria Ventayol, de  Matadepera</strong>, i en segones amb Catalina Valls, de Sant Lloren&ccedil; Savall.<br>
+  <br>
+  El seu net, <strong>Joan Codina Alavedra</strong> (1859&ndash;1906), casat amb <strong>Julita  Sellar&egrave;s Sanllehi</strong> (1861&ndash;1906), va viure en aquesta casa, on van tenir <strong>set  fills</strong>. L&rsquo;any 1906 tots dos moriren amb poc temps de difer&egrave;ncia,  probablement a causa de la tuberculosi. Dos dels fills m&eacute;s petits tamb&eacute;  moririen m&eacute;s tard de la mateixa malaltia.<br>
+  <br>
+  <strong>Els fills grans, Josep</strong>, amb nom&eacute;s vint anys, <strong>i la seva germana  Montserrat</strong>, de vint-i-un, assumiren el paper de caps de fam&iacute;lia i es feren  c&agrave;rrec dels seus germans, el m&eacute;s petit dels quals tenia quatre anys.<br>
+  <br>
+  <strong>El 1911, Montserrat Codina Sellar&egrave;s es cas&agrave; amb Valent&iacute; Borrell</strong> i an&agrave; a  viure tres cases m&eacute;s amunt, on van muntar una botiga de plats i olles que m&eacute;s  endavant esdevindria un establiment de comestibles, molt conegut amb el nom de  &laquo;Ca la Montserrat&raquo;. El seu germ&agrave; gran, <strong>Josep Codina Sellar&egrave;s, es cas&agrave; el  1912 amb Maria Gorina Xandri, </strong>de <em>Cal Motxo</em>, que tamb&eacute; ajud&agrave; a  cuidar la resta de germans mentre ell treballava al bosc.<br>
+  <br>
+  Amb els anys, la fam&iacute;lia Codina es trasllad&agrave; a Terrassa. Al padr&oacute; de 1920  d&rsquo;aquesta ciutat ja hi consten residint al carrer de Topete.<br>
+  <br>
+  El 1924 hi trobem vivint en aquesta casa del carrer de Sant Lloren&ccedil;, <strong>Salvador  Casas Munuera</strong> (1877&ndash;1925), <strong>pastor, casat amb Isabel Villaescusa Avil&eacute;s</strong>,  vinguts de M&uacute;rcia amb quatre fills i tres m&eacute;s que ja naixerien a Matadepera. De  les filles del pastor descendeixen nissagues tan reconegudes al poble com <em>Cal  Tomasset</em>, <em>Cal Siset</em> i <em>Cal Mag&iacute;</em>.<br>
+  <br>
+  M&eacute;s tard, cap al 1940, tamb&eacute; hi viuria la fam&iacute;lia Rosi&ntilde;ol.`,
+    origen:`<strong><em>Ca la Feliueta</em></strong>: Per ara l&rsquo;origen d&rsquo;aquest renom &eacute;s desconegut.  La l&ograve;gica fa pensar que podria provenir d&rsquo;alguna persona anomenada &laquo;Feliua&raquo;,  per&ograve; en cap de les fam&iacute;lies esmentades des de l&rsquo;origen de la casa apareix ning&uacute;  amb aquest nom.<br>
+  <br>
+  <strong><em>Cal Pastorelo</em></strong>: Pel pastor Salvador Casas Munuera (1877&ndash;1925),  natural de M&uacute;rcia, que hi va viure als anys vint del segle XX amb la seva  fam&iacute;lia.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 15, Matadepera`
    },
 "cal-lutero": {
     title:`Cal Lutero`,
-    altres:`Cal Ton de Mura`,
+    altres:`Cal Pilé<br>
+            Cal Ton de Mura`,
     historia:``,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 17, Matadepera`
@@ -968,10 +987,20 @@ M&eacute;s endavant, Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb M
    },
 "ca-la-montserrat": {
     title:`Ca la Montserrat`,
-    altres:`Cal Pelegrí<br>
-Cal Segarrí`,
-    historia:``,
-    origen:``,
+    altres:`Cal Segarrí<br>
+Cal Pelegrí`,
+    historia:`Com la resta de cases de la banda de ponent del carrer de Sant Lloren&ccedil;,  dins la zona coneguda com &laquo;el bosc del cam&iacute; ral de Sant Lloren&ccedil; Savall&raquo;, aquest  establiment, de 27 pams d&rsquo;amplada i amb llarg&agrave;ria fins a la riera de les  Arenes, fou concedit <strong>l&rsquo;any 1824</strong> per la v&iacute;dua de Josep Pratginest&oacute;s  Gorina i el seu fill i hereu Jaume a <strong>Feliu Pobla Garrof&iacute;</strong>, de &laquo;<em>Can  Pobla</em>&raquo;.<br>
+    <br>
+  Despr&eacute;s de passar per altres propietaris, l&rsquo;any 1911 la casa pass&agrave; a mans de la  fam&iacute;lia Borrell, quan <strong>Valent&iacute; Borrell Escal&eacute;</strong>, de &laquo;<em>Can Gorina</em>&raquo;, es  cas&agrave; amb <strong>Montserrat Codina Sellar&egrave;s</strong>, de &laquo;<em>Ca la Feliueta</em>&raquo;, tots  dos nascuts el 1886. Al mateix temps hi van instal&middot;lar una botiga de plats,  olles i cassoles.<br>
+  <br>
+  En quedar v&iacute;dua, Montserrat Codina va anar a viure a Terrassa, al carrer de  Cervantes. Fins al seu retorn, l&rsquo;any 1929, la casa i la botiga van restar  llogades a una fam&iacute;lia de Terrassa. La dona es deia Peregrina, i durant aquells  anys el lloc fou conegut com &laquo;<strong><em>Cal Pelegr&iacute;</em></strong>&raquo;.<br>
+  <br>
+  Quan Montserrat Codina es torn&agrave; a establir a la casa, la botiga es transform&agrave; en  un establiment de queviures. Amb el temps, gestionada pels descendents de la  fam&iacute;lia Borrell, seria coneguda com &laquo;<strong><em>Ca la Montserrat</em></strong>&raquo; fins a  l&rsquo;actualitat.`,
+    origen:`<strong><em>Ca la Montserrat</em>:</strong> pel nom de Montserrat Codina Sellar&egrave;s (1886).<br>
+<br>
+<strong><em>Cal Segarr&iacute;</em>:</strong> sembla que prov&eacute; d&rsquo;un malnom vinculat a un  avantpassat de la fam&iacute;lia Borrell, possiblement relacionat amb el seu aspecte  prim o feble. Altres versions apunten que podria referir-se a una persona de  car&agrave;cter estalviador.<br>
+<br>
+<strong><em>Cal Pelegr&iacute;</em>:</strong> entre 1924 i 1929, un matrimoni vingut de Terrassa  regent&agrave; la botiga de plats i olles que havien muntat els Borrell. Com que la  muller es deia Peregrina, el lloc fou conegut com &laquo;<em>Cal Pelegr&iacute;</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 25, Matadepera`
    },
 "ca-la-pepa": {
