@@ -908,8 +908,12 @@ Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquiri
 "cal-peret-mas": {
     title:`Cal Peret Mas`,
     altres:``,
-    historia:``,
-    origen:`El renom «Peret Mas» prové de Pere Mas Carabasa nascut a Matadepera 1848`,
+    historia:`Al padr&oacute; de Matadepera  de 1864 hi trobem residint en aquesta casa Antonio Mas Arola, nascut a Mura el  1805, casat amb Maria Carabasa Sala, nascuda el 1822 a Castellgal&iacute;, amb els  seus fills Teresa, Antonio, Pere i Esteva.<br>
+  <br>
+  L&rsquo;any 1892 ja hi trobem el seu fill, <strong>Pere Mas Carabasa</strong>, conegut com &laquo;<em>el  Peret Mas</em>&raquo;, casat amb Vicenta Fabr&eacute;s Alavedra, de Castellbell i el Vilar.<br>
+  <br>
+  Una fotografia escolar de 1912 confirma aquest renom, quan Joan Font Pi, <em>Corcola</em>,  identifica els nens Pere i Joan Mas, de <em>Cal Peret Mas</em>, al carrer de Sant  Lloren&ccedil;. D&rsquo;acord amb les dades del padr&oacute; de 1911, es tractaria dels nets de  Pere Mas Carabasa, que encara residia a la casa amb bona part de la fam&iacute;lia.`,
+    origen:`El renom<em> &laquo;<strong>Peret  Mas</strong>&raquo; </em>prov&eacute; de <strong>Pere Mas Carabasa</strong> nascut a Matadepera el 1848.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 9, Matadepera`
    },
 "ca-la-doloretes": {
@@ -1038,6 +1042,21 @@ Quan la Maria i el Felip es van casar, van anar a viure al carrer Sant Joan, a c
 <br>
 <strong><em>Cal Rajoler</em></strong>: Nom que prengué la casa quan hi anaren a viure Felip Elies Padilla casat amb Maria Font Tarrés. En Felip, que era rajoler i propietari d’una bòbila a Matadepera, donà així un altre renom a la casa familiar.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 31, Matadepera`
+   },
+"ca-la-llucia": {
+    title:`Ca la Llúcia`,
+    altres:`Cal Pere de la Pipa`,
+    historia:`En una petita construcci&oacute; entre les cases de  <em>Cal Pueto</em> i <em>Cal Espanyol</em>, l&rsquo;any 1940 hi trobem vivint Maria  Barnet Bargall&oacute;, nascuda a Tivissa el 1904, v&iacute;dua de Josep Costa Soler, nascut  el 1902 a Mura, amb els seus fills, <strong>Ll&uacute;cia Costa Barnet</strong> (1932) i el seu  germ&agrave; Jaume (1934).<br>
+<br>
+Segons recorda la gent gran que la va con&egrave;ixer, Ll&uacute;cia Costa va ser una de les  millors cosidores del moment. El seu germ&agrave; Jaume form&agrave; part de la gran fornada  de bons paletes del poble i es cas&agrave; amb Marta Freixa, de <em>Cal Gitanet</em>.<br>
+<br>
+M&eacute;s endavant hi va viure <strong>Pere Barbero Buigas</strong> (1919&ndash;2003), casat en  primeres n&uacute;pcies amb Pepeta Vall-llovera. Era conegut com &laquo;<em>Pere de la Pipa</em>&raquo;  entre la seva generaci&oacute; i treballava com a conductor d&rsquo;autobusos i autocars.<br>
+<br>
+El seu fill, Santi Barbero Vall-llovera, es cas&agrave; amb Montserrat Llad&oacute;, de <em>Cal  Sidro</em>. Havia comen&ccedil;at fent de cobrador dels autocars de Matadepera a Terrassa,  per&ograve; acab&agrave; esdevenint un reconegut mec&agrave;nic de cotxes. Tamb&eacute; destac&agrave; com a  corredor de ral&middot;lis als anys setanta, competint amb un vehicle SEAT 600 D i  corrent per l&rsquo;escuderia MATH.`,
+    origen:`<strong><em>Cal la Ll&uacute;cia: </em></strong>pel fet que hi va viure  Ll&uacute;cia Costa Barnet (1932&ndash;1992), reconeguda cosidora.<br>
+<br>
+<strong><em>Cal Pere de la Pipa: </em></strong>per Pere Barbero Buigas (1919&ndash;2003), conegut  conductor d&rsquo;autobusos i autocars a Matadepera.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 33, Matadepera`
    },
 "ca-lespanol": {
     title:`Ca l'Español`,
