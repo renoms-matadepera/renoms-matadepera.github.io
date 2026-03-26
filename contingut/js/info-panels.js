@@ -872,13 +872,25 @@ Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als
    },
 "cal-baldiro": {
     title:`Cal Baldiró`,
-    altres:`Cal Tut`,
-    historia:`Antoni Genescà i Riera, pagès nascut a Mura el 1802, vivia a Sant Pere de Terrassa. Es va casar el 3 d’agost de 1830 amb Maria Ventayol i Pineda, de Vacarisses. Maria va morir als 30 anys de verola, poc després de tenir el segon fill. Antoni es tornà a casar amb Maria Padrós i Puigdoure, de Can Farrés de Baix, Matadepera.<br>
-El 13 d’abril de 1853, els Pratginestós li van establir una peça de terra al carrer de Sant Isidre, 33, davant la bassa que abastia els primers carrers del poble. A mitjans del segle XIX, aquesta bassa es va tapar, i més tard l’espai es convertiria en l’actual plaça de <em>Cal Baldiró</em>.<br>
-En aquest indret, Antoni i el seu fill gran Francesc van fundar <em>Cal Baldiró</em>, una fonda que esdevingué un punt neuràlgic de Matadepera, amb teatres, cafès i dues sales de ball.<br>
-Més endavant, la família Genescà va cedir una franja de la seva terra per obrir un carrer, inicialment anomenat d’Antoni Genescà i actualment Pratginestós.<br>
-Posteriorment, <em>Cal Baldiró</em> es convertí en l’Hostal del Sol, adquirit per la família San Nicolàs. Avui dia és un habitatge amb locals comercials.`,
-    origen:`D'origen desconegut, però potser inspirat amb un famós Hotel-Restaurant, de la zona alta de Barcelona, famós per els seus arrossos, que era homònim de la <em>Masia de Cal Baldiró</em>, propietat del Güell i que el devia el seu sobrenom al masover que es deia Baldiri.`,
+    altres:`Cal Tud`,
+    historia:`<strong>Antoni Genesc&agrave; Riera</strong>, pag&egrave;s nascut a Mura el 1802, vivia a Sant Pere de Terrassa. Es  cas&agrave; el 3 d&rsquo;agost de 1830 amb Maria Ventayol Pineda, de Vacarisses. Maria mor&iacute;  als trenta anys a causa de la verola, poc despr&eacute;s de tenir el segon fill.  Antoni es torn&agrave; a casar amb Maria Padr&oacute;s Puigdoure, de <em>Can Farr&eacute;s de Baix</em>,  a Matadepera.<br>
+    <br>
+  El 13 d&rsquo;abril de 1853, els Pratginest&oacute;s li establiren una pe&ccedil;a de terra al  carrer de Sant Isidre, 33, davant la bassa que abastia els primers carrers del  poble. A mitjan segle XIX, aquesta bassa es va tapar i, m&eacute;s endavant, l&rsquo;espai  es convertiria en l&rsquo;actual <em>Pla&ccedil;a de Cal Baldir&oacute;</em>.<br>
+  <br>
+  Amb el temps, la fam&iacute;lia Genesc&agrave; ced&iacute; una franja de la seva propietat per obrir  un carrer, inicialment anomenat d&rsquo;Antoni Genesc&agrave; i actualment carrer de  Pratginest&oacute;s.<br>
+  <br>
+  La fam&iacute;lia Genesc&agrave; es dedicava inicialment a la vinya, per&ograve; l&rsquo;any 1917 taparen  els dos cups de la sala central per transformar l&rsquo;espai en una primera sala de  ball, que resultava for&ccedil;a petita. El menjador es convert&iacute; provisionalment en  caf&egrave;, despr&eacute;s d&rsquo;arrencar la premsa i desmuntar les botes per pavimentar una  altra sala on tamb&eacute; s&rsquo;hi ball&agrave; durant alguns anys.<br>
+  <br>
+  Com que les tres naus de la casa quedaven petites, especialment en els moments  de m&eacute;s aflu&egrave;ncia, el p&uacute;blic hi acudia en gran nombre i sovint no s&rsquo;hi cabia.  Davant d&rsquo;aquesta situaci&oacute;, la fam&iacute;lia decid&iacute; ampliar l&rsquo;activitat i, finalment,  deix&agrave; el conreu de les terres per dedicar-se plenament a l&rsquo;oci. Aix&iacute;,  adquiriren el <em>Casino Matadeperenc</em>, situat davant mateix, al costat dret de la  pla&ccedil;a.<br>
+  <br>
+  En aquest nou espai, m&eacute;s ampli, hi desenvoluparen una activitat intensa amb  caf&egrave;, teatre i sala de ball. Fou en aquest context que sorg&iacute; el renom de &laquo;<em>Cal  Tud</em>&raquo;, arran del comentari d&rsquo;un visitant, Joan Vendrell, de Sentmenat, que  en comparar el local amb un altre del seu poble digu&eacute;: &laquo;<em>Aix&ograve; sembla Cal Tud</em>&raquo;.<br>
+  <br>
+  Paral&middot;lelament, a la casa origin&agrave;ria hi establiren la <strong><em>Fonda Baldir&oacute;</em></strong>,  que amb el temps es convert&iacute; en un dels principals centres d&rsquo;esbarjo de  Matadepera, amb caf&egrave;s, teatre i dues sales de ball.<br>
+  <br>
+  Posteriorment, la fonda es convert&iacute; en l&rsquo;Hostal del Sol, adquirit per la  fam&iacute;lia San Nicol&agrave;s. Avui dia &eacute;s un habitatge amb locals comercials.`,
+    origen:`<strong><em>Cal Tud</em></strong><strong>:</strong> pel  comentari de Joan Vendrell, de Sentmenat, que en referir-se a la nova sala de  ball va dir: &quot; <em>Aix&ograve; sembla Cal Tud</em>&quot;.<br>
+  <br>
+  <strong><em>Cal Baldir&oacute;</em></strong><strong>:</strong> d&rsquo;origen desconegut. Podria ser que, en  convertir el lloc en fonda, la fam&iacute;lia Genesc&agrave; s&rsquo;inspir&eacute;s pel nom en un conegut  hotel de la zona alta de Barcelona, l&rsquo;<em>Hotel Baldiro</em>, fam&oacute;s pels seus arrossos, hom&ograve;nim  de la <em>masia Cal Baldir&oacute;</em>, propietat dels G&uuml;ell, que devia el nom al  masover, anomenat Baldiri.`,
     adreca:`Adreça actual: Plaça del Cal Baldiró, 2, Matadepera`
    },
 
