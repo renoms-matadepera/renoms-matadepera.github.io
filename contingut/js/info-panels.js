@@ -913,8 +913,12 @@ Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als
 "cal-peret-satlari": {
     title:`Cal Peret Satlari`,
     altres:``,
-    historia:``,
-    origen:``,
+    historia:` El 19 de desembre de  1824, Maria Pi Illa, v&iacute;dua de Josep Pratginest&oacute;s Gorina, juntament amb el seu  fill i hereu Jaume, seguint la l&iacute;nia dels establiments iniciats el 1822 en  aquesta banda del cam&iacute; ral de Sant Lloren&ccedil; Savall, establiren una parcel&middot;la de  37 pams d&rsquo;amplada i amb llarg&agrave;ria fins a la riera a <strong>Francesc Satlari  Marinel&middot;lo</strong>, natural de Sant Pere de Terrassa, casat el 1819 amb Rosa Sala  Planell, de <em>Cal Espardenyer</em>. Van tenir dos fills, Mariano i Pere.<br>
+  <br>
+  <strong>Pere Satlari Sala</strong>, nascut el 1838, conegut com &laquo;<em>el Peret Satlari</em>&raquo;,  casat amb Maria Vilaret Bolart (1841), fou qui continu&agrave; vivint en aquesta casa  i don&agrave; el renom pel qual serien coneguts els seus descendents.<br>
+  <br>
+  Unes de les fonts consultades recorden la Llu&iuml;sa, que vivia en aquesta casa, i  expliquen que dues de les seves filles es casaren, una amb el de <em>Cal Ximo</em>  i una altra amb <em>l&rsquo;Angelet</em>. Amb les dades disponibles, hem pogut  comprovar que es tracta de Llu&iuml;sa Cardellach Casellas, casada amb Joan Satlari  Vilaret, fill del <em>Peret Satlari</em>. I efectivament, de les seves tres  filles, una es cas&agrave; amb Manel Garcia Gall&eacute;n, de <em>Cal Ximo</em>, i una altra amb  &Agrave;ngel Riba Arnau, <em>Cal Angelet</em>.`,
+    origen:` El renom prov&eacute; de Pere  Satlari Sala, nascut a Matadepera l&rsquo;any 1838`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 7, Matadepera`
    },
 "cal-peret-mas": {
@@ -1021,7 +1025,8 @@ Cal Pelegrí`,
    },
 "ca-la-pepa": {
     title:`Ca la Pepa`,
-    altres:``,
+    altres:`Cal Petit<br>
+Cal Peret Petit`,
     historia:`En Jaume Pratginest&oacute;s i Pi, hereu de Josep Pratginest&oacute;s i Gorina, i la seva  mare, Maria Pi i Illa (v&iacute;dua), van fer diversos establiments en aquesta zona  situada a ponent del cam&iacute; Ral de Sant Lloren&ccedil; Savall, que havia estat una &agrave;rea  boscosa coneguda com &ldquo;<em>el bosc del Cam&iacute; Ral</em>&rdquo;.<br>
 <br>
 <strong>L&rsquo;any 1824</strong>, despr&eacute;s de diversos establiments previs,  aquest fou el pen&uacute;ltim abans del de <em>Cal Xumeco</em>: establiren 37 pams  d&rsquo;amplada a favor de <strong>Lloren&ccedil; Torras i Quer</strong>, casat amb una Gorina.  Lloren&ccedil; era fill de Mag&iacute; Torras Juliana, de la pedrera (<em>Cal Mag&iacute;</em>).<br>
