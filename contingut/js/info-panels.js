@@ -5,18 +5,22 @@ const casesData = {
 "cal-camps": {
     title:`Cal Camps`,
     altres:``,
-    historia:`El seu primer propietari, mossèn Josep Camps i Colldelram, fou regent de mossèn Jaume Torres entre els anys 1906 i 1908, per motius de salut. Aquesta estada, juntament amb el fet de disposar d’una herència familiar, el portà a decidir-se per construir la casa. El projecte, datat del 1910, és obra de Bonaventura Bassegoda.`,
-    origen:`Manté la denominació de qui fou el seu primer propietari, mossèn Josep Camps i Colldelram`,
+    historia:`El seu primer  propietari, i qui va fer construir la casa, moss&egrave;n <strong>Josep Camps Colldelram</strong> (1879&ndash;1927), fou regent de moss&egrave;n Jaume Torres per motius de salut entre els  anys 1906 i 1908. Aquesta estada a Matadepera, juntament amb el fet de disposar  d&rsquo;una important her&egrave;ncia familiar, el port&agrave; a decidir-se per construir la casa  com a resid&egrave;ncia d&rsquo;estiueig.</p>
+<p>El projecte de la casa, <strong>datat de 1910</strong>, &eacute;s obra de Bonaventura Bassegoda.`,
+    origen:`Mant&eacute; la denominaci&oacute; de qui fou el seu primer propietari, <strong>Josep Camps  Colldelram</strong> (1879&ndash;1927).`,
     adreca:`Adreça actual: Carrer de Sant Joan, 3, Matadepera`
    },
 "ca-la-guadall": {
     title:`Ca la Guadall`,
     altres:``,
-    historia:`La casa, situada a l’inici del carrer de Sant Joan, fou la residència de <strong>Matilde Guadall i Rosas</strong>, hereva de les terres de <em>Can Vinyés</em>.<br>
-L’origen de la propietat de les seves terres, es remunta al mas Vinyés amb Pere Joan Vinyés i Barata. La seva filla Magdalena Vinyés es casà amb Antoni Pi de la Serra, de Rubí, i així la finca passà a la família Pi de la Serra, que en mantingué el cognom però residí a Rubí.<br>
-A mitjan del segle XIX, Domènec Pi de la Serra i Margenat, hereu de la nissaga, parcel·là part dels terrenys de Can Vinyés i urbanitzà la zona sud de l’actual carrer de Sant Joan, configurant un dels primers nuclis del poble de Matadepera.<br>
-El seu fill Josep Pi de la Serra i Rosas, ofegat pels deutes, vengué la finca el 8 de març de 1900 a Wenceslau Guadall i Mateu, comerciant barceloní, casat amb Eduvigis Rosas i Saladrigas. En morir Wenceslau el 1923, la propietat passà a la seva filla Matilde Guadall i Rosas, que en fou titular fins a la seva mort el 1987.`,
-    origen:`Prové directament del cognom Guadall, ja que la casa fou residència de Matilde Guadall i Rosas, propietària de les terres de <em>Can Vinyés</em>.`,
+    historia:`La casa, situada a  l&rsquo;inici del carrer de Sant Joan, fou la resid&egrave;ncia de <strong>Matilde Guadall i Ros&agrave;s </strong>(&dagger;1987), hereva de les terres de <em>Can Vinyers</em>.<br>
+  <br>
+L&rsquo;origen de la propietat de les seves terres, es remunta al <em>mas Viny&eacute;s</em> amb Pere Joan Viny&eacute;s i Barata. La seva filla Magdalena Viny&eacute;s es cas&agrave; amb  Antoni Pi de la Serra, de Rub&iacute;, i aix&iacute; la finca pass&agrave; a la fam&iacute;lia Pi de la  Serra, que en mantingu&eacute; el cognom per&ograve; resid&iacute; a Rub&iacute;.<br>
+<br>
+A mitjan segle XIX, Dom&egrave;nec Pi de la Serra i Margenat, hereu de la nissaga,  parcel&middot;l&agrave; part dels terrenys del <em>mas Viny&eacute;s </em>i urbanitz&agrave; la zona sud de  l&rsquo;actual carrer de Sant Joan, configurant un dels primers nuclis del poble de  Matadepera.<br>
+<br>
+El seu fill Josep Pi de la Serra i Ros&agrave;s, ofegat pels deutes, vengu&eacute; la finca  el 8 de mar&ccedil; de 1900 a Wenceslau Guadall i Mateu (1844-1923), comerciant  barcelon&iacute;, casat amb Eduvigis Ros&agrave;s i Saladrigas. En morir Wenceslau el 1923,  la propietat pass&agrave; a la seva filla <strong>Matilde Guadall i Ros&agrave;s</strong>, que en fou  titular fins a la seva mort el 1987.`,
+    origen:`El renom prov&eacute; directament del cognom <strong>Guadall</strong>,  ja que la casa fou resid&egrave;ncia de <strong>Matilde Guadall i Ros&agrave;s </strong>(&dagger;1987),  propiet&agrave;ria de les terres de <em>Can Vinyers</em>.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 4, Matadepera`
    },
 "cal-marcet": {
@@ -29,37 +33,45 @@ El seu fill Josep Pi de la Serra i Rosas, ofegat pels deutes, vengué la finca e
 "cal-marlet": {
     title:`Cal Marlet`,
     altres:``,
-    historia:`Habitatges promoguts per Neus Guadall amb llicència d’obres atorgada el 29 d’agost de 1935. Inicialment havien de destinar-se al lloguer per atendre la creixent demanda d’estiueig.<br>
-La casa del número 9 fou, des de 1936, residència del xilògraf especialitzat en la tècnica del gravat al boix, dibuixant, pintor i escultor sabadellenc <strong>Ricard Marlet i Saret </strong>(1904-1976), que hi va viure fins a la seva mort.
-Marlet es va integrar plenament a la vida de Matadepera, que ell mateix havia confessat considerar com el seu poble. Fou un home de gran cultura i sensibilitat, d’una gran afabilitat i bonhomia, qualitats que el convertiren en una persona molt estimada per tothom.<br>
-La casa també va ser l’habitatge de la seva filla, <strong>Francesca Marlet</strong>, referent cultural i persona molt apreciada al municipi. Francesca va liderar nombroses iniciatives en el teixit cultural i associatiu del poble i fou fundadora de diverses entitats locals. Formà part de la primera legislatura democràtica com a regidora, el 1979, i rebé la Insígnia d’Or l’any 2006 per la seva dedicació cultural.<br>`,
-    origen:`La casa sempre fou coneguda com a <em>Cal Marlet</em> pel cognom del seu resident més emblemàtic.`,
+    historia:`Aquest habitatge form&agrave;  part dels promoguts per Neus Guadall amb llic&egrave;ncia d&rsquo;obres atorgada el 29  d&rsquo;agost de 1935. Inicialment havien de destinar-se al lloguer per atendre la  creixent demanda d&rsquo;estiueig. <br>
+  <br>
+La casa del n&uacute;mero 9 fou, des de 1936, resid&egrave;ncia del xil&ograve;graf especialitzat en  la t&egrave;cnica del gravat al boix, dibuixant, pintor i escultor sabadellenc <strong>Ricard  Marlet i Saret</strong> (1904-1976), que hi va viure fins a la seva mort.<br>
+<br>
+Marlet es va integrar plenament a la vida de Matadepera, que ell mateix havia  confessat considerar com el seu poble. Fou un home de gran cultura i  sensibilitat, d&rsquo;una gran afabilitat i bonhomia, qualitats que el convertiren en  una persona molt estimada per tothom.<br>
+<br>
+La casa tamb&eacute; va ser l&rsquo;habitatge de la seva filla, Francesca Marlet, referent  cultural i persona molt apreciada al municipi. Francesca va liderar nombroses  iniciatives en el teixit cultural i associatiu del poble i fou fundadora de  diverses entitats locals. Form&agrave; part de la primera legislatura democr&agrave;tica com  a regidora, el 1979, i reb&eacute; la Ins&iacute;gnia d&rsquo;Or l&rsquo;any 2006 per la seva dedicaci&oacute;  cultural.`,
+    origen:`La casa fou coneguda com  a <strong><em>Cal Marlet</em></strong> pel cognom del seu resident m&eacute;s emblem&agrave;tic.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 9, Matadepera`
    },
 "ca-lestevet": {
     title:`Ca l'Estevet`,
     altres:`Villa Catalina<br>
 Cal Barret`,
-    historia:`En aquesta casa visqué <strong>Esteve Genescà Gutés</strong> (1915-1985), casat amb Montserrat Garrigosa Palet. D’aquest matrimoni descendeix l’extensa nissaga Genescà Garrigosa de Matadepera.<br>
-La casa va ser construïda pel seu pare, Enric Genescà Cortès, just davant de casa seva <em>Cal Enriquet</em>, i li posà el nom de “<em>Villa Catalina</em>” en record de la seva dona, Catalina Gutés Arnau.<br>`,
-    origen:`<strong><em>Ca l'Estevet</em></strong>: El nom Esteve es repeteix constantment en tota la branca familiar dels Genescà, descendents d’Esteve Genescà Padrós. Tant el mateix Esteve Genescà Gutés com el seu avi havien estat dels germans més petits, d’aquí el diminutiu “<em>Estevet</em>”. Segons expliquen, el renom l’hauria heretat del seu avi, però també era una manera pràctica de distingir-lo entre tants “Esteves” de la família.<br><br>
-<strong><em>Villa Catalina</em></strong>: Nom triat per Enric Genescà Cortès en homenatge a la seva dona, Catalina Gutés Arnau, quan va construir aquesta casa davant de casa seva, <em>Cal Enriquet</em>.<br><br>
-<strong><em>Cal Barret</em></strong>: La família Genescà Cortès treballava al bosc, però el fill Esteve, que era qui portava els comptes, sempre anava molt ben vestit. Els treballadors en feien broma, i ell, cansat, un dia va dir: “<em>Algun dia, fins i tot, em veureu amb barret!</em>”. A partir de llavors, gairebé sempre portà barret, i així va néixer aquest renom.`,
+    historia:`En aquesta casa  visqu&eacute; <strong>Esteve Genesc&agrave; Gut&eacute;s </strong>(1915-1985), casat amb Montserrat Garrigosa  Palet. D&rsquo;aquest matrimoni descendeix l&rsquo;extensa nissaga Genesc&agrave; Garrigosa de  Matadepera.<br>
+<br>
+La casa va ser constru&iuml;da pel seu pare, Enric Genesc&agrave; Cort&egrave;s, just davant de  casa seva, <em>Cal Enriquet</em>, i li pos&agrave; el nom de &laquo;<em>Villa Catalina</em>&raquo; en  record de la seva dona, <strong>Catalina Gut&eacute;s Arnau</strong>.`,
+    origen:`<strong><em>Ca l&rsquo;Estevet:</em></strong> El  nom <em>Esteve</em> es repeteix constantment en tota la branca familiar dels  Genesc&agrave;, descendents d&rsquo;Esteve Genesc&agrave; Padr&oacute;s. Tant el mateix Esteve Genesc&agrave;  Gut&eacute;s com el seu avi havien estat dels germans m&eacute;s petits, d&rsquo;aqu&iacute; el diminutiu &laquo;<em>Estevet&raquo;</em>.  Segons expliquen, el renom l&rsquo;hauria heretat del seu avi, per&ograve; tamb&eacute; era una  manera pr&agrave;ctica de distingir-lo entre tants &laquo;Esteves&raquo; de la fam&iacute;lia.<br>
+<br>
+<strong><em>Villa Catalina</em>:</strong> Nom triat per Enric Genesc&agrave; Cort&egrave;s en homenatge a  la seva dona, <strong>Catalina Gut&eacute;s Arnau</strong>, quan va construir aquesta casa  davant de casa seva, <em>Cal Enriquet</em>.<br>
+<br>
+<strong><em>Cal Barret</em></strong>: La fam&iacute;lia Genesc&agrave; Cort&egrave;s treballava al bosc, per&ograve;  el fill Esteve, que era qui portava els comptes, sempre anava molt ben vestit.  Els treballadors en feien broma, i ell, cansat, un dia va dir: &ldquo;<em>Algun dia,  fins i tot, em veureu amb barret!</em>&rdquo;. A partir de llavors, gaireb&eacute; sempre  port&agrave; barret, i aix&iacute; va n&eacute;ixer aquest renom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 11, Matadepera`
    },
+
 "cal-negre": {
     title:`Cal Negre`,
     altres:``,
-    historia:`En aquesta casa visqué Joan Genescà Gutés (1917-1969), fill d’Enric Genescà Cortès de Ca l’Enriquet. Casat amb Dolors Arnau Pi, tingueren quatre fills. De la branca Genescà Arnau també descendeix una extensa nissaga familiar.`,
-    origen:`En Joan Genescà Gutés, era molt moreno de pell i d'aquí el malnom.`,
+    historia:`En aquesta casa visqu&eacute; <strong>Joan  Genesc&agrave; Gut&eacute;s</strong> (1917-1969), fill d&rsquo;Enric Genesc&agrave; Cort&egrave;s de <em>Ca l&rsquo;Enriquet</em>.  Casat amb Dolors Arnau Pi, tingueren quatre fills. De la branca Genesc&agrave; Arnau  tamb&eacute; descendeix una extensa nissaga familiar.`,
+    origen:`En <strong>Joan Genesc&agrave; Gut&eacute;s</strong>, era molt moreno de pell i d'aqu&iacute; el  malnom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 13, Matadepera`
    },
 "ca-l’enriquet": {
     title:`Ca l’Enriquet`,
     altres:``,
-    historia:`En aquesta casa hi va viure <strong>Enric Genescà Cortès</strong> (1888-1970), casat amb Catalina Gutés Arnau, amb qui tingueren sis fills (dos dels quals van morir infants).<br>
-L’Enric morí l’1 de novembre de 1970 al carrer Montserrat, 8 (actual 36). Segons explica el seu net Enric Genescà Garrigosa, quan es traslladà del carrer Sant Joan al carrer Montserrat, ell mateix va posar al nou habitatge el número 8, igual que el que tenia la casa del carrer Sant Joan, com a record del lloc on havia viscut.`,
-    origen:`El renom “<em>Ca l’Enriquet</em>” prové del diminutiu d’Enric Genescà Cortès, que era un dels germans més petits dels cinc fills d’Esteve Genescà Padrós i Rosa Cortès Riera.`,
+    historia:`En aquesta casa hi va viure <strong>Enric Genesc&agrave; Cort&egrave;s </strong>(1888-1970), casat amb  Catalina Gut&eacute;s Arnau, amb qui tingueren sis fills (dos dels quals van morir  infants).<br>
+<br>
+L&rsquo;Enric mor&iacute; l&rsquo;1 de novembre de 1970 al carrer Montserrat, 8 (actual 36).  Segons explica el seu net Enric Genesc&agrave; Garrigosa, quan es trasllad&agrave; del carrer  Sant Joan al carrer Montserrat, ell mateix va posar al nou habitatge el n&uacute;mero  8, igual que el que tenia la casa del carrer Sant Joan, com a record del lloc  on havia viscut.`,
+    origen:`El renom &laquo;<strong><em>Ca l&rsquo;Enriquet</em></strong>&raquo; prov&eacute; del diminutiu d&rsquo;<strong>Enric Genesc&agrave;  Cort&egrave;s</strong>, que era un dels germans m&eacute;s petits dels cinc fills d&rsquo;Esteve Genesc&agrave;  Padr&oacute;s i Rosa Cort&egrave;s Riera.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 14, Matadepera`
    },
 "cal-cendra": {
@@ -98,9 +110,10 @@ Ca la Valencieneta`,
 "cal-monet": {
     title:`Cal Monet`,
     altres:``,
-    historia:`Domènec Pi de la Serra, propietari dels terrenys de Can Vinyés, va parcel·lar l’entorn del camí ral en el recent creat carrer Sant Joan (part baixa). Entre altres, el 1846, va establir, en un solar de 25 pams —l’emplaçament que avui ocupa el número 21 del carrer Sant Joan— el jove pagès Ramon Gutés Solà, de 22 anys, natural de Sant Llorenç Savall, que es va casar amb Catalina Casanovas i Rius, de Matadepera.<br>
-Dels seus fills descendeixen diverses branques de la família Gutés de Matadepera, entre elles la de Cal Trapet. Una de les branques que va continuar vivint a la casa és la del seu besnet Josep Gutés Viñas, casat amb Eulàlia Turu.`,
-    origen:`El renom de la casa prové del primer propietari, Ramon Gutés Solà. Com que era el més petit de la seva família, se’l coneixia com a <em>“Monet”</em>, contracció del diminutiu <em>“Ramonet”.</em>`,
+    historia:`Dom&egrave;nec Pi de la Serra, propietari dels terrenys de <em>Can  Vinyers</em>, va parcel&middot;lar l&rsquo;entorn del cam&iacute; ral en el recent creat carrer  Sant Joan (part baixa). Entre altres, el <strong>1846</strong>, va establir, en aquest  lloc un solar de 25 pams d&rsquo;amplada a <strong>Ramon Gut&eacute;s Sol&agrave;</strong>, un jove pag&egrave;s de  22 anys natural de Sant Lloren&ccedil; Savall, que es va casar amb Catalina Casanovas  i Rius, de Matadepera.<br>
+<br>
+Dels seus fills descendeixen diverses branques de la fam&iacute;lia Gut&eacute;s de  Matadepera, entre elles la de <em>Cal Trapet</em>. Una de les branques que va  continuar vivint a la casa &eacute;s la del seu besnet Josep Gut&eacute;s Vi&ntilde;as (1917) casat  amb Eul&agrave;lia Turu.`,
+    origen:`El renom de la  casa prov&eacute; del primer propietari, <strong>Ramon Gut&eacute;s Sol&agrave;</strong>. Com que era el m&eacute;s  petit de la seva fam&iacute;lia, se&rsquo;l coneixia com a &laquo;<strong><em>Monet</em></strong>&raquo;, contracci&oacute;  del diminutiu &laquo;<em>Ramonet</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 21, Matadepera`
    },
 "cal-dents-xic": {
