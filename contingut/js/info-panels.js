@@ -264,10 +264,12 @@ A mitjan segle XX la casa fou reformada. Als baixos s&rsquo;hi establ&iacute; <s
 "cal-noi-parrot": {
     title:`Cal Noi Parrot`,
     altres:``,
-    historia:`El Llorenç Aymerich Genescà, casat amb Leonor Ventayol Boada, hereu de Cal Parrot —més conegut com el "noi de Cal Parrot"— va tenir tres fills: en Josep, la Maria i l’Angelina.
-En Josep Aymerich i Ventayol va marxar a l’Argentina, on ja feia un temps que hi vivia el seu tiet, en Josep Aymerich Genescà, treballant en el negoci del vi.<br>
-La Maria i l’Angelina, tot i que en un principi van viure a la casa del carrer Sant Joan, coneguda com <em>Cal Noi Parrot</em>, també acabarien traslladant-se a l’Argentina amb la família.`,
-    origen:``,
+    historia:`<strong>Lloren&ccedil; Aymerich Genesc&agrave;</strong> (1883-1936), hereu de <em>Cal  Parrot</em>, casat amb Leonor Ventayol Boada (1883), tingu&eacute; tres fills: Josep,  Maria i Angelina.<br>
+  <br>
+Josep Aymerich Ventayol  marx&agrave; a l&rsquo;Argentina, on ja feia un temps que hi vivia el seu tiet, Josep  Aymerich Genesc&agrave; (1885), treballant en el negoci del vi.<br>
+<br>
+Maria i Angelina, tot i  que en un principi van viure a la casa del carrer de Sant Joan, coneguda com &laquo;<em><strong>Cal  Noi Parrot</strong></em>&raquo;, tamb&eacute; acabaren traslladant-se a l&rsquo;Argentina amb la fam&iacute;lia.`,
+    origen:`<strong>Lloren&ccedil;  Aymerich Genesc&agrave;</strong> (1883-1936), hereu de <em>Cal Parrot</em>, era conegut com  &laquo;<strong><em>el Noi Parrot</em></strong>&raquo;, fet que don&agrave; origen al renom de la casa.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 38, Matadepera`
    },
 "cal-ferreret": {
@@ -294,9 +296,12 @@ Ben aviat, el seu fill <strong>Josep Sellar&egrave;s Pi </strong>(1888&ndash;197
 "cal-fuster": {
     title:`Cal Fuster`,
     altres:``,
-    historia:`Josep Grané Oliverers, natural de Navarcles, era fuster de professió. Casat amb Càndida Mogas, s’establí l’any 1846 a Matadepera, comprant a Pi de la Serra un terreny de 65 pams per construir-hi una casa de dos casals i mig, al carrer de Sant Joan, prop de l'església. Allà hi va obrir una fusteria, que amb el temps esdevindria una fusteria important, amb diversos operaris.<br>
-El seu nét, Jaume Grané Busqueta, nascut en aquesta casa, es va casar l’any 1909 amb Pilar Porta Manau i anà a viure al carrer de Sant Joan, actual número 73, a la casa coneguda com a <em>Cal Picarrocs</em>. D’aquesta branca familiar en descendeix la nissaga Grané Calvo`,
-    origen:`Per a la professió de fuster de Josep Grané Oliverers, primer de la nissaga Grané de Matadepera que es va establir a aquella casa.`,
+    historia:`<strong>Josep Gran&eacute; Olivereras</strong> (1823-1890), natural de Navarcles, era fuster de professi&oacute;. Casat amb C&agrave;ndida  Mogas Viver (1823-1898), de Ripollet, s&rsquo;establ&iacute; l&rsquo;any 1846 a Matadepera, on  compr&agrave; a Pi de la Serra un terreny de 65 pams per construir-hi una casa de dos  casals i mig, al carrer de Sant Joan, prop de l&rsquo;esgl&eacute;sia.<br>
+  <br>
+Hi obr&iacute; una gran fusteria que, amb el temps, esdevingu&eacute; molt important, amb  diversos operaris.<br>
+<br>
+El seu n&eacute;t, Jaume Gran&eacute; Busqueta, nascut en aquesta casa, es cas&agrave; l&rsquo;any 1909  amb Pilar Porta Manau i an&agrave; a viure al carrer de Sant Joan, actual n&uacute;mero 73, a  la casa coneguda com &laquo;<em>Cal Picarrocs</em>&raquo;. D&rsquo;aquesta branca familiar en  descendeix la nissaga Gran&eacute; Calvo, entre d&rsquo;altres.`,
+    origen:`<strong><em>Cal Fuster</em></strong>:  El renom prov&eacute; de la professi&oacute; de <strong>Josep Gran&eacute; Olivereras</strong>, primer de la  nissaga Gran&eacute; establert a Matadepera en aquesta casa.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 40, Matadepera`
    },
 "cal-pintoret": {
