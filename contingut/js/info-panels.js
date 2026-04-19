@@ -307,12 +307,18 @@ El seu n&eacute;t, Jaume Gran&eacute; Busqueta, nascut en aquesta casa, es cas&a
 "cal-pintoret": {
     title:`Cal Pintoret`,
     altres:``,
-    historia:`En aquesta casa va néixer i hi va viure tota la vida <strong>Antoni Garcia Sellarès</strong>, “Pintoret” (1934-2022), un dels personatges més destacats de la vida associativa, cultural i mediambiental de Matadepera, reconegut amb la Medalla d’Honor del municipi el 2017.<br>
-El seu pare, Fernando García de Horta, originari d’Andalusia, arribà a Catalunya amb la família quan tenia 3 anys. Als 22 anys es casà amb Antònia Sellarès Puig, de <em>Cal Roig</em> i <em>Cal Xisco</em>. S’instal·laren a la casa del carrer de Sant Joan, on naixeria l’Antonio, que heretà el renom familiar. Tant ell com el seu pare eren pintors de professió.<br>
-L’Antonio, conegut afectuosament com a “el Pintoret”, es distingí per la seva dedicació al poble i al seu entorn natural, que tant estimava. Fou fundador del cos de Bombers Voluntaris de Matadepera i de l’ADF, de la Unió Excursionista de Matadepera, promogué la Festa de Sant Llorenç a la Mola, recuperà l’Agrupació Coral i la Cavalcada de Reis, i impulsà les actuals Festes de Sant Sebastià.<br>
-Gran coneixedor del Parc Natural de Sant Llorenç del Munt i l’Obac, el va explorar i divulgar com ningú: col·laborà en plànols excursionistes, guies de recerca i rescats, i fou mestre i transmissor de coneixement natural a escoles i entitats. També esdevingué un boletaire expert i divulgador, autor de publicacions i coautor d’un llibre sobre els bolets del parc.<br>
-La seva passió i generositat deixaren una petjada profunda: impulsor incansable de molts projectes de poble, sabia gaudir de les coses senzilles i encomanava l’estima per Matadepera i el seu entorn a família, amics i generacions senceres.`,
-    origen:`El renom “Pintoret”, segons explicava el mateix Antoni Garcia Sellarès en una entrevista a Matadepera Televisió, prové del seu pare, <strong>Fernando García de Horta</strong>, que era pintor de professió i, en paraules seves: «molt baixet, fins i tot més que jo, que ja sabeu que soc també de poca estatura».`,
+    historia:`En aquesta casa va  n&eacute;ixer i hi va viure tota la vida <strong>Antoni Garcia Sellar&egrave;s</strong>, &laquo;<strong><em>Pintoret</em></strong>&raquo;  (1934-2022), un dels personatges m&eacute;s destacats de la vida associativa, cultural  i mediambiental de Matadepera, reconegut amb la Medalla d&rsquo;Honor del municipi  l&rsquo;any 2017.<br>
+<br>
+El seu pare, <strong>Fernando Garc&iacute;a de Horta</strong>, originari d&rsquo;Andalusia, arrib&agrave; a  Catalunya amb la fam&iacute;lia quan tenia tres anys. Als vint-i-dos anys es cas&agrave; amb  Ant&ograve;nia Sellar&egrave;s Puig de <em>Cal Roig</em> i  s&rsquo;establiren en aquesta casa del carrer de Sant Joan, on naixeria l&rsquo;Antoni, que  heret&agrave; el renom familiar. Tant ell com el seu pare eren pintors de professi&oacute;.<br>
+<br>
+Antoni Garcia Sellar&egrave;s, conegut afectuosament com &laquo;<em>Pintoret</em>&raquo;, es cas&agrave; amb  Teresina Riba Casas (1933-2015) de <em>Cal Siset</em>, amb qui tingu&eacute; quatre  fills. Tant ell com la seva fam&iacute;lia mantingueren i mantenen una pres&egrave;ncia  activa en la vida social i cultural del poble.<br>
+<br>
+<em>El Pintoret</em> es  disting&iacute; especialment per la seva dedicaci&oacute; a Matadepera i al seu entorn  natural. Fou fundador del cos de Bombers Voluntaris de Matadepera i de l&rsquo;ADF,  de la Uni&oacute; Excursionista de Matadepera, promogu&eacute; la Festa de Sant Lloren&ccedil; a la  Mola, recuper&agrave; l&rsquo;Agrupaci&oacute; Coral i la Cavalcada de Reis, i impuls&agrave; les actuals  Festes de Sant Sebasti&agrave;.<br>
+<br>
+Gran coneixedor del Parc Natural de Sant Lloren&ccedil; del Munt i l&rsquo;Obac, el va  explorar i divulgar com pocs: col&middot;labor&agrave; en pl&agrave;nols excursionistes, guies de  recerca i rescats, i fou mestre i transmissor de coneixement natural a escoles  i entitats. Tamb&eacute; esdevingu&eacute; un boletaire expert i divulgador, autor de  publicacions i coautor d&rsquo;un llibre sobre els bolets del parc.<br>
+<br>
+La seva passi&oacute; i generositat deixaren una petjada profunda al poble: impulsor  incansable de nombroses iniciatives, sabia gaudir de les coses senzilles i  encomanava l&rsquo;estima per Matadepera i pel seu entorn a familiars, amics i  generacions senceres.`,
+    origen:` El renom &laquo;<strong><em>Pintoret</em></strong>&raquo;,  segons explicava el mateix Antoni Garcia Sellar&egrave;s en una entrevista a  Matadepera Televisi&oacute;, prov&eacute; del seu pare, Fernando Garc&iacute;a de Horta, que era  pintor de professi&oacute; i, segons deia ell mateix, era &ldquo;<em>molt baixet, fins i tot  m&eacute;s que jo, que ja sabeu que soc tamb&eacute; de poca estatura</em>&rdquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 41, Matadepera`
    },
 "cal-muletes": {
