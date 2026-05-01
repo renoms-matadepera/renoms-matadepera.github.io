@@ -87,8 +87,14 @@ Més tard, hi va estiuejar durant molts anys la família Malgosa.
 "ca-la-petra": {
     title:`Ca la Petra`,
     altres:``,
-    historia:`El pis de dalt de sobre de Cal Cendre, al qual s'hi accedia des de una escala a tocar de Cal Aran`,
-    origen:``,
+    historia:`Al pis de sobre  de <em>Cal Cendra</em> hi havia dues parts diferenciades: una corresponia a la  continu&iuml;tat de l&rsquo;habitatge de la fam&iacute;lia Malgosa, mentre que l&rsquo;altra era un  petit pis independent amb acc&eacute;s propi per una escala situada a tocar de <em>Cal  Aran</em>. En aquest petit habitatge hi va viure la fam&iacute;lia de la Petra.<br>
+  <br>
+  <strong>Petra Gonz&aacute;lez  Santamaria</strong> (1913&ndash;1996), nascuda a Pampliega (Burgos), arrib&agrave; a Matadepera a servir a  la gent benestant, com moltes noies durant la primera meitat del segle XX, i  treball&agrave; inicialment com a minyona de les germanes Guadall, mestresses de <em>Can  Vinyers</em>.<br>
+  <br>
+  Es cas&agrave; amb Francisco  Vidiella Estupi&ntilde;&aacute; (1915&ndash;1989), segon dels cinc fills de Miquel Vidiella i  Francisca Estupi&ntilde;&aacute;, fam&iacute;lia procedent de Tarragona que havia arribat a  Matadepera cap als volts de 1925. Despr&eacute;s de passar per <em>La Barata</em> i <em>l&rsquo;Obac</em>,  acabaren establint-se com a masovers de <em>Can Vinyers</em>.<br>
+  <br>
+  La Petra i en  Francisco no van tenir descend&egrave;ncia, per&ograve; van adoptar el fill de la Maria,  germana d&rsquo;en Francisco Vidiella. En Miquel Vidiella Gonz&aacute;lez tamb&eacute; fou un  personatge for&ccedil;a conegut dins del poble, a qui molts anomenaven amigablement  &laquo;el Petru&raquo;.`,
+    origen:`La Petra, dona singular, popular i ben reconeguda dins la vida  quotidiana de Matadepera, acab&agrave; donant nom al lloc on residia. La seva  personalitat feren que el seu nom propi es convert&iacute;s en el renom identificatiu  de la casa, perpetuant-se com &laquo;<strong><em>Ca la Petra</em></strong>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 17, Matadepera`
    },
 "ca-laran": {
@@ -841,11 +847,11 @@ La seva esposa es deia Dolores, i el seu fill era conegut amb el malnom de "el X
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Isidre, 11, Matadepera`
    },
-"cal-cot": {
-    title:`Cal Cot`,
-    altres:`Ca la Naspa`,
-    historia:`Els de <em>Cal Cot</em> eren els propietaris que estiuejaven al pis de dalt i tenien llogat els baixos als de <em>Ca la Naspa</em>`,
-    origen:``,
+"ca-la-naspa": {
+    title:`Ca la Naspa`,
+    altres:``,
+    historia:``,
+    origen:`El renom de &laquo;<em><strong>Ca la Naspa</strong></em>&raquo; tindria el seu origen en el  cognom familiar &laquo;<strong>Lanaspa</strong>&raquo;, que la pron&uacute;ncia popular matadeperenca acab&agrave;  transformant-lo amb &laquo;Naspa&raquo; afegint-hi l&rsquo;article.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 12, Matadepera`
    },
 "ca-la-lola-rossa": {
