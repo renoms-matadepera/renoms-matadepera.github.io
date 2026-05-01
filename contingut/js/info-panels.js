@@ -255,7 +255,7 @@ Una de les filles, Dolors Utset Llunell, nascuda el 1891, es cas&agrave; a  fina
 <br>
 Al padr&oacute; de 1940 hi consta el matrimoni amb una filla petita, anomenada tamb&eacute;  Joana. Amb ells hi vivien Alfonso Utset Llunell, germ&agrave; de Dolors, i el pare,  Josep Utset i Altimira, ja vidu, de setanta anys.<br>
 <br>
-A mitjan segle XX la casa fou reformada. Als baixos s&rsquo;hi establ&iacute; <strong>Paquita  Mart&iacute;nez</strong>, casada amb Alfons Comallonga. En una estan&ccedil;a amb finestra al  carrer, que feia tamb&eacute; d&rsquo;aparador, hi obr&iacute; una botiga de llanes, fet que don&agrave;  un nou renom popular a la casa.`,
+A mitjan segle XX la casa fou reformada. Als baixos s&rsquo;hi  establ&iacute; <strong>Paquita Martinez Rod&oacute; </strong>nascuda el 1922 a Terrassa, casada amb Alfons  Comellonga Guitar (1913) de Sant Mateu de Bages. En una estan&ccedil;a amb finestra al  carrer, que feia tamb&eacute; d&rsquo;aparador, hi obr&iacute; una botiga de llanes, fet que don&agrave;  un nou renom popular a la casa.`,
     origen:`<strong><em>Cal Quildo Mas</em></strong>: El renom prov&eacute; d&rsquo;<strong>Hermenegildo Mas</strong>,  del qual &laquo;<em>Quildo</em>&raquo; &eacute;s una forma escur&ccedil;ada i popular del nom.<br>
 <br>
 <strong><em>Ca la Paquita de les Llanes</em></strong>: El renom fa refer&egrave;ncia a <strong>Paquita  Mart&iacute;nez</strong>, que hi tenia una botiga de llanes als baixos de la casa, activitat  que esdevingu&eacute; molt identificativa per al ve&iuml;nat.`,
@@ -763,15 +763,15 @@ Hi va viure <strong>Juana Llunell Torras</strong>, nascuda a l&rsquo;Hospitalet 
 <br>
 Juana Llunell exerc&iacute; de mestra durant uns trenta-sis anys. Compaginava  l&rsquo;ensenyament amb la vida familiar i impartia classe a les nenes del poble,  moltes de les quals hi van aprendre a llegir i escriure compartint l&rsquo;habitatge  amb l&rsquo;escola.<br>
 <br>
-En Joan Font Pi, <em>Corcola</em>, en el programa de festa Major del 1974 ens parla dels  germans Utset de <em>Ca la Joana</em>. Aquesta refer&egrave;ncia, juntament amb el fet  que aqu&iacute; hi hagu&eacute; durant molts anys l&rsquo;escola dirigida per Juana Llunell, fa  pensar que aquesta era la casa que la gent de l&rsquo;&egrave;poca identificava amb aquest  renom.<br>
+En Joan Font Pi, Corcola, en el programa de festa Major del 1974, ens parla dels  germans Utset de &laquo;<strong><em>Ca la Joana</em></strong>&raquo;. Aquesta refer&egrave;ncia, juntament amb  el fet que aqu&iacute; hi hagu&eacute; durant molts anys l&rsquo;escola dirigida per Juana Llunell,  fa pensar que aquesta era la casa que la gent de l&rsquo;&egrave;poca identificava amb  aquest renom.<br>
 <br>
-Tot i aix&ograve;, el padr&oacute; de 1911 situa la fam&iacute;lia Utset Llunell al carrer de Sant  Joan, 41 (actual 37), amb quatre dels sis fills. En aquell moment, Juana  Llunell ja tenia prop de seixanta anys i probablement havia deixat el  magisteri. Aquest fet podria haver mantingut l&rsquo;associaci&oacute; del renom, per&ograve; tot  indica que &laquo;<em>Ca la Joana</em>&raquo; s&rsquo;identificava principalment amb la casa del carrer de  Sant Isidre. La del carrer de Sant Joan esdevindria m&eacute;s endavant &laquo;<em>Cal Quildo  Mas</em>&raquo;, arran del matrimoni de la seva filla Dolors Utzet amb Hermenegildo Mas.<br>
+Tot i aix&ograve;, el padr&oacute; de 1911 situa la fam&iacute;lia Utset Llunell al carrer de Sant  Joan, 41 (actual 37), amb quatre dels sis fills. En aquell moment, Juana  Llunell ja tenia prop de seixanta anys i probablement havia deixat el  magisteri. Aquest fet podria haver mantingut l&rsquo;associaci&oacute; del renom, per&ograve; tot  indica que &laquo;Ca la Joana&raquo; s&rsquo;identificava principalment amb la casa del carrer de  Sant Isidre. La del carrer de Sant Joan esdevindria m&eacute;s endavant <em>Cal Quildo  Mas</em>, arran del matrimoni de la seva filla Dolors Utzet amb Hermenegildo Mas.<br>
 <br>
-A partir de 1924, en aquesta casa ja hi consta vivint una altre fam&iacute;lia, Agust&iacute;  Pi Vilanova, nascut a Matadepera el 1881, casat amb Maria Riera Pi, tamb&eacute; del  poble, nascuda el 1879. Tingueren dos fills: <strong>Isidre</strong>, nascut el 1909, i Josefa,  el 1914.<br>
+A partir de 1924, en aquesta casa ja hi consta vivint una altre fam&iacute;lia, Agust&iacute;  Pi Vilanova, nascut a Matadepera el 1881, casat amb Maria Riera Pi, tamb&eacute; del  poble, nascuda el 1879. Tingueren dos fills: Isidre, nascut el 1909, i Josefa,  el 1914.<br>
 <br>
 L&rsquo;<strong>Isidre Pi Riera</strong> es dedicava a extreure sorra de la riera, garbellar-la  i classificar-la per a la construcci&oacute;. Fou el principal subministrador local  del &laquo;palluc&raquo;, molt utilitzat pels paletes de Matadepera.<br>
 <br>
-Al padr&oacute; de 1940, tant els pares com Isidre consten en aquesta adre&ccedil;a, tot i  que ell hi figura com a treballador d&rsquo;una f&agrave;brica amb resid&egrave;ncia a Fran&ccedil;a,  probablement a causa de l&rsquo;exili derivat de la guerra. M&eacute;s endavant retorn&agrave; al  poble i s&rsquo;establ&iacute; en una casa del mateix carrer, a l&rsquo;actual n&uacute;mero 27, que  tamb&eacute; fou coneguda com &laquo;<em>Cal Blanco</em>&raquo;`,
+El 1940, els pares de l&rsquo;Isidre continuaven vivint en  aquesta adre&ccedil;a, per&ograve; ell consta residint a Fran&ccedil;a, probablement a causa de  l&rsquo;exili derivat de la guerra. M&eacute;s endavant retorn&agrave; al poble i, un cop casat amb  Maria Teresa Sanz, de Lucena de Ebro, cap al 1960 an&agrave; a viure a l&rsquo;actual n&uacute;mero  27, que tamb&eacute; fou conegut com &laquo;<strong><em>Cal Blanco</em></strong>&raquo;.`,
     origen:`<strong><em>Ca la Joana</em></strong>: El renom prov&eacute; de <strong>Juana  Llunell Torras</strong>, mestra que hi exerc&iacute; durant 36 anys i que hi tenia l&rsquo;escola  de nenes. La seva figura va donar nom popular a la casa.<br>
 <br>
 <strong><em>Cal Blanco</em></strong>: El renom fa refer&egrave;ncia als cabells completament  blancs d&rsquo;<strong>Isidre Pi Riera</strong>. El mot &laquo;Blanco&raquo;, castellanisme de &laquo;blanc&raquo;,  reflecteix una forma de parlar popular pr&ograve;pia de l&rsquo;&egrave;poca.`,
@@ -982,7 +982,7 @@ Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als
 "cal-peret-mas": {
     title:`Cal Peret Mas`,
     altres:``,
-    historia:`Al padr&oacute; de Matadepera  de 1864 hi trobem residint en aquesta casa Antonio Mas Arola, nascut a Mura el  1805, casat amb Maria Carabasa Sala, nascuda el 1822 a Castellgal&iacute;, amb els  seus fills Teresa, Antonio, Pere i Esteva.<br>
+    historia:`Al padr&oacute; de Matadepera  de 1864 hi trobem residint en aquesta casa Antonio Mas Arola, nascut a Mura el  1805, casat amb Maria Carabasa Sala, nascuda el 1822 a Castellgal&iacute;, amb els  seus fills Teresa, Antonio, Pere i Esteve.<br>
   <br>
   L&rsquo;any 1892 ja hi trobem el seu fill, <strong>Pere Mas Carabasa</strong>, conegut com &laquo;<em>el  Peret Mas</em>&raquo;, casat amb Vicenta Fabr&eacute;s Alavedra, de Castellbell i el Vilar.<br>
   <br>
