@@ -101,9 +101,18 @@ Més tard, hi va estiuejar durant molts anys la família Malgosa.
     title:`Ca l'Aran`,
     altres:`Cal Cot-Aran<br>
 Ca la Valencieneta`,
-    historia:`Casa també coneguda  <em>Ca la Valencieneta</em> perquè ella era d'allà.`,
-    origen:`<em>Ca l’Aran</em>: Pel cognom de qui hi vivia.<br>
-<em>Ca la Valencianeta</em>: Perquè la seva esposa era d’allà.`,
+    historia:`L&rsquo;any 1900, <strong>Elvira Aran Gaya</strong>, nascuda el 1871 a  Soleras (Lleida), arrib&agrave; a Matadepera i s&rsquo;establ&iacute; en aquesta casa en casar-se  amb Josep Font Torrella (1865), natural de Matadepera. El matrimoni tingu&eacute; dos  fills, en Jaume (1904) i l&rsquo;Anna (1906), coneguda popularment com &laquo;Anita&raquo;.<br>
+  <br>
+  A la d&egrave;cada de 1940, la casa apareix dividida en dos habitatges. Al pis de dalt  hi vivia el fill, en Jaume Font Aran, casat amb <strong>Ant&ograve;nia Cuenca Garcia</strong>,  arribada a Matadepera l&rsquo;any 1926 procedent de La Encina, petit nucli urb&agrave;  dependent de Villena, situat als l&iacute;mits entre Alacant i Val&egrave;ncia, on havia  nascut el 1908. La parella tingu&eacute; tres fills. <br>
+  <br>
+  A la planta baixa continuaven residint Elvira Aran Gaya i la seva filla Anita.<br>
+  <br>
+  A partir de la d&egrave;cada de 1950, en casar-se l&rsquo;Anita Font Aran amb Antoni Genesc&agrave;  Cort&egrave;s, de <em>Cal Marc</em>, s&rsquo;instal&middot;laren al pis de dalt, mentre en Jaume  Font Aran, la seva esposa Antonia Cuenca i els seus fills passaren a viure a la  planta baixa.`,
+    origen:` <strong><em>Ca l&rsquo;Aran</em></strong> t&eacute; l&rsquo;origen en el cognom d&rsquo;<strong>Elvira  Aran Gaya</strong>, que acab&agrave; identificant la casa, probablement com a forma de  distingir-la dins un entorn on el cognom Font era molt freq&uuml;ent.<br>
+  <br>
+  El renom de <strong><em>Cal Cot-Aran</em></strong> apareix documentat per l&rsquo;historiador  local Joan Font i Pi, &laquo;Corcola&raquo;, qui en una fotografia escolar de 1912  identifica en <strong>Jaume Font</strong>, de vuit anys, com &laquo;<strong><em>el noi Cot-Aran</em></strong>&raquo;.  Malgrat aquesta refer&egrave;ncia, l&rsquo;origen concret de l&rsquo;afegit&oacute; &laquo;Cot&raquo; encara resta  pendent d&rsquo;esclarir.<br>
+  <br>
+  <strong><em>Ca la Valencianeta</em></strong> deriva d&rsquo;<strong>Ant&ograve;nia Cuenca Garcia</strong>,  l&rsquo;origen geogr&agrave;fic de la qual, vinculat a la prov&iacute;ncia de Valencia, motiv&agrave;  aquest sobrenom popular.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 19, Matadepera`
    },
 "cal-guerris": {
