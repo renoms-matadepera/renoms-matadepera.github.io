@@ -203,7 +203,7 @@ Del seu fill, Joan Font i Torras, casat amb Maria Pi Cuixart, descendeixen les f
 <br>
 <strong>Menció especial:</strong><br>
 Cal fer <strong>un reconeixement a Joan Font Pi “Corcola”</strong> (1902-1989), pagès i home savi, amb una gran memòria històrica. Directa o indirectament, ha estat una font d’informació essencial per conèixer el passat de Matadepera, tant a través dels seus propis escrits —com les publicacions als programes de Festa Major entre 1973 i 1975— com per les dades recollides posteriorment per Miquel Ballbè i Mn. Manel Ametller en els seus llibres d’història local.`,
-    origen:`El renom <em>Corcola</em> prové de Joan Torras i Arnella (1822-1896), avantpassat de Joan Font Pi. Mentre cavil·lava com construir una casa en un terreny acensat a en Pi de la Serra, al carrer Sant Joan, li van preguntar què feia, i ell va respondre que estava "corcolant" (calculant). Qui l’escoltava, rient, va exclamar: “El Joan Corcola!”, i així va néixer el mot.`,
+    origen:`El renom <strong><em>Corcola</em></strong> prové de <strong>Joan Torras i Arnella</strong> (1822-1896), avantpassat de Joan Font Pi. Mentre cavil·lava com construir una casa en un terreny acensat a en Pi de la Serra, al carrer Sant Joan, li van preguntar què feia, i ell va respondre que estava "corcolant" (calculant). Qui l’escoltava, rient, va exclamar: “El Joan Corcola!”, i així va néixer el mot.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 30, Matadepera`
    },
 "cal-ton": {
@@ -240,9 +240,9 @@ El <strong>15 de mar&ccedil; de 1904</strong>, <strong>Francesc Cort&egrave;s i 
 Aquesta venda va permetre ampliar l&rsquo;esgl&eacute;sia parroquial fins a la seva  configuraci&oacute; actual de tres naus, inaugurada l&rsquo;any 1917.<br>
 <br>
 Arran d&rsquo;aquesta operaci&oacute;, la fam&iacute;lia Cort&egrave;s es trasllad&agrave; a aquesta altra casa  del carrer Sant Joan, portant-hi el renom de &laquo;<em>Cal Quist&oacute;&raquo;</em>.`,
-    origen:`En <strong>Joan Cort&egrave;s i Codina</strong>, a mitjans del segle XIX,  passava el Sant Crist per les cases demanant almoina per la capella. Del mot  &laquo;Crist&raquo;, deformat, en deriv&agrave; &laquo;Cristo&raquo;. A la mainada d&rsquo;aquella casa,  quan els preguntaven d'on eren, responien pronunciant &ldquo;<em>soc de casa del  quisto</em>&rdquo; en comptes de &laquo;cristo&raquo;, i d'aqu&iacute; va derivar a <em>&laquo;Quist&oacute;</em>&raquo;.<br>
+    origen:`En <strong>Joan Cort&egrave;s i Codina</strong>, a mitjans del segle XIX,  passava el Sant Crist per les cases demanant almoina per la capella. Del mot  &laquo;Crist&raquo;, deformat, en deriv&agrave; &laquo;Cristo&raquo;. A la mainada d&rsquo;aquella casa,  quan els preguntaven d'on eren, responien pronunciant &ldquo;<em>soc de casa del  quisto</em>&rdquo; en comptes de &laquo;cristo&raquo;, i d'aqu&iacute; va derivar a <strong><em>&laquo;Quist&oacute;</em>&raquo;</strong>.<br>
 <br>
-&Agrave;ngel Guimer&agrave; va adoptar aquest renom per a la seva obra de teatre <em>Maria  Rosa</em>, on &laquo;<em>Cal Quist&oacute;&raquo;</em> apareix com l&rsquo;indret on es reunien els  enginyers i on els obrers cobraven el jornal per les obres de la carretera que  havia de comunicar Matadepera amb Sabadell. Per aix&ograve;<strong> altres fonts apunten que</strong>, si <strong>Guimer&agrave;</strong> es va inspirar en un fet real, el  nom podria estar relacionat amb el mot &laquo;<em>quist&oacute;&raquo;</em> en el sentit de salari o  compensaci&oacute;. Aquest terme provindria de &laquo;<em>quaestio&raquo;</em> (llat&iacute;: all&ograve; que es  reclama, el que toca rebre) i s&rsquo;havia usat per designar el jornal en esp&egrave;cie: blat,  vi, oli o altres productes en comptes de diners, una pr&agrave;ctica molt habitual al  m&oacute;n rural fins ben entrat el segle XIX. Aix&ograve; refor&ccedil;aria l&rsquo;associaci&oacute; del renom  amb aquest significat.`,
+&Agrave;ngel Guimer&agrave; va adoptar aquest renom per a la seva obra de teatre <em>Maria  Rosa</em>, on &laquo;<strong><em>Cal Quist&oacute;&raquo;</em></strong> apareix com l&rsquo;indret on es reunien els  enginyers i on els obrers cobraven el jornal per les obres de la carretera que  havia de comunicar Matadepera amb Sabadell. Per aix&ograve;<strong> altres fonts apunten que</strong>, si <strong>Guimer&agrave;</strong> es va inspirar en un fet real, el  nom podria estar relacionat amb el mot &laquo;<em>quist&oacute;&raquo;</em> en el sentit de salari o  compensaci&oacute;. Aquest terme provindria de &laquo;<em>quaestio&raquo;</em> (llat&iacute;: all&ograve; que es  reclama, el que toca rebre) i s&rsquo;havia usat per designar el jornal en esp&egrave;cie: blat,  vi, oli o altres productes en comptes de diners, una pr&agrave;ctica molt habitual al  m&oacute;n rural fins ben entrat el segle XIX. Aix&ograve; refor&ccedil;aria l&rsquo;associaci&oacute; del renom  amb aquest significat.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 34, Matadepera`
    },
 "cal-marc": {
@@ -255,8 +255,8 @@ Arran d&rsquo;aquesta operaci&oacute;, la fam&iacute;lia Cort&egrave;s es trasll
 "cal-rebenta-sabaters": {
     title:`Cal Rebenta Sabaters`,
     altres:``,
-    historia:`Tenien una botiga a Terrassa, la Sabateria Bruguera, situada al carrer Cremat (que encara existeix), actualment dirigida pel besnet del fundador. L’avi de l’actual propietari, Josep Bruguera, es va traslladar a viure a Matadepera, on també hi van obrir una botiga —bàsicament una espardenyeria— gestionada per la seva dona, Teresa Bellot.`,
-    origen:`El fundador de la Sabateria Bruguera de Terrassa, besavi de l’actual propietari, venia el calçat a uns preus molt més baixos que la resta de sabaters de la ciutat, motiu pel qual se’l coneixia com el “Rebenta Sabaters”. El seu fill, Josep Bruguera, i la seva esposa Teresa Bellot van arrossegar aquest renom quan es van establir a Matadepera i van obrir-hi la seva pròpia espardenyeria.`,
+    historia:`Tenien una botiga a Terrassa, la Sabateria Bruguera, situada al carrer Cremat (que encara existeix), actualment dirigida pel besnet del fundador. L’avi de l’actual propietari, <strong>Josep Bruguera</strong>, es va traslladar a viure a Matadepera, on també hi van obrir una botiga —bàsicament una espardenyeria— gestionada per la seva dona, Teresa Bellot.`,
+    origen:`El fundador de la <strong>Sabateria Bruguera de Terrassa</strong>, besavi de l’actual propietari, venia el calçat a uns preus molt més baixos que la resta de sabaters de la ciutat, motiu pel qual se’l coneixia com el <strong>“<em>Rebenta Sabaters</em>”</strong>. El seu fill, Josep Bruguera, i la seva esposa Teresa Bellot van arrossegar aquest renom quan es van establir a Matadepera i van obrir-hi la seva pròpia espardenyeria.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 36, Matadepera`
    },
 "cal-quildo-mas": {
@@ -290,9 +290,7 @@ Maria i Angelina, tot i  que en un principi van viure a la casa del carrer de Sa
 "cal-ferreret": {
     title:`Cal Ferreret`,
     altres:`Cal Ferrer Nou`,
-    historia:`<strong>Casa amb m&eacute;s de 185 anys d&rsquo;hist&ograve;ri</strong>a<br>
-        <br>
-        L&rsquo;any 1834, Dom&egrave;nec Pi de la Serra i Margenat parcel&middot;l&agrave; part dels seus terrenys de <em>Can Viny&eacute;s</em> i urbanitz&agrave; la zona sud de l&rsquo;actual carrer de Sant Joan, iniciant els primers establiments de nord a sud per la banda de ponent, just davant d&rsquo;on avui hi ha l&rsquo;esgl&eacute;sia, que encara no existia.<br>
+    historia:`L&rsquo;any 1834, Dom&egrave;nec Pi de la Serra i Margenat parcel&middot;l&agrave; part dels seus terrenys de <em>Can Viny&eacute;s</em> i urbanitz&agrave; la zona sud de l&rsquo;actual carrer de Sant Joan, iniciant els primers establiments de nord a sud per la banda de ponent, just davant d&rsquo;on avui hi ha l&rsquo;esgl&eacute;sia, que encara no existia.<br>
         <br>
         Despr&eacute;s dels tres primers establiments, el dia abans de Nadal d&rsquo;aquell mateix any, establ&iacute; 37 pams (casal i mig) a favor de Joan Ventayol al carrer de la Llagosta, nom amb qu&egrave; era conegut el carrer nou de Matadepera, que apareix amb diferents denominacions segons l&rsquo;escriptura notarial. Actualment &eacute;s el carrer de Sant Joan.<br>
         <br>
@@ -333,7 +331,7 @@ Antoni Garcia Sellar&egrave;s, conegut afectuosament com &laquo;<em>Pintoret</em
 Gran coneixedor del Parc Natural de Sant Lloren&ccedil; del Munt i l&rsquo;Obac, el va  explorar i divulgar com pocs: col&middot;labor&agrave; en pl&agrave;nols excursionistes, guies de  recerca i rescats, i fou mestre i transmissor de coneixement natural a escoles  i entitats. Tamb&eacute; esdevingu&eacute; un boletaire expert i divulgador, autor de  publicacions i coautor d&rsquo;un llibre sobre els bolets del parc.<br>
 <br>
 La seva passi&oacute; i generositat deixaren una petjada profunda al poble: impulsor  incansable de nombroses iniciatives, sabia gaudir de les coses senzilles i  encomanava l&rsquo;estima per Matadepera i pel seu entorn a familiars, amics i  generacions senceres.`,
-    origen:` El renom &laquo;<strong><em>Pintoret</em></strong>&raquo;,  segons explicava el mateix Antoni Garcia Sellar&egrave;s en una entrevista a  Matadepera Televisi&oacute;, prov&eacute; del seu pare, Fernando Garc&iacute;a de Horta, que era  pintor de professi&oacute; i, segons deia ell mateix, era &ldquo;<em>molt baixet, fins i tot  m&eacute;s que jo, que ja sabeu que soc tamb&eacute; de poca estatura</em>&rdquo;.`,
+    origen:` El renom &laquo;<strong><em>Pintoret</em></strong>&raquo;,  segons explicava el mateix Antoni Garcia Sellar&egrave;s en una entrevista a  Matadepera Televisi&oacute;, prov&eacute; del seu pare, <strong>Fernando Garc&iacute;a de Horta</strong>, que era  pintor de professi&oacute; i, segons deia ell mateix, era &ldquo;<em>molt baixet, fins i tot  m&eacute;s que jo, que ja sabeu que soc tamb&eacute; de poca estatura</em>&rdquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 41, Matadepera`
    },
 "cal-muletes": {
@@ -689,26 +687,6 @@ Cent anys després, la seva besneta i hereva, Maria Martí i Morera, es casa amb
     origen:`El renom <em> Tomaset</em> prové del diminutiu associat al besavi de Maria Martí i Morera, fill de Tomàs Martí i Gorina, <strong>un dels primers pobladors del Matadepera</strong> l’any 1768, juntament amb Josep Argemí.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 85, Matadepera`
    },
-"cal-niel": {
-    title:`Cal Niel`,
-    altres:`
-Cal Ramon<br>
-Cal Tomeu<br>
-Cal Jaques`,
-    historia:`El 10 de març de 1778, en Narcís Gorina va vendre a en Jaume Pi 31 pams de terreny per construir-hi una casa «per ell, la família i el bestiar».
-En Miquel Ballbé Boada, en el seu llibre Pagesos i Menestrals, esmenta a "Bartomeu Pi Vilet de <em>Cal Ramón</em>". Bartomeu "Tomeu" Pi Vilet era pare de Daniel "Niel" Pi Sala de Cal Niel. El seu besnet, Bartomeu "Tomeu" Pi Vilet, vivia a Sabadell amb el seu germà solter, Pau Pi Vilet. Quan en Pau va emmalaltir, tots dos van anar a viure a Matadepera, per millors aires, al carrer de Sant Isidre.<br>
-Mentrestant, al carrer de Sant Joan, 86, hi vivia un francès anomenat Jacques, motiu pel qual la casa era coneguda com a <em>Cal Jaques</em>. Quan en Jacques va tornar a France, en <em>Tomeu</em> hi va anar a viure, i des de llavors la casa es coneixeria com <em>Cal Tomeu</em>.<br>
-Daniel Pi Sala (1868-1898), conegut com en <em>Niel</em>, fill d'en <em>Tomeu</em>, també va viure en aquella casa. Matador de porcs de professió, inicialment els sacrificava al carrer, però més tard, al darrere de la casa, es va instal·lar el primer escorxador de Matadepera, que portaven ell i la seva primera dona, Ramona Pociello. Més endavant, també hi van obrir una fonda, coneguda com a Cal Niel.<br>
-Situada a la cantonada amb el carrer de Narcís Monturiol, la planta baixa de la casa es va convertir en restaurant, i actualment hi funciona un rostidor de pollastres i menjars preparats.`,
-    origen:`Per ara no hem pogut saber quin era l'origen del renom <em>Cal Ramon</em>.<br>
-<br>
-El renom <em>Jaques</em> ve de la pronunciació literal del nom d'un francès que hi vivia, de nom Jacques (Jaume o Jacop en francès)<br>
-<br>
-Del nom Bertomeu ve de la truncació final de <em>Tomeu</em>.<br>
-<br>
-El renom <em>Nielz/em> ve de la truncació final de "Daniel'" per en Daniel Pi Sala, que en l'ultima etapa de la seva vida fou molt conegut per ser el fanaler del poble, ja que encenia i apagava els llums del carrer amb una llarga canya.`,
-    adreca:`Adreça actual: Carrer de Sant Joan, 86, Matadepera`
-   },
 "cal-quim": {
     title:`Cal Quim`,
     altres:``,
@@ -748,6 +726,29 @@ Jaume Sala Flaquer, nascut el 1870 a Rocafort, casat amb Vicenta Mas Fabr&eacute
   <strong><em>Cal Jord</em>i</strong>: El renom prov&eacute; de la  fam&iacute;lia <strong>Sala Mas</strong>. L&rsquo;Enriqueta Sala Mas, casada amb Arturo Padr&oacute;s, era  coneguda com <strong>l&rsquo;<em>Enriqueta de Cal Jordi</em></strong>, pel renom de la seva fam&iacute;lia. El  seu pare, <strong>Jaume Sala Flaquer</strong>, tenia un fill gran anomenat <strong>Jordi Josep</strong>,  i els seus descendents tamb&eacute; han continuat portant el nom de Jordi, fet que fa  pensar que el renom familiar prov&eacute; d&rsquo;algun avantpassat amb aquest nom.<br />
 Tenint en compte que a <strong>Mura</strong> tamb&eacute; hi havia una casa coneguda com<strong> &laquo;<em>Cal Jordi</em>&raquo;</strong>, &eacute;s possible que el renom fos importat d&rsquo;all&agrave;, tot i que aquest  origen encara est&agrave; pendent de confirmaci&oacute;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 91, Matadepera`
+   },
+"cal-niel": {
+    title:`Cal Niel`,
+    altres:`
+Cal Ramon<br>
+Cal Tomeu<br>
+Cal Jaques`,
+    historia:`El 10 de mar&ccedil; de 1778, en Narc&iacute;s Gorina va vendre a en  Jaume Pi 31 pams de terreny per construir-hi una casa &laquo;<em>per ell, la fam&iacute;lia i  el bestiar</em>&raquo;.<br>
+  <br>
+El seu besnet <strong>Bartomeu &laquo;<em>Tomeu</em>&raquo; Pi Vilet, </strong>de &laquo;<strong><em>Cal Ramon</em></strong>&raquo;  &mdash;segons l&rsquo;esmenta Miquel Ballb&eacute; Boada en el seu llibre <em>Pagesos i Menestrals</em>&mdash;,<strong> </strong>fou pare de <strong>Daniel &laquo;Niel&raquo; Pi Sala</strong>, &laquo;<strong><em>Cal Niel</em></strong>&raquo;. <br>
+<br>
+En Bartomeu residia a Sabadell amb el seu germ&agrave; solter, Pau Pi Vilet. Quan en  Pau va emmalaltir, ambd&oacute;s es traslladaren a viure a Matadepera, al carrer de  Sant Isidre, cercant uns aires m&eacute;s favorables.<br>
+<br>
+Mentrestant, al carrer de Sant Joan, 86, hi vivia <strong>un franc&egrave;s anomenat  Jacques</strong>, motiu pel qual la casa era coneguda com &laquo;<strong><em>Cal Jaques</em></strong>&raquo;.  Quan en Jacques retorn&agrave; a Fran&ccedil;a, en Tomeu s&rsquo;hi establ&iacute;, i des d&rsquo;aleshores la  casa pass&agrave; a ser coneguda com &laquo;<strong><em>Cal Tomeu</em></strong>&raquo;.<br>
+<br>
+<strong>Daniel Pi Sala</strong> (1868&ndash;1898), conegut com en &laquo;<strong>Niel&raquo;</strong>, fill d&rsquo;en  Tomeu, tamb&eacute; resid&iacute; en aquesta casa. Matador de porcs de professi&oacute;, inicialment  duia a terme els sacrificis al carrer, per&ograve; m&eacute;s endavant s&rsquo;instal&middot;l&agrave; al darrere  de la casa el primer escorxador de Matadepera, gestionat per ell i la seva  primera esposa, Ramona Pociello. Posteriorment, tamb&eacute; hi obriren una fonda  coneguda com &laquo;<strong><em>Cal Niel</em></strong>&raquo;.<br>
+<br>
+Situada a la cantonada amb el carrer de Narc&iacute;s Monturiol, la planta baixa de la  casa es convert&iacute; amb el temps en restaurant, i actualment hi funciona un  rostidor de pollastres i menjars preparats.`,
+    origen:`Per ara no s&rsquo;ha pogut  determinar amb certesa l&rsquo;origen del renom &laquo;<strong><em>Cal Ramon</em></strong>&raquo;.</p>
+<p>El renom &laquo;<strong><em>Cal  Jaques</em></strong>&raquo; deriva de la pron&uacute;ncia popular del nom del <strong>ciutad&agrave; franc&egrave;s  Jacques</strong> que hi resid&iacute;.</p>
+<p>&laquo;<strong><em>Cal Tomeu</em></strong>&raquo;  prov&eacute; directament del nom <strong>Bartomeu</strong>, truncat popularment en Tomeu.</p>
+El renom &laquo;<strong><em>Cal Niel</em></strong>&raquo; deriva de la forma popular truncada de  &laquo;Daniel&raquo;, en refer&egrave;ncia a <strong>Daniel Pi Sala</strong>, conegut com en Niel, qui en la  darrera etapa de la seva vida tamb&eacute; fou molt popular al poble com a fanaler,  encarregat d&rsquo;encendre i apagar els llums del carrer amb una llarga canya.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 86, Matadepera`
    },
 "cal-cuixes": {
     title:`Cal Cuixes`,
