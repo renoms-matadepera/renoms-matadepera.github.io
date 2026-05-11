@@ -1,0 +1,1468 @@
+// DADES INFO PANEL CASES
+// (c) AUTORS: Llorenç Robert i Marc Sellares
+const casesData = {
+// Carrer de Sant Joan
+"cal-camps": {
+    title:`Cal Camps`,
+    altres:``,
+    historia:`El seu primer  propietari, i qui va fer construir la casa, moss&egrave;n <strong>Josep Camps Colldelram</strong> (1879&ndash;1927), fou regent de moss&egrave;n Jaume Torres per motius de salut entre els  anys 1906 i 1908. Aquesta estada a Matadepera, juntament amb el fet de disposar  d&rsquo;una important her&egrave;ncia familiar, el port&agrave; a decidir-se per construir la casa  com a resid&egrave;ncia d&rsquo;estiueig.</p>
+<p>El projecte de la casa, <strong>datat de 1910</strong>, &eacute;s obra de Bonaventura Bassegoda.`,
+    origen:`Mant&eacute; la denominaci&oacute; de qui fou el seu primer propietari, <strong>Josep Camps  Colldelram</strong> (1879&ndash;1927).`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 3, Matadepera`
+   },
+"ca-la-guadall": {
+    title:`Ca la Guadall`,
+    altres:``,
+    historia:`La casa, situada a  l&rsquo;inici del carrer de Sant Joan, fou la resid&egrave;ncia de <strong>Matilde Guadall i Ros&agrave;s </strong>(&dagger;1987), hereva de les terres de <em>Can Vinyers</em>.<br>
+  <br>
+L&rsquo;origen de la propietat de les seves terres, es remunta al <em>mas Viny&eacute;s</em> amb Pere Joan Viny&eacute;s i Barata. La seva filla Magdalena Viny&eacute;s es cas&agrave; amb  Antoni Pi de la Serra, de Rub&iacute;, i aix&iacute; la finca pass&agrave; a la fam&iacute;lia Pi de la  Serra, que en mantingu&eacute; el cognom per&ograve; resid&iacute; a Rub&iacute;.<br>
+<br>
+A mitjan segle XIX, Dom&egrave;nec Pi de la Serra i Margenat, hereu de la nissaga,  parcel&middot;l&agrave; part dels terrenys del <em>mas Viny&eacute;s </em>i urbanitz&agrave; la zona sud de  l&rsquo;actual carrer de Sant Joan, configurant un dels primers nuclis del poble de  Matadepera.<br>
+<br>
+El seu fill Josep Pi de la Serra i Ros&agrave;s, ofegat pels deutes, vengu&eacute; la finca  el 8 de mar&ccedil; de 1900 a Wenceslau Guadall i Mateu (1844-1923), comerciant  barcelon&iacute;, casat amb Eduvigis Ros&agrave;s i Saladrigas. En morir Wenceslau el 1923,  la propietat pass&agrave; a la seva filla <strong>Matilde Guadall i Ros&agrave;s</strong>, que en fou  titular fins a la seva mort el 1987.`,
+    origen:`El renom prov&eacute; directament del cognom <strong>Guadall</strong>,  ja que la casa fou resid&egrave;ncia de <strong>Matilde Guadall i Ros&agrave;s </strong>(&dagger;1987),  propiet&agrave;ria de les terres de <em>Can Vinyers</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 4, Matadepera`
+   },
+"cal-marcet": {
+    title:`Cal Marcet`,
+    altres:``,
+    historia:`Va ser projectada per l'arquitecte Lluís Muncunill, i la llicència d'obres, datada el 6 de desembre de 1895 a nom de Miguel Marcet, és la més antiga conservada a l'Arxiu Municipal de Matadepera. Aquesta casa és un dels primers exemples del fenomen de l'estiueig al municipi.`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 6, Matadepera`
+   },
+"cal-marlet": {
+    title:`Cal Marlet`,
+    altres:``,
+    historia:`Aquest habitatge form&agrave;  part dels promoguts per Neus Guadall amb llic&egrave;ncia d&rsquo;obres atorgada el 29  d&rsquo;agost de 1935. Inicialment havien de destinar-se al lloguer per atendre la  creixent demanda d&rsquo;estiueig. <br>
+  <br>
+La casa del n&uacute;mero 9 fou, des de 1936, resid&egrave;ncia del xil&ograve;graf especialitzat en  la t&egrave;cnica del gravat al boix, dibuixant, pintor i escultor sabadellenc <strong>Ricard  Marlet i Saret</strong> (1904-1976), que hi va viure fins a la seva mort.<br>
+<br>
+Marlet es va integrar plenament a la vida de Matadepera, que ell mateix havia  confessat considerar com el seu poble. Fou un home de gran cultura i  sensibilitat, d&rsquo;una gran afabilitat i bonhomia, qualitats que el convertiren en  una persona molt estimada per tothom.<br>
+<br>
+La casa tamb&eacute; va ser l&rsquo;habitatge de la seva filla, Francesca Marlet, referent  cultural i persona molt apreciada al municipi. Francesca va liderar nombroses  iniciatives en el teixit cultural i associatiu del poble i fou fundadora de  diverses entitats locals. Form&agrave; part de la primera legislatura democr&agrave;tica com  a regidora, el 1979, i reb&eacute; la Ins&iacute;gnia d&rsquo;Or l&rsquo;any 2006 per la seva dedicaci&oacute;  cultural.`,
+    origen:`La casa fou coneguda com  a <strong><em>Cal Marlet</em></strong> pel cognom del seu resident m&eacute;s emblem&agrave;tic.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 9, Matadepera`
+   },
+"ca-lestevet": {
+    title:`Ca l'Estevet`,
+    altres:`Villa Catalina<br>
+Cal Barret`,
+    historia:`En aquesta casa  visqu&eacute; <strong>Esteve Genesc&agrave; Gut&eacute;s </strong>(1915-1985), casat amb Montserrat Garrigosa  Palet. D&rsquo;aquest matrimoni descendeix l&rsquo;extensa nissaga Genesc&agrave; Garrigosa de  Matadepera.<br>
+<br>
+La casa va ser constru&iuml;da pel seu pare, Enric Genesc&agrave; Cort&egrave;s, just davant de  casa seva, <em>Cal Enriquet</em>, i li pos&agrave; el nom de &laquo;<em>Villa Catalina</em>&raquo; en  record de la seva dona, <strong>Catalina Gut&eacute;s Arnau</strong>.`,
+    origen:`<strong><em>Ca l&rsquo;Estevet:</em></strong> El  nom <em>Esteve</em> es repeteix constantment en tota la branca familiar dels  Genesc&agrave;, descendents d&rsquo;Esteve Genesc&agrave; Padr&oacute;s. Tant el mateix Esteve Genesc&agrave;  Gut&eacute;s com el seu avi havien estat dels germans m&eacute;s petits, d&rsquo;aqu&iacute; el diminutiu &laquo;<em>Estevet&raquo;</em>.  Segons expliquen, el renom l&rsquo;hauria heretat del seu avi, per&ograve; tamb&eacute; era una  manera pr&agrave;ctica de distingir-lo entre tants &laquo;Esteves&raquo; de la fam&iacute;lia.<br>
+<br>
+<strong><em>Villa Catalina</em>:</strong> Nom triat per Enric Genesc&agrave; Cort&egrave;s en homenatge a  la seva dona, <strong>Catalina Gut&eacute;s Arnau</strong>, quan va construir aquesta casa  davant de casa seva, <em>Cal Enriquet</em>.<br>
+<br>
+<strong><em>Cal Barret</em></strong>: La fam&iacute;lia Genesc&agrave; Cort&egrave;s treballava al bosc, per&ograve;  el fill Esteve, que era qui portava els comptes, sempre anava molt ben vestit.  Els treballadors en feien broma, i ell, cansat, un dia va dir: &ldquo;<em>Algun dia,  fins i tot, em veureu amb barret!</em>&rdquo;. A partir de llavors, gaireb&eacute; sempre  port&agrave; barret, i aix&iacute; va n&eacute;ixer aquest renom.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 11, Matadepera`
+   },
+"cal-peret-xisco": {
+    title:`Cal Peret Xisco`,
+    altres:`Cal Negre`,
+    historia:`<strong>Pere Puig Font</strong> (1885&ndash;1939), fill de  Francesc Puig Sala (1839&ndash;1894), conegut com &laquo;<em>Xisco</em>&raquo;, i d&rsquo;Ant&ograve;nia Font Duran  (1850&ndash;1913), amb qui en Francesc es cas&agrave; en segones n&uacute;pcies, va n&eacute;ixer a  l&rsquo;extrem nord del carrer de Sant Joan. <br>
+    <br>
+  En casar-se cap al 1908 amb Maria Sol&agrave;  Grau (1883&ndash;1941), es traslladaren a aquesta primera casa de l&rsquo;extrem sud del  mateix carrer, on tingueren cinc fills.<br>
+    <br>
+  En Pere Puig Font arrosseg&agrave; el renom del seu pare cap a aquest nou indret, on  fou conegut popularment com &laquo;<strong><em>el Peret Xisco</em></strong>&raquo;. <br>
+  <br>
+  Arran d&rsquo;unes  disputes amb l&rsquo;Ajuntament, s&rsquo;enfad&agrave; i anar a viure a una casa just a tocar dels  l&iacute;mits de Matadepera, on es trasllad&agrave; amb tota la fam&iacute;lia cap a finals de la  d&egrave;cada de 1930. En aquell nou empla&ccedil;ament tamb&eacute; fou conegut amb el sobrenom de  &laquo;<em>Peret S&rsquo;Escanya</em>&raquo;.<br>
+  <br>
+  Posteriorment, en aquesta casa hi visqu&eacute; <strong>Joan Genesc&agrave; Gut&eacute;s</strong> (1917&ndash;1969),  fill d&rsquo;Enric Genesc&agrave; Cort&egrave;s, de <em>Ca l&rsquo;Enriquet</em>. Casat amb Dolors Arnau  Pi, el matrimoni tingu&eacute; quatre fills. De la branca Genesc&agrave; Arnau tamb&eacute; en  descend&iacute; una extensa nissaga familiar.`,
+    origen:`<strong><em>Cal Peret  Xisco</em></strong> t&eacute; l&rsquo;origen en <strong>Pere Puig Font</strong> (1885&ndash;1939), conegut  popularment com &laquo;<em>el Peret Xisco</em>&raquo;, renom heretat del seu pare Francesc  Puig Sala, anomenat &laquo;<em>Xisco</em>&raquo;.<br>
+  <br>
+  <strong><em>Cal Negre</em></strong> deriva del sobrenom amb qu&egrave; era conegut <strong>Joan  Genesc&agrave; Gut&eacute;s</strong> (1917&ndash;1969), a causa del seu to de pell molt mor&egrave;.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 13, Matadepera`
+   },
+"ca-l’enriquet": {
+    title:`Ca l’Enriquet`,
+    altres:``,
+    historia:`En aquesta casa hi va viure <strong>Enric Genesc&agrave; Cort&egrave;s </strong>(1888-1970), casat amb  Catalina Gut&eacute;s Arnau, amb qui tingueren sis fills (dos dels quals van morir  infants).<br>
+<br>
+L&rsquo;Enric mor&iacute; l&rsquo;1 de novembre de 1970 al carrer Montserrat, 8 (actual 36).  Segons explica el seu net Enric Genesc&agrave; Garrigosa, quan es trasllad&agrave; del carrer  Sant Joan al carrer Montserrat, ell mateix va posar al nou habitatge el n&uacute;mero  8, igual que el que tenia la casa del carrer Sant Joan, com a record del lloc  on havia viscut.`,
+    origen:`El renom &laquo;<strong><em>Ca l&rsquo;Enriquet</em></strong>&raquo; prov&eacute; del diminutiu d&rsquo;<strong>Enric Genesc&agrave;  Cort&egrave;s</strong>, que era un dels germans m&eacute;s petits dels cinc fills d&rsquo;Esteve Genesc&agrave;  Padr&oacute;s i Rosa Cort&egrave;s Riera.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 14, Matadepera`
+   },
+"cal-cendra": {
+    title:`Cal Cendra`,
+    altres:``,
+    historia:`Cantonada amb el carrer Montserrat, va ser durant molt de temps la primera casa del poble i acollia les antigues escoles. A la part més alta hi havia un dipòsit que subministrava aigua a Can Vinyés, propietat de la finca (el podeu distingir a la fotografia de capçalera d'aquest web).<br>
+<br>
+Més tard, hi va estiuejar durant molts anys la família Malgosa.
+`,
+    origen:`En Cendra era el sogre d’en Malgosa.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 17, Matadepera`
+   },
+"ca-la-petra": {
+    title:`Ca la Petra`,
+    altres:``,
+    historia:`Al pis de sobre  de <em>Cal Cendra</em> hi havia dues parts diferenciades: una corresponia a la  continu&iuml;tat de l&rsquo;habitatge de la fam&iacute;lia Malgosa, mentre que l&rsquo;altra era un  petit pis independent amb acc&eacute;s propi per una escala situada a tocar de <em>Cal  Aran</em>. En aquest petit habitatge hi va viure la fam&iacute;lia de la Petra.<br>
+  <br>
+  <strong>Petra Gonz&aacute;lez  Santamaria</strong> (1913&ndash;1996), nascuda a Pampliega (Burgos), arrib&agrave; a Matadepera a servir a  la gent benestant, com moltes noies durant la primera meitat del segle XX, i  treball&agrave; inicialment com a minyona de les germanes Guadall, mestresses de <em>Can  Vinyers</em>.<br>
+  <br>
+  Es cas&agrave; amb Francisco  Vidiella Estupi&ntilde;&aacute; (1915&ndash;1989), segon dels cinc fills de Miquel Vidiella i  Francisca Estupi&ntilde;&aacute;, fam&iacute;lia procedent de Tarragona que havia arribat a  Matadepera cap als volts de 1925. Despr&eacute;s de passar per <em>La Barata</em> i <em>l&rsquo;Obac</em>,  acabaren establint-se com a masovers de <em>Can Vinyers</em>.<br>
+  <br>
+  La Petra i en  Francisco no van tenir descend&egrave;ncia, per&ograve; van adoptar el fill de la Maria,  germana d&rsquo;en Francisco Vidiella. En Miquel Vidiella Gonz&aacute;lez tamb&eacute; fou un  personatge for&ccedil;a conegut dins del poble, a qui molts anomenaven amigablement  &laquo;el Petru&raquo;.`,
+    origen:`La Petra, dona singular, popular i ben reconeguda dins la vida  quotidiana de Matadepera, acab&agrave; donant nom al lloc on residia. La seva  personalitat feren que el seu nom propi es convert&iacute;s en el renom identificatiu  de la casa, perpetuant-se com &laquo;<strong><em>Ca la Petra</em></strong>&raquo;.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 17, Matadepera`
+   },
+"ca-laran": {
+    title:`Ca l'Aran`,
+    altres:`Cal Cot-Aran<br>
+Ca la Valencieneta`,
+    historia:`L&rsquo;any 1900, <strong>Elvira Aran Gaya</strong>, nascuda el 1871 a  Soleras (Lleida), arrib&agrave; a Matadepera i s&rsquo;establ&iacute; en aquesta casa en casar-se  amb Josep Font Torrella (1865), natural de Matadepera. El matrimoni tingu&eacute; dos  fills, en Jaume (1904) i l&rsquo;Anna (1906), coneguda popularment com &laquo;Anita&raquo;.<br>
+  <br>
+  A la d&egrave;cada de 1940, la casa apareix dividida en dos habitatges. Al pis de dalt  hi vivia el fill, en Jaume Font Aran, casat amb <strong>Ant&ograve;nia Cuenca Garcia</strong>,  arribada a Matadepera l&rsquo;any 1926 procedent de La Encina, petit nucli urb&agrave;  dependent de Villena, situat als l&iacute;mits entre Alacant i Val&egrave;ncia, on havia  nascut el 1908. La parella tingu&eacute; tres fills. <br>
+  <br>
+  A la planta baixa continuaven residint Elvira Aran Gaya i la seva filla Anita.<br>
+  <br>
+  A partir de la d&egrave;cada de 1950, en casar-se l&rsquo;Anita Font Aran amb Antoni Genesc&agrave;  Cort&egrave;s, de <em>Cal Marc</em>, s&rsquo;instal&middot;laren al pis de dalt, mentre en Jaume  Font Aran, la seva esposa Antonia Cuenca i els seus fills passaren a viure a la  planta baixa.`,
+    origen:` <strong><em>Ca l&rsquo;Aran</em></strong> t&eacute; l&rsquo;origen en el cognom d&rsquo;<strong>Elvira  Aran Gaya</strong>, que acab&agrave; identificant la casa, probablement com a forma de  distingir-la dins un entorn on el cognom Font era molt freq&uuml;ent.<br>
+  <br>
+  El renom de <strong><em>Cal Cot-Aran</em></strong> apareix documentat per l&rsquo;historiador  local Joan Font i Pi, &laquo;Corcola&raquo;, qui en una fotografia escolar de 1912  identifica en <strong>Jaume Font</strong>, de vuit anys, com &laquo;<strong><em>el noi Cot-Aran</em></strong>&raquo;.  Malgrat aquesta refer&egrave;ncia, l&rsquo;origen concret de l&rsquo;afegit&oacute; &laquo;Cot&raquo; encara resta  pendent d&rsquo;esclarir.<br>
+  <br>
+  <strong><em>Ca la Valencianeta</em></strong> deriva d&rsquo;<strong>Ant&ograve;nia Cuenca Garcia</strong>,  l&rsquo;origen geogr&agrave;fic de la qual, vinculat a la prov&iacute;ncia de Valencia, motiv&agrave;  aquest sobrenom popular.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 19, Matadepera`
+   },
+"cal-guerris": {
+    title:`Cal Guerris`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 20, Matadepera`
+   },
+"cal-monet": {
+    title:`Cal Monet`,
+    altres:``,
+    historia:`Dom&egrave;nec Pi de la Serra, propietari dels terrenys de <em>Can  Vinyers</em>, va parcel&middot;lar l&rsquo;entorn del cam&iacute; ral en el recent creat carrer  Sant Joan (part baixa). Entre altres, el <strong>1846</strong>, va establir, en aquest  lloc un solar de 25 pams d&rsquo;amplada a <strong>Ramon Gut&eacute;s Sol&agrave;</strong>, un jove pag&egrave;s de  22 anys natural de Sant Lloren&ccedil; Savall, que es va casar amb Catalina Casanovas  i Rius, de Matadepera.<br>
+<br>
+Dels seus fills descendeixen diverses branques de la fam&iacute;lia Gut&eacute;s de  Matadepera, entre elles la de <em>Cal Trapet</em>. Una de les branques que va  continuar vivint a la casa &eacute;s la del seu besnet Josep Gut&eacute;s Vi&ntilde;as (1917) casat  amb Eul&agrave;lia Turu.`,
+    origen:`El renom de la  casa prov&eacute; del primer propietari, <strong>Ramon Gut&eacute;s Sol&agrave;</strong>. Com que era el m&eacute;s  petit de la seva fam&iacute;lia, se&rsquo;l coneixia com a &laquo;<strong><em>Monet</em></strong>&raquo;, contracci&oacute;  del diminutiu &laquo;<em>Ramonet</em>&raquo;.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 21, Matadepera`
+   },
+"cal-dents-xic": {
+    title:`Cal Dents Xic`,
+    altres:`Cal Crema Morros`,
+    historia:`<strong>Joan Arola Caelles</strong> era <strong>fill de &laquo;<em>Cal Dents</em>&raquo</strong>;. El seu germ&agrave; gran, Josep Arola,  l&rsquo;hereu, es va quedar amb la casa i els terrenys de Cal Dents, situats a la  carretera de Terrassa, 23, cantonada amb el carrer Balmes, que arribaven fins  al capdavall del carrer Balmes, a la cantonada amb el carrer Montserrat.<br>
+  <br>
+  En Joan Arola es va instal&middot;lar en aquesta casa del carrer Sant Joan, on hi  tenia una botiga de queviures. Va ser alcalde de Matadepera abans i durant la  Guerra. En qualitat d&rsquo;alcalde, l&rsquo;any 1923 va col&middot;locar una ampolla als  fonaments de les futures escoles de la carretera de Terrassa, amb els noms de  tots els membres del consistori. Aquelles escoles serien inaugurades el 20 de  desembre de 1925.<br />
+  <br>
+  Tamb&eacute; era conegut pel malnom de &laquo;<em>Crema Morros</em>&raquo;.`,
+    origen:`L’origen del malnom <em>Crema Morros</em> ve d’un episodi explicat per Magdalena Font, segons el qual en Joan Arola, en veure una nena al seu càrrec amb els morros tacats de xocolata —fet que delatava que n’havia agafat de la botiga—, li hauria netejat la cara amb una collera calenta.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 23, Matadepera`
+   },
+"cal-llogarí": {
+    title:`Cal Llogarí`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 23, Matadepera`
+   },
+"cal-carreter": {
+    title:`Cal Carreter`,
+    altres:``,
+    historia:`Els qui som de la generaci&oacute; de mitjans del segle XX  reconeixem els de &laquo;<em>Cal Carreter</em>&raquo; com la fam&iacute;lia Arnau Corb&iacute;, formada per <strong>Joan Arnau Cort&egrave;s </strong>(1930-2018)<strong> i Montserrat Corb&iacute; </strong>(1929-1999), que  vivien amb la fam&iacute;lia Cort&egrave;s-Boada: Filomena Cort&egrave;s i el seu germ&agrave; Josep  Cort&egrave;s, casat amb Montserrat Vinyes. Aquestes fam&iacute;lies descendien, per la  branca Cort&egrave;s, del primer &laquo;Quist&oacute;&raquo; (Joan Cort&egrave;s i Codina), i per la branca  Arnau, de <em>Ca la Marcelina</em>.<br>
+<br>
+El primer &laquo;Quist&oacute;&raquo; vivia a la casa que el 1904 fou venuda al bisbat per ampliar  la parr&ograve;quia, per&ograve; ja molt abans trobem el seu primer fill i hereu, Josep  Cort&egrave;s Riera (n. 1848), que havia marxat de casa. Segons el padr&oacute; de 1892,  vivia casat amb Filomena Clap&eacute;s Urpina (n. 1842) i sis fills al carrer de Sant  Joan, 9.<br>
+No sabem amb certesa si aquella casa corresponia a la de <em>Cal Carreter</em> o  si hi residien de lloguer, ja que no &eacute;s fins al 5 de maig de 1920 que el seu  fill gran i hereu, Joan Cort&egrave;s Clap&eacute;s, la compra a Ant&ograve;nia Juliana Riera, filla  d&rsquo;&Agrave;ngela Riera Torrella, molt probablement descendent de Joan Riera, a qui Dom&egrave;nec  Pi de la Serra havia establert per primer cop aquest terreny el 1843.<br>
+<br>
+El padr&oacute; de 1936 registra com a habitants d&rsquo;aquesta casa <strong>Joan Cort&egrave;s Clap&eacute;s </strong>(n.  1870), casat amb <strong>Rosa Boades Torres (</strong>1872-1958<strong>)</strong>, i el seu fill <strong>Josep</strong>,  casat amb <strong>Montserrat Vinyes</strong>. L&rsquo;altra filla, Filomena Cort&egrave;s Boada, ja no  hi vivia, ja que en casar-se amb Josep Arnau Genesc&agrave; es trasllad&agrave; a casa d&rsquo;ell,  al carrer Sant Isidre, 33, <em>Ca la Marcelina</em>. El matrimoni tingu&eacute; all&agrave;  tres fills: Maria, Joan i Ramon.<br>
+<br>
+Cap al <strong>1933</strong>, Josep Arnau va abandonar la seva esposa Filomena per  emigrar a Caracas (Vene&ccedil;uela) amb Teresa Duat, esposa del seu millor amic i  cos&iacute; Marc Genesc&agrave; Cort&egrave;s, <em>Cal Marc</em>. Davant aquesta situaci&oacute;, Filomena  i els seus tres fills tornaren a aquesta casa del carrer Sant Joan &mdash;la seva casa natal&mdash;, provablement passada la guerra. El seu fill <strong>Joan Arnau Cort&egrave;s</strong> hi form&agrave; la fam&iacute;lia que la generaci&oacute; posterior continuaria coneixent com els de  &laquo;<strong><em>Cal Carreter&raquo;</em></strong>.`,
+    origen:`Segons explicava en Juan Arnau Cort&egrave;s i els seus  descendents, el renom &laquo;<strong>Cal Carreter</strong>&raquo; prov&eacute; de l&rsquo;ofici de carreter d&rsquo;una  fam&iacute;lia que hi havia viscut abans dels Cort&egrave;s.<br>
+Tot i que no s&rsquo;ha pogut determinar si la fam&iacute;lia Riera eren realment els  carreters, o si entre ells i els Cort&egrave;s hi hagu&eacute; algun altre habitant (de  lloguer) dedicat a aquesta professi&oacute;, el fet &eacute;s que el renom va quedar associat  a la casa i a les fam&iacute;lies que hi visqueren posteriorment.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 25, Matadepera`
+   },
+"cal-marco": {
+    title:`Cal Marcó`,
+    altres:`Cal Peta-peta`,
+    historia:`En Pi de la Serra continuava fent establiments als seus  terrenys de Can Vinyés al voltant del Cam&iacute; Ral. El 9 de novembre de 1843  establ&iacute; en aquest lloc 30 pams d&rsquo;amplada a favor de <strong>Josep Mitjana i Tarr&eacute;s</strong>,  de 27 anys, natural de la Gu&agrave;rdia (Lleida), que es va casar amb Josefa Robert i  Torras, de Matadepera.<br>
+  <br>
+    <strong>Cap al 1932</strong> va comprar aquesta casa <strong>Juli&agrave; G&uuml;ell  Guerrero</strong> (1898&ndash;1935). En Juli&agrave; era de Vilafranca del Pened&egrave;s. De professi&oacute;  paleta, emigr&agrave; amb 18 anys a l&rsquo;Havana (Cuba), on gr&agrave;cies al seu ofici i,  segurament al seu cognom, es va guanyar for&ccedil;a b&eacute; la vida. Passats uns anys va  tornar i conegu&eacute; al Gran Casino de Terrassa <strong>Josefa Montes&oacute; Cudi&eacute;</strong> (1903&ndash;1972), amb qui es cas&agrave;, establint-se a Terrassa. En Juli&agrave; deia sempre que  calia invertir a Matadepera i va comen&ccedil;ar per aquesta casa; per&ograve; mor&iacute; jove i la  seva esposa la va haver de llogar.<br>
+    <br>
+  A causa dels successius inquilins, la casa tingu&eacute; diversos  renoms. Testimonis i ve&iuml;ns de l&rsquo;&egrave;poca recorden que havia estat coneguda com <strong><em>Ca  la Castissa</em></strong>, <strong><em>Cal Pitus</em></strong>, <strong><em>Ca la Meta-meta</em></strong>,  <strong><em>Cal Pep-pep</em></strong>, <strong><em>Cal Peta-pet</em></strong> i d&rsquo;altres.<br>
+  Ens centrem en <strong><em>Cal Peta-pet</em></strong>, del qual tenim  const&agrave;ncia escrita: Era quan hi vivia en <strong>Josep Vives</strong>, que en va ser uns dels inquilins. Es dedicava  al transport de llenya, a l&rsquo;agricultura i, quan calia, feia tamb&eacute; feines de  pe&oacute;. Tamb&eacute; conegut com el &laquo;<em>Pep-pep</em>&raquo;, fou home de confian&ccedil;a de Felip  Elies, de <em>Cal Rajole</em>, quan aquest tenia forn  d&rsquo;obra i b&ograve;bila.<br>
+  <br>
+  Josefa Montes&oacute; Cudi&eacute;, v&iacute;dua de feia uns quants anys i amb  necessitats econ&ograve;miques, acab&agrave; venent la casa. El 15 d&rsquo;octubre de 1945 la  vengu&eacute; a Marc Genesc&agrave; Ventayol (1907&ndash;1986), conegut per tothom com &laquo;<strong><em>el Marc&oacute;</em></strong>&raquo;.<br>
+  En Marc&oacute; era el fill petit de Cal Baldir&oacute;. Casat amb Ant&ograve;nia  Pociello Monsonet (1905&ndash;1998), <strong>s&rsquo;hi establiren definitivament cap al 1950</strong>,  on visqueren amb la seva fam&iacute;lia i descend&egrave;ncia. <br>
+  <br>
+  <strong>En <em>Marco</em></strong>, de professi&oacute; paleta constructor, va participar en la  construcci&oacute; de moltes de les torres de la nova i creixent Matadepera  residencial. Persona amb molta empenta, sempre disposada a ajudar on calgu&eacute;s i  ha qui ho necessit&eacute;s, fou molt popular i estimat per tothom al poble.<br>
+  <br>
+Quan el Marc&oacute; va entrar a viure a la casa, la fam&iacute;lia Vives  es trasllad&agrave; a l&rsquo;actual carrer Josep Porcar, 41, on serien coneguts com <em>Cal Peta-peta</em>.`,
+    origen:`</strong>El renom <strong><em>Cal Marc&oacute;</em></strong> prov&eacute; de Marc Genesc&agrave;, el m&eacute;s petit de  Cal Baldir&oacute;. De la contracci&oacute; del diminutiu &laquo;Marconet<em>&raquo;</em>, en qued&agrave; &laquo;Marc&oacute;<em>&raquo;</em>.<br>
+<br>
+Pel que fa al renom <strong><em>Cal Petapet</em></strong>, era  un dels varis mots pels quals es coneixia la fam&iacute;lia Vives, antics estadants  de la casa abans de instal&middot;lar-s&rsquo;hi la fam&iacute;lia de &laquo;<em>Cal Marc&oacute;&raquo;</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 27, Matadepera`
+   },
+"cal-soca": {
+    title:`Cal Soca`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 29, Matadepera`
+   },
+"cal-corcola": {
+    title:`Cal Corcola`,
+    altres:``,
+    historia:`A mitjans segle XIX, Domènec Pi de la Serra, propietari dels terrenys de Can Vinyés, va urbanitzar la part baixa de l’actual carrer de Sant Joan, aleshores conegut popularment com a carrer de la Llagosta, perquè molts pagesos locals veien els nous habitants com una “plaga” vinguda de fora. En aquest sector, Pi de la Serra hi construí una bassa per recollir aigües pluvials, situada on avui hi ha el número 26 del carrer de Sant Joan, a tocar de la casa de Pere Aldavert.<br>
+<br>
+Després de diversos establiments, l’any 1852, a prop de la bassa, va establir un solar de 25 pams a <strong>Joan Torras i Arnella</strong>, natural de Sant Pere de Terrassa i casat amb Serafina Torres, de Manresa. El matrimoni va tenir diverses filles, entre elles Maria Torras i Torres, que es casà amb Benet Font i Serra, originari de Caldes de Montbui, vingut a Matadepera cap al 1877.<br>
+<br>
+Del seu fill, Joan Font i Torras, casat amb Maria Pi Cuixart, descendeixen les famílies Font-Mabres <em>de Cal Mabres</em> i Font-Utset. D’aquesta darrera en formava part <strong>Joan Font Pi</strong>, casat el 26 d’agost de 1926 amb Aniceta Utset Ribera. El matrimoni va viure a questa casa coneguda com a <em>Cal Corcola</em>.<br>
+<br>
+<strong>Menció especial:</strong><br>
+Cal fer <strong>un reconeixement a Joan Font Pi “Corcola”</strong> (1902-1989), pagès i home savi, amb una gran memòria històrica. Directa o indirectament, ha estat una font d’informació essencial per conèixer el passat de Matadepera, tant a través dels seus propis escrits —com les publicacions als programes de Festa Major entre 1973 i 1975— com per les dades recollides posteriorment per Miquel Ballbè i Mn. Manel Ametller en els seus llibres d’història local.`,
+    origen:`El renom <strong><em>Corcola</em></strong> prové de <strong>Joan Torras i Arnella</strong> (1822-1896), avantpassat de Joan Font Pi. Mentre cavil·lava com construir una casa en un terreny acensat a en Pi de la Serra, al carrer Sant Joan, li van preguntar què feia, i ell va respondre que estava "corcolant" (calculant). Qui l’escoltava, rient, va exclamar: “El Joan Corcola!”, i així va néixer el mot.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 30, Matadepera`
+   },
+"cal-ton": {
+    title:`Cal Ton`,
+    altres:``,
+    historia:``,
+    origen:`Pel la contració del nom de l'Antonio Rosiñol`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 31, Matadepera`
+   },
+"cal-manco": {
+    title:`Cal Manco`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 32, Matadepera`
+   },
+"cal-pepito": {
+    title:`Cal Pepito`,
+    altres:``,
+    historia:`Lloc més conegut per ser <strong>l’estanc i antiga centraleta telefònica</strong>, que des de començaments dels anys quaranta fou  gestionada per la Vídua Valls. Posteriorment, passà a mans de la família Margarit, que hi establí la seva residència. Les filles dels Margarit van treballar a la centraleta, que, un cop tancada, donà pas a l’estanc-llibreria, gestionat pels fills Jordi i Josep Maria “Pepe”.<br> Finalment, Pepe Margarit el va regentar durant 33 anys, fins al seu tancament l’any 2022.`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 33, Matadepera`
+   },
+"cal-quisto": {
+    title:`Cal Quistó`,
+    altres:``,
+    historia:`L&rsquo;any 1846, Dom&egrave;nec Pi de la Serra inici&agrave; els establiments del carrer Sant Joan  Sud pel costat de llevant. El primer establiment fou de 25 pams, a favor de <strong>Joan  Cort&egrave;s i Codina</strong>, el primer &laquo;<strong>Quist&oacute;</strong>&raquo;, just al costat dels terrenys  reservats a la rectoria i a l&rsquo;esgl&eacute;sia, destinats a la futura parr&ograve;quia.<br>
+<br>
+En <strong>Joan Cort&egrave;s i Codina</strong> (1811), pag&egrave;s i fill de Matadepera, es cas&agrave;  amb <strong>Maria Riera i Amor&oacute;s</strong> (1811), amb qui tingu&eacute; sis fills.<br>
+<br>
+L&rsquo;hereu, Josep Cort&egrave;s i Riera, en casar-se amb Filomena Clap&eacute;s,  es trasllad&agrave; a viure al carrer Sant Joan, 9 (segons el padr&oacute; de 1892), on tamb&eacute;  tingueren sis fills. Fam&iacute;lia de la qual descendeix la nissaga de <em>Cal  Carreter</em>.<br>
+<br>
+El <strong>15 de mar&ccedil; de 1904</strong>, <strong>Francesc Cort&egrave;s i Riera</strong>, un altre dels  fills de Joan Cort&egrave;s i Maria Riera, casat amb <strong>Josefa Mitjana i Robert</strong>,  consta com a propietaris de la casa situada a tocar de l&rsquo;esgl&eacute;sia. Davant el  notari de Terrassa Ramon Estadella i Trilla, Francesc Cort&egrave;s vengu&eacute; l&rsquo;immoble a  Mn. Jaume Torres, en nom de la parr&ograve;quia, per un import de 2.750 pessetes,  sufragat pel cardenal Casa&ntilde;as, bisbe de Barcelona.<br>
+Aquesta venda va permetre ampliar l&rsquo;esgl&eacute;sia parroquial fins a la seva  configuraci&oacute; actual de tres naus, inaugurada l&rsquo;any 1917.<br>
+<br>
+Arran d&rsquo;aquesta operaci&oacute;, la fam&iacute;lia Cort&egrave;s es trasllad&agrave; a aquesta altra casa  del carrer Sant Joan, portant-hi el renom de &laquo;<em>Cal Quist&oacute;&raquo;</em>.`,
+    origen:`En <strong>Joan Cort&egrave;s i Codina</strong>, a mitjans del segle XIX,  passava el Sant Crist per les cases demanant almoina per la capella. Del mot  &laquo;Crist&raquo;, deformat, en deriv&agrave; &laquo;Cristo&raquo;. A la mainada d&rsquo;aquella casa,  quan els preguntaven d'on eren, responien pronunciant &ldquo;<em>soc de casa del  quisto</em>&rdquo; en comptes de &laquo;cristo&raquo;, i d'aqu&iacute; va derivar a <strong><em>&laquo;Quist&oacute;</em>&raquo;</strong>.<br>
+<br>
+&Agrave;ngel Guimer&agrave; va adoptar aquest renom per a la seva obra de teatre <em>Maria  Rosa</em>, on &laquo;<strong><em>Cal Quist&oacute;&raquo;</em></strong> apareix com l&rsquo;indret on es reunien els  enginyers i on els obrers cobraven el jornal per les obres de la carretera que  havia de comunicar Matadepera amb Sabadell. Per aix&ograve;<strong> altres fonts apunten que</strong>, si <strong>Guimer&agrave;</strong> es va inspirar en un fet real, el  nom podria estar relacionat amb el mot &laquo;<em>quist&oacute;&raquo;</em> en el sentit de salari o  compensaci&oacute;. Aquest terme provindria de &laquo;<em>quaestio&raquo;</em> (llat&iacute;: all&ograve; que es  reclama, el que toca rebre) i s&rsquo;havia usat per designar el jornal en esp&egrave;cie: blat,  vi, oli o altres productes en comptes de diners, una pr&agrave;ctica molt habitual al  m&oacute;n rural fins ben entrat el segle XIX. Aix&ograve; refor&ccedil;aria l&rsquo;associaci&oacute; del renom  amb aquest significat.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 34, Matadepera`
+   },
+"cal-marc": {
+    title:`Cal Marc`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 35, Matadepera`
+   },
+"cal-rebenta-sabaters": {
+    title:`Cal Rebenta Sabaters`,
+    altres:``,
+    historia:`Tenien una botiga a Terrassa, la Sabateria Bruguera, situada al carrer Cremat (que encara existeix), actualment dirigida pel besnet del fundador. L’avi de l’actual propietari, <strong>Josep Bruguera</strong>, es va traslladar a viure a Matadepera, on també hi van obrir una botiga —bàsicament una espardenyeria— gestionada per la seva dona, Teresa Bellot.`,
+    origen:`El fundador de la <strong>Sabateria Bruguera de Terrassa</strong>, besavi de l’actual propietari, venia el calçat a uns preus molt més baixos que la resta de sabaters de la ciutat, motiu pel qual se’l coneixia com el <strong>“<em>Rebenta Sabaters</em>”</strong>. El seu fill, Josep Bruguera, i la seva esposa Teresa Bellot van arrossegar aquest renom quan es van establir a Matadepera i van obrir-hi la seva pròpia espardenyeria.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 36, Matadepera`
+   },
+"cal-quildo-mas": {
+    title:`Cal Quildo Mas`,
+    altres:`Ca la Paquita de les Llanes`,
+    historia:`Juana Llunell Torras,  nascuda a l&rsquo;Hospitalet de Llobregat el 1850, es cas&agrave; amb Josep Utset i  Altimira, nat a Matadepera el 1854. El matrimoni tingu&eacute; sis fills i, des de cap  al 1875, visqu&eacute; al carrer de Sant Isidre, 2, on Juana exercia de mestra i hi  tenia l&rsquo;escola de nenes.<br>
+<br>
+L&rsquo;any 1911 la fam&iacute;lia es trasllad&agrave; a aquesta casa del carrer de Sant Joan. Aquest  lloc tamb&eacute; podria haver tingut el renom de &laquo;<em>Ca la Joana</em>&raquo;, encara que aquest  renom provablement s&rsquo;associ&eacute;s principalment a la casa del carrer de Sant  Isidre, on hi havia l&rsquo;escola i la resid&egrave;ncia familiar durant molts anys.<br>
+<br>
+Una de les filles, Dolors Utset Llunell, nascuda el 1891, es cas&agrave; a  finals de la primera d&egrave;cada del segle XX amb <strong>Hermenegildo Mas Fabr&eacute;s</strong>,  nascut a Mura el mateix any. Aquest fet don&agrave; origen al renom de la casa com &laquo;<strong><em>Cal  Quildo Mas</em></strong>&raquo;.<br>
+<br>
+Al padr&oacute; de 1940 hi consta el matrimoni amb una filla petita, anomenada tamb&eacute;  Joana. Amb ells hi vivien Alfonso Utset Llunell, germ&agrave; de Dolors, i el pare,  Josep Utset i Altimira, ja vidu, de setanta anys.<br>
+<br>
+A mitjan segle XX la casa fou reformada. Als baixos s&rsquo;hi  establ&iacute; <strong>Paquita Martinez Rod&oacute; </strong>nascuda el 1922 a Terrassa, casada amb Alfons  Comellonga Guitar (1913) de Sant Mateu de Bages. En una estan&ccedil;a amb finestra al  carrer, que feia tamb&eacute; d&rsquo;aparador, hi obr&iacute; una botiga de llanes, fet que don&agrave;  un nou renom popular a la casa.`,
+    origen:`<strong><em>Cal Quildo Mas</em></strong>: El renom prov&eacute; d&rsquo;<strong>Hermenegildo Mas</strong>,  del qual &laquo;<em>Quildo</em>&raquo; &eacute;s una forma escur&ccedil;ada i popular del nom.<br>
+<br>
+<strong><em>Ca la Paquita de les Llanes</em></strong>: El renom fa refer&egrave;ncia a <strong>Paquita  Mart&iacute;nez</strong>, que hi tenia una botiga de llanes als baixos de la casa, activitat  que esdevingu&eacute; molt identificativa per al ve&iuml;nat.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 37, Matadepera`
+   },
+"cal-noi-parrot": {
+    title:`Cal Noi Parrot`,
+    altres:``,
+    historia:`<strong>Lloren&ccedil; Aymerich Genesc&agrave;</strong> (1883-1936), hereu de <em>Cal  Parrot</em>, casat amb Leonor Ventayol Boada (1883), tingu&eacute; tres fills: Josep,  Maria i Angelina.<br>
+  <br>
+Josep Aymerich Ventayol  marx&agrave; a l&rsquo;Argentina, on ja feia un temps que hi vivia el seu tiet, Josep  Aymerich Genesc&agrave; (1885), treballant en el negoci del vi.<br>
+<br>
+Maria i Angelina, tot i  que en un principi van viure a la casa del carrer de Sant Joan, coneguda com &laquo;<em><strong>Cal  Noi Parrot</strong></em>&raquo;, tamb&eacute; acabaren traslladant-se a l&rsquo;Argentina amb la fam&iacute;lia.`,
+    origen:`<strong>Lloren&ccedil;  Aymerich Genesc&agrave;</strong> (1883-1936), hereu de <em>Cal Parrot</em>, era conegut com  &laquo;<strong><em>el Noi Parrot</em></strong>&raquo;, fet que don&agrave; origen al renom de la casa.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 38, Matadepera`
+   },
+"cal-ferreret": {
+    title:`Cal Ferreret`,
+    altres:`Cal Ferrer Nou`,
+    historia:`L&rsquo;any 1834, Dom&egrave;nec Pi de la Serra i Margenat parcel&middot;l&agrave; part dels seus terrenys de <em>Can Viny&eacute;s</em> i urbanitz&agrave; la zona sud de l&rsquo;actual carrer de Sant Joan, iniciant els primers establiments de nord a sud per la banda de ponent, just davant d&rsquo;on avui hi ha l&rsquo;esgl&eacute;sia, que encara no existia.<br>
+        <br>
+        Despr&eacute;s dels tres primers establiments, el dia abans de Nadal d&rsquo;aquell mateix any, establ&iacute; 37 pams (casal i mig) a favor de Joan Ventayol al carrer de la Llagosta, nom amb qu&egrave; era conegut el carrer nou de Matadepera, que apareix amb diferents denominacions segons l&rsquo;escriptura notarial. Actualment &eacute;s el carrer de Sant Joan.<br>
+        <br>
+        Joan Ventayol, despr&eacute;s de set anys sense edificar i abans d&rsquo;exhaurir el termini imposat per Pi de la Serra, vengu&eacute; el terreny el 28 de novembre de 1841 a Jeroni Padr&oacute;s i Puigdoura, de <em>Can Farr&eacute;s de Baix</em>, qui s&iacute; que hi    constru&iacute; una casa de planta baixa i pis, pensada per establir-s&rsquo;hi en casar-se amb Maria Codinas i Ventayol, dos anys m&eacute;s tard. Al padr&oacute; de 1865 ja hi consta vivint la fam&iacute;lia Padr&oacute;s, amb cinc fills.<br>
+        <br>
+        El 13 de desembre de 1878 fou embargat Francesc Gorina i Riera, darrer propietari del mas <em>Can Gorina</em>, que rest&agrave; literalment al carrer amb tota la seva fam&iacute;lia i els mobles. Despr&eacute;s de passar un temps allotjats en diferents cases per la solidaritat de la gent del poble, finalment Jeroni Padr&oacute;s, que ja no hi vivia, els llog&agrave; aquesta casa del carrer de Sant Joan.<br>
+        <br>
+        Jeroni Padr&oacute;s mor&iacute; el 27 de juliol de 1888 a Matadepera sense deixar    testament. El seu fill gran i hereu &uacute;nic, Francesc Padr&oacute;s Codina, que ja    vivia a Sant Pere de Terrassa, vengu&eacute; la casa l&rsquo;11 de febrer de 1890 a    <strong>Salvador Sellar&egrave;s Pi </strong>(1857&ndash;1935), de <em>Can Robert</em>, que ja hi residia, casat    feia poc m&eacute;s de dos anys amb <strong>Elvira Pi Soler</strong> (1861-1927), de &laquo;<em>Cal Xic    Xumeco</em>&raquo;, i hi havia instal&middot;lat una ferreria. El seu primer fill, <strong>Josep Sellar&egrave;s Pi</strong> (1888&ndash;1973), seria qui acabaria sent conegut com &laquo;<em>el Ferreret</em>&raquo; i consolidaria definitivament el renom de la casa.<br>
+        <br>
+        Aquesta casa, que fou resid&egrave;ncia i lloc de naixement dels descendents de la fam&iacute;lia Sellar&egrave;s durant tres generacions, a m&eacute;s de la ferreria, acoll&iacute; tamb&eacute; una merceria. M&eacute;s endavant, la ferreria es convert&iacute; en una botiga d&rsquo;ultramarins; durant molts anys tamb&eacute; hi tingu&eacute; la seu l&rsquo;administraci&oacute; de la Germandat de Sant Sebasti&agrave;, tamb&eacute; hi va haver un taller de confecci&oacute; i fins i tot una botiga de fotografia.`,
+    origen:`Quan <strong>Salvador Sellar&egrave;s Pi</strong> (1857&ndash;1935) compr&agrave; la casa a Francesc Padr&oacute;s Codina l&rsquo;any 1890 per viure-hi i muntar-hi una ferreria, fou coneguda com &laquo;<em><strong>Cal Ferrer Nou</strong></em>&raquo;, ja que a Matadepera ja hi havia altres ferrers des de finals del segle XIX, els Riba, vinguts de Sant Lloren&ccedil; Savall.<br />
+  <br />
+Ben aviat, el seu fill <strong>Josep Sellar&egrave;s Pi </strong>(1888&ndash;1973) segu&iacute; l&rsquo;ofici del pare. Per aquell vailet que tamb&eacute; feia de ferrer, la casa pass&agrave; a ser coneguda definitivament com &laquo;<strong><em>Cal Ferreret</em></strong>&raquo;.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 39, Matadepera`
+   },
+"cal-fuster": {
+    title:`Cal Fuster`,
+    altres:``,
+    historia:`<strong>Josep Gran&eacute; Olivereras</strong> (1823-1890), natural de Navarcles, era fuster de professi&oacute;. Casat amb C&agrave;ndida  Mogas Viver (1823-1898), de Ripollet, s&rsquo;establ&iacute; l&rsquo;any 1846 a Matadepera, on  compr&agrave; a Pi de la Serra un terreny de 65 pams per construir-hi una casa de dos  casals i mig, al carrer de Sant Joan, prop de l&rsquo;esgl&eacute;sia.<br>
+  <br>
+Hi obr&iacute; una gran fusteria que, amb el temps, esdevingu&eacute; molt important, amb  diversos operaris.<br>
+<br>
+El seu n&eacute;t, Jaume Gran&eacute; Busqueta, nascut en aquesta casa, es cas&agrave; l&rsquo;any 1909  amb Pilar Porta Manau i an&agrave; a viure al carrer de Sant Joan, actual n&uacute;mero 73, a  la casa coneguda com &laquo;<em>Cal Picarrocs</em>&raquo;. D&rsquo;aquesta branca familiar en  descendeix la nissaga Gran&eacute; Calvo, entre d&rsquo;altres.`,
+    origen:`<strong><em>Cal Fuster</em></strong>:  El renom prov&eacute; de la professi&oacute; de <strong>Josep Gran&eacute; Olivereras</strong>, primer de la  nissaga Gran&eacute; establert a Matadepera en aquesta casa.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 40, Matadepera`
+   },
+"cal-pintoret": {
+    title:`Cal Pintoret`,
+    altres:``,
+    historia:`En aquesta casa va  n&eacute;ixer i hi va viure tota la vida <strong>Antoni Garcia Sellar&egrave;s</strong>, &laquo;<strong><em>Pintoret</em></strong>&raquo;  (1934-2022), un dels personatges m&eacute;s destacats de la vida associativa, cultural  i mediambiental de Matadepera, reconegut amb la Medalla d&rsquo;Honor del municipi  l&rsquo;any 2017.<br>
+<br>
+El seu pare, <strong>Fernando Garc&iacute;a de Horta</strong>, originari d&rsquo;Andalusia, arrib&agrave; a  Catalunya amb la fam&iacute;lia quan tenia tres anys. Als vint-i-dos anys es cas&agrave; amb  Ant&ograve;nia Sellar&egrave;s Puig de <em>Cal Roig</em> i  s&rsquo;establiren en aquesta casa del carrer de Sant Joan, on naixeria l&rsquo;Antoni, que  heret&agrave; el renom familiar. Tant ell com el seu pare eren pintors de professi&oacute;.<br>
+<br>
+Antoni Garcia Sellar&egrave;s, conegut afectuosament com &laquo;<em>Pintoret</em>&raquo;, es cas&agrave; amb  Teresina Riba Casas (1933-2015) de <em>Cal Siset</em>, amb qui tingu&eacute; quatre  fills. Tant ell com la seva fam&iacute;lia mantingueren i mantenen una pres&egrave;ncia  activa en la vida social i cultural del poble.<br>
+<br>
+<em>El Pintoret</em> es  disting&iacute; especialment per la seva dedicaci&oacute; a Matadepera i al seu entorn  natural. Fou fundador del cos de Bombers Voluntaris de Matadepera i de l&rsquo;ADF,  de la Uni&oacute; Excursionista de Matadepera, promogu&eacute; la Festa de Sant Lloren&ccedil; a la  Mola, recuper&agrave; l&rsquo;Agrupaci&oacute; Coral i la Cavalcada de Reis, i impuls&agrave; les actuals  Festes de Sant Sebasti&agrave;.<br>
+<br>
+Gran coneixedor del Parc Natural de Sant Lloren&ccedil; del Munt i l&rsquo;Obac, el va  explorar i divulgar com pocs: col&middot;labor&agrave; en pl&agrave;nols excursionistes, guies de  recerca i rescats, i fou mestre i transmissor de coneixement natural a escoles  i entitats. Tamb&eacute; esdevingu&eacute; un boletaire expert i divulgador, autor de  publicacions i coautor d&rsquo;un llibre sobre els bolets del parc.<br>
+<br>
+La seva passi&oacute; i generositat deixaren una petjada profunda al poble: impulsor  incansable de nombroses iniciatives, sabia gaudir de les coses senzilles i  encomanava l&rsquo;estima per Matadepera i pel seu entorn a familiars, amics i  generacions senceres.`,
+    origen:` El renom &laquo;<strong><em>Pintoret</em></strong>&raquo;,  segons explicava el mateix Antoni Garcia Sellar&egrave;s en una entrevista a  Matadepera Televisi&oacute;, prov&eacute; del seu pare, <strong>Fernando Garc&iacute;a de Horta</strong>, que era  pintor de professi&oacute; i, segons deia ell mateix, era &ldquo;<em>molt baixet, fins i tot  m&eacute;s que jo, que ja sabeu que soc tamb&eacute; de poca estatura</em>&rdquo;.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 41, Matadepera`
+   },
+"cal-muletes": {
+    title:`Cal Muletes`,
+    altres:``,
+    historia:``,
+    origen:`A aquella casa s’havien dedicat durant anys a transportar llenya amb mules, des de Matadepera fins als forns de Barcelona. <br>
+Altre versions també expliquen que, com que el carrer Sant Joan era part del camí Ral, feien el servei de relleu: canviaven les mules cansades per unes de fresques.<br>
+Sigui per una raó, per l'altra o totes dues, la família va acabar sent coneguda com <em>Cal Muletes</em>`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 43, Matadepera`
+   },
+"cal-mabres": {
+    title:`Cal Mabres`,
+    altres:``,
+    historia:``,
+    origen:`El renom prové del cognom familiar Mabras. S’ha mantingut escrit amb “-es” final perquè és així com apareix en totes les referències conegudes d’aquesta casa i de la família.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 45, Matadepera`
+   },
+"cal-bolet": {
+    title:`Cal Bolet`,
+    altres:`Cal Pere Bolet`,
+    historia:`A mitjan  segle XIX, Dom&egrave;nec Pi de la Serra, pag&egrave;s de Rub&iacute; i hereu de les terres de Can  Vinyers, impuls&agrave; un pla d&rsquo;establiments dins les seves terres que esdevindria la  part sud del carrer de Sant Joan.<br>
+  <br>
+  L&rsquo;any 1834 feu el segon establiment en aquest sector, amb 80 pams d&rsquo;amplada  (equivalent a dos casals), a favor de Francesc Casanovas, traginer i fill de  Matadepera, casat amb Teresa Rius. El matrimoni, que inicialment s&rsquo;havia  establert en terrenys de Jaume Torrella a tocar de la bassa (a l&rsquo;actual part  alta del carrer de Sant Lloren&ccedil;), es trasllad&agrave; aqu&iacute;, en el que comen&ccedil;ava a  esdevenir el nou centre urb&agrave;. Tingueren dos fills, Josep i Catalina.<br>
+  <br>
+  Tot indica que, amb el temps, aquesta propietat acab&agrave; dividint-se en dues cases  diferenciades d&rsquo;un sol casal, corresponents a les de <em>Cal Bolet</em>  i <em>Cal  Mabres</em>, tot i que no es coneix amb exactitud quan ni com es produ&iacute; aquesta  divisi&oacute;.<br>
+  <br>
+  A trav&eacute;s del fill Josep Casanovas Rius, casat amb Maria Argem&iacute; Busqueta, la  casa pass&agrave; al seu fill Joan personatge clau en la continu&iuml;tat de la propietat. <br>
+  <br>
+  Per altre banda, la seva germana d&rsquo;en Josep, Catalina Casanovas Rius (1827),  casada amb Ramon Gut&eacute;s i Sola (1824-1879), s&rsquo;havia establert m&eacute;s avall, a  l&rsquo;actual n&uacute;mero 21, <em>Cal Monet</em>, on tingueren quatre fills: Teresa,  Jaume, Josep i Joan. L&rsquo;hereu, Jaume Gut&eacute;s Casanovas (1854-1923), casat amb  Ant&ograve;nia Arnau Pi, tingu&eacute; sis fills, dels quals descendiren nissagues com les de  <em>Cal Trapet</em> o la branca Gut&eacute;s-Orriols qu&egrave; acabaria vinculada a &laquo;<strong><em>Cal  Bolet</em></strong>&raquo;.<br>
+  <br>
+  En <strong>Joan Casanovas  Argem&iacute;</strong> (1852-1926) s&rsquo;havia casat en primeres n&uacute;pcies amb Ant&ograve;nia Cort&egrave;s  Piera, amb qui tingueren un fill, Gabriel Casanovas Cort&egrave;s, que tamb&eacute; consta a  la casa en diferents padrons. En segones n&uacute;pcies s&rsquo;havia casat amb Josefa Mas  Pont (1858), de Castellv&iacute;, amb qui no tingu&eacute; descend&egrave;ncia. Joan Casanovas  Argem&iacute; consta documentat en aquesta casa fins a la seva mort, ja vidu, l&rsquo;any  1926. <br>
+  <br>
+  El 1940 ja hi trobem vivint la fam&iacute;lia Gut&eacute;s-Orriols, Joan Gut&eacute;s Arnau  (1892), casat amb Francesca Orriols Elias (1899). Amb ells tamb&eacute; hi continua  vivint Gabriel Casanovas Cort&egrave;s (1890), recordem: fill de Joan Casanovas amb el  seu primer matrimoni, fet que reflecteix una possible continu&iuml;tat o  coexist&egrave;ncia en la propietat.<br>
+  <br>
+  Els fills de la fam&iacute;lia Gut&eacute;s Orriols, Jaume (1933-2018) amb la seva fam&iacute;lia i el  seu germ&agrave; Pere Gut&eacute;s (1929-2021), tamb&eacute; visqueren aquesta casa. Foren molt coneguts al poble,  sobretot per a la seva fruiteria ambulant. <br>
+  <br>
+  Pere Gut&eacute;s Orriols (1929-2021) fou un personatge especialment popular i  entranyable, recordat tamb&eacute; per haver estat durant anys &laquo;el mestre campaner&raquo;.`,
+    origen:`<strong><em>&laquo;Cal Bolet&raquo;:</em></strong> Segons explic&agrave; Jaume Gut&eacute;s  Orriols, el sobrenom &laquo;Bolet&raquo; prov&eacute; del seu avi <strong>Jaume Gut&eacute;s Casanovas</strong> (1854-1923), gran afeccionat als bolets.<br>
+  Altres fonts apunten, per&ograve;, que el  sobrenom &laquo;Bolet&raquo; podria haver estat vinculat anteriorment a <strong>Joan Casanovas  Argem&iacute;</strong>, dada que tampoc ha pogut ser plenament confirmada.<br>
+  <br>
+  <strong><em>&laquo;Cal Pere Bolet&raquo;:</em></strong> Derivat del renom anterior, aquest  s&rsquo;associa espec&iacute;ficament a <strong>Pere Gut&eacute;s Orriols</strong> (1929-2021), figura molt  popular al poble, que contribu&iacute; a fixar definitivament el nom de la casa en la  mem&ograve;ria col&middot;lectiva.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 47, Matadepera`
+   },
+"cal-caga-cristos": {
+    title:`Cal Caga Cristos`,
+    altres:`Cal Gitenet<br>Ca la Jana<br>Cal Parramon`,
+    historia:`Actualment és una plaça, la plaça de la Germandat de Sant Sebastià.<br>
+Però abans havia estat una immensa casa que ocupava tot l’espai de l’actual plaça. A dins hi havia diversos habitatges o estances, i en un d’ells hi vivien el Gitenet i la Jana, al pis de dalt, al qual s’accedia per una escala ben lúgubre. La canalla hi pujava per fer-se els valents, fins que, de cop, sortia la tal Jana i els feia fugir esperitats!<br>
+A fora hi havia una carnisseria, que regentava l’anomenat <em>Caga Cristos</em>. <br>
+Els de <em>Cal Caga Cristos</em> se’n van anar a viure a un pis damunt de <em>Cal Negre</em>, i la carnisseria la va agafar en Parramon. El lloc acabaria sent conegut per tothom, fins als últims dies, com a <em>Cal Parramon</em>.
+Al costat de la carnisseria, també hi va haver la pastisseria Rambla, amb una situació privilegiada perquè els parroquians anessin a buscar els tortells i pastissos de diumenge sortint de missa.<br>
+Però sembla que antigament també havia estat l’Ajuntament i Correus. L’any 1950, quan en Parramon en reformà la façana, damunt del portal hi havia una peça de terra cuita barnissada ben visible, amb unes lletres que deien:
+«Casa Consistorial y Correo».<br>
+Cal destacar també que, l’any 1846, fou un dels primers cafès i sales de ball del poble, llogat per Jaume Pi Robert, on s’hi organitzaven diverses festes. Ben aviat li va sortir competència just al davant, a tocar de l’església, amb el que van muntar a casa dels Grané, <em>Cal Fuster</em>, on va néixer l’avi Jaume Grané de <em>Cal Picarrocs</em>.`,
+    origen:`<em>Cal Caga Cristos</em>: perquè el primer carnisser era un home que rundinava i renegava més que no pas parlava.<br>
+<br>
+<em>Cal Gitenet</em> i <em>Ca la Jana</em>: pel renoms dels qui vivien dins l’edifici.<br>
+<br>
+<em>Cal Parramon</em>: pel cognom del darrer carnisser que hi va haver.`,
+    adreca:`Adreça actual: Plaça de la Germandat de Sant Sebastià, Matadepera`
+   },
+"ca-lassuncion": {
+    title:`Ca l'Assuncion`,
+    altres:``,
+    historia:`Aquesta va ser <strong>la primera casa del nou nucli urbà de Matadepera</strong>.<br>
+Cap a finals del segle XVIII, en Narcís Gorina, de Can Gorina, aclaparat pels deutes, decidí parcel·lar les seves terres al voltant del Camí Ral per establir-hi famílies a la vora del camí.<br>
+El 7 de desembre de 1786, Narcís Gorina vengué a Tomàs Martí, qui més endavant donaria nom a la nissaga de <em>Cal Tomasset</em>, una parcel·la situada al límit de les terres de Can Vinyés, per edificar-hi una casa de 45 pams d’amplada per 27 canes de llargada (aprox. 10,50 m de façana per 41,85 m de fons).<br>
+Amb el pas dels anys, la propietat passà a la família Genescà. Allà hi visqué <strong>Assumpció Clusellas Clapés</strong> (1873-1961), casada amb Joan Genescà Cortés (1874-1922).<br>
+Quan Assumpció quedà vídua el 1922, als 49 anys, continuà vivint a la casa fins a la seva mort als 88 anys, després de 39 anys de viduïtat. Aquest llarg període explicaria que el nom de la casa acabés associat a ella.`,
+    origen:`El renom <em>Ca l’Assuncion</em> prové d’Assumpció Clusellas, que hi visqué molts anys. Popularment, el seu nom es pronunciava “Assunsion”, amb una n final a la manera castellana però amb fonètica catalana, un tret habitual a la cultura rural d’aquella època.<br>
+Per respecte a la memòria oral, conservem l’escriptura “Ca l’Assuncion”, tot i que en català normatiu el nom és Assumpció.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 44, Matadepera`
+   },
+"cal-tenorio": {
+    title:`Cal Tenorio`,
+    altres:``,
+    historia:`Cap a l’any 1885, en començar a venir alguna família a passar temporada, en Joan Mas, conegut com "Tenorio", que es va casar amb Francesca Valls de Cal Paulí, van anar a viure a aquesta casa, que els hi van llogar els Gorina de Cal Motxo, just davant d’aquests. A més, van habilitar l’habitació d’entrada com a espai per despatxar carn de moltó (mascle d’ovella adult), que s’encarregà de servir-los l’avi Cesc de Can Roure i, després, el seu fill Jaume mentre va tenir ramat.<br>
+Durant la guerra, per la pèrdua del fill, van tancar la botiga i se’n van anar a viure a Terrassa.`,
+    origen:`En Joan Mas era conegut com el <em>Tenorio</em> pel costum que tenia de tirar floretes a les noies.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 46, Matadepera`
+   },
+"cal-gallifa": {
+    title:`Cal Gallifa`,
+    altres:``,
+    historia:`<strong>Una de les primeres cases del nucli urbà de Matadepera</strong>.<br>
+El 1772, <strong>Josep Argemir Puigdomènech</strong> (avui Argemí, ja que amb el temps es perdé la “r” final), , natural de Gallifa, esdevé un dels primers pobladors de la Matadepera urbana. Compra a Narcís Gorina, propietari de les terres de Can Gorina, una parcel·la de 40 pams d’amplada per 27 canes de llargada al carrer nou de Matadepera (avui carrer Sant Joan), on construeix la seva casa: l’actual <em>Cal Gallifa</em>.`,
+    origen:`En Josep Argemir Puigdomènech era natural de Gallifa i de qui ve el Renom.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 48, Matadepera`
+   },
+"cal-magi": {
+    title:`Cal Magi`,
+    altres:`Cal Lan<br>
+Ca la Nita`,
+    historia:`El 22 de gener de 1781, en Josep Pratginestós, hereu de Cal Jep, va establir en Magí Torras Juliana, de la Pedrera —pagès de Sant Pere de Terrassa— dins dels terrenys que havia comprat a en Gorina. En Magí, juntament amb els seus dos germans, Ignasi i Jaume, es va establir a Matadepera. Eren coneguts com els “de la Pedrera”, probablement per la pedrera de Can Candi.<br>
+D’en Magí en descendeix en <em>Lan</em>, Joan Torras Gumfaus, l’últim membre de la família que va viure a aquella casa del carrer Sant Joan cantonera amb la Ctra. De Terrassa, coneguda també per <em>Cal Lan</em>, on també hi havia el bar de <em>Ca la Nita</em>. <br>
+Actualment és un edifici de pisos i locals comercials.`,
+    origen:`<em>Cal Magí</em>: Pel nom d’en Magí Torras Juliana, que va comprar els terrenys i fer la casa,  rebesavi de Joan Torras Cardús, <em>Lan</em>.<br>
+<br>
+<em> Cal Lan</em>: Per una alteració del nom Joan.<br>
+<br>
+<em>Ca la Nita</em>: Contracció d’ “Anita”, diminutiu d’Anna en castellà.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 51, Matadepera`
+   },
+"ca-la-sibina": {
+    title:`Ca la Sibina`,
+    altres:``,
+    historia:`De les primeres cases del nucli urbà de Matadepera.<br>
+El 1772, Josep Argemí Puigdomench, natural de Gallifa, esdevé un dels primers pobladors de la Matadepera urbana. Compra a Narcís Gorina, propietari de les terres de Can Gorina, una parcel·la de 40 pams d’amplada per 27 canes de llargada al carrer nou de Matadepera (avui carrer Sant Joan), on construeix la seva casa: l’actual <em>Cal Gallifa</em> (núm. 48).<br>
+Aquell mateix any adquireix també el terreny just al costat nord, de 27 pams més, i més tard el seu germà Pantaló Argemí compra una altra franja similar, la que correspondria a aquesta casa, l’actual <em>Ca la Sibina</em>.<br>
+D’aquesta línia familiar en deriven diverses branques conegudes del poble. Però és la besneta de Josep, Sabina Argemí Pratginestós, casada amb Joan Ventayol Pi, qui establerta en aquesta casa, donarà origen al renom <em>Ca la Sibina</em>, fruit de la deformació popular del seu nom.
+D’aquest matrimoni en descendeixen famílies tan conegudes com <em>Cal Satlari</em>, o el mateix Joan Trabal Roma, sovint identificat com “Joan Trabal de <em>Ca la Sibina</em>”.<br>
+El singular, controvertit i famós capellà, Josep Maria Ballarín, prolífic escriptor català, va dedicar un capítol sencer a la casa en el seu últim llibre de memòries <em>El sac dels records</em>.`,
+    origen:`Prové de Sabina Argemí Pratginestós, que vivia a la casa a finals del segle XIX. El nom “Sibina” és una deformació popular i afectiva del seu nom de pila, Sabina, que acabà identificant la casa i els seus habitants`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 52, Matadepera`
+   },
+"cal-motxo": {
+    title:`Cal Motxo`,
+    altres:``,
+    historia:``,
+    origen:`El renom de <em>Cal Motxo</em> ve del fet que, en el bestiar banyut, els que no tenen banyes són anomenats "motxos". L'any 1920, un home va arribar a una era i, en preguntar per l'amo, li van indicar que era "el Motxo". Quan aquest va arribar, l'home li va preguntar si realment era "el Motxo", i ell, amb ironia, va respondre que si al seu poble no n'hi havia cap, aleshores tots devien ser "banyuts". Això va provocar rialles entre els presents i va consolidar el renom.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 53, Matadepera`
+   },
+"cal-roig": {
+    title:`Cal Roig`,
+    altres:`Ca l’Arangader`,
+    historia:`Aquesta casa fou residència de la família Sellarès de Cal Roig.<br>
+Josep Sellarès Ventayol, casat primer amb Teresa Gutés Casanovas i després amb Maria Vila Campos, es dedicava al cultiu de la vinya i al negoci dels transports. Amb les dues dones, tingué fins a disset fills.<br>
+De Cal Roig en descendeixen la Teresa Sellarès Vila “la Tereseta de <em>Cal Tanta</em>”, casada amb Constantí Porcar, <em>Tanta</em>; i també Antònia Sellarès Puig, de Cal Pintoret, filla de Ramon Sellarès (també de <em>Cal Roig</em>) i de Teresa “Tereseta” Puig Font.<br>
+<br>
+Posteriorment, la casa fou adquirida per Emili Pomar Padró i Angeleta Argerich Pons, que hi van obrir una botiga de queviures, especialitzada en bacallà i arengades civils. Des de llavors, la casa fou coneguda com <em>Ca l’Arangader</em>.`,
+    origen:`<em>Cal Roig</em>: El renom prové del color roig del cavall de Josep Sellarès Ventayol, que utilitzava per a les seves feines de transport i treball al camp.<br>
+<br>
+<em>Ca l’Arangader</em>: Aquest nom popular sorgí arran de la botiga de queviures dels Pomar, coneguda perquè venien principalment bacallà i arengades civils.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 54, Matadepera`
+   },
+"cal-trapet": {
+    title:`Cal Trapet`,
+    altres:``,
+    historia:`Va ser un cafè i una sala de ball a la part del darrere que donava al carrer Sant Isidre, entre la plaça de Cal Baldiró i la carretera de Terrassa. Era un lloc de reunió de la gent d’esquerres.<br>
+Passada la guerra, la sala de ball va ser convertida en el cinema Recreo (actual Granja Queralt), i la banda del cafè, al carrer Sant Joan, es va convertir en una botiga de queviures i una peixateria.<br> Actualment, és una xarcuteria i, des del 2024, després que els germans Gutés es jubilessin, ja no pertany a la família Gutés.`,
+    origen:`En Josep Gutés, es dedicava a comprar boscs per fer llenya o fusta. En 1895 tallaven en el bosc de <em>can Petit</em> de Terrassa. Tenia el costum de portar els diners dintre d'una maleta vermella i bo i estenent-los a terra sobre un drapet, cridava la colla per pagar. Els treballadors deien: "ja ha arribat el del «trapet»". Una transformació de la paraula "drapet" i ja tenim l'origen del renom <em>Cal Trapet</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 55, Matadepera`
+   },
+"ca-les-virginies": {
+    title:`Ca les Virginies`,
+    altres:`Cal Noi-Noi`,
+    historia:``,
+    origen:`La casa era coneguda com <em>Ca les Virginies</em>, perquè hi vivien dues germanes que la gent anomenava així.
+Una d’elles estava casada amb qui era conegut pel sobrenom de el <em>Noi-Noi</em>, i per això també en deien <em>Cal Noi-Noi</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 56, Matadepera`
+   },
+"ca-la-feliua": {
+    title:`Ca la Feliua`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 57, Matadepera`
+   },
+"cal-gamell": {
+    title:`Cal Gamell`,
+    altres:``,
+    historia:`Casa ubicada dins la part central de l’Hostal de la Marieta, inaugurat l’any 1772, una de les primeres edificacions abans del nucli urbà de Matadepera, a peu del Camí Ral de Barcelona a Manresa, l’actual carrer Sant Joan.<br>
+Els Gamell, descendents per part de mare de la nissaga de <em>Cal Baldiró</em>, hi vivien i hi tenien tres establiments: una barberia, una espardenyeria i l’oficina de correus.<br>
+La porta, sota l'actual número 58, donava a un passadís estret amb diverses portes que conduïen a diferents espais:<br>
+La primera a la dreta, només començar el passadís, conduïa cap a l’espardenyeria de la Paquita Arola, de <em>Cal Dents</em>, esposa d’en Genís Gamell Genescà.<br>
+La porta del fons portava a la llar dels Gamell i, al costat, a mà esquerra, precedida per uns quants graons, hi havia la porta que conduïa a la barberia d’en Genís, més tard regentada pel seu fill Joan, actualment local de decoració floral i complements de la Lídia Marimon (avui tancat).
+Però just en aquell estret passadís, l’Antoni Gamell Genescà, més conegut com a “Ton Carter”, hi tenia instal·lada la seva oficina de correus. Assegut al bell mig del passadís, organitzava el correu en unes caselles de fusta instal·lades sobre una petita taula de marbre.`,
+    origen:`Pel cognom`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 58, Matadepera`
+   },
+"cal-just-": {
+    title:`Cal Just `,
+    altres:`Cal Bratau`,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 60, Matadepera`
+   },
+"cal-macià": {
+    title:`Cal Macià`,
+    altres:``,
+    historia:`A principis de 1774, Francesc Busqueta Juliana, pagès de Sant Feliu del Racó es casa amb Maria Singla i ve a viurà a Matadepera. El seu fill, en Macià Busqueta,  serà un dels primers Busqueta nascut a Matadepera que casat amb Maria Garriga, viurà a aquesta casa. A partir d’aquest matrimoni s’originen diverses branques de la família Busqueta, però una d’elles es mantindrà vivint a la mateixa casa, que des d’aleshores, sempre més, serà coneguda com <em>Cal Macià</em>.<br>
+L’any 1949, Josep Busqueta Plans—rebesnet de Macià Busqueta— i la seva esposa Elvira Fuertes, funden un comerç emblemàtic al poble, conegut popularment com "El Corte Inglés matadeperenc", tot i que era, principalment, una merceria on s'hi podia trobar de tot. Aquest establiment va estar obert més de seixanta anys, fins que l’abril de 2013 va tancar, coincidint amb la jubilació de la seva propietària, Isabel Busqueta. 
+Actualment, l’edifici és un bloc de pisos.`,
+    origen:`<em>Cal Macià</em> és el renom que deriva de Macià Busqueta, fill del primer propietari, que donaria continuïtat al llinatge Busqueta en aquell indret.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 62, Matadepera`
+   },
+"cal-ferrer": {
+    title:`Cal Ferrer`,
+    altres:`Cal Nasplè`,
+    historia:`<strong>Narc&iacute;s Riba Sorribes</strong>, nascut a Sallent el  1836, era ferrer de professi&oacute;. Fill de Joan Riba (n. 1800), fuster, i de  Francisca Sorribas (n. 1808), es cas&agrave; amb Teresa Lleonart Vilatersana, nascuda  a Sant Lloren&ccedil; Savall el 1844.<br>
+    <br>
+A mitjan segle XIX  tenia contracte per forjar i trempar les barrines destinades a la perforaci&oacute; de  la roca per a les voladures, aix&iacute; com per mantenir les eines emprades en la  construcci&oacute; de la carretera de Matadepera a Talamanca. Com que la feina li  quedava lluny, s&rsquo;establ&iacute; a Matadepera, on instal&middot;l&agrave; la ferreria i la resid&egrave;ncia  en aquesta casa, on viuria definitivament amb la seva fam&iacute;lia.<br>
+<br>
+Amb Teresa Lleonart  tingueren tres fills: Rosa, Carme i Joan.<br>
+La Rosa Riba Lleonart es casà amb Salvador Pi Soler, de <em>Cal Xic Xumeco</em>, durant molts anys carter de Matadepera i germà d’Elvira Pi Soler, de <em>Cal Ferreret</em>.<br>
+La Carme Riba Lleonart es casà amb Jaume Mabres Rius i foren els pares de la coneguda «<em>Pepeta de Cal Mabras</em>.<br>
+<strong>Del fill Joan descendeix l’extensa nissaga Riba de Matadepera</strong>.<br>
+<br>
+<strong>Joan Riba Lleonart</strong> (1872&ndash;1926) es cas&agrave;  amb <strong>Teresa Arnau Gorina</strong> (1881&ndash;1964) i continu&agrave; l&rsquo;ofici de ferrer del seu  pare. Tingueren dos fills: Narc&iacute;s Riba Arnau (1900&ndash;1985), &laquo;Siset&raquo;, i &Agrave;ngel Riba  Arnau (1906&ndash;2001), &laquo;Angelet&raquo;.<br>
+<br>
+Al padr&oacute; de 1911 el  matrimoni, els dos fills i l&rsquo;&agrave;via consten vivint a la Carretera de Terrassa,  11, <em>Cal Siset</em>. Probablement fou aleshores que Joan Naspl&egrave; Antonell,  nascut a Castellter&ccedil;ol el 15 d&rsquo;agost de 1885 i establert a Matadepera des de  1909 per treballar de ferrer amb els Riba, s&rsquo;instal&middot;l&agrave; a aquesta casa i pass&agrave; a  regentar la ferreria.<br>
+<br>
+<strong>Joan Naspl&egrave; Antonell</strong> (1885&ndash;1966) es cas&agrave;  amb <strong>Assumpci&oacute; Altimira Soler</strong>, de <em>Cal Quim</em>, nascuda a Matadepera  el 1888. Tingueren quatre fills: Bernard&iacute; (1912), Joaquim (1914), Teresa (1922)  i Maria (1926).<br>
+<br>
+Joaquim Naspl&egrave;  Altimira, &laquo;<em>El Quimet</em>&raquo;, continu&agrave; la ferreria en el mateix lloc fins als  seus darrers dies. Un personatge for&ccedil;a peculiar.<br>
+<br>
+Actualment la casa &eacute;s  el <em>Restaurant Cal Madu</em>, i l&rsquo;antiga ferreria &eacute;s avui un dels menjadors de la  cafeteria <em>Els Tastets de Saint Honor&eacute;</em>.<br>`,
+    origen:`<em>Cal Ferrer</em>:  pel fet que <strong>Narc&iacute;s Riba Sorribes</strong> (1836&ndash;1926) hi establ&iacute; la ferreria,  essent un dels primers ferrers documentats de Matadepera.<br>
+  <br>
+  <em>Cal Naspl&egrave;</em>:  pel cognom de <strong>Joan Naspl&egrave; Antonell</strong>, que continu&agrave; la ferreria dels Riba  en aquest mateix indret, ofici que tamb&eacute; mantingu&eacute; el seu fill Joaquim, &laquo;<em>El  Quimet</em>&raquo;.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 63, Matadepera`
+   },
+"cal-roc": {
+    title:`Cal Roc`,
+    altres:`  Cal Vinyes
+<br>
+  Cal Vivet`,
+    historia:`<strong>Els Pi són una arrel de les més antigues de Matadepera</strong>, amb qui molts matadeperencs estem emparentats. <strong>L’any 1758, trobem un Josep Pi</strong>, a qui l’amo de <em>Can Vinyés</em> estableix una vinya, i el 1768 consta com a masover de del mateix mas.<br>
+En els primers establiments que fa Narcís Gorina, <strong>el 1773</strong>, n’estableix un en aquest lloc, situat entre la casa d’en Francesc Busqueta (<em>Cal Macià</em>) i <em>Cal Jep</em> dels Pratginestós (actual Residència Sagrada Família), a favor d’un Josep Pi que pensem que és el mateix esmentat anteriorment.<br>
+En algunes publicacions consta que en aquesta casa hi van viure en Joan i Francesc Pi Roure, probablement descendents d’aquest Josep Pi, que tot i dedicar-se al transport de pedra i fusta eren coneguts com els de <em>Cal Vinyes</em>.<br>
+<br>
+<strong>L’any 1945</strong>, quan la casa era propietat del Pepet Arnau, de <em>Cal Jepet</em>, la va llogar la <strong>família Garcia</strong> que vivien a Sant Feliu del Racó: Roque Garcia Font, casat amb Maria Martí Tanach de Matadepera i per això van tornar a viure al poble. En Roque Garcia era carboner i treballava a la zona de les Castellasses, a la cova del Gorg del General. Durant aquesta època, la casa fou coneguda com <em>Cal Roc</em>, pel nom de Roque Garcia («Roc» en català).<br>
+<br>
+Finalment, en <strong>Joan Vivet</strong> la comprà a Josep Arnau i hi muntà una carnisseria, etapa en què la casa passà a ser coneguda com <em>Cal Vivet</em>.`,
+    origen:` <strong><em>Cal Vinyes</em></strong>: Provablement pel vincle de Josep Pi amb les vinyes i per haver estat masover de <em>Can Vinyés</em><br>
+<br>
+  <strong><em>Cal Roc</em></strong>: Quan hi visqu&eacute; la fam&iacute;lia Garcia. El  renom prov&eacute; del nom Roque Garcia Font (&laquo;Roc&raquo; en catal&agrave;).<br>
+<br>
+<strong><em>Cal Vivet</em></strong>: Etapa  en qu&egrave; en Joan Vivet compr&agrave; la casa i hi instal&middot;l&agrave; una carnisseria.<br>`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 64, Matadepera`
+   },
+"cal-correlo": {
+    title:`Cal Correló`,
+    altres:``,
+    historia:`Aquesta propietat passà per diverses mans fins que, <strong>cap al 1826, Marianna Sanllehí Pratginestós</strong>, hereva de la finca, es casà amb <strong>Joan Sellarès Escudé</strong>. El padró de 1911 ja registra en aquesta casa els seus descendents, Antoni Sellarès Santllehí i Àngela Vives Tatxé, amb cinc fills: Joan, Pantaleó, Montserrat, Maria i Miquel.<br>
+El fill gran, <strong>Joan Sellarès Vives</strong> (1894–1947), es casà amb <strong>Faustina Sellarès Pi</strong> (1898–1969), i el seu fill <strong>Salvador Sellarès Sellarès</strong> (1927–1987), casat amb <strong>Francisca Ribera Lorenzo</strong> (1930–2022) i els seus fills, visqueren en aquesta casa, sent coneguts popularment com <strong><em>els del Correló</em></strong>.<br>
+L’origen d’aquesta casa, però, és molt anterior. A finals del segle XVIII, en aquest indret ja existia un pas públic de 9 pams d’amplada que travessava la finca per comunicar el carrer de dalt (Sant Isidre) i la bassa (plaça de Cal Baldiró) amb el carrer de baix (Sant Joan). Aquell pas, que donà el renom a la casa, fou establert l’any 1796 per Francesc Martí a benefici dels veïns, amb la condició de poder-hi construir al damunt.<br>
+El pas del «<em>correló</em>» per dins la casa va existir fins ben entrat el segle XX.<br> Finalment, a la dècada del 1920, amb l’obertura del Passatge del Rellotge, l’Ajuntament autoritzà els Sellarès a tancar aquell antic pas, que havia servit durant més d’un segle com a comunicació pública entre dos punts neuràlgics del poble.<br>
+Avui, la casa original ha desaparegut i en el seu lloc s’aixeca un edifici d’habitatges i locals comercials.`,
+    origen:`El renom <strong><em>Cal Correló</em></strong> prové d’aquest antic pas interior que travessava la casa i comunicava el carrer de Sant Joan amb la plaça de Cal Baldiró —una servitud històrica que acabà donant nom a la família i a l’indret.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 67, Matadepera`
+   },
+"cal-beltra": {
+    title:`Cal Beltrà`,
+    altres:``,
+    historia:`</strong>Aquest indret era propietat dels Pratginest&oacute;s i abastava des de l&rsquo;actual  n&uacute;m. 64, <em>Cal Vivet</em>, fins gaireb&eacute; tocar <em>Cal Jep</em>, la seva  resid&egrave;ncia (avui Resid&egrave;ncia Sagrada Fam&iacute;lia Matadepera). El carrer que  actualment separa els dos espais no existia, i la finca arribava pel darrere  fins a l&rsquo;actual passeig d&rsquo;&Agrave;ngel Guimer&agrave;.<br>
+    <br>
+  Durant la primera d&egrave;cada del segle XX, els Pratginest&oacute;s  llogaren aquesta lloc a <strong>Joan Oliver Casanovas</strong>, forner nascut el 1886 a  Sant Lloren&ccedil; Savall, perqu&egrave; hi instal&middot;l&eacute;s un forn i una fleca. A la banda on  avui hi ha el carrer hi havia la porta d&rsquo;acc&eacute;s a l&rsquo;estable, el galliner i la  cort dels porcs, aix&iacute; com una barra on s&rsquo;apilaven els costals de llenya i  l&rsquo;acc&eacute;s al forn.<br>
+  <br>
+  Al padr&oacute; de 1911 hi consta Joan Oliver, de 25 anys, casat  amb Manuela Rusi&ntilde;ol Garriga, tamb&eacute; de 25 anys i natural de Sant Lloren&ccedil; Savall,  amb dues filles ja nascudes a Matadepera, Josefa i Antonia. Amb ells hi vivia i  treballava des de feia sis mesos un dependent de 23 anys arribat d&rsquo;Alacant: <strong>Josep  Beltr&agrave; Valero</strong>, nascut el 1888 a El Castell de Guadalest.<br>
+  <br>
+  El 16 de juny de 1919 <strong>Josep Beltr&agrave; Valero</strong> (1888&ndash;1974)  es cas&agrave; amb <strong>Engr&agrave;cia Ventayol Aymerich</strong> (1893&ndash;1971), de Matadepera. Tingueren quatre fills: Inés, Joan, David i Francisco.<br>
+  <br>
+  L&rsquo;11 de gener de 1943 Llu&iuml;sa Pratginest&oacute;s Codina  (1865&ndash;1944), &laquo;la Llu&iuml;sa de Cal Jep&raquo;, &uacute;ltima hereva dels Pratginest&oacute;s, v&iacute;dua i  sense descend&egrave;ncia, ced&iacute; tota la finca a l&rsquo;Institut de les Germanes de la  Sagrada Fam&iacute;lia a canvi d&rsquo;atenci&oacute; fins a la seva mort.<br>
+<br>Ja sota propietat de la comunitat religiosa, el 8 de febrer  de 1946 l&rsquo;immoble fou venut a Josep Beltr&agrave; Valero, que ja regentava el forn i  la fleca, conegut popularment com &laquo;El Forn de Cal Beltr&agrave;&raquo;.<br>
+  <br>
+  L&rsquo;any 1949 la fam&iacute;lia Beltr&agrave; ced&iacute; la part de la parcel&middot;la on  hi havia l&rsquo;estable i l&rsquo;acc&eacute;s al forn perqu&egrave; l&rsquo;Ajuntament hi obr&iacute;s un carrer des  del carrer de Sant Joan fins al passeig d&rsquo;&Agrave;ngel Guimer&agrave;.<br>
+  <br>
+  Aquest vial, inicialment anomenat carrer d&rsquo;Ignasi Iglesias,  fou rebatejat oficialment l&rsquo;any 2016, per acord de la Comissi&oacute; del Nomencl&agrave;tor  de l&rsquo;Ajuntament de Matadepera, com a<em> Carrer de Cal Beltr&agrave;</em>, nom amb qu&egrave;  popularment ja era conegut.`,
+    origen:`<em>Cal Beltr&agrave;</em>: pel cognom de la fam&iacute;lia que hi regent&agrave; el forn, un  dels primers de Matadepera.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 68, Matadepera`
+   },
+"cal-satlari": {
+    title:`Cal Satlari`,
+    altres:``,
+    historia:`Aquest renom t&eacute; l&rsquo;origen en la fam&iacute;lia Satlari. Tot  i que no es pot precisar el moment exacte d&rsquo;establiment, &eacute;s probable que el  matrimoni format per Francesc Satlari Torres, nascut el 1860, i Dolors Pi Puigr&ograve;s,  nascuda el 1863, s&rsquo;hi instal&middot;l&eacute;s en casar-se provablement a finals del segle  XIX. <br>
+<br>
+Francesc Satlari Torres era n&eacute;t de Francesc Satlari Marinel&middot;lo, natural de Sant  Pere de Terrassa, casat el 1819 amb Rosa Sala Planell, de <em>Cal Espardenyer</em>,  establert a Matadepera l&rsquo;any 1824 al carrer de Sant Lloren&ccedil;, en una casa m&eacute;s  tard coneguda com <em>Cal Peret Satlari</em> pel seu tiet Pere.<br>
+<br>
+Al padr&oacute; de 1911 ja trobem Francesc i Dolors vivint en aquesta casa amb els  seus fills Salvador i Aniceta. Salvador Satlari Pi, nascut el 1885, es cas&agrave; amb  Consuelo Farell Pi, de Sant Juli&agrave; d&rsquo;Altura, i continu&agrave; la resid&egrave;ncia familiar.  Al padr&oacute; de 1924 hi consten amb els seus fills, i encara el 1940 la fam&iacute;lia hi &eacute;s  documentada, fet que confirma la continu&iuml;tat dels Satlari en aquest indret  durant diverses d&egrave;cades.</p>
+<p><strong>Francesc Satlari Torres</strong> (1860-1935) tingu&eacute; tamb&eacute; un paper destacat en la vida  social del poble, especialment com a president fundador de la Germandat de Sant  Sebasti&agrave; l&rsquo;any 1900, situada dues cases m&eacute;s amunt. En aquell temps, la  Germandat solia tenir la seu a la casa del president. El ve&iacute; Jaume Gran&eacute;, de <em>Cal  Picarrocs</em>, tamb&eacute; en fou president, fet que dona una rellev&agrave;ncia especial a  aquest tram del carrer de Sant Joan en relaci&oacute; amb l&rsquo;entitat.</p>
+<p>L&rsquo;any 1947, <strong>Joan Ventayol Genesc&agrave;</strong> (1918-1999), de <em>Cal Baldir&oacute;</em> per part de mare i descendent directe dels  primers pobladors de Matadepera per part de pare, es cas&agrave; amb Carme Godina  Baquer (1921-2007), de Maella. Fou aleshores quan s&rsquo;establiren en aquesta casa,  on es feren c&agrave;rrec de la botiga de queviures, coneguda popularment com &laquo;<em>Cal  Satlari</em>&raquo;.</p>
+Van regentar l&rsquo;establiment fins al 1961, per&iacute;ode  durant el qual el renom qued&agrave; plenament associat a la <strong>fam&iacute;lia Ventayol  Godina</strong>, coneguts com &laquo;<em><strong>els de Cal Satlari</strong></em>&raquo;.<br>
+<br>
+En l&rsquo;actualitat hi ha la Pastisseria Saint Honor&eacute;.`,
+    origen:`<strong><em>Cal Satlari</em></strong>: El renom prov&eacute; del  cognom de la fam&iacute;lia Satlari, documentada a la casa des de finals del segle  XIX. Amb el temps, el nom es consolid&agrave; com a denominaci&oacute; de la casa i de la  botiga, i fou adoptat tamb&eacute; per la fam&iacute;lia Ventayol Godina`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 71, Matadepera`
+   },
+"cal-picarrocs": {
+    title:`Cal Picarrocs`,
+    altres:``,
+    historia:`L’origen d’aquesta casa es remunta a finals del <strong>segle XVIII</strong>. L’any 1784, <strong>Josep Puigdoure</strong>, jornaler vingut de Mura, hi establí una primera casa, que el 1790 passà a la seva filla Marianna, casada amb Francesc Padrós, descendent de l’antic mas Padrós i masover de Can Farrés de Baix.<br>
+La nissaga Padrós es consolidà al carrer Sant Joan: el seu fill <strong>Esteve Padrós i Puigdoure</strong> (1807-1877), també masover de Can Farrés, prosperà amb vinyes i, sobretot, gràcies a l’explotació d’una pedrera —probablement la de Can Candi—, que subministrava pedra a Terrassa. La seva activitat li donà renom i li valgué el sobrenom que acabaria definint aquesta casa. L’Esteve Padrós fou alcalde de Matadepera entre 1863 i 1865.<br>
+A finals del segle XIX, la família Padrós es dispersà, però <strong>el renom “Picarrocs” quedà associat a l’habitatge</strong>.<br>
+<strong>La família Grané</strong>, de <em>Cal Fuster</em> —per l’ofici— i establerta al carrer Sant Joan a tocar de l’església, hi arribà més tard: Jaume Grané Busqueta, en casar-se amb Pilar Porta Manau, s’instal·là a aquesta casa. Van tenir tres fills: Rosa, Maria i Joan Grané Porta. En Joan es casà amb Neus Calvó Blanco i van tenir tretze fills, d’on prové l’actual descendència <strong>Grané Calvó</strong>. La família es dedicava principalment al treball forestal.<br>
+Jaume Grané va ser president de la Germandat de Sant Sebastià entre 1940 i 1949; per aquest motiu, la casa també fou seu social de la Germandat, just al costat de <em>Cal Genet</em>, on s’havia fundat inicialment.`,
+    origen:`El renom <em>Picarrocs</em> prové de la família Padrós, primers habitants de la casa, i especialment de l’Esteve Padrós i Puigdoure, que al segle XIX explotava una pedrera pròpia i era conegut com a “picarrocs”. Tot i que els Padrós van marxar, el nom va arrelar a l’habitatge i va passar a identificar també els seus posteriors estadants, la família Grané Calvó, que encara avui és recordada per aquest renom.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 73, Matadepera`
+   },
+"cal-jep": {
+    title:`Cal Jep`,
+    altres:``,
+    historia:`Actualment, Residència Sagrada Família Matadepera. Casa i terrenys propietat de les Germanes de la Sagrada Família d’Urgell.<br>
+<br>
+Lluïsa Pratginestós, —coneguda com la "Lluïsa de <em>Cal Jep</em>"—, última hereva de la família, vídua i sense descendència, vivia sola i molt atemorida en aquella immensa casa envoltada de molt terreny. Finalment, per sentir-se acompanyada, ho va donar tot a les Germanes de la Sagrada Família de la Seu d’Urgell a canvi de que la cuidessin i visquessin amb ella fins que es morís.<br> Només va viure un any més.`,
+    origen:`El 1803, Joan Pratginestós i Gorina va morir a casa seva, al carrer Nou de Matadepera (actual Sant Joan, 74). En el seu testament, va deixar l'usdefruit de la casa a la seva esposa perquè hi pogués viure de per vida, però va nomenar hereu del celler, els cubs i la resta de propietats al seu germà Josep, que en passaria a ser l'amo. Des de llavors, la casa es coneixeria com <em>Cal Jep</em>.  `,
+    adreca:`Adreça actual: Carrer de Sant Joan, 74, Matadepera`
+   },
+"cal-parot": {
+    title:`Cal Parot`,
+    altres:``,
+    historia:`Era la casa situada entre <em>Cal Picarrocs</em> i <em>Cal Genet</em>, que més endavant acabaria integrant-se dins la propietat de <em>Cal Picarrocs</em>.<br>
+Hi vivia <strong>Josep Farrés i Garriga</strong> (1907-1952), originari de Caldes de Montbui, casat amb Maria Lladó i Planas (1906-2009), de Matadepera. En Josep, de professió paleta, havia estat un temps estadant a la fonda de <em>Cal Baldiró</em> fins que, en casar-se, s’instal·là en aquesta casa. El matrimoni tingué tres fills: Paquita, Antònia i Joan.<br>
+Poc després de néixer la Paquita, la família es traslladà al carrer Narcís Monturiol, on encara hi té la seva casa la mateixa Paquita Farrés i Lladó, vídua de Joan Marimon i Datzira (1932-1979). En Joan va morir sobtadament als Cortins, un monòlit situat al vessant nord-oest del massís de Sant Llorenç del Munt, durant una excursió amb amics, tots ells amants de la muntanya.`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 75, Matadepera`
+   },
+"cal-genet": {
+    title:`Cal Genet`,
+    altres:`Ca l’Esmeralda`,
+    historia:`Aquesta casa va acollir, en diferents èpoques, diversos establiments i espais d’activitat social.<br> Inicialment, va ser coneguda com el “Cafè de la Mònica de <em>Cal Genet</em>”, amb una sala de ball situada a la part posterior de l’edifici, que donava a l’actual carrer dels Pratginestós. També hi havia una barberia a tocar del cafè.<br>
+Amb el temps, l’espai es va convertir en un establiment de queviures conegut com <em>Ca l’Esmeralda</em>. Tot i això, el fet més destacat associat a Cal Janet és que hi va néixer la <em>Germandat de Sant Sebastià</em>, origen de la gran festa d’hivern de Matadepera.<br>
+Quan van tancar les dues sales de ball del carrer Sant Joan, especialment la de Cal Fuster (a tocar de l’església), en Josep Robert i Torras va fundar, el 20 de gener de 1900, un nou cafè amb sala de ball al darrere, coneguda com el “Casino Mataperense”, ubicat a <em>Cal Janet</em>. Cinc mesos més tard, el 6 de maig de 1900, s’hi fundà oficialment la <em>Germandat de Sant Sebastià</em>.
+Avui dia, a l’edifici encara hi funciona un petit supermercat. A la façana, hi ha una placa commemorativa on s’hi pot llegir: “EN AQUESTA CASA ES VA FUNDAR LA GERMANDAT DE SANT SEBASTIÀ EL 6 DE MAIG DE 1900”`,
+    origen:`El renom prové del fet que els antics habitants de la casa es dedicaven al transport de terres i materials de construcció utilitzant cavalls, una feina habitual en l’època. El mot <em>genet</em>, que fa referència a qui munta o condueix cavalls, va acabar identificant la casa.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 77, Matadepera`
+   },
+"cal-julia": {
+    title:`Cal Julià`,
+    altres:`Cal Paifarre`,
+    historia:`Tota una generació recorda <strong><em>Cal Julià</em></strong> per les seves coques, ensaïmades i croissants, per les entranyables <strong>Maria Sellarès i Teresa Altimira</strong> darrere el taulell, i per les llargues cues de gent, fins i tot de fora de Matadepera, que els diumenges al matí esperaven el seu torn per comprar pa.<br>
+Però el nom de Cal Julià ve de molt més lluny. Francesc Gorina i Riera ja esmenta al seu dietari de finals del segle XIX (transcrit per Joan Comasòlivas) el “Magí de Cal Julià”, i les següents dades fan pensar que es tracta del mateix lloc:  Aquest Magí era <strong>Magí Pi Torras</strong> (1834–1896), fill de <strong>Julià Pi Singla</strong> (n. 1795) i avi de <strong>Julià Pi i Pi</strong> (1896–1972).<br>
+Al padró de 1911, hi trobem <strong>Joan Pi Ribera</strong> (1861–1948), <strong>de professió forner</strong>, casat amb Concepció Pi Aymerich (1872–1933). El matrimoni tingué quatre fills: Magí (1892), Teresa (1894), Julià (1896) i Josep (1904), tots empadronats al carrer Sant Joan, 89 (act.79).<br>
+D’entre ells, <strong>Julià Pi i Pi</strong> (1896–1972), <strong>casat amb Maria Sellarès Vives</strong> (n. 1906), continuaren amb el negoci familiar del forn, que es mantingué obert durant dècades i fou conegut popularment com <em>Cal Julià</em>.<br>
+Actualment, aquest lloc és una botiga-taller de bicicletes.`,
+    origen:`Per a la generació més recent, el nom <em>Cal Julià</em> s’associa al forn, però l’origen es remunta molt més enrere: tot indica que prové de <strong>Julià Pi Singla</strong> (n. 1795), probablement el primer “Julià” de la nissaga.<br>
+<br>
+Segons recorda la gent més gran, <strong>Julià Pi i Pi</strong> també era conegut amb el malnom de <em>Paifarre</em>. Quan era petit i li preguntaven a l’escola què havia esmorzat, ell responia amb ingenuïtat: “Pa i farra” —referint-se al pa amb botifarra—, i d’aquí li quedà el sobrenom.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 79, Matadepera`
+   },
+"cal-nasi": {
+    title:`Cal Nasi`,
+    altres:``,
+    historia:`La casa era propietat de Joan Ventayol Aimerich (pare de Joan Ventayol, conegut com <em>Saletes</em>), que feia de masover a Can Salas i la tenia llogada a la família Busqueta.<br>
+Més tard, van anar a viure al número 66 del carrer Sant Joan.`,
+    origen:`Prové de la contracció del nom d’Ignasi Busqueta`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 80, Matadepera`
+   },
+"ca-lesperdenyer": {
+    title:`Ca l'Esperdenyer`,
+    altres:``,
+    historia:`En Josep Pratginestós, el 2 de setembre de 1792, va establir un casal de 26 pams a en Valentí Sala, espardenyer de Mura.<br>
+El seu fill, en Salvador Sala, nascut l'any 1801, es va casar amb na Rosa Casassayas, membre d'una altra família també procedent de Mura, que ja havia fixat la seva residència a Matadepera. La nissaga dels Sala deixarien una petjada històrica al municipi. Finalment aquella casa seria la llar dels Turu – Barranco.`,
+    origen:`El renom de <em>Cal Espardenyer</em>deriva directament de l'ofici del seu primer propietari conegut, en Valentí Sala, qui es dedicava a la fabricació d'espardenyes.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 81, Matadepera`
+   },
+"cal-castro": {
+    title:`Cal Castro`,
+    altres:``,
+    historia:`En Castro tenia una petita botiga de reparació de calçat al costat, dins de la mateixa casa de <em>Cal Macià</em>, tocant la paret de Cal Vivet. El lloc també era conegut amb el mateix nom.`,
+    origen:`Pel Cognom`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 82, Matadepera`
+   },
+"cal-parrot": {
+    title:`Cal Parrot`,
+    altres:`Cal Tofunarire`,
+    historia:`El primer cop que trobem el nom de <em>Cal Parrot</em> és l’any 1886, amb el naixement de Josep Aimerich i Genescà, segons Manel Atmeller i Bassets (Programa de Festa Major 2005, pàg. 62).`,
+    origen:`<em>Cal Tofonaire</em> rep el nom perquè qui hi vivia era un home apassionat per la cerca de tòfones. Passava més temps fora de casa, recorrent boscos i camps, en la seva eterna recerca del preuat fong. La seva dona, que segons es comenta era tan bonica com la Rita Hayworth, es quedava sovint sola. I com que <em>el Tofonaire</em> s’estimava més rastrejar el sotabosc que estar per casa, al poble hi corria el rumor que ella, amb alguns vilatans, també sabia trobar allò que li mancava. Ves a saber... potser tot plegat no era res més que xerrameca de poble.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 84, Matadepera`
+   },
+"cal-tomaset": {
+    title:`Cal Tomaset`,
+    altres:``,
+    historia:`L’any 1794, Francesc Busqueta s’estableix en aquesta casa del carrer Sant Joan. Amb el temps, la família es trasllada a viure a Terrassa. La seva filla ven la casa, encara a mig construir, a Feliu Martí Pratginestós, fill de Tomàs Martí Gorina, que va ser, juntament amb Josep Argemí, <strong>un dels primers poblador de Matadepera</strong>.<br>
+Cent anys després, la seva besneta i hereva, Maria Martí i Morera, es casa amb Pere Farell Corder, d’Aiguafreda, d’on descendeix l’actual nissaga Farell.`,
+    origen:`El renom <em> Tomaset</em> prové del diminutiu associat al besavi de Maria Martí i Morera, fill de Tomàs Martí i Gorina, <strong>un dels primers pobladors del Matadepera</strong> l’any 1768, juntament amb Josep Argemí.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 85, Matadepera`
+   },
+"cal-quim": {
+    title:`Cal Quim`,
+    altres:``,
+    historia:`L’any 1794, Pratginestós estableix Joan Marcet i Colomer, fill de Can Marcet, amb dos casals al carrer Sant Joan de Matadepera.<br>
+Amb el temps, el propietari hereu de <em>Can Marcet</em>, Francesc Marcet i Carreras, hereta aquests casals i, l’any 1844, adquireix 25 pams més de terreny al costat.<br>
+En morir Francesc, la seva vídua, Teresa Colomer i Cadafalch, queda sense descendència, ja que tots els seus fills moren abans, l’últim amb 40 anys i solter. Davant d’aquesta situació, Teresa Colomer nomena hereva la seva cunyada Teresa Marcet i Carreras, casada amb Andreu Altimira i Carcassona, masovers de <em>Can Roure</em><br>.
+Aquest matrimoni tingué tres fills: Francesc (“el Cesc de Can Roure”), Joaquim i Maria.<br>
+El fill Joaquim Altimira i Marcet, conegut com <em>el Quim de Can Roure</em>, es casa amb Margarida Soler i hereta la casa, que a partir d’aleshores serà coneguda com a <em>Cal Quim</em>.`,
+    origen:`<em>Cal Quim</em> prové del diminutiu “Quim”, de Joaquim Altimira. El seu net, Joaquim Altimira Colomé “en Quimet de Cal Quim”, juntament amb la seva esposa Palmira Estrada, regentà durant molts anys la popular taverna coneguda com <em>Cal Quim</em>, ubicada a la mateixa casa. Aquesta activitat consolidà definitivament el renom.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 87, Matadepera`
+   },
+"ca-la-filomena": {
+    title:`Ca la Filomena`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 89, Matadepera`
+   },
+"cal-cesc-de-can-roure": {
+    title:`Cal Cesc de can Roure`,
+    altres:`Cal Jordi`,
+    historia:`En Bonaventura Altimira,  procedent de Sant Vicen&ccedil;, a la comarca d&rsquo;Osona, prop del riu Ter, va arribar a  Matadepera a finals del segle XVIII. Un dels seus fills, Andreu Altimira i  Carcassona (1799-1886), es va casar amb Teresa Marcet i Carreras (1820-1880),  de Can Marcet. L&rsquo;any 1854 els trobem com a masovers de Can Roure, on van viure  amb els seus fills: Francesc, Joaquim i Maria.<br>
+  <br>
+  L&rsquo;any 1844, Jaume Pratginest&oacute;s estableix 37 pams a nom d&rsquo;Andreu Altimira i  Carcassona, al costat de la casa que el seu cunyat Francesc Marcet, propietari  de Can Marcet, tenia al carrer de Sant Joan.<br>
+  <br>
+Aquesta casa del carrer de Sant Joan va passar al seu fill gran, <strong>Francesc  Altimira i Marcet (1840-1903)</strong>, l&rsquo;hereu, que &eacute;s qui dona origen al renom de  la casa: <strong>&laquo;<em>Cal Cesc de Can Roure</em>&raquo;</strong>.<br>
+<br>
+No obstant aix&ograve;, molta gent que hem consultat recorda aquesta casa amb el nom  de <strong>&laquo;<em>Cal Jordi</em>&raquo;</strong>, especialment per l&rsquo;Arturo i l&rsquo;Enriqueta, a qui  anaven a buscar la llet.<br>
+<br>
+Efectivament, l&rsquo;any 1940 localitzem establerts en aquesta casa, de lloguer, <strong>Enriqueta  Sala Mas</strong>, nascuda a Matadepera el 1903, casada amb <strong>Arturo Padr&oacute;s Mussons</strong>,  pastor nascut a Matadepera el 1909. Amb ells tamb&eacute; hi vivia el pare d&rsquo;ella, <strong>Jaume  Sala Flaquer, de <em>Cal Jordi</em></strong>, aix&iacute; com la seva altra filla,  Encarnaci&oacute;, casada i amb dos fills.<br>
+<br>
+Jaume Sala Flaquer, nascut el 1870 a Rocafort, casat amb Vicenta Mas Fabr&eacute;s,  nascuda el 1881 a Mura, s&rsquo;havien establert a Matadepera l&rsquo;any 1899, inicialment  al carrer de Sant Isidre, n&uacute;m. 11 (de la numeraci&oacute; de l&rsquo;&egrave;poca). All&agrave; van tenir  quatre fills: Jordi Josep, Rosa, Enriqueta i Encarnaci&oacute;.<br>
+<br>
+<strong>L&rsquo;Enriqueta de <em>Cal Jordi</em></strong>, i el seu marit Arturo van viure en  diferents indrets del poble. Tot i aix&ograve;, per record popular aquest renom tamb&eacute;  ha quedat associat a aquesta casa.`,
+    origen:`<strong><em>Cal Cesc de Can  Roure</em></strong>: El nom prov&eacute; de la forma familiar <strong>&laquo;Cesc&raquo;</strong>,  diminutiu de Francesc, en refer&egrave;ncia a <strong>Francesc Altimira i Marcet  (1840-1903)</strong>, fill d&rsquo;Andreu Altimira i Teresa Marcet. Abans de viure en  aquesta casa, la fam&iacute;lia havia estat masovera de <em><strong>Can Roure</strong></em>, fet que  completa el renom.<br>
+  <br>
+  <strong><em>Cal Jord</em>i</strong>: El renom prov&eacute; de la  fam&iacute;lia <strong>Sala Mas</strong>. L&rsquo;Enriqueta Sala Mas, casada amb Arturo Padr&oacute;s, era  coneguda com <strong>l&rsquo;<em>Enriqueta de Cal Jordi</em></strong>, pel renom de la seva fam&iacute;lia. El  seu pare, <strong>Jaume Sala Flaquer</strong>, tenia un fill gran anomenat <strong>Jordi Josep</strong>,  i els seus descendents tamb&eacute; han continuat portant el nom de Jordi, fet que fa  pensar que el renom familiar prov&eacute; d&rsquo;algun avantpassat amb aquest nom.<br />
+Tenint en compte que a <strong>Mura</strong> tamb&eacute; hi havia una casa coneguda com<strong> &laquo;<em>Cal Jordi</em>&raquo;</strong>, &eacute;s possible que el renom fos importat d&rsquo;all&agrave;, tot i que aquest  origen encara est&agrave; pendent de confirmaci&oacute;.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 91, Matadepera`
+   },
+"cal-niel": {
+    title:`Cal Niel`,
+    altres:`
+Cal Ramon<br>
+Cal Tomeu<br>
+Cal Jaques`,
+    historia:`El 10 de mar&ccedil; de 1778, en Narc&iacute;s Gorina va vendre a en  Jaume Pi 31 pams de terreny per construir-hi una casa &laquo;<em>per ell, la fam&iacute;lia i  el bestiar</em>&raquo;.<br>
+  <br>
+El seu besnet <strong>Bartomeu &laquo;<em>Tomeu</em>&raquo; Pi Vilet, </strong>de &laquo;<strong><em>Cal Ramon</em></strong>&raquo;  &mdash;segons l&rsquo;esmenta Miquel Ballb&eacute; Boada en el seu llibre <em>Pagesos i Menestrals</em>&mdash;,<strong> </strong>fou pare de <strong>Daniel &laquo;Niel&raquo; Pi Sala</strong>, &laquo;<strong><em>Cal Niel</em></strong>&raquo;. <br>
+<br>
+En Bartomeu residia a Sabadell amb el seu germ&agrave; solter, Pau Pi Vilet. Quan en  Pau va emmalaltir, ambd&oacute;s es traslladaren a viure a Matadepera, al carrer de  Sant Isidre, cercant uns aires m&eacute;s favorables.<br>
+<br>
+Mentrestant, al carrer de Sant Joan, 86, hi vivia <strong>un franc&egrave;s anomenat  Jacques</strong>, motiu pel qual la casa era coneguda com &laquo;<strong><em>Cal Jaques</em></strong>&raquo;.  Quan en Jacques retorn&agrave; a Fran&ccedil;a, en Tomeu s&rsquo;hi establ&iacute;, i des d&rsquo;aleshores la  casa pass&agrave; a ser coneguda com &laquo;<strong><em>Cal Tomeu</em></strong>&raquo;.<br>
+<br>
+<strong>Daniel Pi Sala</strong> (1868&ndash;1898), conegut com en &laquo;<strong>Niel&raquo;</strong>, fill d&rsquo;en  Tomeu, tamb&eacute; resid&iacute; en aquesta casa. Matador de porcs de professi&oacute;, inicialment  duia a terme els sacrificis al carrer, per&ograve; m&eacute;s endavant s&rsquo;instal&middot;l&agrave; al darrere  de la casa el primer escorxador de Matadepera, gestionat per ell i la seva  primera esposa, Ramona Pociello. Posteriorment, tamb&eacute; hi obriren una fonda  coneguda com &laquo;<strong><em>Cal Niel</em></strong>&raquo;.<br>
+<br>
+Situada a la cantonada amb el carrer de Narc&iacute;s Monturiol, la planta baixa de la  casa es convert&iacute; amb el temps en restaurant, i actualment hi funciona un  rostidor de pollastres i menjars preparats.`,
+    origen:`Per ara no s&rsquo;ha pogut  determinar amb certesa l&rsquo;origen del renom &laquo;<strong><em>Cal Ramon</em></strong>&raquo;.</p>
+<p>El renom &laquo;<strong><em>Cal  Jaques</em></strong>&raquo; deriva de la pron&uacute;ncia popular del nom del <strong>ciutad&agrave; franc&egrave;s  Jacques</strong> que hi resid&iacute;.</p>
+<p>&laquo;<strong><em>Cal Tomeu</em></strong>&raquo;  prov&eacute; directament del nom <strong>Bartomeu</strong>, truncat popularment en Tomeu.</p>
+El renom &laquo;<strong><em>Cal Niel</em></strong>&raquo; deriva de la forma popular truncada de  &laquo;Daniel&raquo;, en refer&egrave;ncia a <strong>Daniel Pi Sala</strong>, conegut com en Niel, qui en la  darrera etapa de la seva vida tamb&eacute; fou molt popular al poble com a fanaler,  encarregat d&rsquo;encendre i apagar els llums del carrer amb una llarga canya.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 86, Matadepera`
+   },
+"cal-cuixes": {
+    title:`Cal Cuixes`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 95, Matadepera`
+   },
+"cal-xisco": {
+    title:`Cal Xisco`,
+    altres:`Ca La Cecília`,
+    historia:`També conegut com <em>Ca La Cecília</em>, Al padró de 1911, la casa —que aleshores constava amb el número 129— acollia un dels fills d’en Francisco, Salvador Puig Mas, casat amb Matilde Sellarès Gutés, i els seus fills: Dolors, Maria, Cecília, Vicenç i Melcior Puig Sellarès. La Cecília seria qui donaria el nou sobrenom a la casa de <em>Ca la Cecilia</em>.`,
+    origen:`Casa d'en Francesc Puig Sala. De "Francisco" probablement vingui el renom <em>Xisco</em>. 
+<em>Ca La Cecília</em> pel nom de la seva filla.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 103, Matadepera`
+   },
+"cal-vicenc": {
+    title:`Cal Vicenç`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 105, Matadepera`
+   },
+
+// Carrer de Sant Isidre
+"ca-la-joana": {
+    title:`Ca la Joana`,
+    altres:`Cal Blanco`,
+    historia:`Aquesta casa, avui  desapareguda, era un edifici de planta baixa i pis situat on actualment hi ha  el garatge de l&rsquo;edifici constru&iuml;t a l&rsquo;espai de l&rsquo;antiga fusteria de <em>Cal  Fustaret</em>.<br>
+  <br>
+Cap al 1875 hi funcion&agrave; l&rsquo;escola de nenes de Matadepera. M&eacute;s endavant, entre  1925 i 1968, amb la interrupci&oacute; del per&iacute;ode de la Guerra Civil, una part del  pis superior acoll&iacute; l&rsquo;Ajuntament del municipi.<br>
+<br>
+Hi va viure <strong>Juana Llunell Torras</strong>, nascuda a l&rsquo;Hospitalet el 1850, casada  amb Josep Utset i Altimira, nat a Matadepera el 1854. El matrimoni tingu&eacute; sis  fills i ja consta empadronat en aquesta casa l&rsquo;any 1892.<br>
+<br>
+Juana Llunell exerc&iacute; de mestra durant uns trenta-sis anys. Compaginava  l&rsquo;ensenyament amb la vida familiar i impartia classe a les nenes del poble,  moltes de les quals hi van aprendre a llegir i escriure compartint l&rsquo;habitatge  amb l&rsquo;escola.<br>
+<br>
+En Joan Font Pi, Corcola, en el programa de festa Major del 1974, ens parla dels  germans Utset de &laquo;<strong><em>Ca la Joana</em></strong>&raquo;. Aquesta refer&egrave;ncia, juntament amb  el fet que aqu&iacute; hi hagu&eacute; durant molts anys l&rsquo;escola dirigida per Juana Llunell,  fa pensar que aquesta era la casa que la gent de l&rsquo;&egrave;poca identificava amb  aquest renom.<br>
+<br>
+Tot i aix&ograve;, el padr&oacute; de 1911 situa la fam&iacute;lia Utset Llunell al carrer de Sant  Joan, 41 (actual 37), amb quatre dels sis fills. En aquell moment, Juana  Llunell ja tenia prop de seixanta anys i probablement havia deixat el  magisteri. Aquest fet podria haver mantingut l&rsquo;associaci&oacute; del renom, per&ograve; tot  indica que &laquo;Ca la Joana&raquo; s&rsquo;identificava principalment amb la casa del carrer de  Sant Isidre. La del carrer de Sant Joan esdevindria m&eacute;s endavant <em>Cal Quildo  Mas</em>, arran del matrimoni de la seva filla Dolors Utzet amb Hermenegildo Mas.<br>
+<br>
+A partir de 1924, en aquesta casa ja hi consta vivint una altre fam&iacute;lia, Agust&iacute;  Pi Vilanova, nascut a Matadepera el 1881, casat amb Maria Riera Pi, tamb&eacute; del  poble, nascuda el 1879. Tingueren dos fills: Isidre, nascut el 1909, i Josefa,  el 1914.<br>
+<br>
+L&rsquo;<strong>Isidre Pi Riera</strong> es dedicava a extreure sorra de la riera, garbellar-la  i classificar-la per a la construcci&oacute;. Fou el principal subministrador local  del &laquo;palluc&raquo;, molt utilitzat pels paletes de Matadepera.<br>
+<br>
+El 1940, els pares de l&rsquo;Isidre continuaven vivint en  aquesta adre&ccedil;a, per&ograve; ell consta residint a Fran&ccedil;a, probablement a causa de  l&rsquo;exili derivat de la guerra. M&eacute;s endavant retorn&agrave; al poble i, un cop casat amb  Maria Teresa Sanz, de Lucena de Ebro, cap al 1960 an&agrave; a viure a l&rsquo;actual n&uacute;mero  27, que tamb&eacute; fou conegut com &laquo;<strong><em>Cal Blanco</em></strong>&raquo;.`,
+    origen:`<strong><em>Ca la Joana</em></strong>: El renom prov&eacute; de <strong>Juana  Llunell Torras</strong>, mestra que hi exerc&iacute; durant 36 anys i que hi tenia l&rsquo;escola  de nenes. La seva figura va donar nom popular a la casa.<br>
+<br>
+<strong><em>Cal Blanco</em></strong>: El renom fa refer&egrave;ncia als cabells completament  blancs d&rsquo;<strong>Isidre Pi Riera</strong>. El mot &laquo;Blanco&raquo;, castellanisme de &laquo;blanc&raquo;,  reflecteix una forma de parlar popular pr&ograve;pia de l&rsquo;&egrave;poca.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 2, Matadepera`
+   },
+"ca-la-bona-maria": {
+    title:`Ca la Bona Maria`,
+    altres:``,
+    historia:`El celler d’aquesta casa feia de vestidor improvisat per als partits que es jugaven al camp de futbol dels camps de Cal Torradamer (més o menys on actualment hi ha l’escola). Els jugadors visitants es canviaven a <em>Cal Fusteret</em>. Era habitual que les noies del poble hi anessin a festejar amb els jugadors contraris.`,
+    origen:`Segons explica Maria Pi Gutés, dona centenària i originària de la casa, el renom prové de la seva besàvia, Maria Puiggròs Morera. En una època en què molts homes treballaven al bosc tot el dia, les dones els portaven el dinar i sovint deixaven els fills petits al poble.<br>
+L’àvia Maria s’oferia voluntàriament a tenir cura de tota la canalla dels matrimonis del veïnat. La seva dedicació desinteressada era molt valorada, i la gent agraïda solia dir:<br>
+“Sort en tenim, que bona és la Maria.”<br>
+D’aquí en va quedar el renom de <em>Ca la Bona Maria</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 4, Matadepera`
+   },
+"cal-fin": {
+    title:`Cal Fin`,
+    altres:`Cal Busquetó`,
+    historia:`L&rsquo;any 1805, en Josep Pratsginest&oacute;s realitz&agrave; un dels seus  &uacute;ltims establiments, establint en aquest lloc 25 pams de terra a <strong>Jaume  Busqueta i Alsina</strong> (1781-1852), natural del <em>Mas Busqueta</em> de Sant  Feliu del Rac&oacute;.<br>
+<br>
+  Jaume Busqueta es cas&agrave; amb <strong>Catarina Casas i Daura</strong> (1783-1861), de Vacarisses, i tingueren tres fills. Nomen&agrave; hereu el fill petit,  fet poc habitual a l&rsquo;&egrave;poca, <strong>Andreu Busqueta Casas</strong> (1823-1888), que fou  alcalde de Matadepera (1872-1873). Casat amb <strong>Paula Valls Amat</strong>, tingueren  quatre fills, origen d&rsquo;algunes de les nissagues Busqueta al poble.<br>
+<br>
+El fill gran, <strong>Jaume Busqueta Valls</strong> (1849-1915), casat  amb <strong>Isabel Torres Obiols</strong> (1854-1901), tingu&eacute; cinc fills. El tercer, <strong>Delf&iacute;  Busqueta Torras</strong> (1879-1956), casat amb <strong>J&uacute;lia Bargu&eacute;s Par&eacute;s</strong> (1883-1967), tingu&eacute; nou fills que ampliaran encara m&eacute;s les nissagues Busqueta a  Matadepera.<br>
+<br>
+El fill gran d&rsquo;aquest matrimoni, <strong>Joan Busqueta Bargu&eacute;s</strong> (1906-1977), casat amb <strong>Lucrecia Vicente Carretero</strong>, consolid&agrave; la branca  familiar de <strong>&laquo;<em>Cal Fin</em>&raquo;</strong> en aquesta casa.<br>
+<br>
+Joan Busqueta tenia un taller de bicicletes molt a prop, al  local del carrer Josep Porcar amb cantonada amb el passatge del Dr. Boya. El  seu fill, Delf&iacute; Busqueta Vicente (1934-2018), matricer a l&rsquo;AEG, hi obr&iacute; tamb&eacute;  en el mateix lloc una ferreria com a many&agrave;, aprofitant el creixement urban&iacute;stic  de Matadepera durant la d&egrave;cada de 1960. Ferreria que mantingu&eacute; fins a la  jubilaci&oacute;.<br>
+<br>
+Delf&iacute; Busqueta Vicente, conegut popularment com el &laquo;<em>Fin</em>&raquo;,  es va casar amb Montserrat Segura Cort&eacute;s, de <em>Cal Quist&oacute;</em>, a qui conegu&eacute; a  la coral del poble.<br>
+  <br>
+  <strong>&laquo;<em>El Fin</em>&raquo;</strong> fou una persona molt rellevant en la vida social i  cultural del poble. Molt vinculat al teatre des de jove, <strong>fund&agrave; el 1977 els  Amics del Teatre</strong>. Particip&agrave; activament en la construcci&oacute; de l&rsquo;antic pavell&oacute;  esportiu i en l&rsquo;organitzaci&oacute; de la Festa Major (1977-1984); fou un dels  fundadors de la formaci&oacute; pol&iacute;tica municipal Units per Matadepera i impuls&agrave;  espais com el Casal de Cultura i la biblioteca municipal. Presid&iacute; i col&middot;labor&agrave;  amb diverses entitats locals: la Germandat de Sant Sebasti&agrave;, els Amics dels  Gegants i el Club Billar Matadepera... Finalment presid&iacute; l&rsquo;Associaci&oacute; Gent Gran  de Matadepera (1999-2008).<br>
+  <br>
+  L&rsquo;any 2014  l&rsquo;Ajuntament de Matadepera li atorg&agrave; la <strong>Medalla d&rsquo;Honor del municipi</strong>.`,
+    origen:`<strong><em>Cal Busquet&oacute;</em></strong><strong>:</strong> &nbsp;Un dels primers renoms de la casa, que  provindria d&rsquo;Andreu Busqueta Casas, hereu i fill petit de Jaume Busqueta, del  qual derivaria la forma diminutiva &laquo;<em>Busquet&oacute;</em>&raquo;.<br>
+    <br>
+    <strong><em>Cal Fin</em></strong><strong>: &nbsp;</strong>&Eacute;s, per&ograve;, el renom amb qu&egrave; m&eacute;s s&rsquo;ha recordat la casa.  Prov&eacute; de la contracci&oacute; final del nom &laquo;<strong><em>Delf&iacute;n</em></strong>&raquo;, forma castellana  aleshores d&rsquo;&uacute;s habitual i pronunciada a la catalana, de <strong>Delf&iacute; Busqueta  Torras</strong> (1879-1956). Aquest sobrenom el va heretar posteriorment el seu n&eacute;t, <strong>Delf&iacute; Busqueta Vicente</strong>, popularment conegut com el &laquo;<strong><em>Fin</em></strong>&raquo;.</p>
+<em>`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 5, Matadepera`
+   },
+"cal-joan-sord": {
+    title:`Cal Joan Sord`,
+    altres:``,
+    historia:``,
+    origen:`El renom prové d’en Joan Utset Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 6A, Matadepera`
+   },
+"cal-fusteret": {
+    title:`Cal Fusteret`,
+    altres:`Ca la Dolores<br>
+Cal Xispa`,
+    historia:``,
+    origen:`En Ramon Codina era fuster i treballava a la cantonada del carrer Sant Isidre amb l’actual carrer Josep Porcar, on ara hi ha un edifici de pisos.<br>
+La seva esposa es deia Dolores, i el seu fill era conegut amb el malnom de "el Xispa"`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 6B, Matadepera`
+   },
+"ca-larturo-de-badalona": {
+    title:`Ca l'Arturo de Badalona`,
+    altres:``,
+    historia:`La casa va ser construïda per Artur Serra i Forn, de Badalona, casat amb Maria Casedemunt i Pi. La van fer per passar-hi els estius amb els seus fills i néts. Amb el temps, es va convertir en la llar de la seva néta, Maria Cardona, i del seu marit Joan Soley Pons, que s’hi van instal·lar el 1958 en tornar de Mèxic. A partir d’aleshores, la casa esdevingué la residència definitiva de la família Soley.`,
+    origen:`Tot i que el senyor Arturo de Badalona no hi vivia de manera permanent, el seu vincle amb la casa fou prou significatiu perquè quedés associada al seu nom i lloc d’origen, donant peu al renom <em>Ca l'Arturo de Badalona</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 10, Matadepera`
+   },
+"cal-mando": {
+    title:`Cal Mando`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 11, Matadepera`
+   },
+"ca-la-naspa": {
+    title:`Ca la Naspa`,
+    altres:``,
+    historia:``,
+    origen:`El renom de &laquo;<em><strong>Ca la Naspa</strong></em>&raquo; tindria el seu origen en el  cognom familiar &laquo;<strong>Lanaspa</strong>&raquo;, que la pron&uacute;ncia popular matadeperenca acab&agrave;  transformant-lo amb &laquo;Naspa&raquo; afegint-hi l&rsquo;article.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 12, Matadepera`
+   },
+"ca-la-lola-rossa": {
+    title:`Ca la Lola Rossa`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 13, Matadepera`
+   },
+"cal-peret-ros": {
+    title:`Cal Peret Ros`,
+    altres:`Cal Mero`,
+    historia:`Al padró de 1911 hi consta que en aquesta casa hi vivien Pere Bruach Cases, nascut a Sant Llorenç Savall, casat amb Angeleta Valls Cuixart, i els seus sis fills: Antònia, Maria, Agustí, Eulògia i Baldomero.<br>
+Segons el testimoni de Pere Bruach Utzet (1938-2026), net d’en Pere Bruach Cases i fill d’Agustí Bruach Valls i Lluïsa Utset Genescà, les cases del costat —<em>Cal Cot</em> (<em>Ca la Naspa</em>) i <em>Cal Arturo de Badalona</em> (<em>Cal Soley</em>)— havien estat anteriorment l’hort de <em>Cal Peret Ros</em>.`,
+    origen:`El més probable és que el renom provingui del mateix Pere Bruach Cases, que devia ser ros de cabells. <br>
+El malnom <em> Mero</em>, en canvi, hauria estat associat al seu fill Baldomero Bruach Valls, abreujant el seu nom de pila.<br> 
+Tanmateix, ambdues versions resten pendents de confirmació definitiva.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 14, Matadepera`
+   },
+"cal-tanta": {
+    title:`Cal Tanta`,
+    altres:``,
+    historia:``,
+    origen:`El pare de Josep Porcar Fabres, conegut com “Tanta”, era una persona molt popular i estimada al poble. Es deia Constantí, però en un entorn col·loquial rural, la gent solia pronunciar aquest nom com “Constanta”, i d’aquí en va derivar el renom final de <em>Tanta</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 15, Matadepera`
+   },
+"cal-sidro-pobre": {
+    title:`Cal Sidro Pobre`,
+    altres:`Ca la Mundeta<br>
+Cal Martí del Tango<br>
+Cal Guerresenyo`,
+    historia:``,
+    origen:`També conegut com Ca la Mundeta, perquè era el nom de l'àvia de la família Riera`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 17, Matadepera`
+   },
+"cal-sereno": {
+    title:`Cal Sereno`,
+    altres:``,
+    historia:`El 19 de abril de 1958, en Pi de la Serra, estableix al carrer Sant Isidre, a la banda esquerra, mirant des de la plaça, dins dels seus terrenys que pertanyien a Can Vinyés, 40 pams de façana i 192 pams de llargària, on avui encara s’alça la casa de <em>Ca l’Arnau</em> a en Josep Arnau i Mundet, Pagès de Granera, que va arribar ser l’agutzil i sereno del poble, de manera que tothom l’anomenava “El Sereno”`,
+    origen:`Per la professió de sereno del seu primer propietari, Josep Arnau i Mundet`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 22, Matadepera`
+   },
+"cal-pauet": {
+    title:`Cal Pauet`,
+    altres:`Cal la Pietat`,
+    historia:``,
+    origen:`<em>Pauet</em>: Del diminutiu del nom Pau Solé`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 23, Matadepera`
+   },
+"cal-natzaret": {
+    title:`Cal Natzaret`,
+    altres:`Cal Quim Bardissa`,
+    historia:`Aquesta casa, coneguda originalment com a <em>Cal Quim Bardissa</em>, en va canviar l’estadant,  va passar a ser coneguda com <em>Cal Natzaret</em>.
+Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina era tiet de l’Emili Gorina Puig, “El Motxo”.`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 25, Matadepera`
+   },
+"cal-talant": {
+    title:`Cal Talant`,
+    altres:``,
+    historia:``,
+    origen:`En Joan Gutés de cal Monet festejava l'Angeleta de cal Rei. Sortí un altre pretendent i, en fer-li observar els amics que li perillava la promesa perquè el pretendent tenia molt talent, respongué que ell tenia més talant (presència o decisió) i així nasqué el motiu de «Talant».`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 29, Matadepera`
+   },
+"ca-la-marcelina": {
+    title:`Ca la Marcelina`,
+    altres:``,
+    historia:`Era una de les últimes cases del carrer de Sant Isidre, pràcticament a tocar de la plaça de Cal Baldiró. Actualment, al seu lloc hi ha pisos que ocupen diversos dels antics casals.<br>
+Hi va viure i morir <strong>Marcelina Genescà Arch (1871-1943)</strong>, casada amb Ramon Arnau Pi (1862-1905). El matrimoni tingué dos fills: Joan i Josep. El fill gran, Joan, morí el 1920 amb només 17 anys.<br>
+El fill petit, Josep Arnau Genescà (1900-?), es casà amb Filomèna Cortès Boada (1905-1989), de <em>Cal Carreter</em>. Van tenir tres fills: Maria, Joan i Ramon.<br>
+Josep Arnau Genescà fou alcalde de Matadepera entre 1931 i 1933. Posteriorment, marxà a Caracas (Veneçuela) amb Teresa Duat, esposa del seu millor amic i cosí Marc Genescà Cortès. Davant aquesta situació, Filomèna Cortès es traslladà a viure a la seva casa natal, <em>Cal Carreter</em> (carrer de Sant Joan, actual núm. 25), amb els seus tres fills.<br>
+Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als 72 anys.`,
+    origen:`El renom prové de <strong>Marcelina Genescà Arch</strong>, que en quedar vídua el 1905, als 34 anys, continuà vivint a la casa fins a la seva mort. Va ser vídua durant 38 anys, fet que explica que el nom de la casa quedés associat a ella.`,
+    adreca:`Adreça antiga: Carrer de Sant Isidre, 31, Matadepera`
+   },
+"ca-loliva": {
+    title:`Ca l'Oliva`,
+    altres:``,
+    historia:`Tenien oliveres a la font de l'Oliva a Can Candi`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 33, Matadepera`
+   },
+"cal-baldiro": {
+    title:`Cal Baldiró`,
+    altres:`Cal Tud`,
+    historia:`<strong>Antoni Genesc&agrave; Riera</strong>, pag&egrave;s nascut a Mura el 1802, vivia a Sant Pere de Terrassa. Es  cas&agrave; el 3 d&rsquo;agost de 1830 amb Maria Ventayol Pineda, de Vacarisses. Maria mor&iacute;  als trenta anys a causa de la verola, poc despr&eacute;s de tenir el segon fill.  Antoni es torn&agrave; a casar amb Maria Padr&oacute;s Puigdoure, de <em>Can Farr&eacute;s de Baix</em>,  a Matadepera.<br>
+    <br>
+  El 13 d&rsquo;abril de 1853, els Pratginest&oacute;s li establiren una pe&ccedil;a de terra al  carrer de Sant Isidre, 33, davant la bassa que abastia els primers carrers del  poble. A mitjan segle XIX, aquesta bassa es va tapar i, m&eacute;s endavant, l&rsquo;espai  es convertiria en l&rsquo;actual <em>Pla&ccedil;a de Cal Baldir&oacute;</em>.<br>
+  <br>
+  Amb el temps, la fam&iacute;lia Genesc&agrave; ced&iacute; una franja de la seva propietat per obrir  un carrer, inicialment anomenat d&rsquo;Antoni Genesc&agrave; i actualment carrer de  Pratginest&oacute;s.<br>
+  <br>
+  La fam&iacute;lia Genesc&agrave; es dedicava inicialment a la vinya, per&ograve; l&rsquo;any 1917 taparen  els dos cups de la sala central per transformar l&rsquo;espai en una primera sala de  ball, que resultava for&ccedil;a petita. El menjador es convert&iacute; provisionalment en  caf&egrave;, despr&eacute;s d&rsquo;arrencar la premsa i desmuntar les botes per pavimentar una  altra sala on tamb&eacute; s&rsquo;hi ball&agrave; durant alguns anys.<br>
+  <br>
+  Com que les tres naus de la casa quedaven petites, especialment en els moments  de m&eacute;s aflu&egrave;ncia, el p&uacute;blic hi acudia en gran nombre i sovint no s&rsquo;hi cabia.  Davant d&rsquo;aquesta situaci&oacute;, la fam&iacute;lia decid&iacute; ampliar l&rsquo;activitat i, finalment,  deix&agrave; el conreu de les terres per dedicar-se plenament a l&rsquo;oci. Aix&iacute;,  adquiriren el <em>Casino Matadeperenc</em>, situat davant mateix, al costat dret de la  pla&ccedil;a.<br>
+  <br>
+  En aquest nou espai, m&eacute;s ampli, hi desenvoluparen una activitat intensa amb  caf&egrave;, teatre i sala de ball. Fou en aquest context que sorg&iacute; el renom de &laquo;<em>Cal  Tud</em>&raquo;, arran del comentari d&rsquo;un visitant, Joan Vendrell, de Sentmenat, que  en comparar el local amb un altre del seu poble digu&eacute;: &laquo;<em>Aix&ograve; sembla Cal Tud</em>&raquo;.<br>
+  <br>
+  Paral&middot;lelament, a la casa origin&agrave;ria hi establiren la <strong><em>Fonda Baldir&oacute;</em></strong>,  que amb el temps es convert&iacute; en un dels principals centres d&rsquo;esbarjo de  Matadepera, amb caf&egrave;s, teatre i dues sales de ball.<br>
+  <br>
+  Posteriorment, la fonda es convert&iacute; en l&rsquo;Hostal del Sol, adquirit per la  fam&iacute;lia San Nicol&agrave;s. Avui dia &eacute;s un habitatge amb locals comercials.`,
+    origen:`<strong><em>Cal Tud</em></strong><strong>:</strong> pel  comentari de Joan Vendrell, de Sentmenat, que en referir-se a la nova sala de  ball va dir: &quot; <em>Aix&ograve; sembla Cal Tud</em>&quot;.<br>
+  <br>
+  <strong><em>Cal Baldir&oacute;</em></strong><strong>:</strong> d&rsquo;origen desconegut. Podria ser que, en  convertir el lloc en fonda, la fam&iacute;lia Genesc&agrave; s&rsquo;inspir&eacute;s pel nom en un conegut  hotel de la zona alta de Barcelona, l&rsquo;<em>Hotel Baldiro</em>, fam&oacute;s pels seus arrossos, hom&ograve;nim  de la <em>masia Cal Baldir&oacute;</em>, propietat dels G&uuml;ell, que devia el nom al  masover, anomenat Baldiri.`,
+    adreca:`Adreça actual: Plaça del Cal Baldiró, 2, Matadepera`
+   },
+
+   
+// Carrer de Sant Llorenç
+"cal-granota": {
+    title:`Cal Granota`,
+    altres:`Cal Corretger`,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 1, Matadepera`
+   },
+"cal-xic-cama-negra": {
+    title:`Cal Xic Cama Negra`,
+    altres:``,
+    historia:``,
+    origen:`Li deien "Xic", amb ironia, ja que era molt alt. De moment, es desconeix l’origen el perquè  “Cama Negra”.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 3, Matadepera`
+   },
+"cal-peret-satlari": {
+    title:`Cal Peret Satlari`,
+    altres:``,
+    historia:` El 19 de desembre de  1824, Maria Pi Illa, v&iacute;dua de Josep Pratginest&oacute;s Gorina, juntament amb el seu  fill i hereu Jaume, seguint la l&iacute;nia dels establiments iniciats el 1822 en  aquesta banda del cam&iacute; ral de Sant Lloren&ccedil; Savall, establiren una parcel&middot;la de  37 pams d&rsquo;amplada i amb llarg&agrave;ria fins a la riera a <strong>Francesc Satlari  Marinel&middot;lo</strong>, natural de Sant Pere de Terrassa, casat el 1819 amb Rosa Sala  Planell, de <em>Cal Espardenyer</em>. Van tenir dos fills, Mariano i Pere.<br>
+  <br>
+  <strong>Pere Satlari Sala</strong>, nascut el 1838, conegut com &laquo;<em>el Peret Satlari</em>&raquo;,  casat amb Maria Vilaret Bolart (1841), fou qui continu&agrave; vivint en aquesta casa  i don&agrave; el renom pel qual serien coneguts els seus descendents.<br>
+  <br>
+  Unes de les fonts consultades recorden la Llu&iuml;sa, que vivia en aquesta casa, i  expliquen que dues de les seves filles es casaren, una amb el de <em>Cal Ximo</em>  i una altra amb <em>l&rsquo;Angelet</em>. Amb les dades disponibles, hem pogut  comprovar que es tracta de Llu&iuml;sa Cardellach Casellas, casada amb Joan Satlari  Vilaret, fill del <em>Peret Satlari</em>. I efectivament, de les seves tres  filles, una es cas&agrave; amb Manel Garcia Gall&eacute;n, de <em>Cal Ximo</em>, i una altra amb  &Agrave;ngel Riba Arnau, <em>Cal Angelet</em>.`,
+    origen:` El renom prov&eacute; de Pere  Satlari Sala, nascut a Matadepera l&rsquo;any 1838`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 7, Matadepera`
+   },
+"cal-peret-mas": {
+    title:`Cal Peret Mas`,
+    altres:``,
+    historia:`Al padr&oacute; de Matadepera  de 1864 hi trobem residint en aquesta casa Antonio Mas Arola, nascut a Mura el  1805, casat amb Maria Carabasa Sala, nascuda el 1822 a Castellgal&iacute;, amb els  seus fills Teresa, Antonio, Pere i Esteve.<br>
+  <br>
+  L&rsquo;any 1892 ja hi trobem el seu fill, <strong>Pere Mas Carabasa</strong>, conegut com &laquo;<em>el  Peret Mas</em>&raquo;, casat amb Vicenta Fabr&eacute;s Alavedra, de Castellbell i el Vilar.<br>
+  <br>
+  Una fotografia escolar de 1912 confirma aquest renom, quan Joan Font Pi, <em>Corcola</em>,  identifica els nens Pere i Joan Mas, de <em>Cal Peret Mas</em>, al carrer de Sant  Lloren&ccedil;. D&rsquo;acord amb les dades del padr&oacute; de 1911, es tractaria dels nets de  Pere Mas Carabasa, que encara residia a la casa amb bona part de la fam&iacute;lia.`,
+    origen:`El renom<em> &laquo;<strong>Peret  Mas</strong>&raquo; </em>prov&eacute; de <strong>Pere Mas Carabasa</strong> nascut a Matadepera el 1848.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 9, Matadepera`
+   },
+"ca-la-doloretes": {
+    title:`Ca la Doloretes`,
+    altres:``,
+    historia:`En aquesta casa, als  voltants dels anys 20 del segle XX, hi van viure<strong> Enric Bargu&eacute;s i Par&eacute;s</strong>, casat  amb <strong>Dolores Puig i Sellar&egrave;s</strong>, de <em>Cal Xisco</em>. Van tenir tres fills: Joan,  Maria i Matilde.<br>
+<br>M&eacute;s tard, <strong>Maria Bargu&eacute;s  Puig</strong>, casada amb <strong>Valent&iacute; Marimon i Costa</strong>, continu&agrave; vivint a la casa juntament  amb la seva germana <strong>Matilde</strong>.`,
+    origen:`El renom de &laquo;<em>Ca la  Doloretes</em>&raquo; prov&eacute; del diminutiu afectiu i popular del nom de Dolores Puig i  Sellar&egrave;s.<br />
+  <br />
+M&eacute;s endavant, Valent&iacute; Marimon i Costa hi visqu&eacute; casat amb Maria Bargu&eacute;s  Puig, i amb ells tamb&eacute; hi resid&iacute; la seva cunyada Matilde. Les dues germanes,  Maria i Matilde, que fins aleshores havien viscut soles a la casa, eren  conegudes popularment amb el malnom de &laquo;<em>les Galotes</em>&raquo;. `,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 11, Matadepera`
+   },
+"cal-sidro": {
+    title:`Cal Sidro`,
+    altres:``,
+    historia:`Quan a Matadepera es parla del &laquo;<em>Sidro</em>&raquo;, molta  gent pensa en una persona molt entranyable i estimada al poble, Isidre Mart&iacute;nez  Llad&oacute;. Tanmateix, el renom de la casa no fa refer&egrave;ncia a ell, sin&oacute; al seu  besavi, <strong>Isidre Llad&oacute; Calvet, nascut a Matadepera el 1880</strong> i casat amb  Catarina Planes. Aquest Isidre Llad&oacute; &eacute;s qui va viure aquesta casa del carrer de  Sant Isidre, 13, i qui don&agrave; origen al renom.<br>
+  <br>
+  La primera refer&egrave;ncia a &laquo;<em>Cal Sidro</em>&raquo; la trobem a  la relaci&oacute; de socis de la Germandat de Sant Sebasti&agrave; de l&rsquo;any 1925, on consta  Isidre Llad&oacute; amb el sobrenom de &laquo;<em>Sidro</em>&raquo;.<br>
+  <br>
+  Isidre Llad&oacute; Calvet, casat en primeres n&uacute;pcies amb  Catarina Planes, va anar a viure inicialment al principi del carrer de Sant  Joan Sud. All&agrave; hi van tenir dos fills, Josep i Maria. Segons recorda la seva  neta Montserrat Llad&oacute; Puig, aquell indret era conegut com <em>Cal S&rsquo;Esquitlla</em>.<br>
+  <br>
+  El fill gran, <strong>Josep Llad&oacute; Planes</strong> (1910), es  cas&agrave; amb <strong>Antonia Puig Sol&agrave;</strong> (1911). Van tenir tres filles: Catarina,  Maria i Montserrat.<br>
+  <br>
+  Josep Llad&oacute; Planes fou regidor a Matadepera per ERC a  l&rsquo;Ajuntament de Concentraci&oacute; creat l&rsquo;any 1937, en plena Guerra Civil, amb Joan  Arola, &laquo;<em>Dents Xic</em>&raquo;, com a alcalde. El 14 de febrer de 1939 les  autoritats franquistes el van empresonar, com a molts altres en aquells anys.  Quan va poder sortir de la pres&oacute;, la fam&iacute;lia va anar a viure al passeig Arnau,  en una de les cases que m&eacute;s endavant serien conegudes com les cases dels  mestres. All&agrave; va n&eacute;ixer Montserrat Llad&oacute;, que ens ha ajudat a reconstruir  aquest relat.<br>
+  <br>
+  Amb els anys, la fam&iacute;lia Llad&oacute; va poder tornar al  carrer de Sant Isidre, una mica m&eacute;s avall d&rsquo;aquesta casa. Curiosament, &eacute;s en aquell  lloc on actualment viu l&rsquo;Isidre Mart&iacute;nez Llad&oacute;, conegut tamb&eacute; al poble com &laquo;<em>El  Sidro</em>&raquo;.`,
+    origen:` El renom de &laquo;Cal Sidro&raquo;  prov&eacute; de la forma popular del nom d&rsquo;Isidre Llad&oacute; Calvet. En la parla  col&middot;loquial de l&rsquo;&egrave;poca era habitual escur&ccedil;ar o alterar lleument els noms  propis, i en aquest cas Isidre es pronunciava sovint com &laquo;<em>Sidro</em>&raquo;.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 13, Matadepera`
+   },
+"ca-la-feliueta": {
+    title:`Ca la Feliueta`,
+    altres:`Cal Pastorelo`,
+    historia:`Entre 1822 i 1824, Maria Pi Illa, v&iacute;dua de Josep  Pratginest&oacute;s Gorina, juntament amb el seu fill i hereu Jaume, promogu&eacute; diversos  establiments a la part de ponent del cam&iacute; ral de Sant Lloren&ccedil; Savall, l&rsquo;actual  carrer de Sant Lloren&ccedil;, en la zona coneguda com &laquo;el bosc del cam&iacute; ral&raquo;.<br>
+  <br>
+  Un d&rsquo;aquests establiments fou el d&rsquo;aquest lloc <strong>l&rsquo;any 1822, concedit a  Francesc Codina, jove pag&egrave;s natural de Vacarisses</strong>, que hi adquir&iacute; una  parcel&middot;la de cinquanta pams d&rsquo;amplada que s&rsquo;estenia fins a la riera de les  Arenes, amb el comprom&iacute;s d&rsquo;edificar-hi una casa en el termini de sis anys.<br>
+  <br>
+  <strong>Francesc Codina</strong> es cas&agrave; en primeres n&uacute;pcies amb <strong>Maria Ventayol, de  Matadepera</strong>, i en segones amb Catalina Valls, de Sant Lloren&ccedil; Savall.<br>
+  <br>
+  El seu net, <strong>Joan Codina Alavedra</strong> (1859&ndash;1906), casat amb <strong>Julita  Sellar&egrave;s Sanllehi</strong> (1861&ndash;1906), va viure en aquesta casa, on van tenir <strong>set  fills</strong>. L&rsquo;any 1906 tots dos moriren amb poc temps de difer&egrave;ncia,  probablement a causa de la tuberculosi. Dos dels fills m&eacute;s petits tamb&eacute;  moririen m&eacute;s tard de la mateixa malaltia.<br>
+  <br>
+  <strong>Els fills grans, Josep</strong>, amb nom&eacute;s vint anys, <strong>i la seva germana  Montserrat</strong>, de vint-i-un, assumiren el paper de caps de fam&iacute;lia i es feren  c&agrave;rrec dels seus germans, el m&eacute;s petit dels quals tenia quatre anys.<br>
+  <br>
+  <strong>El 1911, Montserrat Codina Sellar&egrave;s es cas&agrave; amb Valent&iacute; Borrell</strong> i an&agrave; a  viure tres cases m&eacute;s amunt, on van muntar una botiga de plats i olles que m&eacute;s  endavant esdevindria un establiment de comestibles, molt conegut amb el nom de  &laquo;Ca la Montserrat&raquo;. El seu germ&agrave; gran, <strong>Josep Codina Sellar&egrave;s, es cas&agrave; el  1912 amb Maria Gorina Xandri, </strong>de <em>Cal Motxo</em>, que tamb&eacute; ajud&agrave; a  cuidar la resta de germans mentre ell treballava al bosc.<br>
+  <br>
+  Amb els anys, la fam&iacute;lia Codina es trasllad&agrave; a Terrassa. Al padr&oacute; de 1920  d&rsquo;aquesta ciutat ja hi consten residint al carrer de Topete.<br>
+  <br>
+  El 1924 hi trobem vivint en aquesta casa del carrer de Sant Lloren&ccedil;, <strong>Salvador  Casas Munuera</strong> (1877&ndash;1925), <strong>pastor, casat amb Isabel Villaescusa Avil&eacute;s</strong>,  vinguts de M&uacute;rcia amb quatre fills i tres m&eacute;s que ja naixerien a Matadepera. De  les filles del pastor descendeixen nissagues tan reconegudes al poble com <em>Cal  Tomasset</em>, <em>Cal Siset</em> i <em>Cal Mag&iacute;</em>.<br>
+  <br>
+  M&eacute;s tard, cap al 1940, tamb&eacute; hi viuria la fam&iacute;lia Rosi&ntilde;ol.`,
+    origen:`<strong><em>Ca la Feliueta</em></strong>: Per ara l&rsquo;origen d&rsquo;aquest renom &eacute;s desconegut.  La l&ograve;gica fa pensar que podria provenir d&rsquo;alguna persona anomenada &laquo;Feliua&raquo;,  per&ograve; en cap de les fam&iacute;lies esmentades des de l&rsquo;origen de la casa apareix ning&uacute;  amb aquest nom.<br>
+  <br>
+  <strong><em>Cal Pastorelo</em></strong>: Pel pastor Salvador Casas Munuera (1877&ndash;1925),  natural de M&uacute;rcia, que hi va viure als anys vint del segle XX amb la seva  fam&iacute;lia.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 15, Matadepera`
+   },
+"cal-lutero": {
+    title:`Cal Lutero`,
+    altres:`Cal Pilé<br>
+            Cal Ton de Mura`,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 17, Matadepera`
+   },
+"cal-pelleringa": {
+    title:`Cal Pelleringa`,
+    altres:``,
+    historia:`L&rsquo;any 1824</strong>, els Pratginest&oacute;s, Maria  Pi, v&iacute;dua de Josep Pratginest&oacute;s i Gorina (creador de la part alta a ponent del  carrer de Sant Joan) i el seu fill Jaume, continuaren venent parcel&middot;les, ara a  pontet del Cam&iacute; Ral de Sant Lloren&ccedil; Savall (actual carrer de Sant Lloren&ccedil;), en  una zona que havia estat boscosa i coneguda com &laquo;el bosc del Cam&iacute; Ral&raquo;.<br>
+    <br>
+  El 19 de desembre  d&rsquo;aquell mateix any establiren en aquest indret una parcel&middot;la de 37 pams  d&rsquo;amplada (un casal i mig) i de allargaria fins a la Riera de les Arenes a <strong>Mart&iacute;  Puig i Botifoll</strong>, natural de Sant Vicen&ccedil; de Castellet, amb el comprom&iacute;s  d&rsquo;edificar-hi en el termini de sis anys.<br>
+  <br>
+  <strong>Mart&iacute; Puig i Botifoll</strong>, casat amb Ant&ograve;nia  Sala Planell, de <em>Cal l&rsquo;Espardenyer</em>, s&rsquo;establ&iacute; en aquesta casa. El  matrimoni tingu&eacute; dos fills, Salvador i Francesc, dels quals descendiria la  nissaga dels <strong>Puig-Tordera</strong>.<br>
+  <br>
+  <strong>En Salvador </strong>fou qui don&agrave; origen al  renom de la casa.`,
+    origen:`El renom &laquo;<em>Cal  Pelleringa</em>&raquo; prov&eacute; de <strong>Salvador Puig i Sala </strong>(1832&ndash;1906). L&rsquo;any 1875,  mentre treballava tallant arbres amb altres homes, un carreter els va demanar  qui el convidava a esmorzar. Alg&uacute;, fent broma, va dir que el Salvador, perqu&egrave;  havia matat un porc gros. Per&ograve; ell va respondre que ja quasi no en quedava res,  &laquo;<em>nom&eacute;s una pelleringa</em>&raquo;. L&rsquo;expressi&oacute; va fer gr&agrave;cia i d&rsquo;aqu&iacute; va sorgir el renom.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 19, Matadepera`
+   },
+"ca-la-montserrat": {
+    title:`Ca la Montserrat`,
+    altres:`Cal Segarrí<br>
+Cal Pelegrí`,
+    historia:`Com la resta de cases de la banda de ponent del carrer de Sant Lloren&ccedil;,  dins la zona coneguda com &laquo;el bosc del cam&iacute; ral de Sant Lloren&ccedil; Savall&raquo;, aquest  establiment, de 27 pams d&rsquo;amplada i amb llarg&agrave;ria fins a la riera de les  Arenes, fou concedit <strong>l&rsquo;any 1824</strong> per la v&iacute;dua de Josep Pratginest&oacute;s  Gorina i el seu fill i hereu Jaume a <strong>Feliu Pobla Garrof&iacute;</strong>, de &laquo;<em>Can  Pobla</em>&raquo;.<br>
+    <br>
+  Despr&eacute;s de passar per altres propietaris, l&rsquo;any 1911 la casa pass&agrave; a mans de la  fam&iacute;lia Borrell, quan <strong>Valent&iacute; Borrell Escal&eacute;</strong>, de &laquo;<em>Can Gorina</em>&raquo;, es  cas&agrave; amb <strong>Montserrat Codina Sellar&egrave;s</strong>, de &laquo;<em>Ca la Feliueta</em>&raquo;, tots  dos nascuts el 1886. Al mateix temps hi van instal&middot;lar una botiga de plats,  olles i cassoles.<br>
+  <br>
+  En quedar v&iacute;dua, Montserrat Codina va anar a viure a Terrassa, al carrer de  Cervantes. Fins al seu retorn, l&rsquo;any 1929, la casa i la botiga van restar  llogades a una fam&iacute;lia de Terrassa. La dona es deia Peregrina, i durant aquells  anys el lloc fou conegut com &laquo;<strong><em>Cal Pelegr&iacute;</em></strong>&raquo;.<br>
+  <br>
+  Quan Montserrat Codina es torn&agrave; a establir a la casa, la botiga es transform&agrave; en  un establiment de queviures. Amb el temps, gestionada pels descendents de la  fam&iacute;lia Borrell, seria coneguda com &laquo;<strong><em>Ca la Montserrat</em></strong>&raquo; fins a  l&rsquo;actualitat.`,
+    origen:`<strong><em>Ca la Montserrat</em>:</strong> pel nom de Montserrat Codina Sellar&egrave;s (1886).<br>
+<br>
+<strong><em>Cal Segarr&iacute;</em>:</strong> sembla que prov&eacute; d&rsquo;un malnom vinculat a un  avantpassat de la fam&iacute;lia Borrell, possiblement relacionat amb el seu aspecte  prim o feble. Altres versions apunten que podria referir-se a una persona de  car&agrave;cter estalviador.<br>
+<br>
+<strong><em>Cal Pelegr&iacute;</em>:</strong> entre 1924 i 1929, un matrimoni vingut de Terrassa  regent&agrave; la botiga de plats i olles que havien muntat els Borrell. Com que la  muller es deia Peregrina, el lloc fou conegut com &laquo;<em>Cal Pelegr&iacute;</em>&raquo;.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 25, Matadepera`
+   },
+"ca-la-pepa": {
+    title:`Ca la Pepa`,
+    altres:`Cal Rei<br>
+Cal Peret Petit`,
+    historia:`En Jaume Pratginest&oacute;s i Pi, hereu de Josep Pratginest&oacute;s i  Gorina, juntament amb la seva mare Maria Pi i Illa, v&iacute;dua, impulsaren diversos  establiments en aquesta zona situada a ponent del cam&iacute; Ral de Sant Lloren&ccedil;  Savall, que antigament era una &agrave;rea boscosa coneguda com &laquo;el bosc del Cam&iacute;  Ral&raquo;.<br>
+  <br>
+  <strong>L&rsquo;any 1824</strong>, despr&eacute;s de diversos establiments previs, aquest fou el  pen&uacute;ltim abans del de <em>Cal Xumeco</em>. En aquest cas, s&rsquo;establiren 37 pams  d&rsquo;amplada a favor de <strong>Lloren&ccedil; Torras i Quer</strong>, casat amb una Gorina.  Lloren&ccedil; era fill de Mag&iacute; Torras Juliana, de la pedrera, conegut com &laquo;<em>Cal  Mag&iacute;</em>&raquo;.<br>
+  <br>
+  El 1911 trobem Valent&iacute; Riera Farell (1867), de Matadepera, casat amb Teresa  Sala Puig, nascuda el 1873 a Aiguafreda, amb cinc fills, que Joan Font Pi,  <em>Corcola</em>, anomena com els Riera de &laquo;<strong><em>Cal Rei</em></strong>&raquo;. El 1915 ja els  trobem vivint a Terrassa.<br>
+  <br>
+  Als voltants dels anys trenta del segle XX, hi va viure <strong>Josefa Ramon Gunfaus </strong>(1897-1975), de <em>Cal Muletes</em>, coneguda com &laquo;<strong>Pepa</strong>&raquo; casada amb <strong>Pere Gal&iacute; Creus </strong>(1886-1955), que va viure durant anys a la masia de Can  Petit de Terrassa, en una fam&iacute;lia for&ccedil;a nombrosa.<br>
+  <br>
+  La filla del matrimoni fou <strong>Teresa Gal&iacute; Ramon</strong> (1929&ndash;2021), que visqu&eacute;  soltera en aquesta casa tota la vida.`,
+    origen:`<strong><em>Cal  Rei</em></strong>: En <strong>Joan Riera</strong>, pare Valent&iacute; Riera Farell (1867), tenia fama de  molt bon caçador i la gent deia que era el &laquo;rei&raquo; de la escopeta, cosa que  provoc&agrave; que lloc fos conegut amb aquest renom.<br>
+  <br>
+  <strong><em>Cal  Peret Petit</em></strong>: El renom prov&eacute; de <strong>Pere Gal&iacute; Creus</strong> (1886-1955), conegut com &laquo;<em>el  Peret Petit</em>&raquo;. El diminutiu &laquo;Peret&raquo; era molt habitual en el parlar popular  de l&rsquo;&egrave;poca, especialment en aquest mateix carrer, on n&rsquo;hi havia diversos, fet  que feia necessari distingir-los. En aquest cas, l&rsquo;afegit &laquo;Petit&raquo; feia  refer&egrave;ncia a la vinculaci&oacute; d&rsquo;en Pere amb<em> Can Petit</em> de Terrassa.<br>
+  <br>
+  <strong><em>Ca  la Pepa</em></strong>: El renom fa refer&egrave;ncia a Josefa Ramon Gunfaus (1897-1975), &laquo;la Pepa&raquo;, que  hi visqu&eacute; durant molts anys despr&eacute;s de quedar v&iacute;dua, esdevenint la figura m&eacute;s  identificada amb la casa. `,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 27, Matadepera`
+   },
+"cal-xumeco": {
+    title:`Cal Xumeco`,
+    altres:``,
+    historia:` Aquesta casa  fou un dels &uacute;ltims establiments fets per la v&iacute;dua de Josep Pratginest&oacute;s Gorina,  Maria Pi Illa, juntament amb el seu fill Jaume, a la part de ponent del cam&iacute;  ral de Sant Lloren&ccedil; Savall, en la zona coneguda com &laquo;<em>el bosc del cam&iacute; ral</em>&raquo;.<br>
+  <br>
+  <strong>El desembre  de l&rsquo;any 1824</strong> establ&iacute; en aquest lloc 27 pams de terra a <strong>Bartomeu Pi  Singla</strong> (&dagger;1852), que, casat amb <strong>Francesca Cort&eacute;s Codina</strong> (1806&ndash;1874),  va tenir quatre fills: Joan (1827), Magdalena (1828), Josep (1830) i Eul&agrave;lia  (1840).<br>
+  <br>
+  El fill gran, <strong>Joan  Pi Cort&eacute;s</strong>, nascut en aquesta casa l&rsquo;any 1827, &eacute;s qui acabaria donant lloc  al renom de la casa pels motius que s&rsquo;expliquen a l&rsquo;apartat &laquo;Origen del renom&raquo;.<br>
+  <br>
+  <strong>El cognom Pi</strong> ha estat hist&ograve;ricament molt est&egrave;s a Matadepera. Tant &eacute;s aix&iacute; que moltes de les  fam&iacute;lies amb arrels antigues al poble hi estem emparentades d&rsquo;una manera o  altra. Entre els descendents de la fam&iacute;lia Pi Cort&eacute;s trobem nissagues  vinculades, amb el cognom &ldquo;Pi&rdquo;, a cases com <em>Cal Corcola</em>, <em>Cal  Pinetell</em>, <em>Cal Sereno</em>, <em>Cal Ferrer</em> o <em>Cal Ferreret</em>,  entre d&rsquo;altres.`,
+    origen:`Joan Font Pi,  &laquo;<em>Corcola</em>&raquo;, en el llibre de Miquel Ballb&eacute;: <em>Matadepera fins ara (1994)</em>,  parlant del seu avi <strong>Joan Pi Cort&eacute;s</strong>, explica:<br>
+  &laquo;<em>L&rsquo;avi Xumecu, que mai no perdia l&rsquo;humor, sembrava tom&agrave;quets i feia bones  penjades d&rsquo;aquells petits, per sucar el pa o fer sofregits. Ell en deia  &ldquo;xumecus&rdquo;, i aix&ograve; va acabar condicionant el sobrenom.</em>&raquo;`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 29, Matadepera`
+   },
+"cal-poeto": {
+    title:`Cal Poetó`,
+    altres:`Cal Rajoler`,
+    historia:`Els Pratginestós establiren el 23 de desembre de 1829 aquest indret, amb una façana de 75 pams (equivalent a tres casals), a favor de Joan Carantela i Valls, serrador i veí de Terrassa. Deu anys més tard, l’1 de juny de 1839, Carantela vengué la casa a <strong>Pere Tarrés i Solà</strong>, també serrador i comerciant, natural de Linyà (el Solsonès), casat amb Francesca Farell i Marganell, de Mura.<br>
+La <strong>Maria Font Tarrés</strong> (1913–2008), coneguda com <strong>«la Maria de Cal Poetó»</strong>, va néixer en aquesta casa. Descendent de la família Tarrés, era filla de Josep Font Torres, de <em>Cal Corcola</em>, i d’Àngela Tarrés Girbau. Es casà el 31 de març de 1933 amb <strong>Felip Elies Padilla (1909–1989), de professió rajoler</strong>. En una entrevista de 1991 a Matadepera TV, la Maria explicava que preferia que li diguessin "<em>la Maria del Felip</em>", perquè n’estava molt del Felip, com ella mateixa expressava amb un somriure trist ple d’afecte.<br>
+Quan la Maria i el Felip es van casar, van anar a viure al carrer Sant Joan, a casa dels pares d’ell, però hi van estar poc temps: la relació amb la sogra i madrastra del Felip, una dona de caràcter molt dominant, no va funcionar. Després d’haver viscut en diversos llocs, entre ells la casa de <em>Cal Correló</em>, finalment tornaren a aquesta casa del carrer Sant Llorenç, la casa natal de la Maria. Aleshores, fou coneguda també com <strong><em>Cal Rajoler</em></strong>, pel Felip Elies.`,
+    origen:`<strong><em>Cal Poetó</em></strong>: En Pere Tarrés i Solà, serrador, també es dedicava al transport de llenya amb carro. Un dia, en tornar de Montcada, explicà als seus amics de Matadepera que en aquella població hi farien un nou “camí poetonal” (en lloc de peatonal). Aquella confusió va fer tanta gràcia que, des d’aquell dia, fou conegut com «el Poetó».<br>
+<br>
+<strong><em>Cal Rajoler</em></strong>: Nom que prengué la casa quan hi anaren a viure Felip Elies Padilla casat amb Maria Font Tarrés. En Felip, que era rajoler i propietari d’una bòbila a Matadepera, donà així un altre renom a la casa familiar.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 31, Matadepera`
+   },
+"ca-la-llucia": {
+    title:`Ca la Llúcia`,
+    altres:`Cal Pere de la Pipa`,
+    historia:`En una petita construcci&oacute; entre les cases de  <em>Cal Pueto</em> i <em>Cal Espanyol</em>, l&rsquo;any 1940 hi trobem vivint Maria  Barnet Bargall&oacute;, nascuda a Tivissa el 1904, v&iacute;dua de Josep Costa Soler, nascut  el 1902 a Mura, amb els seus fills, <strong>Ll&uacute;cia Costa Barnet</strong> (1932) i el seu  germ&agrave; Jaume (1934).<br>
+<br>
+Segons recorda la gent gran que la va con&egrave;ixer, Ll&uacute;cia Costa va ser una de les  millors cosidores del moment. El seu germ&agrave; Jaume form&agrave; part de la gran fornada  de bons paletes del poble i es cas&agrave; amb Marta Freixa, de <em>Cal Gitanet</em>.<br>
+<br>
+M&eacute;s endavant hi va viure <strong>Pere Barbero Buigas</strong> (1919&ndash;2003), casat en  primeres n&uacute;pcies amb Pepeta Vall-llovera. Era conegut com &laquo;<em>Pere de la Pipa</em>&raquo;  entre la seva generaci&oacute; i treballava com a conductor d&rsquo;autobusos i autocars.<br>
+<br>
+El seu fill, Santi Barbero Vall-llovera, es cas&agrave; amb Montserrat Llad&oacute;, de <em>Cal  Sidro</em>. Havia comen&ccedil;at fent de cobrador dels autocars de Matadepera a Terrassa,  per&ograve; acab&agrave; esdevenint un reconegut mec&agrave;nic de cotxes. Tamb&eacute; destac&agrave; com a  corredor de ral&middot;lis als anys setanta, competint amb un vehicle SEAT 600 D i  corrent per l&rsquo;escuderia MATH.`,
+    origen:`<strong><em>Cal la Ll&uacute;cia: </em></strong>pel fet que hi va viure  Ll&uacute;cia Costa Barnet (1932&ndash;1992), reconeguda cosidora.<br>
+<br>
+<strong><em>Cal Pere de la Pipa: </em></strong>per Pere Barbero Buigas (1919&ndash;2003), conegut  conductor d&rsquo;autobusos i autocars a Matadepera.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 33, Matadepera`
+   },
+"ca-lespanol": {
+    title:`Ca l'Español`,
+    altres:``,
+    historia:`Darrer establiment fet pels Pratginest&oacute;s al carrer de Sant Lloren&ccedil;, dins dels  terrenys de <em>Can Gorina</em> i a tocar de l&rsquo;heretat de <em>Can Sola</em>,  realitzat per Jaume Pratginest&oacute;s i Pi l&rsquo;any 1839 a favor de Salvador Sala, fill de <em>Cal l’Espardenyer</em>.<br>
+<br>
+  L&rsquo;any 1926, <strong>Jaume Espanyol i Serraclara</strong> (1889&ndash;1960), casat  amb Adela Ramon Gunfaus (1900&ndash;1987), de &laquo;<em>Cal Muletes</em>&raquo;, compr&agrave; aquesta  casa a Rosa Sala Argem&iacute; (1891&ndash;1960), n&eacute;ta de Salvador Sala Planell. Els Espa&ntilde;ol  Ramon, amb el seu fill Arturo Espanyol Ramon (1926&ndash;1998), casat amb Teresa Mora  Corbera, formaren la coneguda nissaga dels Espa&ntilde;ol al poble.<br>
+<br>
+  Jaume Espanyol i Serraclara fou paleta constructor, ofici  que continuaren tots els seus descendents, per&ograve; destac&agrave; especialment per la  seva forta personalitat i per les seves actuacions en el teatre local durant  les primeres d&egrave;cades del segle XX. Era un personatge molt reconegut i estimat,  amb una manera d&rsquo;actuar pr&ograve;pia i inconfusible, especialment recordada en el seu  paper de diable als <em>Pastorets</em>, que el convert&iacute; en una figura emblem&agrave;tica  del teatre popular matadeperenc. Matadepera li t&eacute; dedicat un carrer.`,
+    origen:`M&eacute;s que per un renom concret, la casa fou coneguda pel cognom de la nissaga  Espa&ntilde;ol, una fam&iacute;lia molt destacada en la vida social i en l&rsquo;activitat  constructiva de Matadepera.</p>`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 35, Matadepera`
+   },
+"cal-simon-dels-carros": {
+    title:`Cal Simon dels Carros`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 30, Matadepera`
+   },
+"cal-fuster-crispin": {
+    title:`Cal Fuster Crispin`,
+    altres:`Cal Cacauer<br>
+Cal Sis dists<br>
+Cal Fusteret`,
+    historia:``,
+    origen:`<em>Cal Fuster Crispin</em>, provablement per el nom de pila del fuster.<br>
+<br><em>Cal Cacauer</em>: Era el tiet solter que venia cacauets per els cines de Terrassa i Matadepera.<br>
+<br>
+<em>Cal Sis dists</em>: a l'home li sortia una petita protuberància a la mà que semblava un sisè dit.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 63, Matadepera`
+   },
+"cal-pinxe": {
+    title:`Cal Pinxe`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 65, Matadepera`
+   },
+"cal-lluis": {
+    title:`Cal Lluís`,
+    altres:``,
+    historia:`Abarcava els actuals números 67 i 69 del carrer Sant Llorenç.<br>
+Inicialment, el terreny , d’uns 50 pams d’amplada, l’equivalent a dos casals, el va comprar en Lluís Utzet Aguilar, de Vacarisses i d’ofici braser, casat amb Magdalena Casellas.<br>
+La casa es va repartir i dividir en dues vivendes:<br>
+- L’actual número 67 va quedar per a la Rosaria Utzet, que es va casar amb Isidre Bosch.<br>
+- L’actual número 69 va anar a l’Aniceta Utzet, mare de la Magdalena de <em>Cal Mingo</em>, i hi vivia també un fill de l’Aniceta. Al carrer encara s’hi pot veure una placa amb el nom:<em>Cal Corcola Petit</em>.`,
+    origen:`Pel nom d'en Lluís Utset Altimira`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 67, Matadepera`
+   },
+"cal-croc-croc": {
+    title:`Cal Croc-croc`,
+    altres:`Cal Passaserres`,
+    historia:`<strong>Isidre Bosch Puig</strong>, conegut com el "<em>Croc</em>", havia nascut a <em>Can Poble</em>. Casat amb Clotilde Casals, van fer de masovers primer a <em>Can Garrigosa</em>, on van tenir cinc fills, i més tard, a principis del segle XX, a <em>Can Torres</em>, on residiren una vintena d’anys.<br>
+Un dels seus fills, <strong>Joan Bosch Casals</strong> (1906-1990), conegut també com "<em>el Joan de Can Torres</em>", es casà el 1931 amb Maria Borrell Sellarès (1906-1991), de Can Gorina. La parella s’instal·là en aquesta casa del carrer Sant Llorenç, on ja vivien els pares i el germà petit Ramon des de feia uns deu anys.<br>
+En Joan Bosch fou un home de bosc i de camp: treballava netejant boscos i tallant arbres per fer-ne bigues, i era tan bon coneixedor de l’entorn natural de l’actual Parc Natural de Sant Llorenç del Munt i l’Obac que organismes i institucions oficials requerien sovint la seva col·laboració per datar camins i termes i ajudar a elaborar mapes.<br>
+Al llarg de la seva vida es dedicà també al conreu arbres fruiters, especialment les pomeres i la vinya —que ell considerava només un entreteniment per a diumenges i dies festius—. A més de caçador, també era un expert boletaire, coneixent tots els secrets dels bolets i els millors indrets per trobar-los. Però sobretot <strong>va destacar com a apicultor</strong>: cuidava molts ruscos i elaborava mel que ell i la seva dona venien des de casa seva. Per aquest motiu, també era conegut popularment com el "<em>Joan de la mel</em>".`,
+    origen:`<strong><em>Cal Croc-croc</em></strong>: Aquest renom s’originà amb <strong>Isidre Bosch Puig</strong>, pare d’en Joan Bosch Casals. Segons la tradició oral, un dia que caçava amb els seus fills, topà amb un esquirol espavilat que no aconseguia encertar. Fart de la situació, Isidre exclamà:
+—«<em>Au, escapa’t tant com vulguis, però quan caiguis… ja faràs croc!</em>»
+Els altres caçadors que l’acompanyaven en feren broma i des d’aquell dia li quedà el sobrenom de “<em>el Croc</em>”.<br>
+Amb el temps, aquest sobrenom passà a la casa del carrer Sant Llorenç i s’hi arrelà amb la forma repetida <em>Croc-croc</em>.<br>
+<br>
+<strong><em>Cal Passaserres</em></strong>: El <strong>Joan Bosch Casals</strong> (1906-1990), entre molts altres sobrenoms, també era conegut com <em>el Passaserres</em>, perquè era un caminador infatigable. Bon coneixedor de tots els termes i de les muntanyes de l’entorn, es deia que era capaç de donar tres voltes a la muntanya de Sant Llorenç en un sol dia.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 73, Matadepera`
+   },
+"cal-ximu": {
+    title:`Cal Ximu`,
+    altres:`Cal Matagats<br>
+Ca l'Abuela`,
+    historia:`Eren gent molt pobre, amb 13 fills. Diuen que els fills gaire bé van viure tots, gracies al caldo de serp. `,
+    origen:`<em>Cal Matagats</em> perquè matava gats per alimentar la família i molts fills.<br>
+<em>Ca l'Abuela</em> provablement perquè hi vivia una dona molt gran, ja que el seu marit "El Matagats" va acabar a la presó per lladre.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 75, Matadepera`
+   },
+"cal-mingo": {
+    title:`Cal Mingo`,
+    altres:``,
+    historia:`En Jaume  Torrella, l&rsquo;any 1826, establ&iacute; en aquest indret 50 pams d&rsquo;amplada per 26 canes  de llarg&agrave;ria a favor d&rsquo;en Pau Cuixart i Rovira. Aquesta propietat fou heretada  per la seva filla Francesca, casada amb Joan Pi Cort&egrave;s, de <em>Cal Xumeco</em>.<br>
+<br>
+El lloc qued&agrave;  dividit entre dos dels seus fills: la part superior nord per a l&rsquo;hereu,  Bartomeu Pi i Cuixart (1877&ndash;1959), que la llog&agrave; com a magatzem de carb&oacute; a en  Mart&iacute;, <em>Cal Garbonaire</em>; i la part inferior sud per a la filla gran, Maria  Pi i Cuixart (1873&ndash;1925), casada amb Joan Font Torras (1875&ndash;1949), de <em>Cal  Corcola</em>.<br>
+<br />
+Cap a l&rsquo;any  1922, en Joan Font Torras f&eacute;u al&ccedil;ar i cobrir aquesta part de baix per  emmagatzemar-hi la cal&ccedil; procedent dels forns de Can Sol&agrave; del Rec&oacute;. El 1968, un  cop habilitada definitivament com a habitatge, la casa pass&agrave; a ser la  resid&egrave;ncia de la fam&iacute;lia de la seva neta <strong>Magdalena Font Utset</strong>, de <em>Cal  Corcola</em>, casada amb <strong>Domingo Comas&ograve;livas Borrell</strong>, conegut com &laquo;<strong>Mingo</strong>&raquo;.<br>
+<br>
+<strong>Domingo  Comas&ograve;livas Borrell</strong> (1930&ndash;2015), en <em>Mingo</em>, considerat un dels  darrers representants de la Matadepera rural, la de les vinyes i els conreus, va  n&eacute;ixer el 31 de desembre de 1930 a la masia de Can Gorina. Era el tercer de sis  germans d&rsquo;una fam&iacute;lia que hi havia viscut durant prop d&rsquo;un segle. Va treballar  de pag&egrave;s a la masia fins als 28 anys, quan es va casar amb Magdalena Font  Utset, de <em>Cal Corcola</em>. El matrimoni visqu&eacute; uns deu anys al carrer de  Sant Joan, a <em>Cal Corcola</em>, fins que finalment s&rsquo;establiren en aquesta  casa, l&rsquo;actual n&uacute;mero 77 del carrer de Sant Lloren&ccedil;.<br>
+<br>
+Per  complementar els ingressos, en <em>Mingo</em> tamb&eacute; va treball&agrave; d&rsquo;escorxador a  Terrassa i a la comarca, &ldquo;perqu&egrave; aix&ograve; de pag&egrave;s no donava gaire per viure, i tot  i aix&iacute; et feies un tip de treballar per no res&rdquo;, segons explicava en una  entrevista a <em>La Gaseta de Matadepera</em> de l&rsquo;octubre de 2001.<br>
+<br>Nomenat &laquo;Amic  Gegant&oacute;&raquo; l&rsquo;any 2001, en <em>Mingo</em> sempre va enyorar la Matadepera rural,  aquella de pocs centenars d&rsquo;habitants en qu&egrave; tothom es coneixia. &ldquo;Les coses han  canviat molt &mdash;havia dit&mdash;, i &eacute;s una ll&agrave;stima que els nens d&rsquo;avui no s&agrave;piguen qu&egrave;  &eacute;s una gallina&rdquo;.<br>
+<br>
+L&rsquo;habitatge avui encara conserva el seu aspecte rural aturat en el temps, amb  l&rsquo;entrada plena de botes de vi i estris del camp, des de la mort d&rsquo;en <em>Mingo</em>, l&rsquo;any 2015.`,
+    origen:`El renom &laquo;Mingo&raquo; prov&eacute; de la contracci&oacute; del nom Domingo, propi de Domingo Comas&ograve;livas Borrell.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 77, Matadepera`
+   },
+"cal-garbonaire": {
+    title:`Cal Garbonaire`,
+    altres:``,
+    historia:``,
+    origen:`Feien garba, tallaven el bosc i també venien carbó i feia tacs per les estufes.`,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 79, Matadepera`
+   },
+"cal-lino": {
+    title:`Cal Lino`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 81, Matadepera`
+   },
+
+
+// Carretera de Terrassa
+
+"cal-siset": {
+    title:`Cal Siset`,
+    altres:``,
+    historia:`En aquesta casa residia <strong>Narcís Riba Arnau</strong> (1900–1985), conegut com «<strong><em>Siset</em></strong>», casat amb Josefa Casas Villaescusa (1907–1986). Fou alcalde de Matadepera entre els anys 1965 i 1970, període durant el qual es va construir l’actual Ajuntament.<br>
+Era fill de Joan Riba Lleonart i de Teresa Arnau Gorina, i nét de Narcís Riba, originari de Sant Llorenç Savall. Aquest darrer fou el primer membre de la família establert a Matadepera. Era ferrer i es dedicava a trempar les barres de perforació per als treballadors que construïen la carretera de Talamanca a finals del segle XIX, fet que propicià que la família s’hi arrelés definitivament.<br>
+La ferreria dels Riba es trobava al carrer Sant Joan, al costat del pou, on actualment hi ha la porta de ferro que dona al menjador dels Tastets del Saint Honoré. Més endavant, l’activitat va passar a mans d’en Nasplé, que n’havia estat treballador.`,
+    origen:`El renom prové del diminutiu del nom Narcís, «Narciset», del qual en deriva la forma reduïda i modificada <strong><em>Siset</em></strong>.`,
+    adreca:`Adreça actual: Carretera de Terrassa, 11, Matadepera`
+   },
+"cal-jepet": {
+    title:`Cal Jepet`,
+    altres:``,
+    historia:`Ca la família Arnau, on vivia Josep Arnau Pi, també conegut com  "El millon"`,
+    origen:`El renom "Jepet" ve d'una deformació del nom Josep per en Josep Arnau, pare de Josep Arnau Pi "millon".`,
+    adreca:`Adreça actual: Carretera de Terrassa, 21, Matadepera`
+   },
+"cal-dents": {
+    title:`Cal Dents`,
+    altres:`Ca l'Arola`,
+    historia:`El 16 de març de 1879, en Pi de la Serra establí una peça de terra a Josep Arola, natural de Mura, casat amb Concepció Caellas i Aldomà, natural de Malgrat. El terreny, de 43 pams d’amplada per 202 de llargada, s’estenia al llarg de l’actual carrer Balmes, fent cantonada amb la carretera de Terrassa —a l’alçada de l’actual CaixaBank cap avall— i limitava amb les terres d’en Jaume Gorina, que arribaven fins al carrer Sant Quirze.<br>
+Aquest matrimoni va tenir dos fills: en Josep, que va ser l’hereu i es va quedar la casa, i en Joan Arola, <em>Cal Dents Xic</em>, que va ser alcalde de Matadepera en dues ocasions.`,
+    origen:``,
+    adreca:`Adreça actual: Carretera de Terrassa, 23, Matadepera`
+   },
+"ca-lagustinet": {
+    title:`Ca l'Agustinet`,
+    altres:`Casa Camps`,
+    historia:`Més coneguda com la <em>Casa Camps</em>, de la família Camps-Escuder, fou construïda l’any 1909 i era una destacada casa-torre modernista situada a Matadepera, a la cantonada del carrer Sant Quirze amb la carretera de Terrassa.
+Aquest edifici fou la residència de Joan Camps, un sastre barceloní reconegut per la seva elegància i disseny, i de la seva esposa Adela Escuder, filla d’Agustí Escuder, un dels primers estiuejants barcelonins que arribaren a Matadepera. La casa esdevingué un punt de trobada entre estiuejants i veïns del poble. Joan Camps destacava també per la seva passió per la natura i per l’entomologia, especialment les papallones, de les quals en va fer una col·lecció notable.<br>
+Tot i el seu interès arquitectònic i social, la casa fou enderrocada l’any 1966 per construir-hi un bloc de pisos. Actualment, als baixos de l’edifici s’hi troben les oficines de l’Àrea Tècnica de l’Ajuntament de Matadepera i l’Arxiu Municipal (AMMAT).<br>
+L’antic jardí de la casa, situat a l’esquerra de l’edifici actual a la carretera de Terrassa, es va convertir en el parc municipal conegut com El Bosquet.`,
+    origen:`Probablement prové del diminutiu del nom d’Agustí Escuder, un dels primers estiuejants barcelonins a Matadepera i pare d’Adela Escuder, esposa de Joan Camps.`,
+    adreca:`Adreça actual: Carretera de Terrassa, 29, Matadepera`
+   },
+"cal-peret-sescanya": {
+    title:`Cal Peret S'escanya`,
+    altres:``,
+    historia:`Casa de Pere Puig Font.
+En el passat, la casa estava força allunyada del nucli urbà i va ser l’única afectada pel bombardeig del 25 de gener de 1939, a les acaballes de la Guerra Civil. Just aquell dia, Pere Puig Font havia patit un possible atac cerebral o ictus i restava estirat al llit. La família va viure l’angoixa de tenir un parent greument malalt mentre les bombes queien al seu voltant. L’impacte va ensorrar part de la teulada i, per traslladar-lo a un lloc segur, van improvisar una camilla amb dos samalers i el van portar a <em>Cal Sidro</em>, una casa del nucli urbà on no van caure bombes i on vivia família seva. Va morir nou dies després.<br>
+Passada la Guerra Civil, el seu fill, Salvador Puig Solà, amb la seva família, va continuar vivint a la mateixa casa, heretant el malnom del seu pare: <em>Cal Peret S'escanya</em>.`,
+    origen:`La família Puig era coneguda per ser xerraires i tenir una veu forta. Un dia, mentre baixaven cap a Terrassa des de Matadepera, caminaven a bon ritme i xerraven animadament.<br>
+Quan passaven pel burot <sup>1</sup>, en Pere Puig Font va començar a tossir, escanyant-se pel parlar i la caminada. Un dels presents a la casella, en veure'l, va exclamar rient: "El Peret s’escanya!" I així li va quedar el malnom.<br>
+<sup>[1]</sup> Burot: Era una mena de duana on es cobraven unes taxes o aranzels per entrar queviures i altres productes a la ciutat.`,
+    adreca:`Adreça actual: Carretera de Terrassa, 65, Matadepera`
+   },
+
+
+// Carrer Balmes
+"ca-langelet": {
+    title:`Ca l'Angelet`,
+    altres:``,
+    historia:`<strong>Àngel Riba Arnau</strong> (1906–2001), conegut com <strong><em> l’Angelet</em></strong>, casat amb Àngela Satlari Cardellach (1909–1959), s’instal·là en aquesta casa del carrer Balmes, on inicialment es dedicà al subministrament de carbons minerals i vegetals abans de passar al negoci dels asfalts.<br>
+Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, originaris de Sant Llorenç Savall, que s’establiren a Matadepera cap a finals del segle XIX. Inicialment hi van venir per donar servei a les obres de construcció de la carretera de Talamanca, i després ja s’hi quedaren definitivament.`,
+    origen:`El renom prové del diminutiu del nom de pila d’Àngel Riba, conegut familiarment i per tot el poble com <strong><em> l’Angelet</em></strong>.`,
+    adreca:`Adreça actual: Carrer de Balmes, 8, Matadepera`
+   },
+
+
+// Carrer de Josep Porcar
+"cal-bocatort": {
+    title:`Cal Bocatort`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Josep Porcar, 37, Matadepera`
+   },
+"cal-dr-boya": {
+    title:`Cal Dr. Boya`,
+    altres:``,
+    historia:`Josep Boya Saura va  n&eacute;ixer el 4 de novembre de 1899 a Campo (Osca), en el si d&rsquo;una fam&iacute;lia molt  nombrosa i humil. Va cursar el batxillerat als Escolapis de Barbastro,  compaginant els estudis amb feines al mateix col&middot;legi per poder-se&rsquo;ls costejar.  Posteriorment es va llicenciar en medicina a la Facultat de Medicina de  Barcelona, mentre treballava a la Catalana de Gas i Electricitat. Un cop  acabada la carrera, l&rsquo;any 1926, fou destinat a Vacarisses i, a finals de 1929,  despr&eacute;s de superar unes oposicions a Madrid, obtingu&eacute; la pla&ccedil;a de metge titular  de Matadepera, c&agrave;rrec que exerc&iacute; fins a la seva mort, amb nom&eacute;s 51 anys.<br>
+  <br>
+  En arribar a Matadepera  va residir hostatjat a <em>Cal Trapet</em>. L&rsquo;any 1933 es va casar amb Isabel  Soler Fabra (1911&ndash;2014) i, despr&eacute;s d&rsquo;un breu per&iacute;ode a la primera de les &laquo;<em>Casetes  del Rejoler</em>&raquo;, el matrimoni es va establir definitivament en aquesta casa,  on van tenir cinc fills.<br>
+  <br>
+  El 7 d&rsquo;octubre de 2012,  l&rsquo;Ajuntament de Matadepera va retre homenatge a la seva figura donant el seu  nom al passatge situat entre els carrers Josep Porcar i Sant Lloren&ccedil;, en el  tram d&rsquo;acc&eacute;s a l&rsquo;ascensor de baixada a la riera, on s&rsquo;hi col&middot;loc&agrave; una placa commemorativa.`,
+    origen:`Tot i que la casa m&eacute;s  tard fou enderrocada i en el seu lloc s&rsquo;hi ubicaria un conegut supermercat i  actualment una ferreteria, el lloc fou conegut durant molt temps, i encara ara,  pels matadeperencs de m&eacute;s edat, pel cognom del Dr. Josep Boya Saura  (1899&ndash;1950).`,
+    adreca:`Adreça actual: Carrer de Josep Porcar, 39, Matadepera`
+   },
+"cal-pa-amb-oli": {
+    title:`Cal Pa amb Oli`,
+    altres:``,
+    historia:`El Valentí de <em>cal Mando</em> vivia a continuació de la fusteria Codina, on ara hi ha l'edifici que fa cantonada amb el carrer Sant Isidre. A la casa hi havia dos baixos: al primer hi vivia el Valentí Mas, germà del Josep Mas (pare) de <em>Cal mando</em>, i a continuació vivia en Trabal.`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Josep Porcar, 40, Matadepera`
+   },
+"cal-peta-pet": {
+    title:`Cal Peta-pet`,
+    altres:``,
+    historia:`Abans de la Guerra Civil, a la casa hi havia una <strong>carnisseria, regentada per Joan Arola</strong> de <em>Cal Dents Xic</em>. Durant el conflicte, van perdre un fill, fet que els va afectar profundament. Incapaços de superar aquell cop, van acabar tancant la carnisseria i es van traslladar a viure a Terrassa.<br>
+<br>
+Més endavant, quant en Marc Genescà Ventayol <em>Cal Marcó</em> va comprar la casa del Carrer Sant Joan per anar-hi viure, va llogar aquesta casa als llogaters de l’anterior propietària de la casa del carrer Sant Joan, a <strong>la família Vives, arrastrant cap aquí un del seus renoms</strong>.`,
+    origen:`<em>Cal Peta-pet</em>: Quan la família Vives es va traslladar a viure en aquesta casa, hi van portar un dels diversos renoms amb què eren coneguts al seu antic habitatge del carrer de Sant Joan.`,
+    adreca:`Adreça actual: Carrer de Josep Porcar, 41, Matadepera`
+   },
+
+  };
+
+/* ============================================================
+   PANEL INFORMATIU
+   Funcionalitats:
+   - Obertura del panell amb contingut
+   - Marcatge de la fila activa
+   - Desmarcatge suau en tancar el panell
+   - Tancament via "X" o botó enrere (popstate)
+   ============================================================ */
+
+let activeRow = null;   // Fila marcada actualment
+
+/* ------------------------------------------------------------
+   OBRIR PANELL
+   ------------------------------------------------------------ */
+function openInfo(id) {
+    const data = casesData[id];
+    if (!data) return;
+
+    // Actualitza contingut del panell
+    document.getElementById("info-title").innerHTML = data.title;
+
+    let html = "";
+    if (data.altres)
+        html += `<div class="info-label">ALTRES RENOMS</div><div class="info-text-altres">${data.altres}</div>`;
+    if (data.historia)
+        html += `<div class="info-label">HISTÒRIA</div><div class="info-text">${data.historia}</div>`;
+    if (data.origen)
+        html += `<div class="info-label">ORIGEN DEL RENOM</div><div class="info-text">${data.origen}</div>`;
+    if (data.adreca)
+        html += `<div class="info-address">${data.adreca}</div>`;
+
+    document.getElementById("info-content").innerHTML = html;
+    document.getElementById("info-panel").classList.add("open");
+
+    // Marcar fila activa
+    if (activeRow) activeRow.classList.remove("active-row");
+
+    const row = document.getElementById(id);
+    if (row) {
+        row.classList.add("active-row");
+        activeRow = row;
+    }
+
+    // Estat per interceptar el botó enrere
+    history.pushState({ panelOpen: true }, "");
+}
+
+/* ------------------------------------------------------------
+   TANCAR PANELL
+   ------------------------------------------------------------ */
+function closeInfo() {
+    const panel = document.getElementById("info-panel");
+    panel.classList.remove("open");
+
+    // Desmarcar fila després d’un temps
+    if (activeRow) {
+        const rowToUnmark = activeRow;
+        setTimeout(() => {
+            rowToUnmark.classList.remove("active-row");
+            if (activeRow === rowToUnmark) activeRow = null;
+        }, 1000);
+    }
+}
+
+/* ------------------------------------------------------------
+   BOTÓ ENRERE DEL MÒBIL (popstate)
+   ------------------------------------------------------------ */
+window.addEventListener("popstate", function () {
+    const panel = document.getElementById("info-panel");
+
+    if (panel.classList.contains("open")) {
+        closeInfo();
+    }
+});
+
+
