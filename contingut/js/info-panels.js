@@ -71,7 +71,7 @@ La casa va ser constru&iuml;da pel seu pare, Enric Genesc&agrave; Cort&egrave;s,
   Posteriorment, en aquesta casa hi visqu&eacute; <strong>Joan Genesc&agrave; Gut&eacute;s</strong> (1917&ndash;1969),  fill d&rsquo;Enric Genesc&agrave; Cort&egrave;s, de <em>Ca l&rsquo;Enriquet</em>. Casat amb Dolors Arnau  Pi, el matrimoni tingu&eacute; quatre fills. De la branca Genesc&agrave; Arnau tamb&eacute; en  descend&iacute; una extensa nissaga familiar.`,
     origen:`<strong><em>Cal Peret  Xisco</em></strong> t&eacute; l&rsquo;origen en <strong>Pere Puig Font</strong> (1885&ndash;1939), conegut  popularment com &laquo;<em>el Peret Xisco</em>&raquo;, renom heretat del seu pare Francesc  Puig Sala, anomenat &laquo;<em>Xisco</em>&raquo;.<br>
   <br>
-  <strong><em>Cal Negre</em></strong> deriva del sobrenom amb qu&egrave; era conegut <strong>Joan  Genesc&agrave; Gut&eacute;s</strong> (1917&ndash;1969), a causa del seu to de pell molt mor&egrave;.`,
+<strong><em>Cal Negre</em></strong>: Deriva del sobrenom amb qu&egrave;  era conegut <strong>Joan Genesc&agrave; Gut&eacute;s</strong> (1917&ndash;1969), home de pell molt morena i  ferreny, ennegrida encara m&eacute;s per les llargues jornades treballant al bosc i  fent carb&oacute;, passant temporades als &Ograve;bits i retornant al poble carregat amb sacs  de carb&oacute;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 13, Matadepera`
    },
 "ca-l’enriquet": {
