@@ -387,20 +387,33 @@ Sigui per una raó, per l'altra o totes dues, la família va acabar sent conegud
    },
 "cal-caga-cristos": {
     title:`Cal Caga Cristos`,
-    altres:`Cal Gitenet<br>Ca la Jana<br>Cal Parramon`,
-    historia:`Actualment és una plaça, la plaça de la Germandat de Sant Sebastià.<br>
-Però abans havia estat una immensa casa que ocupava tot l’espai de l’actual plaça. A dins hi havia diversos habitatges o estances, i en un d’ells hi vivien el Gitenet i la Jana, al pis de dalt, al qual s’accedia per una escala ben lúgubre. La canalla hi pujava per fer-se els valents, fins que, de cop, sortia la tal Jana i els feia fugir esperitats!<br>
-A fora hi havia una carnisseria, que regentava l’anomenat <em>Caga Cristos</em>. <br>
-Els de <em>Cal Caga Cristos</em> se’n van anar a viure a un pis damunt de <em>Cal Negre</em>, i la carnisseria la va agafar en Parramon. El lloc acabaria sent conegut per tothom, fins als últims dies, com a <em>Cal Parramon</em>.
-Al costat de la carnisseria, també hi va haver la pastisseria Rambla, amb una situació privilegiada perquè els parroquians anessin a buscar els tortells i pastissos de diumenge sortint de missa.<br>
-Però sembla que antigament també havia estat l’Ajuntament i Correus. L’any 1950, quan en Parramon en reformà la façana, damunt del portal hi havia una peça de terra cuita barnissada ben visible, amb unes lletres que deien:
-«Casa Consistorial y Correo».<br>
-Cal destacar també que, l’any 1846, fou un dels primers cafès i sales de ball del poble, llogat per Jaume Pi Robert, on s’hi organitzaven diverses festes. Ben aviat li va sortir competència just al davant, a tocar de l’església, amb el que van muntar a casa dels Grané, <em>Cal Fuster</em>, on va néixer l’avi Jaume Grané de <em>Cal Picarrocs</em>.`,
-    origen:`<em>Cal Caga Cristos</em>: perquè el primer carnisser era un home que rundinava i renegava més que no pas parlava.<br>
+    altres:`Cal Gitenet<br>
+Cal Parramon
+`,
+    historia:`Actualment aquest  indret correspon a la <strong>pla&ccedil;a de la Germandat de Sant Sebasti&agrave;</strong>, per&ograve;  antigament hi havia existit una gran casa que ocupava tot l&rsquo;espai de l&rsquo;actual  pla&ccedil;a. Al llarg del temps fou un dels llocs m&eacute;s actius i emblem&agrave;tics del nucli  antic de Matadepera, amb habitatges, comer&ccedil;os, espais municipals i punts de  trobada social.<br>
 <br>
-<em>Cal Gitenet</em> i <em>Ca la Jana</em>: pel renoms dels qui vivien dins l’edifici.<br>
+Tal com explica Manel  Ametller Bassets al llibre <em>L&rsquo;origen del nou poble de Matadepera 1768&ndash;1868</em>,  a principis del segle XIX Dom&egrave;nec Pi de la Serra, hereu de <em>Can Vinyers</em>,  inici&agrave; l&rsquo;establiment de parcel&middot;les al costat del cam&iacute; Ral de Barcelona a  Manresa dins de les seves terres, amb una mentalitat m&eacute;s especulativa que la  que havia impulsat anteriorment Narc&iacute;s Gorina per necessitat.<br>
 <br>
-<em>Cal Parramon</em>: pel cognom del darrer carnisser que hi va haver.`,
+<strong>L&rsquo;any 1834 feu el  primer establiment</strong> del carrer de la Llagosta, actual carrer de Sant Joan, establint cinquanta  pams de terreny, equivalents a dos casals, a <strong>Jaume Pi Robert</strong> (1813),  casat amb Lloren&ccedil;a Rius Barata (1815&ndash;1874), de Sant Lloren&ccedil; Savall. En aquest  ampli espai hi constru&iuml;ren una gran casa amb cups, premses i celler als baixos.  Amb els anys, Jaume Pi Robert esdevingu&eacute; una de les figures destacades de  Matadepera i fou alcalde entre 1851 i 1853, el primer a residir en l&rsquo;actual  nucli urb&agrave;, motiu pel qual la casa tamb&eacute; acab&agrave; assumint diverses funcions  municipals.<br>
+<br>
+El lloc arrib&agrave; a tenir  una gran activitat. Cap a mitjan segle XIX ja hi funcionaven caf&egrave; i sala de  ball, i en altres &egrave;poques tamb&eacute; acoll&iacute; <em>Correus</em>, el &laquo;<em>Consumos Fielato Municipal</em>&raquo;,  encarregat del control de les entrades i sortides de carn del poble i <strong>tamb&eacute; fou  l&rsquo;Ajuntament</strong> en determinats per&iacute;odes. Quan la fam&iacute;lia Parramon reform&agrave; la fa&ccedil;ana  l&rsquo;any 1950, descobriren damunt del portal una pe&ccedil;a de terra cuita amb la  inscripci&oacute; &laquo;<em>Casa Consistorial y Correo</em>&raquo;, aix&iacute; com un altre r&egrave;tol pintat amb el  nom de &laquo;<em>Consumos Fielato Municipal</em>&raquo;, testimonis visibles d&rsquo;aquells antics usos  p&uacute;blics.<br>
+<br>
+A principis del segle  XX, als baixos hi havia un forn regentat per <strong>Mart&iacute; Llaur&oacute; Costa</strong>, nascut el  1862 a Camprodon, que  vivia a la casa amb la seva fam&iacute;lia. Casat amb Maria Font Duran d&rsquo;Olesa de  Montserrat, vinguts d&rsquo;Olesa, compartien habitatge amb altres familiars, entre  els quals la seva filla Dolors Llaur&oacute; Font i el gendre <strong>Ramon Cervell&oacute; Gracia</strong>,  que acabaria establint-hi tamb&eacute; la carnisseria. Segons explica Joan Font i Pi, <em>Corcola</em>,  Ramon Cervell&oacute; havia estat pastor dels de <em>Cal Mabres</em>, antics  carnissers del poble, i cap al 1905 assum&iacute; tant el ramat com el negoci.<br>
+<br>
+Amb els anys, el forn  desaparegu&eacute; i la carnisseria pass&agrave; a mans de <strong>Pere Parramon Torruella </strong>(1904  &ndash; 1983), nascut a Ribes de Freser, iniciant una llarga etapa vinculada a la fam&iacute;lia Parramon. A l&rsquo;altre  local dels baixos, probablement ocupant l&rsquo;antic espai del forn, s&rsquo;hi establ&iacute; la <strong><em>Pastisseria Rambla</em></strong>, hereva de la pastisseria que hi havia al  costat del <em>Cinema Rambla de Terrassa</em>.<br>
+<br>
+Mentrestant, els pisos  superiors s&rsquo;havien anat dividint en diferents habitatges i estances on  arribaren a residir nombroses fam&iacute;lies. Segons recordava Angeleta Bosch  Borrell, de <em>Cal Croc-croc</em>, s&rsquo;hi accedia per una escala fosca i una  mica l&uacute;gubre que impressionava la canalla del poble. Els infants hi pujaven per  fer-se els valents fins que apareixia <strong>la Jana</strong>, un dels personatges peculiars  que vivia en aquell lloc, i els feia fugir cames ajudeu-me.<br>
+<br>
+Entre les fam&iacute;lies que  hi visqueren destacarem la de Josep Freixa Plana i Dolors Alaball Santandreu.  El seu fill <strong>Joan Freixa Alaball</strong> (1923&ndash;2006), conegut popularment com &laquo;<strong><em>el  Gitanet</em></strong>&raquo;, acab&agrave; donant un dels renoms m&eacute;s recordats al lloc.<br>
+<br>
+Durant la segona meitat  del segle XX, la carnisseria Parramon es consolid&agrave; com un establiment molt  popular del poble. Tot i que la fam&iacute;lia residia a cavall de Matadepera i Terrassa,  mantingu&eacute; durant d&egrave;cades el negoci i la vinculaci&oacute; amb Matadepera. <strong>Joan  Parramon Fontanellas</strong> (1944&ndash;2023), fill de Pere Parramon, fou una persona  molt estimada i implicada en la vida social i cultural del poble, arribant a  presidir la Germandat de Sant Sebasti&agrave; entre 1984 i 1985.<br>
+<br>
+Finalment, l&rsquo;edifici  fou enderrocat i l&rsquo;espai es convert&iacute; en l&rsquo;actual pla&ccedil;a de la Germandat de Sant  Sebasti&agrave;. Tot i la desaparici&oacute; de la casa, encara s&rsquo;hi conserva, a manera de  petit monument hist&ograve;ric, l&rsquo;antiga pedra de mol&iacute; que, incrustada a la cantonada,  protegia la casa dels carros en girar. Amb el pas dels anys aquella pedra acab&agrave;  esdevenint un punt de trobada emblem&agrave;tic i una de les petites icones de la  Matadepera antiga.`,
+    origen:` <strong><em>Cal Caga Cristos</em></strong>:  Prov&eacute; de <strong>Mart&iacute; Llaur&oacute; Costa</strong>, el forner que regentava el negoci a <strong>principis  del segle XX</strong>. Segons expliquen les fonts orals i recollia tamb&eacute; Miquel  Ballb&eacute; Boada, tenia el costum de renegar constantment i repetir cont&iacute;nuament  expressions on es cagava amb Crist. Mn. Jaume Torres, rector de Matadepera,  deia ir&ograve;nicament que aquell home no cometia pecat, perqu&egrave; ni tan sols era  conscient del que deia.<br>
+  <br>
+  <strong><em>Cal Gitenet</em></strong>:  Fa refer&egrave;ncia a <strong>Joan Freixa Alaball</strong> (1923-2006), conegut popularment com  &laquo;<strong><em>el Gitanet</em></strong>&raquo;, que hi va viure a partir de la segona meitat del  segle XX. Segons testimoni d&rsquo;un descendent, ell mateix s&rsquo;autoanomenava aix&iacute;  perqu&egrave; es considerava una persona molt negociadora i amb gran habilitat per  regatejar en els tractes.<br>
+  <br>
+  <strong><em>Cal Parramon</em></strong>:  Deriva del nom de la <strong>carnisseria regentada per la fam&iacute;lia Parramon</strong> des  de mitjan segle XX. Tot i no residir-hi de manera permanent, foren els darrers  ocupants del lloc abans de l&rsquo;enderroc de l&rsquo;edifici i la posterior creaci&oacute; de la  pla&ccedil;a actual.`,
     adreca:`Adreça actual: Plaça de la Germandat de Sant Sebastià, Matadepera`
    },
 "ca-lassuncion": {
@@ -783,9 +796,24 @@ El renom &laquo;<strong><em>Cal Niel</em></strong>&raquo; deriva de la forma pop
 "cal-xisco": {
     title:`Cal Xisco`,
     altres:`Ca La Cecília`,
-    historia:`També conegut com <em>Ca La Cecília</em>, Al padró de 1911, la casa —que aleshores constava amb el número 129— acollia un dels fills d’en Francisco, Salvador Puig Mas, casat amb Matilde Sellarès Gutés, i els seus fills: Dolors, Maria, Cecília, Vicenç i Melcior Puig Sellarès. La Cecília seria qui donaria el nou sobrenom a la casa de <em>Ca la Cecilia</em>.`,
-    origen:`Casa d'en Francesc Puig Sala. De "Francisco" probablement vingui el renom <em>Xisco</em>. 
-<em>Ca La Cecília</em> pel nom de la seva filla.`,
+    historia:`A la segona d&egrave;cada del  segle XIX, Mart&iacute; Puig Botifoll, natural de Sant Vicen&ccedil; de Castellet, es cas&agrave;  amb Ant&ograve;nia Sala Planell, de <em>Cal Espardenyer</em>, i s&rsquo;establiren al carrer  de Sant Isidre. El matrimoni tingu&eacute; dos fills: Salvador Puig Sala, l&rsquo;hereu, del  qual descendiria la nissaga de <em>Cal Pelleringa</em>, i Francesc Puig Sala  conegut com &laquo;<em>Xisco</em>&raquo;, que probablement s&rsquo;establ&iacute; en aquesta casa del  carrer de Sant Joan cap als volts de 1870, en casar-se.<br>
+<br>
+<strong>Francesc Puig Sala</strong> (1839&ndash;1894) es cas&agrave;  primer amb <strong>Teresa Mas Carabassa</strong>, amb qui tingu&eacute; dos fills, Salvador i  Maria. Posteriorment, en segones n&uacute;pcies, es cas&agrave; amb Ant&ograve;nia Font Duran, amb  qui tingu&eacute; Ramon, Pere i Teresa. D&rsquo;aquest segon matrimoni descendiren altres  nissagues conegudes del poble, com la de <em>Cal Peret Xisco</em> o la de <em>Cal  Pinturet</em>.<br>
+<br>
+<strong>Pere Puig Font</strong> (1885&ndash;1939), fill d&rsquo;aquest  segon matrimoni, fou conegut popularment com &laquo;<strong><em>el Peret Xisco</em></strong>&raquo;.  Inicialment s&rsquo;establ&iacute; a l&rsquo;altra punta del carrer de Sant Joan i m&eacute;s endavant es  trasllad&agrave; fora dels l&iacute;mits del nucli urb&agrave; de Matadepera, on acabaria essent  conegut tamb&eacute; amb el renom de &laquo;<strong><em>Peret S&rsquo;Escanya</em></strong>&raquo;.<br>
+<br>
+Pel que fa a aquesta  casa, l&rsquo;hereu de <em>Cal Xisco</em> fou <strong>Salvador Puig Mas</strong> (1872), fill del  primer matrimoni, que es cas&agrave; amb <strong>Matilde Sellar&egrave;s Gut&eacute;s</strong> (1875&ndash;1962).  Continuaren vivint en aquest indret, on tingueren diversos fills, entre els  quals destacarem la Dolors, origen de la nissaga de <em>Ca la Doloretes</em>,  la Cec&iacute;lia i Melcior Puig Sellar&egrave;s.<br>
+<br>
+Melcior Puig Sellar&egrave;s  (1910&ndash;1983) esdevingu&eacute; un personatge destacat i controvertit. Empresari  vinculat al negoci t&egrave;xtil de <em>La Paqueter&iacute;a Moderna</em> de Terrassa, fou president  del Terrassa Futbol Club entre 1941 i 1943 &mdash;en l&rsquo;&egrave;poca de l&rsquo;ascens a Segona  Divisi&oacute;&mdash; i acab&agrave; fent carrera pol&iacute;tica durant el franquisme, establint-se  finalment a Madrid. A Matadepera, les cases aparellades situades a la carretera  de Terrassa foren conegudes popularment com &laquo;<em>les cases del Melcior</em>&raquo; per ser-ne  ell el promotor.<br>
+<br>
+<strong>Cec&iacute;lia Puig Sellar&egrave;s</strong> (1902&ndash;1991) es cas&agrave;  amb Jaume Riera Llugany (1907&ndash;1958), impressor i propietari de <em>La Imprenta  Moderna</em> del carrer de la Palla de Terrassa. A finals de la d&egrave;cada de 1920 el  matrimoni es trasllad&agrave; a Terrassa, on els trobem residint l&rsquo;any 1930. No  tingueren descend&egrave;ncia.<br>
+<br>
+El 1940 ja  nom&eacute;s hi consta vivint sola en aquesta casa la mare de la Cec&iacute;lia, Matilde  Sellar&egrave;s Gut&eacute;s (1875&ndash;1962). Tanmateix, segons el testimoni de Joan Pi Puig, descendent de la fam&iacute;lia i  ve&iacute; de davant de la casa, la Cec&iacute;lia i el seu marit retornaren posteriorment a  la casa de Matadepera, on visqueren amb Matilde Sellar&egrave;s, potser per cuidar-la.  Jaume Riera mor&iacute; jove a Matadepera l&rsquo;any 1958, amb cinquanta anys, i Matilde  Sellar&egrave;s ho feu quatre anys m&eacute;s tard, el 1962, a l&rsquo;edat de vuitanta-sis anys.<br>
+<br>
+Despr&eacute;s de la mort de  la mare, la Cec&iacute;lia continu&agrave; vivint sola a la casa durant prop de trenta anys m&eacute;s.  Aquesta llarga pres&egrave;ncia acab&agrave; fent que, per a diverses generacions de  matadeperencs, l&rsquo;indret fos conegut popularment com &laquo;<em>Ca la Cec&iacute;lia</em>&raquo;.`,
+    origen:`<em><strong>Cal Xisco</strong></em>: El  renom prov&eacute; de Francesc Puig Sala (1839&ndash;1894). A l&rsquo;&egrave;poca era molt habitual que  el nom Francesc es pronunci&eacute;s popularment com &laquo;Francisco&raquo;, i d&rsquo;aquesta forma  deriv&agrave; tamb&eacute; el diminutiu o hipocor&iacute;stic &laquo;Xisco&raquo;, molt est&egrave;s en el llenguatge  popular catal&agrave; dels segles XIX i inicis del XX.<br>
+      <br>
+      <em><strong>Ca la Cec&iacute;lia</strong></em>:  Deriva de Cec&iacute;lia Puig Sellar&egrave;s (1902&ndash;1991), que nasqu&eacute; en aquesta casa i hi  acab&agrave; residint bona part de la seva vida. El fet de viure-hi sola durant els  darrers trenta anys feu que acab&eacute;s esdevenint la persona m&eacute;s identificada amb  el lloc, motiu pel qual la casa pass&agrave; a ser coneguda popularment amb el seu  nom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 103, Matadepera`
    },
 "cal-vicenc": {
