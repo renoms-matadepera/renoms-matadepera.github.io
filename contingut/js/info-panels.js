@@ -257,8 +257,26 @@ Arran d&rsquo;aquesta operaci&oacute;, la fam&iacute;lia Cort&egrave;s es trasll
 "cal-marc": {
     title:`Cal Marc`,
     altres:``,
-    historia:``,
-    origen:``,
+    historia:`Durant bona part del  segle XXI, el nom de Marc es convert&iacute; en un dels m&eacute;s habituals de Catalunya,  especialment entre les generacions nascudes a inicis de la primera d&egrave;cada del  2000. Per&ograve; al segle XIX i primera meitat del XX era un nom residual i poc  freq&uuml;ent. A Matadepera, per&ograve;, hi hagu&eacute; una fam&iacute;lia que el feu especialment  present en diferents generacions: els Genesc&agrave;.<br>
+<br>
+De fet, en aquest sector sub del carrer de Sant Joan arribaren a coincidir diversos  &laquo;Marc Genesc&agrave;&raquo; de branques diferents. Trobem <em>Cal Marc&oacute;</em>, <em>Cal Marc</em>  i&nbsp; alguns <em>Marc Genesc&agrave;</em> que compartiren  fins i tot els dos mateixos cognoms, fet que amb els anys ha provocat m&eacute;s d&rsquo;una  confusi&oacute; en la identificaci&oacute; dels relats hist&ograve;rics, sobretot quan nom&eacute;s  s&rsquo;esmenta el primer cognom.<br>
+<br>
+Per tot plegat, no &eacute;s estrany que en aquest tram del poble acab&eacute;s existint una  casa coneguda senzillament com &laquo;<em>Cal Marc</em>&raquo;.<br>
+<br>
+L&rsquo;origen familiar cal situar-lo a principis del segle XIX. Antoni Genesc&agrave; Riera  (1802&ndash;1873), natural de Mura, establert inicialment a Sant Pere de Terrassa, es  cas&agrave; en segones n&uacute;pcies amb Maria Padr&oacute;s Puigdoure (1831&ndash;1888), de Can Farr&eacute;s  de Baix. D&rsquo;aquest matrimoni nasqu&eacute;, entre altres fills, <strong>Marc Genesc&agrave; Padr&oacute;s</strong> (1839&ndash;1913), qui acabaria <strong>donant identitat a aquesta casa</strong>.<br>
+<br>
+Marc Genesc&agrave; Padr&oacute;s es cas&agrave; l&rsquo;any 1863 amb Maria Arch Gorina (1843&ndash;1915) i  s&rsquo;establiren en aquest indret del carrer de Sant Joan, on tingueren fins a set  fills: Carme, Joan, Marcelina, Josep, Rosalia, Rosa i Jaume.<br>
+<br>
+D&rsquo;aquesta descend&egrave;ncia sorgiren diverses nissagues conegudes del poble: Carme  Genesc&agrave; Arch es cas&agrave; amb Josep Gut&eacute;s Casanovas, originant la nissaga de <em>Cal  Trapet</em>; Marcelina Genesc&agrave; Arch amb Ramon Arnau Pi, donant lloc a <em>Ca la  Marcelina</em>; i Rosa Genesc&agrave; Arch amb Joan Utzet Aymerich, vinculada a <em>Cal  Joan Sord</em>.<br>
+<br>
+Entre els fills destac&agrave; tamb&eacute; Joan Genesc&agrave; Arch (1868&ndash;1932), figura coneguda a  Terrassa. Regentava un establiment a la Placeta de la Creu Gran i ell mateix  explicava, amb ironia, que havia fet fortuna &quot;<em>venent gots de vi</em>&quot;. Casat amb  Margarita Gorina Xandri (1866&ndash;1928), no tingu&eacute; descend&egrave;ncia, per&ograve; ced&iacute; uns  terrenys al carrer de Sant Lloren&ccedil; del Munt per a la construcci&oacute; del <strong>Grup  Escolar Genesc&agrave;</strong>, origen de l&rsquo;actual escola d&rsquo;educaci&oacute; especial L&rsquo;Heura.<br>
+<br>
+La continu&iuml;tat directa de la casa vingu&eacute; pel fill Josep Genesc&agrave; Arch  (1873&ndash;1939), casat amb Josefa Cort&eacute;s Clap&eacute;s. El matrimoni continu&agrave; vivint a <em>Cal  Marc</em> i tingu&eacute; tres fills: Antoni, Maria i <strong>Marc</strong>.<br>
+<br>
+Seria precisament aquest darrer, <strong>Marc Genesc&agrave; Cort&egrave;s</strong> (1910&ndash;?), qui  consolidaria definitivament la identificaci&oacute; del lloc amb el renom. Casat amb  Teresa Duat Betriu (1915-?), continu&agrave; residint a la casa familiar, amb la qual  tingu&eacute; un fill. M&eacute;s endavant, la seva esposa abandon&agrave; el domicili i emigr&agrave; a  Caracas amb el millor amic d&rsquo;en Marc i parent de <em>Ca la Marcelina</em>.<br>
+<br>
+Durant la Guerra Civil, Marc Genesc&agrave; Cort&egrave;s form&agrave; part de l&rsquo;Ajuntament de  Matadepera en representaci&oacute; de la CNT, assumint responsabilitats vinculades a  la gesti&oacute; forestal dins del context dels canvis pol&iacute;tics derivats dels Fets de  Maig de 1937.`,
+    origen:`<strong>Cal Marc:</strong> El renom nasqu&eacute; amb <strong>Marc Genesc&agrave; Padr&oacute;s</strong> (1839&ndash;1913),  per&ograve; el fet que el nom Marc es repet&iacute;s generacions m&eacute;s tard dins la mateixa  fam&iacute;lia, acab&agrave; fent que aquesta casa fos coneguda popularment i senzillament,  com &laquo;Cal Marc&raquo;`,
     adreca:`Adreça actual: Carrer de Sant Joan, 35, Matadepera`
    },
 "cal-rebenta-sabaters": {
