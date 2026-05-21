@@ -259,7 +259,7 @@ Arran d&rsquo;aquesta operaci&oacute;, la fam&iacute;lia Cort&egrave;s es trasll
     altres:``,
     historia:`Durant bona part del  segle XXI, el nom de Marc es convert&iacute; en un dels m&eacute;s habituals de Catalunya,  especialment entre les generacions nascudes a inicis de la primera d&egrave;cada del  2000. Per&ograve; al segle XIX i primera meitat del XX era un nom residual i poc  freq&uuml;ent. A Matadepera, per&ograve;, hi hagu&eacute; una fam&iacute;lia que el feu especialment  present en diferents generacions: els Genesc&agrave;.<br>
 <br>
-De fet, en aquest sector sub del carrer de Sant Joan arribaren a coincidir diversos  &laquo;Marc Genesc&agrave;&raquo; de branques diferents. Trobem <em>Cal Marc&oacute;</em>, <em>Cal Marc</em>  i&nbsp; alguns <em>Marc Genesc&agrave;</em> que compartiren  fins i tot els dos mateixos cognoms, fet que amb els anys ha provocat m&eacute;s d&rsquo;una  confusi&oacute; en la identificaci&oacute; dels relats hist&ograve;rics, sobretot quan nom&eacute;s  s&rsquo;esmenta el primer cognom.<br>
+De fet, en aquest sector sud del carrer de Sant Joan arribaren a coincidir diversos  &laquo;Marc Genesc&agrave;&raquo; de branques diferents. Trobem <em>Cal Marc&oacute;</em>, <em>Cal Marc</em>  i&nbsp; alguns <em>Marc Genesc&agrave;</em> que compartiren  fins i tot els dos mateixos cognoms, fet que amb els anys ha provocat m&eacute;s d&rsquo;una  confusi&oacute; en la identificaci&oacute; dels relats hist&ograve;rics, sobretot quan nom&eacute;s  s&rsquo;esmenta el primer cognom.<br>
 <br>
 Per tot plegat, no &eacute;s estrany que en aquest tram del poble acab&eacute;s existint una  casa coneguda senzillament com &laquo;<em>Cal Marc</em>&raquo;.<br>
 <br>
