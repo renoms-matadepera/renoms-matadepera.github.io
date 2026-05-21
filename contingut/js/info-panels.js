@@ -436,14 +436,26 @@ Finalment, l&rsquo;edifici  fou enderrocat i l&rsquo;espai es convert&iacute; en
    },
 "ca-lassuncion": {
     title:`Ca l'Assuncion`,
-    altres:``,
-    historia:`Aquesta va ser <strong>la primera casa del nou nucli urbà de Matadepera</strong>.<br>
-Cap a finals del segle XVIII, en Narcís Gorina, de Can Gorina, aclaparat pels deutes, decidí parcel·lar les seves terres al voltant del Camí Ral per establir-hi famílies a la vora del camí.<br>
-El 7 de desembre de 1786, Narcís Gorina vengué a Tomàs Martí, qui més endavant donaria nom a la nissaga de <em>Cal Tomasset</em>, una parcel·la situada al límit de les terres de Can Vinyés, per edificar-hi una casa de 45 pams d’amplada per 27 canes de llargada (aprox. 10,50 m de façana per 41,85 m de fons).<br>
-Amb el pas dels anys, la propietat passà a la família Genescà. Allà hi visqué <strong>Assumpció Clusellas Clapés</strong> (1873-1961), casada amb Joan Genescà Cortés (1874-1922).<br>
-Quan Assumpció quedà vídua el 1922, als 49 anys, continuà vivint a la casa fins a la seva mort als 88 anys, després de 39 anys de viduïtat. Aquest llarg període explicaria que el nom de la casa acabés associat a ella.`,
-    origen:`El renom <em>Ca l’Assuncion</em> prové d’Assumpció Clusellas, que hi visqué molts anys. Popularment, el seu nom es pronunciava “Assunsion”, amb una n final a la manera castellana però amb fonètica catalana, un tret habitual a la cultura rural d’aquella època.<br>
-Per respecte a la memòria oral, conservem l’escriptura “Ca l’Assuncion”, tot i que en català normatiu el nom és Assumpció.`,
+    altres:`Ca l’Esteve`,
+    historia:`M&eacute;s enll&agrave; de l&rsquo;Hostal de la Marieta, aquesta fou <strong>la  primera casa familiar del nou nucli urb&agrave; de Matadepera</strong>. Acabaria situada  davant de la Parr&ograve;quia, a la cantonada entre el carrer de Sant Joan i l&rsquo;actual  carrer de Pere Aldavert.<br>
+<br>
+Cap a finals del segle XVIII, Narc&iacute;s Gorina, de <em>Can Gorina</em>, aclaparat pels  deutes, decid&iacute; parcel&middot;lar les seves terres al voltant del Cam&iacute; Ral per  establir-hi noves fam&iacute;lies a tocar del cam&iacute;.<br>
+<br>
+El <strong>7 de desembre de 1786</strong> vengu&eacute; a <strong>Tom&agrave;s Mart&iacute;</strong>, qui m&eacute;s endavant  donaria origen a la nissaga de <em>Cal Tomasset</em>, una parcel&middot;la situada al l&iacute;mit  de les seves terres amb les de <em>Can Vinyers</em> per construir-hi una casa de  quaranta-cinc pams d&rsquo;amplada per vint-i-set canes de llargada, aproximadament  uns 10,5 metres de fa&ccedil;ana per 41,8 metres de fond&agrave;ria.<br>
+<br>
+Amb el pas dels anys, la propietat pass&agrave; a la fam&iacute;lia Genesc&agrave;. Probablement fou  cap a <strong>l&rsquo;any 1873</strong>, quan <strong>Esteve Genesc&agrave; Padr&oacute;s</strong> (1843&ndash;1917) es cas&agrave;  amb Rosa Cort&eacute;s Riera i s&rsquo;establiren en aquesta casa.<br>
+<br>
+L&rsquo;Esteve era germ&agrave; de Marc Genesc&agrave; Padr&oacute;s, de <em>Cal Marc</em>, i de Rosa  Genesc&agrave; Padr&oacute;s, de <em>Cal Parrot</em>. Tots tres eren fills d&rsquo;Antoni Genesc&agrave;  Riera (1802&ndash;1873), natural de Mura, establert inicialment a Sant Pere de  Terrassa, que es cas&agrave; en segones n&uacute;pcies amb Maria Padr&oacute;s Puigdoure  (1811&ndash;1888), de <em>Can Farr&eacute;s de Baix</em>.<br>
+<br>
+Esteve Genesc&agrave; i Rosa Cort&eacute;s, tingueren cinc  fills en aquesta casa, dels quals  descendiren diverses nissagues Genesc&agrave; ben conegudes del poble, com &laquo;<em>Ca  l&rsquo;Enriquet</em>&raquo;, &laquo;<em>Ca l&rsquo;Estevet</em>&raquo; o &laquo;<em>Cal Negre</em>&raquo;, que es situarien  principalment al sector sud del carrer de Sant Joan.<br>
+<br>
+L&rsquo;hereu de la casa fou Joan Genesc&agrave; Cort&egrave;s  (1874&ndash;1922), que continu&agrave; vivint-hi en casar-se amb <strong>Assumpci&oacute; Clusellas  Clap&eacute;s</strong> (1873&ndash;1961). Tingueren tres fills, per&ograve; la fam&iacute;lia qued&agrave; marcada per  la desgr&agrave;cia. Esteve Genesc&agrave; Clusellas (1913&ndash;1937) mor&iacute; molt jove, amb nom&eacute;s  vint-i-quatre anys, a Barbastre. Tamb&eacute; perderen una filla de pocs mesos i un  altre fill que mor&iacute; amb nom&eacute;s tres anys.<br>
+<br>
+Quan Assumpci&oacute; Clusellas qued&agrave; v&iacute;dua l&rsquo;any 1922, amb quaranta-nou anys,  continu&agrave; vivint sola en aquella gran casa durant gaireb&eacute; quatre d&egrave;cades m&eacute;s,  fins a la seva mort, l&rsquo;any 1961, als vuitanta-vuit anys. Aquella llarga pres&egrave;ncia acab&agrave; fent que diverses  generacions de matadeperencs identifiquessin la casa amb el seu nom.`,
+    origen:`<strong><em>&laquo;Ca l&rsquo;Assuncion&raquo;</em></strong>: Prov&eacute; d&rsquo;Assumpci&oacute; Clusellas  Clap&eacute;s (1873&ndash;1961), que despr&eacute;s de quedar v&iacute;dua visqu&eacute; sola durant prop de  quaranta anys en aquesta casa. Aquest llarg vincle personal amb l&rsquo;indret acab&agrave;  fent que la casa fos identificada amb el seu nom<strong><em>.</em></strong><br>
+Pel que fa al nom, popularment era anomenada &laquo;Assuncion&raquo;, pronunciat amb una <em>n</em> final castellanitzada per&ograve; amb fon&egrave;tica catalana, una forma habitual dins la  cultura popular rural d&rsquo;aquella &egrave;poca. Per respecte a la mem&ograve;ria oral, es  conserva la forma tradicional <strong>&laquo;</strong><em>Ca l&rsquo;Assuncion</em><strong>&raquo;</strong>, tot i que  normativament correspondria &laquo;Assumpci&oacute;&raquo;.<br>
+  <br>
+  <strong>&laquo;Ca l&rsquo;Esteve&raquo;</strong>:<strong> </strong>Renom originat per Esteve Genesc&agrave; Padr&oacute;s  (1843&ndash;1917). No s&rsquo;ha de confondre amb &laquo;<em>Ca l&rsquo;Estevet</em>&raquo;, renom posterior de  la casa del seu net situada a l&rsquo;altra punta del carrer de Sant Joan.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 44, Matadepera`
    },
 "cal-tenorio": {
