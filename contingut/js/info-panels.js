@@ -475,17 +475,29 @@ El 1772, <strong>Josep Argemir Puigdomènech</strong> (avui Argemí, ja que amb 
     adreca:`Adreça actual: Carrer de Sant Joan, 48, Matadepera`
    },
 "cal-magi": {
-    title:`Cal Magi`,
+    title:`Cal Magí`,
     altres:`Cal Lan<br>
 Ca la Nita`,
-    historia:`El 22 de gener de 1781, en Josep Pratginestós, hereu de Cal Jep, va establir en Magí Torras Juliana, de la Pedrera —pagès de Sant Pere de Terrassa— dins dels terrenys que havia comprat a en Gorina. En Magí, juntament amb els seus dos germans, Ignasi i Jaume, es va establir a Matadepera. Eren coneguts com els “de la Pedrera”, probablement per la pedrera de Can Candi.<br>
-D’en Magí en descendeix en <em>Lan</em>, Joan Torras Gumfaus, l’últim membre de la família que va viure a aquella casa del carrer Sant Joan cantonera amb la Ctra. De Terrassa, coneguda també per <em>Cal Lan</em>, on també hi havia el bar de <em>Ca la Nita</em>. <br>
-Actualment és un edifici de pisos i locals comercials.`,
-    origen:`<em>Cal Magí</em>: Pel nom d’en Magí Torras Juliana, que va comprar els terrenys i fer la casa,  rebesavi de Joan Torras Cardús, <em>Lan</em>.<br>
-<br>
-<em> Cal Lan</em>: Per una alteració del nom Joan.<br>
-<br>
-<em>Ca la Nita</em>: Contracció d’ “Anita”, diminutiu d’Anna en castellà.`,
+    historia:`El 22 de gener de 1781,  Josep Pratginest&oacute;s, hereu de <em>Cal Jep</em>, establ&iacute; <strong>Mag&iacute; Torras Juliana</strong>,  pag&egrave;s de Sant Pere de Terrassa, en uns terrenys situats al nou sector de  creixement del poble, dins les terres que anteriorment havia adquirit a la  fam&iacute;lia Gorina.<br>
+  <br>
+  Mag&iacute; Torras Juliana (1758), juntament amb els seus germans Ignasi i Jaume,  formava part d&rsquo;una fam&iacute;lia coneguda popularment com &laquo;<em>els de la Pedrera</em>&raquo;,  probablement per la seva vinculaci&oacute; amb la pedrera de Can Candi.<br>
+  <br>
+  Casat amb Rosa Quer, de Mag&iacute; Torras en descendiren nombroses branques familiars  de Matadepera. Entre els seus descendents destac&agrave; especialment <strong>Jaume Torras  Pi </strong>(1870&ndash;1940), casat el 18 de gener de 1900 amb <strong>Josefa Gumfaus Altimira</strong> (1880&ndash;1928).<br>
+  <br>
+  <strong>Jaume Torras Pi</strong> fou una figura  rellevant de la Matadepera de principis del segle XX. Exerc&iacute; <strong>d&rsquo;alcalde entre  1923 i 1929</strong> i, durant el seu mandat, culmin&agrave; un dels projectes m&eacute;s  importants del municipi: la <strong>posada en funcionament de les primeres escoles  nacionals del poble</strong>, inaugurades oficialment l&rsquo;any 1925, un equipament  llargament esperat en una Matadepera que aleshores tot just superava els  sis-cents habitants.<br>
+  <br>
+  El matrimoni Torras  Gumfaus tingu&eacute; diversos fills: Maria, <strong>Joan</strong>, Isidre i Merc&egrave;. D&rsquo;aquesta  darrera descendiria tamb&eacute; la branca de <em>Cal Peret Xisco</em>, en casar-se  amb Salvador Puig Sol&agrave;.<br>
+  <br>
+  L&rsquo;&uacute;ltima etapa de la  casa qued&agrave; especialment vinculada a <strong>Joan &laquo;Lan&raquo; Torras Gumfaus</strong> (1902&ndash;1999), fill de Jaume Torras Pi, casat amb <strong>Anna &laquo;Nita&raquo; Lluellas Ribas</strong> (1902&ndash;1978), amb qui no tingueren descend&egrave;ncia.<br>
+  <br>
+  Durant d&egrave;cades foren  les darreres figures de la fam&iacute;lia vinculades a aquesta casa cantonera del  carrer de Sant Joan amb la carretera de Terrassa, un indret molt concorregut i  punt de trobada habitual de molts matadeperencs de mitjan segle XX, especialment  pel popular establiment conegut com &laquo;<strong>Ca la Nita</strong>&raquo;.<br>
+  <br>
+  Actualment, l&rsquo;antic  edifici ha desaparegut i el lloc correspon a una finca moderna d&rsquo;habitatges i  locals comercials.`,
+    origen:`<strong><em>Cal Mag&iacute;</em>:</strong> Prov&eacute; de Mag&iacute; Torras  Juliana (1758), primer membre de la fam&iacute;lia establert en aquest indret i origen  de la nissaga vinculada a la casa.<br>
+    <br>
+    <strong><em>Cal Lan</em>:</strong> Prov&eacute; de Joan Torras Gumfaus (1902&ndash;1999), darrer descendent  de la fam&iacute;lia que resid&iacute; a la casa. &laquo;<em>Lan</em>&raquo; correspon a una deformaci&oacute; oral  popular del nom <em>Joan</em>, for&ccedil;a habitual d&rsquo;aquell temps.<br>
+    <br>
+    <strong><em>Ca la Nita</em>&raquo;:</strong> Deriva d&rsquo;Anna  Lluellas Ribas (1902&ndash;1978). &laquo;<em>Nita</em>&raquo;  correspon a una forma escur&ccedil;ada i popular d&rsquo;&laquo;<em>Anita</em>&raquo;, diminutiu habitual del nom  <em>Anna / Ana</em>, tal com era freq&uuml;ent en la parla popular de l&rsquo;&egrave;poca.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 51, Matadepera`
    },
 "ca-la-sibina": {
