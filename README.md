@@ -7,8 +7,8 @@ Quan es disposa d’informació, també s’hi inclou una breu història i l’o
 ---
 
 ## Autors
-- © 2025 **Llorenç Robert Lairla** i **Marc Sellarès Genescà**  
-- © 2025 **Marc Sellarès Genescà**, disseny web i imatges  
+- © 2026 **Llorenç Robert Lairla** i **Marc Sellarès Genescà**  
+- © 2026 **Marc Sellarès Genescà**, disseny web i imatges  
 
 Tots els drets reservats.  
 
