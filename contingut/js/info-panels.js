@@ -511,13 +511,17 @@ Ca la Nita`,
 "ca-la-sibina": {
     title:`Ca la Sibina`,
     altres:``,
-    historia:`De les primeres cases del nucli urbà de Matadepera.<br>
-El 1772, Josep Argemí Puigdomench, natural de Gallifa, esdevé un dels primers pobladors de la Matadepera urbana. Compra a Narcís Gorina, propietari de les terres de Can Gorina, una parcel·la de 40 pams d’amplada per 27 canes de llargada al carrer nou de Matadepera (avui carrer Sant Joan), on construeix la seva casa: l’actual <em>Cal Gallifa</em> (núm. 48).<br>
-Aquell mateix any adquireix també el terreny just al costat nord, de 27 pams més, i més tard el seu germà Pantaló Argemí compra una altra franja similar, la que correspondria a aquesta casa, l’actual <em>Ca la Sibina</em>.<br>
-D’aquesta línia familiar en deriven diverses branques conegudes del poble. Però és la besneta de Josep, Sabina Argemí Pratginestós, casada amb Joan Ventayol Pi, qui establerta en aquesta casa, donarà origen al renom <em>Ca la Sibina</em>, fruit de la deformació popular del seu nom.
-D’aquest matrimoni en descendeixen famílies tan conegudes com <em>Cal Satlari</em>, o el mateix Joan Trabal Roma, sovint identificat com “Joan Trabal de <em>Ca la Sibina</em>”.<br>
-El singular, controvertit i famós capellà, Josep Maria Ballarín, prolífic escriptor català, va dedicar un capítol sencer a la casa en el seu últim llibre de memòries <em>El sac dels records</em>.`,
-    origen:`Prové de Sabina Argemí Pratginestós, que vivia a la casa a finals del segle XIX. El nom “Sibina” és una deformació popular i afectiva del seu nom de pila, Sabina, que acabà identificant la casa i els seus habitants`,
+    historia:`L&rsquo;any 1773 Pantale&oacute;n Argemir Puigdom&egrave;nech compr&agrave; a Narc&iacute;s  Gorina una parcel&middot;la de 27 pams d&rsquo;amplada a continuaci&oacute; del casal del seu  germ&agrave;, al carrer Nou de Matadepera, conegut m&eacute;s endavant com el carrer de la  Llagosta i actual carrer de Sant Joan. Aquesta finca correspondria a aquesta  casa. Tanmateix, l&rsquo;any 1780, en traslladar-se a Sant Lloren&ccedil; Savall, la vengu&eacute;  al seu germ&agrave; Josep Argemir.<br>
+De la nissaga Argem&iacute; en sorgiren diverses branques del  poble, per&ograve; la persona que acabaria donant nom a la casa fou <strong>Sabina Argem&iacute; Pratginest&oacute;s</strong> (1859&ndash;1922), besneta del propietari. Casada amb Joan Ventayol Pi (1856&ndash;1929). En  aquesta casa criaren els seus fills: Lloren&ccedil; (1882), Joan  (1885), Esteve (1888), Josep (1891) i Carme (1896).<br>
+<br>
+D&rsquo;aquesta fam&iacute;lia descendiren diverses  nissagues i personatges ben coneguts de Matadepera. Entre ells, Joan Ventayol  Genesc&agrave; (1918-1999), de <em>Cal Satlari</em>, fill d&rsquo;Esteve Ventayol Argem&iacute; i  Rosa Genesc&agrave; de <em>Cal Baldir&oacute;</em>, o Lloren&ccedil; Trabal Ventayol (1928-2024),  sovint identificat com Lloren&ccedil; Trabal de <em>Ca la Sibina</em>, fill de Carme  Ventayol Argem&iacute; i del mosso d&rsquo;esquadra Josep Trabal Rovira, natural de  Vilafranca del Pened&egrave;s.<br>
+<br>
+La continu&iuml;tat de la casa recaigu&eacute;  principalment en Josep Ventayol Argem&iacute; (1891&ndash;?), casat amb <strong>Concepci&oacute; Mas  Valls</strong> (1893&ndash;?), popularment coneguda com &laquo;<strong><em>la Conxita de Ca la Sibina</em></strong>&raquo;.  La seva personalitat deix&agrave; una forta empremta al poble fins al punt que moss&egrave;n  Josep Maria Ballar&iacute;n Monset, sacerdot, escriptor i una de les figures m&eacute;s  singulars de la literatura catalana contempor&agrave;nia, li dedic&agrave; un cap&iacute;tol sencer  del seu llibre de mem&ograve;ries <em>El sac dels records</em>. Hi descriu una dona de  car&agrave;cter fort i directe, per&ograve; tamb&eacute; afectuosa, molt estimada al poble i  recordada com una cuinera extraordin&agrave;ria.<br>
+<br>
+M&eacute;s endavant la casa acoll&iacute;, com a  llogaters, altres fam&iacute;lies conegudes del poble. Entre elles, Enriqueta Sala Mas  (1903), de <em>Cal Jordi</em>, casada amb Arturo Padr&oacute;s Mussons, que  continuaren despatxant llet des del quart&oacute; de reixa.<br>
+<br>
+Actualment molts matadeperencs  identifiquen la casa amb la Teresa de <em>Cal Roc</em>`,
+    origen:`<strong><em>Ca la Sibina</em></strong>: El renom prov&eacute; de <strong>Sabina Argem&iacute;  Pratginest&oacute;s</strong> (1859&ndash;1922), que resid&iacute; en aquesta casa a finals del segle XIX  i comen&ccedil;aments del XX. El nom &laquo;<em>Sibina</em>&raquo; correspon a una deformaci&oacute; popular i  afectiva de &laquo;Sabina&raquo;, forma amb qu&egrave; fou coneguda durant generacions i que acab&agrave;  identificant la casa.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 52, Matadepera`
    },
 "cal-motxo": {
