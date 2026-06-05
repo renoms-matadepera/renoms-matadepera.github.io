@@ -380,9 +380,25 @@ Durant la Guerra Civil, Jaume Ramon particip&agrave; en la vida pol&iacute;tica 
    },
 "cal-mabres": {
     title:`Cal Mabres`,
-    altres:``,
-    historia:``,
-    origen:`El renom prové del cognom familiar Mabras. S’ha mantingut escrit amb “-es” final perquè és així com apareix en totes les referències conegudes d’aquesta casa i de la família.`,
+    altres:`Cal Torero`,
+    historia:`L'origen d'aquesta casa es remunta a l'any 1834,  quan Francesc Casanovas, traginer de Matadepera, adquir&iacute; un terreny de vuitanta  pams d&rsquo;amplada a en Pi de la Serra al nou sector que s'estava consolidant al  centre i sud del poble. Aquella propietat, que amb el pas dels anys acabaria  dividint-se en dos casals, donaria origen a les actuals cases de <em>Cal Bolet</em> i  <em>Cal Mabres</em>.<br>
+  <br>
+  La primera fam&iacute;lia que trobem documentada en aquesta casa &eacute;s la dels Pica&ntilde;ol.  L'any 1864 hi residien <strong>Jaume Pica&ntilde;ol Carner</strong> i la seva esposa Filomena  Clap&eacute;s, juntament amb diversos germans del Jaume. En aquesta etapa la casa fou  coneguda amb el renom de &laquo;<strong><em>Cal Torero</em></strong>&raquo;.<strong><br>
+  <br>
+  </strong>La hist&ograve;ria de la casa canvi&agrave; amb <strong>Francesc  Mabras Comellas</strong> (1841&ndash;1905), conegut popularment com &laquo;<em>el Grandet</em>&raquo;. Nascut  al Bruc i casat amb Josefa Rius i Dalmau (1847&ndash;1908), s'establ&iacute; durant molts  anys com a masover de <em>Can Vinyers</em> i fou un dels principals ramaders de  Matadepera durant la segona meitat del segle XIX. Era propietari d'un dels tres  grans ramats d'ovelles i moltons del poble.<strong><br>
+  <br>
+  </strong>Francesc Mabras adquir&iacute; la casa als  Pica&ntilde;ol cap a finals del segle XIX, on s'establiria la seva descend&egrave;ncia.  Despr&eacute;s d'arranjar-la, deix&agrave; l'entrada revestida amb rajoles de Val&egrave;ncia i hi  habilit&agrave; l'espai des d'on la seva nora Carme despatxaria carn.<strong><br>
+  <br>
+  </strong>La continu&iuml;tat familiar recaigu&eacute; en  el seu fill <strong>Jaume Mabras Rius</strong> (1868&ndash;?) i en la seva esposa Carme Riba  Lleonart, de <em>Cal Ferrer</em>.<strong><br>
+  <br>
+  </strong>La fam&iacute;lia Mabras combin&agrave; diverses  ocupacions. Durant anys la casa dispos&agrave; de carnisseria pr&ograve;pia i mantingu&eacute; una  estreta relaci&oacute; amb l'activitat ramadera local. Paral&middot;lelament, Francesc Mabras  havia explotat un forn d&rsquo;obra i una b&ograve;bila situats a tocar del torrent dels  Abeuradors, prop de l&rsquo;antic escorxador municipal, on fabricava rajoles i  teules. El seu fill Jaume tamb&eacute; continu&agrave; l&rsquo;activitat i, cap al 1914, obr&iacute; un  altre forn, que es considera l&rsquo;&uacute;ltim forn d&rsquo;obra tradicional de Matadepera. M&eacute;s  endavant pass&agrave; a mans de Felip Elies, de <em>Cal Rajoler</em>. Aquesta activitat  tingu&eacute; una notable import&agrave;ncia en el desenvolupament constructiu del poble  durant les primeres d&egrave;cades del segle XX.<strong><br>
+  <br>
+  </strong>La filla de Jaume Mabras, <strong>Josefa  Mabras Riba</strong> (1912&ndash;?), es cas&agrave; amb Isidre Font Pi (1905&ndash;?), de <em>Cal  Corcola</em>. Coneguda popularment com &laquo;<strong><em>la Pepeta de Cal Mabres</em></strong>&raquo;, durant d&egrave;cades form&agrave; part inseparable del paisatge hum&agrave; del carrer de Sant  Joan, on era habitual veure-la escombrant pacientment el carrer molt m&eacute;s enll&agrave;  de la fa&ccedil;ana de casa seva. Xerraire, curiosa i de molt bon car&agrave;cter, fou una  d&rsquo;aquelles persones que acabaren esdevenint una pres&egrave;ncia familiar per a  diverses generacions de ve&iuml;ns.<br>
+  <br>
+  El seu fill Jaume Font Mabras  (1935&ndash;2016) i la seva fam&iacute;lia foren els &uacute;ltims membres de la nissaga Mabras que  ocuparen aquesta casa.`,
+    origen:`  <em><strong>Cal Mabres</strong></em>: El renom prov&eacute; del cognom de la fam&iacute;lia Mabras, establerta a la casa a  finals del segle XIX. Popularment, per&ograve;, el renom de la casa ha estat conservat  gaireb&eacute; sempre en la forma &laquo;Mabres&raquo;, que &eacute;s la que apareix en la mem&ograve;ria oral  del poble i en la major part de les refer&egrave;ncies tradicionals.<br>
+  <br>
+  <em><strong>Cal Torero</strong></em>: &Eacute;s el renom anterior de la casa, documentat durant l'&egrave;poca  de la fam&iacute;lia Pica&ntilde;ol. No se'n coneix amb certesa l'origen, per&ograve; probablement  estava relacionat amb algun tret personal, afici&oacute; o activitat d'algun membre de  la fam&iacute;lia, seguint un mecanisme molt habitual en la formaci&oacute; dels renoms  populars matadeperencs.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 45, Matadepera`
    },
 "cal-bolet": {
