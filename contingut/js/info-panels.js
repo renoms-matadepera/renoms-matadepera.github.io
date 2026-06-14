@@ -742,10 +742,12 @@ Lluïsa Pratginestós, —coneguda com la "Lluïsa de <em>Cal Jep</em>"—, últ
 "cal-parot": {
     title:`Cal Parot`,
     altres:``,
-    historia:`Era la casa situada entre <em>Cal Picarrocs</em> i <em>Cal Genet</em>, que més endavant acabaria integrant-se dins la propietat de <em>Cal Picarrocs</em>.<br>
-Hi vivia <strong>Josep Farrés i Garriga</strong> (1907-1952), originari de Caldes de Montbui, casat amb Maria Lladó i Planas (1906-2009), de Matadepera. En Josep, de professió paleta, havia estat un temps estadant a la fonda de <em>Cal Baldiró</em> fins que, en casar-se, s’instal·là en aquesta casa. El matrimoni tingué tres fills: Paquita, Antònia i Joan.<br>
-Poc després de néixer la Paquita, la família es traslladà al carrer Narcís Monturiol, on encara hi té la seva casa la mateixa Paquita Farrés i Lladó, vídua de Joan Marimon i Datzira (1932-1979). En Joan va morir sobtadament als Cortins, un monòlit situat al vessant nord-oest del massís de Sant Llorenç del Munt, durant una excursió amb amics, tots ells amants de la muntanya.`,
-    origen:``,
+    historia:`Era la casa situada entre <em>Cal Picarrocs</em> i<em> Cal  Genet</em>, que m&eacute;s endavant acabaria integrant-se dins la propietat de <em>Cal  Picarrocs</em>.<br>
+<br>
+Hi vivia <strong>Josep Farr&eacute;s i Garriga</strong> (1907&ndash;1952), originari de Caldes de  Montbui, casat amb <strong>Maria Llad&oacute; i Planas</strong> (1906&ndash;2009), de <em>Cal Sidro</em> de  Matadepera. En Josep, de professi&oacute; paleta, havia estat durant un temps estadant  a la fonda de <em>Cal Baldir&oacute;</em> fins que, en casar-se, s&rsquo;instal&middot;l&agrave; en aquesta casa.  El matrimoni tingu&eacute; tres fills: Paquita, Ant&ograve;nia i Joan.<br>
+<br>
+Poc despr&eacute;s de n&eacute;ixer la Paquita, la fam&iacute;lia es trasllad&agrave; al carrer de Narc&iacute;s  Monturiol, on encara conserva la seva casa la mateixa Paquita Farr&eacute;s i Llad&oacute;,  v&iacute;dua de Joan Marimon i Datzira (1932&ndash;1979). En Joan mor&iacute; sobtadament a Els  Cortins, un mon&ograve;lit situat al vessant nord-occidental del mass&iacute;s de Sant  Lloren&ccedil; del Munt, durant una excursi&oacute; amb amics, tots ells grans amants de la  muntanya.`,
+    origen:`<em><strong>Cal Parot</strong></em>: L'origen d'aquest renom no s'ha pogut determinar amb  certesa. Tenint en compte que <strong>Josep Farr&eacute;s i Garriga</strong> (1907&ndash;1952) era originari de Caldes de  Montbui, &eacute;s possible que es tracti d'un renom heretat de la seva fam&iacute;lia  d'origen. Tot i haver localitzat els seus pares i germans als padrons  municipals de Caldes de Montbui, no s'ha pogut establir cap relaci&oacute; concloent  que n'expliqui la proced&egrave;ncia. Per tant, l'origen concret del renom resta, de  moment, pendent de confirmaci&oacute;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 75, Matadepera`
    },
 "cal-genet": {
