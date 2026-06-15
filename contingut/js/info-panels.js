@@ -1356,16 +1356,22 @@ La casa es va repartir i dividir en dues vivendes:<br>
 "cal-croc-croc": {
     title:`Cal Croc-croc`,
     altres:`Cal Passaserres`,
-    historia:`<strong>Isidre Bosch Puig</strong>, conegut com el "<em>Croc</em>", havia nascut a <em>Can Poble</em>. Casat amb Clotilde Casals, van fer de masovers primer a <em>Can Garrigosa</em>, on van tenir cinc fills, i més tard, a principis del segle XX, a <em>Can Torres</em>, on residiren una vintena d’anys.<br>
-Un dels seus fills, <strong>Joan Bosch Casals</strong> (1906-1990), conegut també com "<em>el Joan de Can Torres</em>", es casà el 1931 amb Maria Borrell Sellarès (1906-1991), de Can Gorina. La parella s’instal·là en aquesta casa del carrer Sant Llorenç, on ja vivien els pares i el germà petit Ramon des de feia uns deu anys.<br>
-En Joan Bosch fou un home de bosc i de camp: treballava netejant boscos i tallant arbres per fer-ne bigues, i era tan bon coneixedor de l’entorn natural de l’actual Parc Natural de Sant Llorenç del Munt i l’Obac que organismes i institucions oficials requerien sovint la seva col·laboració per datar camins i termes i ajudar a elaborar mapes.<br>
-Al llarg de la seva vida es dedicà també al conreu arbres fruiters, especialment les pomeres i la vinya —que ell considerava només un entreteniment per a diumenges i dies festius—. A més de caçador, també era un expert boletaire, coneixent tots els secrets dels bolets i els millors indrets per trobar-los. Però sobretot <strong>va destacar com a apicultor</strong>: cuidava molts ruscos i elaborava mel que ell i la seva dona venien des de casa seva. Per aquest motiu, també era conegut popularment com el "<em>Joan de la mel</em>".`,
-    origen:`<strong><em>Cal Croc-croc</em></strong>: Aquest renom s’originà amb <strong>Isidre Bosch Puig</strong>, pare d’en Joan Bosch Casals. Segons la tradició oral, un dia que caçava amb els seus fills, topà amb un esquirol espavilat que no aconseguia encertar. Fart de la situació, Isidre exclamà:
-—«<em>Au, escapa’t tant com vulguis, però quan caiguis… ja faràs croc!</em>»
-Els altres caçadors que l’acompanyaven en feren broma i des d’aquell dia li quedà el sobrenom de “<em>el Croc</em>”.<br>
-Amb el temps, aquest sobrenom passà a la casa del carrer Sant Llorenç i s’hi arrelà amb la forma repetida <em>Croc-croc</em>.<br>
+    historia:`Isidre Bosch Puig</strong>, conegut com &laquo;<em>el Croc</em>&raquo;, havia nascut el 1884 a <em>Can  Poble</em>. Casat el 1904 amb <strong>Clotilde Casals Amor&oacute;s</strong>, nascuda el 1884 a  Viladecavalls, van fer de masovers primer a <em>Can Garrigosa</em>, on van tenir cinc  fills, i m&eacute;s tard, dins la primera d&egrave;cada del segle XX, a <em>Can Torres</em>, on  residiren una vintena d&rsquo;anys.<br>
+  <br>
+Un dels seus fills, <strong>Joan Bosch Casals</strong> (1906-1990), conegut tamb&eacute; com &laquo;<em>el  Joan de Can Torres</em>&raquo;, es cas&agrave; el 1931 amb <strong>Maria Borrell Sellar&egrave;s</strong> (1906-1991), de <em>Can Gorina</em>. La parella s&rsquo;instal&middot;l&agrave; en aquesta casa del  carrer de Sant Lloren&ccedil;, on ja vivien els pares i el germ&agrave; petit, Ramon, des de  feia uns deu anys.<br>
 <br>
-<strong><em>Cal Passaserres</em></strong>: El <strong>Joan Bosch Casals</strong> (1906-1990), entre molts altres sobrenoms, també era conegut com <em>el Passaserres</em>, perquè era un caminador infatigable. Bon coneixedor de tots els termes i de les muntanyes de l’entorn, es deia que era capaç de donar tres voltes a la muntanya de Sant Llorenç en un sol dia.`,
+En Joan Bosch fou un home de bosc i de camp: treballava netejant boscos i  tallant arbres per fer-ne bigues, i era tan bon coneixedor de l&rsquo;entorn natural  de l&rsquo;actual Parc Natural de Sant Lloren&ccedil; del Munt i l&rsquo;Obac que organismes i  institucions oficials requerien sovint la seva col&middot;laboraci&oacute; per datar camins i  termes i ajudar a elaborar mapes.<br>
+<br>
+Al llarg de la seva vida es dedic&agrave; tamb&eacute; al conreu d&rsquo;arbres fruiters,  especialment les pomeres, i a la vinya, que ell considerava nom&eacute;s un  entreteniment per a diumenges i dies festius. A m&eacute;s de ca&ccedil;ador, tamb&eacute; era un  expert boletaire, coneixedor de tots els secrets dels bolets i dels millors  indrets per trobar-los. Per&ograve; sobretot destac&agrave; com a apicultor: cuidava  nombrosos ruscos i elaborava mel que ell i la seva dona venien des de casa  seva. Per aquest motiu, tamb&eacute; era conegut popularment com &laquo;<strong><em>el Joan de la  Mel</em></strong>&raquo;.`,
+    origen:`Cal Croc-croc</em></strong>: Aquest renom  s&rsquo;origin&agrave; amb <strong>Isidre Bosch Puig</strong> (1884), pare d&rsquo;en Joan Bosch Casals.  Segons la tradici&oacute; oral, un dia que ca&ccedil;ava amb els seus fills top&agrave; amb un  esquirol espavilat que no aconseguia encertar. Fart de la situaci&oacute;, Isidre  exclam&agrave;:<br>
+<br>
+&mdash;&laquo;<em>Au, escapa&rsquo;t tant com vulguis, per&ograve; quan caiguis&hellip; ja far&agrave;s croc!</em>&raquo;<br>
+<br>
+Els altres ca&ccedil;adors que l&rsquo;acompanyaven en feren broma i, des d&rsquo;aquell dia, li  qued&agrave; el sobrenom d&rsquo;&laquo;<strong><em>el Croc</em></strong>&raquo;.<br>
+<br>
+Amb el temps, aquest sobrenom pass&agrave; a la casa del carrer de Sant Lloren&ccedil; i hi  arrel&agrave; amb la forma repetida &laquo;<em>Croc-croc</em>&raquo;.<br>
+<br>
+<strong><em>Cal Passaserres</em></strong>: <strong>Joan Bosch Casals</strong> (1906-1990), entre  molts altres sobrenoms, tamb&eacute; era conegut com &laquo;<em>el Passaserres</em>&raquo;, perqu&egrave;  era un caminador infatigable. Bon coneixedor dels termes i de les muntanyes de  l&rsquo;entorn, es deia que era capa&ccedil; de donar tres voltes a la muntanya de Sant  Lloren&ccedil; en un sol dia.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 73, Matadepera`
    },
 "cal-ximu": {
@@ -1431,7 +1437,7 @@ La ferreria dels Riba es trobava al carrer Sant Joan, al costat del pou, on actu
    },
 "cal-dents": {
     title:`Cal Dents`,
-    altres:`Ca l'Arola`,
+    altres:``,
     historia:`El 16 de març de 1879, en Pi de la Serra establí una peça de terra a Josep Arola, natural de Mura, casat amb Concepció Caellas i Aldomà, natural de Malgrat. El terreny, de 43 pams d’amplada per 202 de llargada, s’estenia al llarg de l’actual carrer Balmes, fent cantonada amb la carretera de Terrassa —a l’alçada de l’actual CaixaBank cap avall— i limitava amb les terres d’en Jaume Gorina, que arribaven fins al carrer Sant Quirze.<br>
 Aquest matrimoni va tenir dos fills: en Josep, que va ser l’hereu i es va quedar la casa, i en Joan Arola, <em>Cal Dents Xic</em>, que va ser alcalde de Matadepera en dues ocasions.`,
     origen:``,
