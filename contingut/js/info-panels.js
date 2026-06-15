@@ -638,9 +638,9 @@ Al padr&oacute; de 1911 el  matrimoni, els dos fills i l&rsquo;&agrave;via const
 Joaquim Naspl&egrave;  Altimira, &laquo;<em>El Quimet</em>&raquo;, continu&agrave; la ferreria en el mateix lloc fins als  seus darrers dies. Un personatge for&ccedil;a peculiar.<br>
 <br>
 Actualment la casa &eacute;s  el <em>Restaurant Cal Madu</em>, i l&rsquo;antiga ferreria &eacute;s avui un dels menjadors de la  cafeteria <em>Els Tastets de Saint Honor&eacute;</em>.<br>`,
-    origen:`<em>Cal Ferrer</em>:  pel fet que <strong>Narc&iacute;s Riba Sorribes</strong> (1836&ndash;1926) hi establ&iacute; la ferreria,  essent un dels primers ferrers documentats de Matadepera.<br>
+    origen:` <strong><em>Cal Ferrer</em></strong>:  pel fet que <strong>Narc&iacute;s Riba Sorribes</strong> (1836&ndash;1926) hi establ&iacute; la ferreria,  essent un dels primers ferrers documentats de Matadepera.<br>
   <br>
-  <em>Cal Naspl&egrave;</em>:  pel cognom de <strong>Joan Naspl&egrave; Antonell</strong>, que continu&agrave; la ferreria dels Riba  en aquest mateix indret, ofici que tamb&eacute; mantingu&eacute; el seu fill Joaquim, &laquo;<em>El  Quimet</em>&raquo;.`,
+  <strong><em>Cal Naspl&egrave;</em></strong>:  pel cognom de <strong>Joan Naspl&egrave; Antonell</strong>, que continu&agrave; la ferreria dels Riba  en aquest mateix indret, ofici que tamb&eacute; mantingu&eacute; el seu fill Joaquim, &laquo;<em>El  Quimet</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 63, Matadepera`
    },
 "cal-roc": {
