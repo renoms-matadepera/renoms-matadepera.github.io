@@ -624,10 +624,9 @@ Actualment, l’edifici és un bloc de pisos.`,
     <br>
 A mitjan segle XIX  tenia contracte per forjar i trempar les barrines destinades a la perforaci&oacute; de  la roca per a les voladures, aix&iacute; com per mantenir les eines emprades en la  construcci&oacute; de la carretera de Matadepera a Talamanca. Com que la feina li  quedava lluny, s&rsquo;establ&iacute; a Matadepera, on instal&middot;l&agrave; la ferreria i la resid&egrave;ncia  en aquesta casa, on viuria definitivament amb la seva fam&iacute;lia.<br>
 <br>
-Amb Teresa Lleonart  tingueren tres fills: Rosa, Carme i Joan.<br>
+Amb Teresa Lleonart  tingueren tres fills: Rosa, Carme i <strong>Joan</strong>.<br>
 La Rosa Riba Lleonart es casà amb Salvador Pi Soler, de <em>Cal Xic Xumeco</em>, durant molts anys carter de Matadepera i germà d’Elvira Pi Soler, de <em>Cal Ferreret</em>.<br>
-La Carme Riba Lleonart es casà amb Jaume Mabres Rius i foren els pares de la coneguda «<em>Pepeta de Cal Mabras</em>.<br>
-<strong>Del fill Joan descendeix l’extensa nissaga Riba de Matadepera</strong>.<br>
+La Carme Riba Lleonart es casà amb Jaume Mabres Rius i foren els pares de la coneguda «<em>Pepeta de Cal Mabras</em>.<strong> Del Joan descendeix l’extensa nissaga Riba de Matadepera</strong>.<br>
 <br>
 <strong>Joan Riba Lleonart</strong> (1872&ndash;1926) es cas&agrave;  amb <strong>Teresa Arnau Gorina</strong> (1881&ndash;1964) i continu&agrave; l&rsquo;ofici de ferrer del seu  pare. Tingueren dos fills: Narc&iacute;s Riba Arnau (1900&ndash;1985), &laquo;Siset&raquo;, i &Agrave;ngel Riba  Arnau (1906&ndash;2001), &laquo;Angelet&raquo;.<br>
 <br>
@@ -638,9 +637,9 @@ Al padr&oacute; de 1911 el  matrimoni, els dos fills i l&rsquo;&agrave;via const
 Joaquim Naspl&egrave;  Altimira, &laquo;<em>El Quimet</em>&raquo;, continu&agrave; la ferreria en el mateix lloc fins als  seus darrers dies. Un personatge for&ccedil;a peculiar.<br>
 <br>
 Actualment la casa &eacute;s  el <em>Restaurant Cal Madu</em>, i l&rsquo;antiga ferreria &eacute;s avui un dels menjadors de la  cafeteria <em>Els Tastets de Saint Honor&eacute;</em>.<br>`,
-    origen:` <strong><em>Cal Ferrer</em></strong>:  pel fet que <strong>Narc&iacute;s Riba Sorribes</strong> (1836&ndash;1926) hi establ&iacute; la ferreria,  essent un dels primers ferrers documentats de Matadepera.<br>
+    origen:`<strong><em>Cal Ferrer</em></strong>:  pel fet que <strong>Narc&iacute;s Riba Sorribes</strong> (1836&ndash;1926) hi establ&iacute; la ferreria,  essent un dels primers ferrers documentats de Matadepera.<br>
   <br>
-  <strong><em>Cal Naspl&egrave;</em></strong>:  pel cognom de <strong>Joan Naspl&egrave; Antonell</strong>, que continu&agrave; la ferreria dels Riba  en aquest mateix indret, ofici que tamb&eacute; mantingu&eacute; el seu fill Joaquim, &laquo;<em>El  Quimet</em>&raquo;.`,
+ <strong><em>Cal Naspl&egrave;</em></strong>:  pel cognom de <strong>Joan Naspl&egrave; Antonell</strong>, que continu&agrave; la ferreria dels Riba  en aquest mateix indret, ofici que tamb&eacute; mantingu&eacute; el seu fill Joaquim, &laquo;<em>El  Quimet</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 63, Matadepera`
    },
 "cal-roc": {
@@ -1488,11 +1487,13 @@ Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, orig
 "cal-dr-boya": {
     title:`Cal Dr. Boya`,
     altres:``,
-    historia:`Josep Boya Saura va  n&eacute;ixer el 4 de novembre de 1899 a Campo (Osca), en el si d&rsquo;una fam&iacute;lia molt  nombrosa i humil. Va cursar el batxillerat als Escolapis de Barbastro,  compaginant els estudis amb feines al mateix col&middot;legi per poder-se&rsquo;ls costejar.  Posteriorment es va llicenciar en medicina a la Facultat de Medicina de  Barcelona, mentre treballava a la Catalana de Gas i Electricitat. Un cop  acabada la carrera, l&rsquo;any 1926, fou destinat a Vacarisses i, a finals de 1929,  despr&eacute;s de superar unes oposicions a Madrid, obtingu&eacute; la pla&ccedil;a de metge titular  de Matadepera, c&agrave;rrec que exerc&iacute; fins a la seva mort, amb nom&eacute;s 51 anys.<br>
-  <br>
-  En arribar a Matadepera  va residir hostatjat a <em>Cal Trapet</em>. L&rsquo;any 1933 es va casar amb Isabel  Soler Fabra (1911&ndash;2014) i, despr&eacute;s d&rsquo;un breu per&iacute;ode a la primera de les &laquo;<em>Casetes  del Rejoler</em>&raquo;, el matrimoni es va establir definitivament en aquesta casa,  on van tenir cinc fills.<br>
-  <br>
-  El 7 d&rsquo;octubre de 2012,  l&rsquo;Ajuntament de Matadepera va retre homenatge a la seva figura donant el seu  nom al passatge situat entre els carrers Josep Porcar i Sant Lloren&ccedil;, en el  tram d&rsquo;acc&eacute;s a l&rsquo;ascensor de baixada a la riera, on s&rsquo;hi col&middot;loc&agrave; una placa commemorativa.`,
+    historia:`El <strong>doctor Josep Boya  Saura</strong> (1899&ndash;1950) fou un personatge rellevant, molt conegut i estimat a  Matadepera a mitjan segle XX. Metge vocacional, assist&iacute; el naixement de molts  matadeperencs i exerc&iacute; la medicina al poble fins als darrers dies de la seva  vida.<br>
+<br>
+Josep Boya Saura va n&eacute;ixer el 4 de novembre de 1899 a Campo (Osca), en el si  d&rsquo;una fam&iacute;lia molt nombrosa i humil. Va cursar el batxillerat als Escolapis de  Barbastre, compaginant els estudis amb feines al mateix col&middot;legi per poder  costejar-se'ls. Posteriorment es va llicenciar en medicina a la Facultat de  Medicina de Barcelona, mentre treballava a la Catalana de Gas i Electricitat.  Un cop acabada la carrera, l&rsquo;any 1926, fou destinat a Vacarisses i, a finals de  1929, despr&eacute;s de superar unes oposicions a Madrid, obtingu&eacute; la pla&ccedil;a de metge  titular de Matadepera, c&agrave;rrec que exerc&iacute; fins a la seva mort, amb nom&eacute;s 51  anys.<br>
+<br>
+En arribar a Matadepera  va residir hostatjat a <em>Cal Trapet</em>. L&rsquo;any 1933 es va casar amb Isabel Soler  Fabra (1911&ndash;2014) i, despr&eacute;s d&rsquo;un breu per&iacute;ode a la primera de les &laquo;<em>Casetes  del Rajoler</em>&raquo;, el matrimoni es va establir definitivament en aquesta casa,  on van tenir cinc fills.<br>
+<br>
+El 7 d&rsquo;octubre de 2012,  l&rsquo;Ajuntament de Matadepera va retre homenatge a la seva figura donant el seu  nom al passatge situat entre els carrers Josep Porcar i Sant Lloren&ccedil;, en el  tram d&rsquo;acc&eacute;s a l&rsquo;ascensor de baixada a la riera, on es col&middot;loc&agrave; una placa commemorativa.`,
     origen:`Tot i que la casa m&eacute;s  tard fou enderrocada i en el seu lloc s&rsquo;hi ubicaria un conegut supermercat i  actualment una ferreteria, el lloc fou conegut durant molt temps, i encara ara,  pels matadeperencs de m&eacute;s edat, pel cognom del Dr. Josep Boya Saura  (1899&ndash;1950).`,
     adreca:`Adreça actual: Carrer de Josep Porcar, 39, Matadepera`
    },
