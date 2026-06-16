@@ -1494,7 +1494,7 @@ Josep Boya Saura va n&eacute;ixer el 4 de novembre de 1899 a Campo (Osca), en el
 En arribar a Matadepera  va residir hostatjat a <em>Cal Trapet</em>. L&rsquo;any 1933 es va casar amb Isabel Soler  Fabra (1911&ndash;2014) i, despr&eacute;s d&rsquo;un breu per&iacute;ode a la primera de les &laquo;<em>Casetes  del Rajoler</em>&raquo;, el matrimoni es va establir definitivament en aquesta casa,  on van tenir cinc fills.<br>
 <br>
 El 7 d&rsquo;octubre de 2012,  l&rsquo;Ajuntament de Matadepera va retre homenatge a la seva figura donant el seu  nom al passatge situat entre els carrers Josep Porcar i Sant Lloren&ccedil;, en el  tram d&rsquo;acc&eacute;s a l&rsquo;ascensor de baixada a la riera, on es col&middot;loc&agrave; una placa commemorativa.`,
-    origen:`Tot i que la casa m&eacute;s  tard fou enderrocada i en el seu lloc s&rsquo;hi ubicaria un conegut supermercat i  actualment una ferreteria, el lloc fou conegut durant molt temps, i encara ara,  pels matadeperencs de m&eacute;s edat, pel cognom del Dr. Josep Boya Saura  (1899&ndash;1950).`,
+    origen:`Tot i que la casa m&eacute;s tard fou enderrocada i en el seu  lloc s&rsquo;hi ubicaria un conegut supermercat i, actualment, una ferreteria, el  lloc fou conegut durant molt temps, i encara ara pels matadeperencs de m&eacute;s  edat, com a &laquo;<strong><em>Cal Dr. Boya</em></strong>&raquo;, en refer&egrave;ncia al <strong>doctor Josep Boya  Saura</strong> (1899&ndash;1950).`,
     adreca:`Adreça actual: Carrer de Josep Porcar, 39, Matadepera`
    },
 "cal-pa-amb-oli": {
