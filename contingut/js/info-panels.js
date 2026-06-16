@@ -1076,12 +1076,18 @@ Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina er
 "ca-la-marcelina": {
     title:`Ca la Marcelina`,
     altres:``,
-    historia:`Era una de les últimes cases del carrer de Sant Isidre, pràcticament a tocar de la plaça de Cal Baldiró. Actualment, al seu lloc hi ha pisos que ocupen diversos dels antics casals.<br>
-Hi va viure i morir <strong>Marcelina Genescà Arch (1871-1943)</strong>, casada amb Ramon Arnau Pi (1862-1905). El matrimoni tingué dos fills: Joan i Josep. El fill gran, Joan, morí el 1920 amb només 17 anys.<br>
-El fill petit, Josep Arnau Genescà (1900-?), es casà amb Filomèna Cortès Boada (1905-1989), de <em>Cal Carreter</em>. Van tenir tres fills: Maria, Joan i Ramon.<br>
-Josep Arnau Genescà fou alcalde de Matadepera entre 1931 i 1933. Posteriorment, marxà a Caracas (Veneçuela) amb Teresa Duat, esposa del seu millor amic i cosí Marc Genescà Cortès. Davant aquesta situació, Filomèna Cortès es traslladà a viure a la seva casa natal, <em>Cal Carreter</em> (carrer de Sant Joan, actual núm. 25), amb els seus tres fills.<br>
-Marcelina Genescà visqué sola a aquesta casa fins a la seva mort, el 1943, als 72 anys.`,
-    origen:`El renom prové de <strong>Marcelina Genescà Arch</strong>, que en quedar vídua el 1905, als 34 anys, continuà vivint a la casa fins a la seva mort. Va ser vídua durant 38 anys, fet que explica que el nom de la casa quedés associat a ella.`,
+    historia:`Era una de les &uacute;ltimes cases del carrer de Sant Isidre, pr&agrave;cticament a tocar de  la pla&ccedil;a de <em>Cal Baldir&oacute;</em>. Actualment, al seu lloc hi ha pisos que ocupen  diversos dels antics casals.<br>
+<br>
+Hi va viure i morir <strong>Marcelina Genesc&agrave; Arch</strong> (1871&ndash;1943), casada amb Ramon  Arnau Pi (1862&ndash;1905). El matrimoni tingu&eacute; dos fills: Joan i Josep. El fill  gran, Joan, mor&iacute; l'any 1920 amb nom&eacute;s 17 anys.<br>
+<br>
+El fill petit, <strong>Josep Arnau Genesc&agrave;</strong> (1900&ndash;?), es cas&agrave; amb <strong>Filom&egrave;na  Cort&egrave;s Boada</strong> (1905&ndash;1989), de <em>Cal Carreter.</em> Van tenir tres fills: Maria,  Joan i Ramon.<br>
+<br>
+Josep Arnau Genesc&agrave; fou el primer alcalde democr&agrave;tic de Matadepera (1931&ndash;1933),  durant la Segona Rep&uacute;blica, molt radical i amb unes conviccions pol&iacute;tiques  totalment oposades a les del seu cos&iacute; Francisco Arnau, darrer alcalde de  l'anterior dictadura i principal subministrador d'aigua de la poblaci&oacute;. Josep  Arnau, entre altres q&uuml;estions, es va implicar en la lluita pels drets de  l'aigua.<br>
+<br>
+No obstant aix&ograve;, deix&agrave; l'alcaldia i la fam&iacute;lia per marxar a Caracas (Vene&ccedil;uela)  amb Teresa Duat, esposa del seu millor amic i cos&iacute; Marc Genesc&agrave; Cort&egrave;s, de <em>Cal  Marc</em>. Davant aquesta situaci&oacute;, Filom&egrave;na Cort&egrave;s es trasllad&agrave; a viure a la seva  casa natal, <em>Cal Carreter</em>, amb els seus tres fills.<br>
+<br>
+Marcelina Genesc&agrave; visqu&eacute; sola en aquesta casa fins a la seva mort, l'any 1943,  a l'edat de 72 anys.`,
+    origen:`<em><strong>Ca la Marcelina</strong></em>: El renom prov&eacute; de Marcelina Genesc&agrave; Arch (1871&ndash;1943), que, en quedar  v&iacute;dua l'any 1905 amb nom&eacute;s 34 anys, continu&agrave; vivint sola a la casa fins a la  seva mort, despr&eacute;s de trenta-vuit anys de vidu&iuml;tat. Aquest fet explica que el  nom de la casa qued&eacute;s associat a ella.`,
     adreca:`Adreça antiga: Carrer de Sant Isidre, 31, Matadepera`
    },
 "ca-loliva": {
