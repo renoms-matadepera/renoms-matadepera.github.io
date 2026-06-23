@@ -1484,13 +1484,18 @@ Quan passaven pel burot <sup>1</sup>, en Pere Puig Font va començar a tossir, e
 "ca-langelet": {
     title:`Ca l'Angelet`,
     altres:``,
-    historia:`<strong>Àngel Riba Arnau</strong> (1906–2001), conegut com <strong><em> l’Angelet</em></strong>, casat amb Àngela Satlari Cardellach (1909–1959), s’instal·là en aquesta casa del carrer Balmes, on inicialment es dedicà al subministrament de carbons minerals i vegetals abans de passar al negoci dels asfalts.<br>
-Era net de Narcís Riba i fill de Joan Riba, els primers ferrers del poble, originaris de Sant Llorenç Savall, que s’establiren a Matadepera cap a finals del segle XIX. Inicialment hi van venir per donar servei a les obres de construcció de la carretera de Talamanca, i després ja s’hi quedaren definitivament.`,
-    origen:`El renom prové del diminutiu del nom de pila d’Àngel Riba, conegut familiarment i per tot el poble com <strong><em> l’Angelet</em></strong>.`,
+    historia:`<strong>&Agrave;ngel Riba Arnau</strong> (1906&ndash;2001), conegut per  tothom com &laquo;<strong><em>l&rsquo;Angelet&raquo;</em></strong>, fou una de les figures populars i  emprenedores del poble durant bona part del segle XX. Casat amb &Agrave;ngela Satlari  Cardellach (1909&ndash;1959), establ&iacute; la seva llar al carrer de Balmes, on  inicialment es dedic&agrave; al subministrament i transport de carbons minerals i  vegetals, activitat documentada ja l&rsquo;any 1944 amb un anunci del programa de  festa major. Amb un primer cami&oacute; dedicat al transport palluc i materials de  construcci&oacute;, inici&agrave; una traject&ograve;ria empresarial basada en l&rsquo;esfor&ccedil; i la  const&agrave;ncia que el portaria a especialitzar-se en la pavimentaci&oacute; de carreteres  i carrers. D&rsquo;aquesta activitat naixeria l&rsquo;empresa Asfalts Riba, que amb els  anys es convertiria en una de les empreses m&eacute;s conegudes de Matadepera i on  treballaren diverses generacions de la fam&iacute;lia.<br>
+  <br>
+  <strong>L&rsquo;Angelet era net de Narc&iacute;s Riba Sorribes, </strong>nascut a Sallent el 1836<strong>,  un dels primers ferrers establerts al poble</strong>, i fill de Joan Riba Lleonart (1872&ndash;1926)  i Teresa Arnau Gorina (1881&ndash;1964). La fam&iacute;lia procedia de Sant Lloren&ccedil; Savall i  arrib&agrave; a Matadepera a finals del segle XIX, inicialment per treballar en les  obres de construcci&oacute; de la carretera de Talamanca. Un cop acabades les obres,  decidiren quedar-se definitivament al poble, donant origen a l&rsquo;extensa nissaga Riba  de Matadepera.<br>
+  <br>
+El 1911, l&rsquo;&Agrave;ngel, amb quatre anys d&rsquo;edat, vivia amb els seus pares, el seu  germ&agrave; Narc&iacute;s i la seva &agrave;via Teresa Lleonart a la casa que posteriorment seria  coneguda com a &laquo;<em>Cal Siset<strong>&raquo;</strong></em>, fet que fa pensar que probablement hi  va n&eacute;ixer, tot i que aquesta dada resta pendent de confirmaci&oacute; documental.<br>
+<br>
+De car&agrave;cter vital, expressiu i afable, l&rsquo;Angelet fou tamb&eacute; una persona molt  vinculada a la vida cultural del poble. Particip&agrave; de jove en les caramelles,  cant&agrave; al cor local i destac&agrave; especialment com a actor aficionat. Apassionat del  teatre, gaudia sobretot interpretant personatges c&ograve;mics i pagesos, aquells que  ell mateix definia amb humor com els papers de &laquo;tonto&raquo;. Encara amb m&eacute;s de vuitanta  anys conservava una mem&ograve;ria prodigiosa i era capa&ccedil; de recitar de mem&ograve;ria  fragments sencers de les obres que havia representat de jove, mostrant la  vitalitat i l'expressivitat que sempre el caracteritzaren`,
+    origen:`El renom prov&eacute; del diminutiu afectu&oacute;s del seu nom de  pila, <strong>&Agrave;ngel</strong>, pel qual era conegut familiarment i popularment per tot el  poble: &laquo;<strong><em>l&rsquo;Angelet</em>&raquo;</strong>.`,
     adreca:`Adreça actual: Carrer de Balmes, 8, Matadepera`
    },
 
-
+   
 // Carrer de Josep Porcar
 "cal-bocatort": {
     title:`Cal Bocatort`,
