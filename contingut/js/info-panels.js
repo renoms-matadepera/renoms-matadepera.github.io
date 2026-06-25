@@ -651,9 +651,9 @@ Actualment la casa &eacute;s  el <em>Restaurant Cal Madu</em>, i l&rsquo;antiga 
  <strong><em>Cal Naspl&egrave;</em></strong>:  pel cognom de <strong>Joan Naspl&egrave; Antonell</strong>, que continu&agrave; la ferreria dels Riba  en aquest mateix indret, ofici que tamb&eacute; mantingu&eacute; el seu fill Joaquim, &laquo;<em>El  Quimet</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 63, Matadepera`
    },
-"cal-roc": {
-    title:`Cal Roc`,
-    altres:`  Cal Vinyes
+"cal-vinyes": {
+    title:`Cal Vinyes`,
+    altres:`  Cal Roc
 <br>
   Cal Vivet`,
     historia:`<strong>Els Pi són una arrel de les més antigues de Matadepera</strong>, amb qui molts matadeperencs estem emparentats. <strong>L’any 1758, trobem un Josep Pi</strong>, a qui l’amo de <em>Can Vinyés</em> estableix una vinya, i el 1768 consta com a masover de del mateix mas.<br>
@@ -1436,12 +1436,16 @@ L&rsquo;habitatge avui encara conserva el seu aspecte rural aturat en el temps, 
 "cal-siset": {
     title:`Cal Siset`,
     altres:``,
-    historia:`En aquesta casa residia <strong>Narcís Riba Arnau</strong> (1900–1985), conegut com «<strong><em>Siset</em></strong>», casat amb Josefa Casas Villaescusa (1907–1986). Fou alcalde de Matadepera entre els anys 1965 i 1970, període durant el qual es va construir l’actual Ajuntament.<br>
-Era fill de Joan Riba Lleonart i de Teresa Arnau Gorina, i nét de Narcís Riba, originari de Sant Llorenç Savall. Aquest darrer fou el primer membre de la família establert a Matadepera. Era ferrer i es dedicava a trempar les barres de perforació per als treballadors que construïen la carretera de Talamanca a finals del segle XIX, fet que propicià que la família s’hi arrelés definitivament.<br>
-La ferreria dels Riba es trobava al carrer Sant Joan, al costat del pou, on actualment hi ha la porta de ferro que dona al menjador dels Tastets del Saint Honoré. Més endavant, l’activitat va passar a mans d’en Nasplé, que n’havia estat treballador.`,
-    origen:`El renom prové del diminutiu del nom Narcís, «Narciset», del qual en deriva la forma reduïda i modificada <strong><em>Siset</em></strong>.`,
+    historia:`En aquesta casa residia  <strong>Narc&iacute;s Riba Arnau</strong> (1900&ndash;1985), conegut com &laquo;<strong><em>El Siset</em></strong>&raquo;, casat amb  Josefa Casas Villaescusa (1907&ndash;1986), de <em>Cal Pastorelo</em>. Fou alcalde de  Matadepera entre els anys 1965 i 1970, per&iacute;ode durant el qual es constru&iacute; l&rsquo;actual  Ajuntament.</p>
+<p>Era fill de Joan Riba Lleonart (1872&ndash;1926) i Teresa Arnau  Gorina (1881&ndash;1964), i net de Narc&iacute;s Riba Sorribes, ferrer originari de Sant Lloren&ccedil; Savall que, a  finals del segle XIX, s&rsquo;establ&iacute; a Matadepera mentre treballava en les obres de  construcci&oacute; de la carretera de Talamanca, fet que propici&agrave; que la  fam&iacute;lia Riba arrel&eacute;s definitivament a Matadepera. </p>
+<p align="left">En Siset nasqu&eacute; a <em>Cal  Ferrer</em>, la casa familiar situada al carrer de Sant Joan, actualment el  <em>Restaurant Cal Mado,</em> a tocar de la ferreria dels Riba al  costat del pou, on actualment hi ha la porta de ferro que dona al menjador de l&rsquo;actual cafeteria  <em>Els  Tastets del Saint Honor&eacute</em>. <br>
+  <br>
+  M&eacute;s endavant la  fam&iacute;lia es trasllad&agrave; a aquesta casa de la carretera de Terrassa, on el padr&oacute; de  1911 ja hi documenta els seus pares, el seu germ&agrave; &Agrave;ngel &laquo;<em>l&rsquo;Angelet</em>&raquo; i la seva &agrave;via  Teresa Lleonart, ja v&iacute;dua.</p>
+<p>M&eacute;s enll&agrave; de la seva  activitat professional i p&uacute;blica, els seus escrits hist&ograve;rics on parlava  de la Matadepera de 1900 a 1930, als programes de Festa Major de mitjan de la  d&egrave;cada dels 70 i signats com &laquo;<em>segons un matadeperenc del segle passat</em>&raquo;, han constitu&iuml;t un valu&oacute;s testimoni de la vida  quotidiana del poble en aquella &egrave;poca i han estat, juntament amb els escrits de Joan  Font Pi &laquo;<em>Corcola</em>&raquo;, una font fonamental per descobrir dades, reconstruir i  encaixar moltes de les hist&ograve;ries i renoms de Matadepera d&rsquo;aquest estudi.`,
+    origen:`El renom prov&eacute; del  diminutiu del nom <strong>Narc&iacute;s Riba Arnau</strong> (1900&ndash;1985), &laquo;Narciset&raquo;, del qual  deriva la forma popular abreujada &laquo;<strong>Siset</strong>&raquo;.`,
     adreca:`Adreça actual: Carretera de Terrassa, 11, Matadepera`
    },
+
 "cal-jepet": {
     title:`Cal Jepet`,
     altres:``,
