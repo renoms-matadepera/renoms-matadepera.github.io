@@ -1476,15 +1476,24 @@ L’antic jardí de la casa, situat a l’esquerra de l’edifici actual a la ca
 "cal-peret-sescanya": {
     title:`Cal Peret S'escanya`,
     altres:``,
-    historia:`Casa de Pere Puig Font.
-En el passat, la casa estava força allunyada del nucli urbà i va ser l’única afectada pel bombardeig del 25 de gener de 1939, a les acaballes de la Guerra Civil. Just aquell dia, Pere Puig Font havia patit un possible atac cerebral o ictus i restava estirat al llit. La família va viure l’angoixa de tenir un parent greument malalt mentre les bombes queien al seu voltant. L’impacte va ensorrar part de la teulada i, per traslladar-lo a un lloc segur, van improvisar una camilla amb dos samalers i el van portar a <em>Cal Sidro</em>, una casa del nucli urbà on no van caure bombes i on vivia família seva. Va morir nou dies després.<br>
-Passada la Guerra Civil, el seu fill, Salvador Puig Solà, amb la seva família, va continuar vivint a la mateixa casa, heretant el malnom del seu pare: <em>Cal Peret S'escanya</em>.`,
-    origen:`La família Puig era coneguda per ser xerraires i tenir una veu forta. Un dia, mentre baixaven cap a Terrassa des de Matadepera, caminaven a bon ritme i xerraven animadament.<br>
-Quan passaven pel burot <sup>1</sup>, en Pere Puig Font va començar a tossir, escanyant-se pel parlar i la caminada. Un dels presents a la casella, en veure'l, va exclamar rient: "El Peret s’escanya!" I així li va quedar el malnom.<br>
-<sup>[1]</sup> Burot: Era una mena de duana on es cobraven unes taxes o aranzels per entrar queviures i altres productes a la ciutat.`,
+    historia:`En <strong>Pere Puig Font</strong> (1885&ndash;1939), de <em>Cal Xisco</em>,  era fill de Francesc Puig Sala (1839&ndash;1894), conegut com &laquo;Xisco&raquo;, i d'Ant&ograve;nia  Font Duran (1850&ndash;1913), amb qui Francesc es cas&agrave; en segones n&uacute;pcies. Va n&eacute;ixer  a l'extrem nord del carrer de Sant Joan i, en casar-se cap al 1908 amb Maria  Sol&agrave; Grau (1883&ndash;1941), la parella es trasllad&agrave; a viure a extrem sud del mateix  carrer, en una casa que fou coneguda com <em>Cal Peret Xisco</em>, ja  que Pere era popularment anomenat &laquo;<em>el Peret Xisco</em>&raquo;, en refer&egrave;ncia al  renom del seu pare.<br>
+  <br>
+Hi van tenir cinc fills: Salvador (1909), Ant&ograve;nia (1911), Maria (1917),  Francesc (1919) i Enric (1921). Cap a finals de la d&egrave;cada de 1930, arran d'unes  desavinences amb l'Ajuntament, Pere Puig constru&iacute; aquesta casa als afores del  poble, aleshores dins el terme municipal de Terrassa, just al l&iacute;mit amb  Matadepera. Des d'aquell moment la fam&iacute;lia comen&ccedil;&agrave; a ser coneguda tamb&eacute; amb el  renom de &laquo;<strong><em>Cal Peret S'escanya</em>&raquo;</strong>.<br>
+<br>
+Aquesta casa fou l'&uacute;nica del terme afectada pel bombardeig del 25 de gener de  1939, a les acaballes de la Guerra Civil. Aquell mateix dia, Pere Puig havia  patit el que els testimonis anomenaven &laquo;<em>un atac de feridura</em>&raquo; i restava al llit.  Mentre les bombes queien sobre la casa i una part de la teulada s'ensorrava, la  fam&iacute;lia improvis&agrave; una llitera amb dos samalers per traslladar-lo fins a <em>Cal  Sidro</em>, al nucli del poble, on vivien familiars seus. Pere Puig mor&iacute;  nou dies despr&eacute;s.<br>
+<br>
+L'hereu, <strong>Salvador Puig Sol&agrave; (1909&ndash;1988)</strong>, casat amb <strong>Merc&egrave; Torras  Gumfaus (1912&ndash;1989)</strong>, de <em>Cal Mag&iacute;</em>, continu&agrave; vivint a la casa  familiar. Acabada la guerra fou empresonat i, el maig de 1940, un consell de  guerra el condemn&agrave; a mort. La pena li fou commutada per la de pres&oacute; gr&agrave;cies, en  bona part, a les gestions del seu cos&iacute; germ&agrave; Melcior Puig Sellar&egrave;s, persona  molt influent dins el r&egrave;gim franquista malgrat les seves idees pol&iacute;tiques  fossin completament oposades a les de Salvador. Despr&eacute;s de diversos trasllats  per diferents presons i col&ograve;nies penitenci&agrave;ries, obtingu&eacute; la llibertat  condicional amb desterrament. Finalment, el 31 d'octubre de 1952 pogu&eacute; tornar  definitivament a Matadepera, convertint-se en el darrer pres pol&iacute;tic del poble  empresonat per causes derivades de la Guerra Civil a recuperar la llibertat.<br>
+<br>
+La seva filla Maria Puig Torras recordava que era petita quan el seu pare va  tornar a casa i que, despr&eacute;s de tant de temps absent, aquell home li era  pr&agrave;cticament un desconegut i fins i tot li feia por.<br>
+<br>
+La fam&iacute;lia continu&agrave; vivint en aquesta casa durant molts anys, mantenint viu el  renom de &laquo;<strong><em>Cal Peret S'escanya</em>&raquo;</strong>`,
+    origen:`<strong>Cal Peret  S'escanya</strong>: La fam&iacute;lia Puig era coneguda pel seu car&agrave;cter xerraire i per  parlar amb una veu forta. Explica la tradici&oacute; oral familiar que, <strong>cap a les  primeres d&egrave;cades del segle XX</strong>, un dia, mentre baixaven cap a Terrassa des  de Matadepera, caminaven a bon ritme i xerraven animadament. En arribar al <strong>burot&sup1;</strong> de Terrassa, en Pere Puig Font (1885&ndash;1939), va comen&ccedil;ar a tossir, escanyant-se  pel parlar i la caminada. Un dels presents, en veure l'escena, exclam&agrave; rient:<br>
+&mdash;&laquo;El Peret  s'escanya!&raquo;<br>
+L'ocurr&egrave;ncia va fer fortuna i, des d'aquell dia, tant  ell com la seva casa quedaren coneguts amb aquest renom.<br>
+<br>
+<small>[<strong>1</strong>]</small> Burot: Era una mena de duana on es cobraven taxes o aranzels per  entrar queviures i altres productes a la ciutat.`,
     adreca:`Adreça actual: Carretera de Terrassa, 65, Matadepera`
    },
-
 
 // Carrer Balmes
 "ca-langelet": {
