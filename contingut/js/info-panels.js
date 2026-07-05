@@ -631,15 +631,15 @@ La cara m&eacute;s visible d&rsquo;aquell negoci fou la seva filla <strong>Isabe
     altres:`Cal Nasplè`,
     historia:`<strong>Narc&iacute;s Riba Sorribes</strong>, nascut a Sallent el  1836, era ferrer de professi&oacute;. Fill de Joan Riba (n. 1800), fuster, i de  Francisca Sorribas (n. 1808), es cas&agrave; amb Teresa Lleonart Vilatersana, nascuda  a Sant Lloren&ccedil; Savall el 1844.<br>
     <br>
-A mitjan segle XIX  tenia contracte per forjar i trempar les barrines destinades a la perforaci&oacute; de  la roca per a les voladures, aix&iacute; com per mantenir les eines emprades en la  construcci&oacute; de la carretera de Matadepera a Talamanca. Com que la feina li  quedava lluny, s&rsquo;establ&iacute; a Matadepera, on instal&middot;l&agrave; la ferreria i la resid&egrave;ncia  en aquesta casa, on viuria definitivament amb la seva fam&iacute;lia.<br>
+A mitjan segle XIX tenia contracte per forjar i  trempar les barrines destinades a la perforaci&oacute; de la roca per a les voladures  i al manteniment de les eines emprades en la construcci&oacute; de la carretera de  Matadepera a Talamanca. Com que la feina li quedava lluny, primer s'establ&iacute; sol  a Matadepera cap a l'any 1865, inicialment a l'actual carrer de Sant Joan, 43  (<em>Cal Muletes</em>). L'any seg&uuml;ent ja hi residia, al mateix lloc, amb la seva  esposa, Teresa Lleonart, i amb el germ&agrave; d'aquesta, Gabriel Lleonart, de setze  anys, probablement per ajudar-lo en les feines de la ferreria. M&eacute;s endavant  munt&agrave; la ferreria i la resid&egrave;ncia m&eacute;s amunt del mateix carrer, on la fam&iacute;lia  s'establ&iacute; definitivament a aquesta casa amb la seva fam&iacute;lia.<br>
 <br>
 Amb Teresa Lleonart  tingueren tres fills: Rosa, Carme i <strong>Joan</strong>.<br>
 La Rosa Riba Lleonart es casà amb Salvador Pi Soler, de <em>Cal Xic Xumeco</em>, durant molts anys carter de Matadepera i germà d’Elvira Pi Soler, de <em>Cal Ferreret</em>.<br>
-La Carme Riba Lleonart es casà amb Jaume Mabres Rius i foren els pares de la coneguda «<em>Pepeta de Cal Mabras</em>.<strong> Del Joan descendeix l’extensa nissaga Riba de Matadepera</strong>.<br>
+La Carme Riba Lleonart es casà amb Jaume Mabres Rius i foren els pares de la coneguda «<em>Pepeta de Cal Mabras</em>.<strong>Del Joan descendeix l’extensa nissaga Riba de Matadepera</strong>.<br>
 <br>
-<strong>Joan Riba Lleonart</strong> (1872&ndash;1926) es cas&agrave;  amb <strong>Teresa Arnau Gorina</strong> (1881&ndash;1964) i continu&agrave; l&rsquo;ofici de ferrer del seu  pare. Tingueren dos fills: Narc&iacute;s Riba Arnau (1900&ndash;1985), &laquo;Siset&raquo;, i &Agrave;ngel Riba  Arnau (1906&ndash;2001), &laquo;Angelet&raquo;.<br>
+Joan Riba Lleonart</strong> (1872&ndash;1926) es cas&agrave; amb <strong>Teresa Arnau Gorina</strong> (1881&ndash;1964) i  continu&agrave; l&rsquo;ofici de ferrer del seu pare. Tingueren quatre fills: Narc&iacute;s Riba  Arnau (1900&ndash;1985), &laquo;<em>Siset</em>&raquo;; &Agrave;ngel Riba Arnau (1906&ndash;2001), &laquo;<em>Angelet</em>&raquo;;  Joaquima Riba Arnau (1912&ndash;?), que, casada amb Felip Padr&oacute;s, de <em>Ca l&rsquo;Oliva</em>,  continu&agrave; la nissaga d&rsquo;aquella casa; i Teresa Riba Arnau, morta abans de 1926.<br>
 <br>
-Al padr&oacute; de 1911 el  matrimoni, els dos fills i l&rsquo;&agrave;via consten vivint a la Carretera de Terrassa,  11, <em>Cal Siset</em>. Probablement fou aleshores que Joan Naspl&egrave; Antonell,  nascut a Castellter&ccedil;ol el 15 d&rsquo;agost de 1885 i establert a Matadepera des de  1909 per treballar de ferrer amb els Riba, s&rsquo;instal&middot;l&agrave; a aquesta casa i pass&agrave; a  regentar la ferreria.<br>
+Al padr&oacute; de 1911 el  matrimoni, dos fills i l&rsquo;&agrave;via consten vivint a la Carretera de Terrassa,  11, <em>Cal Siset</em>. Probablement fou aleshores que Joan Naspl&egrave; Antonell,  nascut a Castellter&ccedil;ol el 15 d&rsquo;agost de 1885 i establert a Matadepera des de  1909 per treballar de ferrer amb els Riba, s&rsquo;instal&middot;l&agrave; a aquesta casa i pass&agrave; a  regentar la ferreria.<br>
 <br>
 <strong>Joan Naspl&egrave; Antonell</strong> (1885&ndash;1966) es cas&agrave;  amb <strong>Assumpci&oacute; Altimira Soler</strong>, de <em>Cal Quim</em>, nascuda a Matadepera  el 1888. Tingueren quatre fills: Bernard&iacute; (1912), Joaquim (1914), Teresa (1922)  i Maria (1926).<br>
 <br>
@@ -653,21 +653,26 @@ Actualment la casa &eacute;s  el <em>Restaurant Cal Madu</em>, i l&rsquo;antiga 
    },
 "cal-vinyes": {
     title:`Cal Vinyes`,
-    altres:`  Cal Roc
+    altres:`Cal Roc<br>
+Cal Vivet`,
+    historia:`L'origen  d'aquesta casa es remunta als primers anys del nou nucli urb&agrave; de Matadepera.  Els Pi constitueixen una de les nissagues m&eacute;s antigues i extenses del poble.  L'any 1758 ja consta un Josep Pi a qui l'amo de <em>Can Viny&eacute;s</em> establ&iacute; una vinya, i  el 1768 apareix documentat com a masover del mateix mas.<br>
 <br>
-  Cal Vivet`,
-    historia:`<strong>Els Pi són una arrel de les més antigues de Matadepera</strong>, amb qui molts matadeperencs estem emparentats. <strong>L’any 1758, trobem un Josep Pi</strong>, a qui l’amo de <em>Can Vinyés</em> estableix una vinya, i el 1768 consta com a masover de del mateix mas.<br>
-En els primers establiments que fa Narcís Gorina, <strong>el 1773</strong>, n’estableix un en aquest lloc, situat entre la casa d’en Francesc Busqueta (<em>Cal Macià</em>) i <em>Cal Jep</em> dels Pratginestós (actual Residència Sagrada Família), a favor d’un Josep Pi que pensem que és el mateix esmentat anteriorment.<br>
-En algunes publicacions consta que en aquesta casa hi van viure en Joan i Francesc Pi Roure, probablement descendents d’aquest Josep Pi, que tot i dedicar-se al transport de pedra i fusta eren coneguts com els de <em>Cal Vinyes</em>.<br>
+El 18 d'abril de 1773, en el marc dels primers establiments del nou poble,  Narc&iacute;s Gorina conced&iacute; a Josep Pi una parcel&middot;la situada al Cam&iacute; Ral de Barcelona  a Manresa. Pel davant tenia  108 pams de fa&ccedil;ana, per&ograve; pel darrere nom&eacute;s en tenia 50. Era la pe&ccedil;a que quedava  entre la casa dels Busqueta de <em>Cal Maci&agrave;</em> i la quartera de <em>Cal  Jep</em> dels Pratginest&oacute;s (actual Resid&egrave;ncia Sagrada Fam&iacute;lia i <em>Cal Baltr&agrave;</em>).  Tot sembla indicar que aquest Josep Pi era el mateix propietari de <strong>vinyes</strong> i antic masover de Can Vinyers, fet que explicaria l'origen del primer renom de  la casa.<br>
 <br>
-<strong>L’any 1945</strong>, quan la casa era propietat del Pepet Arnau, de <em>Cal Jepet</em>, la va llogar la <strong>família Garcia</strong> que vivien a Sant Feliu del Racó: Roque Garcia Font, casat amb Maria Martí Tanach de Matadepera i per això van tornar a viure al poble. En Roque Garcia era carboner i treballava a la zona de les Castellasses, a la cova del Gorg del General. Durant aquesta època, la casa fou coneguda com <em>Cal Roc</em>, pel nom de Roque Garcia («Roc» en català).<br>
+Al llarg del segle XIX la propietat rest&agrave; en mans de la fam&iacute;lia Pi. Hi visqu&eacute;,  entre d'altres, <strong>Joan Pi Roure</strong> (1834&ndash;?), casat amb <strong>Ant&ograve;nia Torras  Card&uacute;s</strong> (1834&ndash;1876), fam&iacute;lia dedicada principalment al transport de pedra i  de fusta, per&ograve; sembla ser que popularment seguirien sent identificats com &laquo;<strong><em>Cal  Vinyes</em>&raquo;</strong>.<br>
 <br>
-Finalment, en <strong>Joan Vivet</strong> la comprà a Josep Arnau i hi muntà una carnisseria, etapa en què la casa passà a ser coneguda com <em>Cal Vivet</em>.`,
-    origen:` <strong><em>Cal Vinyes</em></strong>: Provablement pel vincle de Josep Pi amb les vinyes i per haver estat masover de <em>Can Vinyés</em><br>
+A mitjan segle XX, part d&rsquo;aquesta finca, pertanyia als germans Arnau Pi, El  Pepet de <em>Cal Jepe</em>&raquo;, la <em>Quimeta</em> i l&rsquo;l'Em&iacute;lia de <em>Cal Mando</em>,  descendents directes de l&rsquo;esmentada branca Pi. <br>
 <br>
-  <strong><em>Cal Roc</em></strong>: Quan hi visqu&eacute; la fam&iacute;lia Garcia. El  renom prov&eacute; del nom Roque Garcia Font (&laquo;Roc&raquo; en catal&agrave;).<br>
+L'any 1945 la van llogar a Roque Garcia Font, conegut com &laquo;<strong><em>Roc</em></strong>&raquo;, carboner  originari de Sant Feliu del Rac&oacute;, casat amb Maria Mart&iacute; Tanach, de Matadepera.  La fam&iacute;lia s'instal&middot;l&agrave; en aquesta casa perqu&egrave; perqu&egrave; la feina als boscos de les  Castellasses, prop del Gorg del General, els quedava m&eacute;s a prop. Durant aquest  per&iacute;ode la casa fou coneguda popularment com <em><strong>Cal Roc</strong></em>.<br>
 <br>
-<strong><em>Cal Vivet</em></strong>: Etapa  en qu&egrave; en Joan Vivet compr&agrave; la casa i hi instal&middot;l&agrave; una carnisseria.<br>`,
+Poc despr&eacute;s tamb&eacute; hi funcion&agrave; la carnisseria &laquo;<strong><em>La Juanita</em>&raquo;</strong>,  regentada per Juana Valls Utzet, de Can Roure, germana de la popular Gertrudis  Valls, coneguda com &laquo;<em>la Tuies</em>&raquo;.<br>
+<br>
+Cap a l'any 1950, <strong>Joan Vivet Padr&oacute;</strong>, descendent de la coneguda nissaga de  carnissers Vivet de Sentmenat, i la seva esposa <strong>Margarita Serrano Gregori</strong> adquiriren la finca als germans Arnau Pi. Reformaren completament la casa, tal  com es conserva avui, i hi instal&middot;laren la carnisseria que els havia traspassat  &laquo;<em>la Juanita</em>&raquo;. Des d'aleshores l'establiment esdevingu&eacute; conegut com &laquo;<strong><em>Cal  Vivet</em>&raquo;</strong>, renom amb qu&egrave; la casa fou coneguda durant bona part del segle  XX`,
+    origen:`<strong><em>Cal Vinyes</em>:</strong> probablement deriva dels primers propietaris de la casa, especialment  de <strong>Josep Pi, vinculat des de mitjan segle XVIII a les vinyes</strong> i a la  masoveria de Can Vinyers. Sembla que popularment el renom es pronunciava <strong>&laquo;<em>Cal  Vinyes</em>&raquo;</strong>, sense accent, probablement per diferenciar-lo del mas de Can Vinyers  (&laquo;<em>Can Viny&eacute;s</em>&raquo;).<br>
+<br>
+<strong><em>Cal Roc</em>:</strong> correspon al per&iacute;ode en qu&egrave; hi resid&iacute; <strong>Roque Garcia  Font</strong>. El renom deriva directament del seu nom, catalanitzat popularment com <strong>Roc</strong>.<br>
+<br>
+<strong><em>Cal Vivet</em>:</strong> pren el nom de <strong>Joan Vivet Padr&oacute;</strong> i de la carnisseria  que la fam&iacute;lia hi establ&iacute; a partir de la d&egrave;cada de 1950, continuant la llarga  tradici&oacute; de <strong>carnissers de la fam&iacute;lia Vivet, origin&agrave;ria de Sentmenat</strong>.<strong>`,
     adreca:`Adreça actual: Carrer de Sant Joan, 64, Matadepera`
    },
 "cal-correlo": {
