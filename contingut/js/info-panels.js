@@ -1107,8 +1107,14 @@ Marcelina Genesc&agrave; visqu&eacute; sola en aquesta casa fins a la seva mort,
 "ca-loliva": {
     title:`Ca l'Oliva`,
     altres:``,
-    historia:`Tenien oliveres a la font de l'Oliva a Can Candi`,
-    origen:``,
+    historia:`<strong>L'origen d'aquesta casa  es remunta</strong> als primers anys del carrer de Sant Isidre, o <strong>antic carrer de Dalt</strong>.  L'any 1790, Josep Pratginest&oacute;s establ&iacute; aquest solar a <strong>Francesc Alavedra Grau</strong>,  jornaler originari de Sant Pere de Vallhonesta, que avui pertany al municipi de  Sant Vicen&ccedil; de Castellet, amb l'obligaci&oacute; de construir-hi una casa dins dels  vuit anys seg&uuml;ents.<br>
+  <br>
+Va ser el quart establiment del carrer de Dalt, per&ograve;, uns anys m&eacute;s tard, Joan  Alavedra Aymerich, fill de Francesc, adquir&iacute; tamb&eacute; la finca ve&iuml;na de Maurici  Vila, coneguda com &laquo;<em>el Casalot</em>&raquo;, una construcci&oacute; que havia quedat  inacabada. Amb aquesta compra, les dues propietats quedaren unificades,  configurant la finca que esdevindria la primera de llevant, a tocar de la bassa  (actual pla&ccedil;a de Cal Baldir&oacute;), i que, amb diverses transformacions, ha arribat  fins als nostres dies.<br>
+<br>
+La casa continu&agrave; en mans de la fam&iacute;lia Alavedra. El darrer hereu directe fou  Francesc Alavedra Agell (1836&ndash;?), casat amb Maria Codina Valls, que no  tingueren descend&egrave;ncia. Per aquest motiu afillaren la seva neboda, <strong>Carme  Boada Codina</strong> (1876&ndash;?), que <strong>es cas&agrave; amb Aleix Padr&oacute;s Rabella</strong> (1878&ndash;?),  de<em> Can Farr&eacute;s de Baix</em>. A trav&eacute;s d'aquest matrimoni, <strong>la propietat pass&agrave; a la  fam&iacute;lia Padr&oacute;s</strong>.<br>
+<br>
+El matrimoni tingu&eacute; dos fills: Frederic (1904&ndash;?) i <strong>Felip  Padr&oacute;s Boada</strong> (1912&ndash;1943), aquest darrer es cas&agrave; amb <strong>Joaquima Riba Arnau</strong> (1912&ndash;?), de <em>Cal Ferrer</em>. Carme Padr&oacute;s Riba, filla d'aquest matrimoni,  es casada amb Diego Hern&aacute;ndez, form&agrave; la fam&iacute;lia que durant les darreres d&egrave;cades  del segle XX fou coneguda com els de &laquo;<strong><em>Ca l'Oliva</em></strong>&raquo;.`,
+    origen:`<strong><em>Ca  l'Oliva</em>:</strong> Segons expliquen alguns ve&iuml;ns del poble, la  fam&iacute;lia tenia <strong>oliveres a la Font de l'Oliva</strong>, a Can Candi. Una altra  versi&oacute; explica que, com que en tenien molt poques, en broma els deien &laquo;<em>Ca  l'Oliva</em>&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 33, Matadepera`
    },
 "cal-baldiro": {
