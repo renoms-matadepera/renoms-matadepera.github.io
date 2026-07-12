@@ -553,7 +553,7 @@ Actualment molts  matadeperencs identifiquen la casa amb la &laquo;<em>Teresa de
     altres:`Ca l’Arangader`,
     historia:`Aquesta casa fou residència de la família Sellarès de Cal Roig.<br>
 Josep Sellarès Ventayol, casat primer amb Teresa Gutés Casanovas i després amb Maria Vila Campos, es dedicava al cultiu de la vinya i al negoci dels transports. Amb les dues dones, tingué fins a disset fills.<br>
-De Cal Roig en descendeixen la Teresa Sellarès Vila “la Tereseta de <em>Cal Tanta</em>”, casada amb Constantí Porcar, <em>Tanta</em>; i també Antònia Sellarès Puig, de Cal Pintoret, filla de Ramon Sellarès (també de <em>Cal Roig</em>) i de Teresa “Tereseta” Puig Font.<br>
+De Cal Roig en descendeixen la Teresa Sellarès Vila “la Tereseta de <em>Cal Tante</em>”, casada amb Constantí Porcar, <em>Tanta</em>; i també Antònia Sellarès Puig, de Cal Pintoret, filla de Ramon Sellarès (també de <em>Cal Roig</em>) i de Teresa “Tereseta” Puig Font.<br>
 <br>
 Posteriorment, la casa fou adquirida per Emili Pomar Padró i Angeleta Argerich Pons, que hi van obrir una botiga de queviures, especialitzada en bacallà i arengades civils. Des de llavors, la casa fou coneguda com <em>Ca l’Arangader</em>.`,
     origen:`<em>Cal Roig</em>: El renom prové del color roig del cavall de Josep Sellarès Ventayol, que utilitzava per a les seves feines de transport i treball al camp.<br>
@@ -1042,11 +1042,26 @@ El malnom <em> Mero</em>, en canvi, hauria estat associat al seu fill Baldomero 
 Tanmateix, ambdues versions resten pendents de confirmació definitiva.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 14, Matadepera`
    },
-"cal-tanta": {
-    title:`Cal Tanta`,
+"cal-tante": {
+    title:`Cal Tante`,
     altres:``,
-    historia:``,
-    origen:`El pare de Josep Porcar Fabres, conegut com “Tanta”, era una persona molt popular i estimada al poble. Es deia Constantí, però en un entorn col·loquial rural, la gent solia pronunciar aquest nom com “Constanta”, i d’aquí en va derivar el renom final de <em>Tanta</em>.`,
+    historia:`L'origen  d'aquest renom est&agrave; estretament lligat a la <strong>fam&iacute;lia Porcar, arribada a  Matadepera cap el 1900</strong> des de les terres de Castell&oacute; a l'inici del segle  XX. <strong>Constant&iacute; Porcar Par</strong> (1871&ndash;1926), natural de Figueroles, casat amb  Albina Fabra Mart&iacute;nez (1869&ndash;?), de Llucena, i amb el seu primer fill Josep, de  encara no tenia un any, s'establiren inicialment al carrer de Sant Lloren&ccedil;, on  la fam&iacute;lia cresqu&eacute; amb el naixement de tres fills m&eacute;s a Matadepera: Emili,  Constant&iacute; i Marcel&middot;l&iacute;.<br>
+<br>
+Durant els primers anys, Constant&iacute; i els seus fills treballaren principalment  com a traginers, transportant llenya destinada als forns de cal&ccedil; dels boscos de  Matadepera. Cap als anys vint la fam&iacute;lia es traslladar a aquesta casa del  carrer de Sant Isidre, que des d'aleshores restaria definitivament vinculada al  renom de &laquo;<strong><em>Cal Tante</em></strong>&raquo;.<br>
+<br>
+El renom prov&eacute; del mateix Constant&iacute;. Segons explicava el seu net Emili i fam&iacute;lia,  al poble el coneixien popularment com &laquo;Constante&raquo; i, per escur&ccedil;ament d'aquesta  forma de dir-li, acab&agrave; sorgint el sobrenom de &laquo;<em>Tante</em>&raquo;, que pass&agrave; a  identificar tota la fam&iacute;lia.<br>
+<br>
+El personatge m&eacute;s popular de la nissaga fou, sens dubte, <strong>Josep Porcar Fabra</strong> (1889&ndash;1960), conegut arreu simplement com &laquo;<strong><em>el Tante</em></strong>&raquo;. Casat amb  Teresa Sellar&egrave;s Vila, de <em>Cal Roig</em>, m&eacute;s coneguda com &laquo;<em>la Tereseta de  Cal Tante</em>&raquo;, <em>el Tante</em> va ser un home popular i polifac&egrave;tic, el 1939  s&rsquo;incorpor&agrave;, als serveis municipals com a agutzil, sereno i principalment pregoner.  Durant molts anys, fou popular per anunciar pels carrers, els bans de  l'Ajuntament amb el caracter&iacute;stic toc de trompeta que els ve&iuml;ns identificaven  immediatament.<br>
+<br>
+Per&ograve; la seva popularitat anava molt m&eacute;s enll&agrave; de la feina municipal. Era un  excel&middot;lent cantaire i destac&agrave; especialment en el teatre d'aficionats de  Matadepera. La seva interpretaci&oacute; del Tom&agrave;s a <em>Terra baixa</em>, d'&Agrave;ngel  Guimer&agrave;, amb <em>Can Vinyers</em> com escenari, fou especialment recordada pels  seus contemporanis, que la consideraren una de les grans actuacions del teatre  popular matadeperenc. El record i l'estima que el poble li ha conservat es  reflecteixen en un carrer dedicat a ell, el carrer de Josep Porcar &laquo;<em>Tante</em>&raquo;  i en el gegant &laquo;<em>El Pepet de Cal Tanta</em>&raquo;, inspirat en la seva figura.<br>
+<br>
+El seu fill Emili Porcar Sellar&egrave;s (1932&ndash;2000) es cas&agrave; l'any 1957 amb Roser  Busquets Treserras (1933&ndash;2017). El seu matrimoni exemplifica una realitat for&ccedil;a  habitual de la Matadepera dels anys cinquanta i seixanta, quan molts joves del  poble acabaren formant fam&iacute;lia amb minyones i serventes arribades de fora per  treballar a les cases d'estiueig de la nova Matadepera residencial. L&rsquo;Emili, despr&eacute;s  d'aprendre l'ofici amb diversos electricistes del poble i completar la seva  formaci&oacute; en empreses de Terrassa, fund&agrave; <em>Instal&middot;lacions Porcar</em>, empresa dedicada  a les instal&middot;lacions el&egrave;ctriques, d'aigua i de gas. Fou tamb&eacute; una persona molt  compromesa amb la vida popular del poble, recordada especialment per la seva  dedicaci&oacute; professional totalment desinteressada en les Festes Majors dels anys  setanta, sempre disposat a col&middot;laborar quan calia i a tot hora.<br>
+<br>
+Amb Emili i Roser, i els seus cinc fills, &laquo;<strong><em>Cal Tante</em></strong>&raquo; mantingu&eacute;  la continu&iuml;tat familiar durant la segona meitat del segle XX.`,
+    origen:`<strong><em>Cal  Tante</em></strong>: El renom deriva de <strong>Constant&iacute; Porcar Par</strong> (1871&ndash;1926), pare del popular Josep Porcar Fabra (1889&ndash;1960), conegut com <strong>&laquo;<em>el Pepet de Cal Tante</em>&raquo;</strong> o, simplement, <strong>&laquo;<em>el  Tante</em>&raquo;</strong>.<br>
+Segons la tradici&oacute; familiar, <strong>Constantino</strong> &mdash;en catal&agrave;, <strong>Constant&iacute;</strong>&mdash;  era conegut com <strong>&laquo;Constante&raquo;</strong>, una forma que  podria correspondre a la pron&uacute;ncia popular, en valenci&agrave;, del seu poble natal de  Figueroles (Castell&oacute;). <br>
+A Matadepera, aquest nom, potser perqu&egrave; resultava poc habitual, hauria  evolucionat espont&agrave;niament fins a <strong>&laquo;<em>Tante</em>&raquo;</strong>, que acab&agrave;  identificant la fam&iacute;lia i la casa.<br>
+Encara que posteriorment tamb&eacute; s'ha popularitzat la grafia <strong>&laquo;<em>Tanta</em>&raquo;</strong>,  amb <strong>a</strong> final, les fonts hist&ograve;riques m&eacute;s antigues i el  nom oficial del carrer dedicat a Josep Porcar conserven la forma <strong>&laquo;</strong><em>Tante</em><strong>&raquo;</strong>.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 15, Matadepera`
    },
 "cal-sidro-pobre": {
