@@ -57,6 +57,15 @@ La casa va ser constru&iuml;da pel seu pare, Enric Genesc&agrave; Cort&egrave;s,
 <strong><em>Cal Barret</em></strong>: La fam&iacute;lia Genesc&agrave; Cort&egrave;s treballava al bosc, per&ograve;  el fill Esteve, que era qui portava els comptes, sempre anava molt ben vestit.  Els treballadors en feien broma, i ell, cansat, un dia va dir: &ldquo;<em>Algun dia,  fins i tot, em veureu amb barret!</em>&rdquo;. A partir de llavors, gaireb&eacute; sempre  port&agrave; barret, i aix&iacute; va n&eacute;ixer aquest renom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 11, Matadepera`
    },
+"ca-la-pepa-quela": {
+    title:`Ca la Pepa Quela`,
+    altres:``,
+    historia:`Casa residencial. <br>
+Construcci&oacute; 1869 &ndash; Arquitecte: Llu&iacute;s Muncunill.  <br>
+Enderrocada el 1996.`,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 12, Matadepera`
+   },
 "cal-peret-xisco": {
     title:`Cal Peret Xisco`,
     altres:`Cal Negre`,
@@ -766,11 +775,24 @@ Poc despr&eacute;s de n&eacute;ixer la Paquita, la fam&iacute;lia es trasllad&ag
 "cal-genet": {
     title:`Cal Genet`,
     altres:`Ca l’Esmeralda`,
-    historia:`Aquesta casa va acollir, en diferents èpoques, diversos establiments i espais d’activitat social.<br> Inicialment, va ser coneguda com el “Cafè de la Mònica de <em>Cal Genet</em>”, amb una sala de ball situada a la part posterior de l’edifici, que donava a l’actual carrer dels Pratginestós. També hi havia una barberia a tocar del cafè.<br>
-Amb el temps, l’espai es va convertir en un establiment de queviures conegut com <em>Ca l’Esmeralda</em>. Tot i això, el fet més destacat associat a Cal Janet és que hi va néixer la <em>Germandat de Sant Sebastià</em>, origen de la gran festa d’hivern de Matadepera.<br>
-Quan van tancar les dues sales de ball del carrer Sant Joan, especialment la de Cal Fuster (a tocar de l’església), en Josep Robert i Torras va fundar, el 20 de gener de 1900, un nou cafè amb sala de ball al darrere, coneguda com el “Casino Mataperense”, ubicat a <em>Cal Janet</em>. Cinc mesos més tard, el 6 de maig de 1900, s’hi fundà oficialment la <em>Germandat de Sant Sebastià</em>.
-Avui dia, a l’edifici encara hi funciona un petit supermercat. A la façana, hi ha una placa commemorativa on s’hi pot llegir: “EN AQUESTA CASA ES VA FUNDAR LA GERMANDAT DE SANT SEBASTIÀ EL 6 DE MAIG DE 1900”`,
-    origen:`El renom prové del fet que els antics habitants de la casa es dedicaven al transport de terres i materials de construcció utilitzant cavalls, una feina habitual en l’època. El mot <em>genet</em>, que fa referència a qui munta o condueix cavalls, va acabar identificant la casa.`,
+    historia:`L'origen d'aquesta <strong>casa  est&agrave; estretament vinculat a la nissaga dels Robert</strong>, una de les fam&iacute;lies  documentades m&eacute;s antigues de Matadepera. Ja l'any 1768 consta Joan Robert  vivint al mas Robert amb els seus fills, i &eacute;s molt probable que fos el mateix <strong>Joan  Robert</strong> que, <strong>el 1784</strong>, adquir&iacute; a Josep Pratginest&oacute;s un solar al Cam&iacute;  Ral per construir-hi aquesta casa. La propietat rest&agrave; des d'aleshores en mans  de la fam&iacute;lia Robert. A trav&eacute;s de diverses generacions, emparentades tamb&eacute; amb  altres nissagues del poble, com els Ventayol, la casa es consolid&agrave; com una de  les m&eacute;s representatives del carrer de Sant Joan.<br>
+  <br>
+  A finals del segle XIX, <strong>Josep Robert Torras</strong> (1850&ndash;1928) es cas&agrave; amb <strong>M&ograve;nica  Ventayol Pi</strong> (1851&ndash;1916), que regent&agrave; en aquest lloc el popular <strong>Caf&egrave; de la M&ograve;nica</strong>. La M&ograve;nica ha quedat tamb&eacute; en la mem&ograve;ria popular per una an&egrave;cdota repetida  durant generacions. Explicaven que, quan els m&uacute;sics de la sala de ball  demanaven ous ferrats en lloc d'una truita, exclamava: &laquo;Els m&uacute;sics s&oacute;n uns p...  perqu&egrave; els volen ferrats!&raquo;. Amb aquesta expressi&oacute;, avui encara recordada pels m&eacute;s  grans, es descrivia entre somriures el seu car&agrave;cter estalviador i la seva  manera franca i espont&agrave;nia d'expressar-se.<br>
+  <br>
+  Despr&eacute;s del tancament de les antigues sales de ball del carrer de Sant Joan,  especialment la de Cal Fuster, Josep Robert havia impulsat  la creaci&oacute; d'una sala de  ball situada a la part posterior del Caf&egrave; de la M&ograve;nica, a l'actual carrer dels  Pratginest&oacute;s, coneguda com el Casino Mataperense, inaugurat el 20 de gener de  1900. Pocs mesos despr&eacute;s, el 6 de maig del mateix any, <strong>s'hi fund&agrave; oficialment  la Germandat de Sant Sebasti&agrave;</strong>, entitat considerada l'origen de l'actual Festa  d'Hivern de Matadepera. Aquest fet, especialment recordat pel poble, &eacute;s  commemorat encara avui amb una placa situada a la fa&ccedil;ana de l'edifici.<br>
+  <br>
+  L'any 1905 la sala de ball pat&iacute; un espectacular esfondrament quan ced&iacute; la biga  mestra de la coberta. El gran terrabastall despert&agrave; bona part del poble, per&ograve;,  afortunadament, en aquell moment la sala era buida i no hi hagu&eacute; cap v&iacute;ctima.<br>
+  <br>
+  L'hereu de la casa, <strong>Lloren&ccedil; Robert Ventayol</strong> (1874&ndash;1943), es cas&agrave; amb <strong>Francisca  Sogas Rafols</strong> (1874&ndash;1946) i tingueren set fills. El primog&egrave;nit, Joan Robert  Sogas (1900&ndash;1976), exerc&iacute; durant anys l'ofici de barber en aquesta mateixa casa,  alhora que treballava les terres familiars. Despr&eacute;s de la Guerra Civil, les dif&iacute;cils  circumst&agrave;ncies econ&ograve;miques l'obligaren a complementar els ingressos treballant  en una f&agrave;brica de mitges i venent els productes de l'hort, sense abandonar del  tot la barberia.<br>
+  <br>
+  El seu fill, Lloren&ccedil; Robert Carrasquet (1933&ndash;2014), continu&agrave; adaptant  l'activitat familiar als nous temps. Inicialment es dedic&agrave; transport de  &laquo;palluc&raquo; (sorra de la riera), amb carros, destinada principalment a la  construcci&oacute; de les nombroses torres que s'aixecaven a Matadepera durant el  creixement urban&iacute;stic del poble. M&eacute;s endavant ampli&agrave; aquesta activitat amb  camions i la compagin&agrave; amb una botiga de queviures, oberta l'any 1962, que  prengu&eacute; el nom de <em><strong>Ca l'Esmeralda</strong></em>, en homenatge a la seva mare, <strong>Esmeralda  Carrasquet Aranda </strong>(1906-1987).<br>
+  <br>
+  Des de fa m&eacute;s de dos segles, la finca ha estat vinculada als descendents de la  fam&iacute;lia Robert. Les diferents activitats van convertir la casa en un dels  principals centres de reuni&oacute; i de vida social del poble al llarg dels anys.<br>
+  <br>
+  Des del 1850, aquest lloc ha esdevingut un espai comercial del poble que encara  avui dia perdura.`,
+    origen:`<strong><em>Cal Genet</em></strong>:  L'origen del renom no &eacute;s del tot clar, per&ograve;, segons la tradici&oacute; familiar,  podria derivar del fet que alguns avantpassats eren molt aficionats a  l'equitaci&oacute; i que, per aquest motiu, els coneixien com els <strong>genets</strong>, fet  que acab&agrave; identificant la casa amb aquest renom.<br>
+  <br>
+  <strong><em>Ca l'Esmeralda</em></strong>:  Aquest renom aparegu&eacute; durant la segona meitat del segle XX, quan la botiga de  queviures familiar adopt&agrave; el nom d'Esmeralda, en record d&rsquo;<strong>Esmeralda  Carrasquet Aranda </strong>(1906-1987), mare dels seus propietaris.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 77, Matadepera`
    },
 "cal-julia": {
