@@ -996,11 +996,22 @@ El 1940, els pares de l&rsquo;Isidre continuaven vivint en  aquesta adre&ccedil;
 "ca-la-bona-maria": {
     title:`Ca la Bona Maria`,
     altres:``,
-    historia:`El celler d’aquesta casa feia de vestidor improvisat per als partits que es jugaven al camp de futbol dels camps de Cal Torradamer (més o menys on actualment hi ha l’escola). Els jugadors visitants es canviaven a <em>Cal Fusteret</em>. Era habitual que les noies del poble hi anessin a festejar amb els jugadors contraris.`,
-    origen:`Segons explica Maria Pi Gutés, dona centenària i originària de la casa, el renom prové de la seva besàvia, Maria Puiggròs Morera. En una època en què molts homes treballaven al bosc tot el dia, les dones els portaven el dinar i sovint deixaven els fills petits al poble.<br>
-L’àvia Maria s’oferia voluntàriament a tenir cura de tota la canalla dels matrimonis del veïnat. La seva dedicació desinteressada era molt valorada, i la gent agraïda solia dir:<br>
-“Sort en tenim, que bona és la Maria.”<br>
-D’aquí en va quedar el renom de <em>Ca la Bona Maria</em>.`,
+    historia:`El carrer de  Sant Isidre va n&eacute;ixer al l&iacute;mit de dues grans propietats. A la banda nord  s&rsquo;estenien les terres de Josep Pratginest&oacute;s, que hi impuls&agrave; un bon nombre  d&rsquo;establiments, mentre que a la banda sud hi havia les terres de <em>Can Vinyers</em>,  propietat de Pi de la Serra.<br>
+  <br>
+A difer&egrave;ncia de Pratginest&oacute;s, per&ograve;, Pi de la Serra hi establ&iacute; ben poques  finques. Les primeres daten de 1859, quan, una mica m&eacute;s amunt de mig carrer i  per la banda de ponent, establ&iacute; dos solars contigus, d&rsquo;uns 40 pams cadascun,  als germans Josep i Bartomeu Pi Torras, fills de Juli&agrave; Pi Singla (1795&ndash;?) de <em>Cal  Juli&agrave;</em> i de Catarina Torras Quer (1811&ndash;1878), de <em>Cal Mag&iacute;</em>.<br>
+<br>
+Els dos germans es casaren amb dues germanes de Rub&iacute;, Anna i Maria Puiggr&ograve;s  Morera: Josep amb Anna, i <strong>Bartomeu Pi Torras</strong> (1835&ndash;1887) amb <strong>Maria  Puiggr&ograve;s Morera</strong> (1835&ndash;1924), de qui acabaria derivant el renom d&rsquo;aquesta  casa.<br>
+<br>
+Bartomeu i Maria tingueren quatre fills: Josepa (1857), Jaume (1860), Anna  (1861) i Dolors (1864). L&rsquo;hereu, <strong>Jaume Pi Puiggr&ograve;s</strong> (1860&ndash;1933), continu&agrave;  vivint a la casa. Es cas&agrave; en primeres n&uacute;pcies amb <strong>Rosa Satlari Torras</strong> (1863&ndash;1890), de <em>Cal Satlari</em>, amb qui tingu&eacute; dos fills. En quedar vidu,  es cas&agrave; en segones n&uacute;pcies amb <strong>Aniceta Aymerich Pi</strong> (1866&ndash;1933), amb qui  tingu&eacute; tres fills m&eacute;s: Jaume (1891), <strong>Bartomeu</strong> (1892) i Mag&iacute; (1894).<br>
+<br>
+<strong>Bartomeu Pi Aymerich</strong> (1892&ndash;1956), que exerc&iacute; alguns anys d&rsquo;agutzil de  Matadepera, es cas&agrave; l&rsquo;any 1920 amb <strong>Margarida Gut&eacute;s Genesc&agrave;</strong> (1893-1979), de <em>Cal Trapet</em>.  Tingueren tres fills: Carme (1921), Maria (1924) i Jaume (1932).<br>
+<br>
+El celler de la casa havia fet de vestidor improvisat per als partits que es  jugaven al camp de futbol dels camps d&rsquo;en Torredemer, m&eacute;s o menys on actualment  hi ha l&rsquo;escola. Els jugadors visitants es canviaven a <em>Cal Fusteret</em>.  Era habitual que les noies del poble hi anessin a festejar amb els jugadors  contraris.<br>
+<br>
+La fam&iacute;lia Pi Gut&eacute;s marx&agrave; a viure a Terrassa cap a mitjan segle XX. A partir  d&rsquo;aleshores, la casa pass&agrave; a altres propietaris, o b&eacute; a tenir estadants de  lloguer, situaci&oacute; que s&rsquo;ha mantingut fins als nostres dies.<br>
+<br>
+Maria Pi Gut&eacute;s (1924&ndash;2026), casada amb Bernat Vidal, fou l&rsquo;&uacute;ltima descendent  directa de la casa que pogu&eacute; transmetre el record del seu origen. Poc abans de  morir, despr&eacute;s d&rsquo;haver superat els cent anys, encara pogu&eacute; explicar a Ramon  Gut&eacute;s Mart&iacute;nez, parent seu i tamb&eacute; descendent de <em>Cal Trapet</em>, l&rsquo;origen  del renom familiar que havia sentit explicar des de petita.`,
+    origen:`<strong><em>Ca la Bona Maria</em></strong>: Segons recordava Maria Pi Gut&eacute;s  (1924&ndash;2026), el renom t&eacute; l&rsquo;origen en la seva bes&agrave;via, <strong>Maria Puiggr&ograve;s Morera </strong>(1835&ndash;1924). Explicava que en una  &egrave;poca en qu&egrave; molts homes passaven llargues jornades treballant al bosc i  les dones sovint els havien de portar el dinar, era habitual que els infants  quedessin sols a casa. L'&agrave;via Maria Puiggr&ograve;s s&rsquo;oferia volunt&agrave;riament a tenir cura dels  fills dels matrimonis del ve&iuml;nat sempre que calia. La seva dedicaci&oacute;  desinteressada era molt valorada, i la gent agra&iuml;da solia dir: &laquo;Sort en tenim  de la<strong> bona Maria!</strong>&raquo; D&rsquo;aqu&iacute; en va quedar el renom.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 4, Matadepera`
    },
 "cal-fin": {
