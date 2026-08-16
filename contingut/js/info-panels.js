@@ -413,23 +413,23 @@ Durant la Guerra Civil, Jaume Ramon particip&agrave; en la vida pol&iacute;tica 
 "cal-bolet": {
     title:`Cal Bolet`,
     altres:`Cal Pere Bolet`,
-    historia:`A mitjan  segle XIX, Dom&egrave;nec Pi de la Serra, pag&egrave;s de Rub&iacute; i hereu de les terres de Can  Vinyers, impuls&agrave; un pla d&rsquo;establiments dins les seves terres que esdevindria la  part sud del carrer de Sant Joan.<br>
+    historia:`A  mitjan segle XIX, Dom&egrave;nec Pi de la Serra, pag&egrave;s de Rub&iacute; i hereu de les terres  de Can Vinyers, impuls&agrave; un pla d&rsquo;establiments dins les seves terres que  esdevindria la part sud del carrer de Sant Joan.<br>
   <br>
-  L&rsquo;any 1834 feu el segon establiment en aquest sector, amb 80 pams d&rsquo;amplada  (equivalent a dos casals), a favor de Francesc Casanovas, traginer i fill de  Matadepera, casat amb Teresa Rius. El matrimoni, que inicialment s&rsquo;havia  establert en terrenys de Jaume Torrella a tocar de la bassa (a l&rsquo;actual part  alta del carrer de Sant Lloren&ccedil;), es trasllad&agrave; aqu&iacute;, en el que comen&ccedil;ava a  esdevenir el nou centre urb&agrave;. Tingueren dos fills, Josep i Catalina.<br>
-  <br>
-  Tot indica que, amb el temps, aquesta propietat acab&agrave; dividint-se en dues cases  diferenciades d&rsquo;un sol casal, corresponents a les de <em>Cal Bolet</em>  i <em>Cal  Mabres</em>, tot i que no es coneix amb exactitud quan ni com es produ&iacute; aquesta  divisi&oacute;.<br>
-  <br>
-  A trav&eacute;s del fill Josep Casanovas Rius, casat amb Maria Argem&iacute; Busqueta, la  casa pass&agrave; al seu fill Joan personatge clau en la continu&iuml;tat de la propietat. <br>
-  <br>
-  Per altre banda, la seva germana d&rsquo;en Josep, Catalina Casanovas Rius (1827),  casada amb Ramon Gut&eacute;s i Sola (1824-1879), s&rsquo;havia establert m&eacute;s avall, a  l&rsquo;actual n&uacute;mero 21, <em>Cal Monet</em>, on tingueren quatre fills: Teresa,  Jaume, Josep i Joan. L&rsquo;hereu, Jaume Gut&eacute;s Casanovas (1854-1923), casat amb  Ant&ograve;nia Arnau Pi, tingu&eacute; sis fills, dels quals descendiren nissagues com les de  <em>Cal Trapet</em> o la branca Gut&eacute;s-Orriols qu&egrave; acabaria vinculada a &laquo;<strong><em>Cal  Bolet</em></strong>&raquo;.<br>
-  <br>
-  En <strong>Joan Casanovas  Argem&iacute;</strong> (1852-1926) s&rsquo;havia casat en primeres n&uacute;pcies amb Ant&ograve;nia Cort&egrave;s  Piera, amb qui tingueren un fill, Gabriel Casanovas Cort&egrave;s, que tamb&eacute; consta a  la casa en diferents padrons. En segones n&uacute;pcies s&rsquo;havia casat amb Josefa Mas  Pont (1858), de Castellv&iacute;, amb qui no tingu&eacute; descend&egrave;ncia. Joan Casanovas  Argem&iacute; consta documentat en aquesta casa fins a la seva mort, ja vidu, l&rsquo;any  1926. <br>
-  <br>
-  El 1940 ja hi trobem vivint la fam&iacute;lia Gut&eacute;s-Orriols, Joan Gut&eacute;s Arnau  (1892), casat amb Francesca Orriols Elias (1899). Amb ells tamb&eacute; hi continua  vivint Gabriel Casanovas Cort&egrave;s (1890), recordem: fill de Joan Casanovas amb el  seu primer matrimoni, fet que reflecteix una possible continu&iuml;tat o  coexist&egrave;ncia en la propietat.<br>
-  <br>
-  Els fills de la fam&iacute;lia Gut&eacute;s Orriols, Jaume (1933-2018) amb la seva fam&iacute;lia i el  seu germ&agrave; Pere Gut&eacute;s (1929-2021), tamb&eacute; visqueren aquesta casa. Foren molt coneguts al poble,  sobretot per a la seva fruiteria ambulant. <br>
-  <br>
-  Pere Gut&eacute;s Orriols (1929-2021) fou un personatge especialment popular i  entranyable, recordat tamb&eacute; per haver estat durant anys &laquo;el mestre campaner&raquo;.`,
+L&rsquo;any 1834 feu el segon establiment en aquest sector, amb 80 pams d&rsquo;amplada  (equivalent a dos casals), a favor de Francesc Casanovas, traginer i fill de  Matadepera, casat amb Teresa Rius. El matrimoni, que inicialment s&rsquo;havia  establert en terrenys de Jaume Torrella a tocar de la bassa (a l&rsquo;actual part  alta del carrer de Sant Lloren&ccedil;), es trasllad&agrave; aqu&iacute;, en el que comen&ccedil;ava a  esdevenir el nou centre urb&agrave;. Tingueren dos fills, Josep i Catalina.<br>
+<br>
+Tot indica que, amb el temps, aquesta propietat acab&agrave; dividint-se en dues cases  diferenciades d&rsquo;un sol casal, corresponents a les de <em>Cal Bolet</em> i <em>Cal  Mabres</em>, tot i que no es coneix amb exactitud quan ni com es produ&iacute; aquesta  divisi&oacute;.<br>
+<br>
+A trav&eacute;s del fill Josep Casanovas Rius, casat amb Maria Argem&iacute; Busqueta, la  casa pass&agrave; al seu fill Joan personatge clau en la continu&iuml;tat de la propietat.<br>
+<br>
+Per altra banda, la germana d&rsquo;en Josep, Catalina Casanovas Rius (1827), casada  amb Ramon Gut&eacute;s i Sola (1824-1879), s&rsquo;havia establert m&eacute;s avall, a l&rsquo;actual  n&uacute;mero 21, <em>Cal Monet</em>, on tingueren quatre fills: Teresa, Jaume, Josep i Joan.  D&rsquo;en Josep Gut&eacute;s Casanovas descendiren nissagues com les de <em>Cal la Bona Maria</em>  o <em>Cal Trapet</em>. El seu germ&agrave; Jaume Gut&eacute;s Casanovas (1854-1923), hereu de <em>Cal  Monet</em>, casat amb Ant&ograve;nia Arnau Pi (1857-1924), tingueren sis fills, entre els  quals Joan Gut&eacute;s Arnau de qui deriva la branca Gut&eacute;s-Orriols, que acabaria  vinculada a <em><strong>Cal Bolet</strong></em>.<br>
+<br>
+En <strong>Joan Casanovas  Argem&iacute;</strong> (1852-1926) s&rsquo;havia casat en primeres n&uacute;pcies amb Ant&ograve;nia Cort&egrave;s Riera,  amb qui tingueren un fill, Gabriel Casanovas Cort&egrave;s, que tamb&eacute; consta a la casa  en diferents padrons. En segones n&uacute;pcies s&rsquo;havia casat amb Josefa Mas Pont  (1858), de Castellv&iacute;, amb qui no tingu&eacute; descend&egrave;ncia. Joan Casanovas Argem&iacute;  consta documentat en aquesta casa fins a la seva mort ja vidu, l&rsquo;any 1926. <br>
+<br>
+El 1940 ja hi trobem  vivint la <strong>fam&iacute;lia Gut&eacute;s-Orriols, Joan Gut&eacute;s Arnau</strong> (1891-1974), casat amb  <strong>Francesca Orriols Elias</strong> (1899). Amb ells tamb&eacute; hi continua vivint Gabriel  Casanovas Cort&egrave;s (1890), recordem: fill de Joan Casanovas amb el seu primer  matrimoni, fet que reflecteix una possible continu&iuml;tat o coexist&egrave;ncia en la  propietat.<br>
+<br>
+Els fills de la fam&iacute;lia  Gut&eacute;s Orriols, Jaume (1933-2018) amb la seva fam&iacute;lia i el seu germ&agrave; Pere (1929-2021), tamb&eacute; visqueren aquesta casa. Foren molt coneguts  al poble, sobretot per a la seva fruiteria ambulant. <br>
+<br>
+<strong>Pere Gut&eacute;s Orriols</strong>  (1929-2021) fou un personatge especialment popular i entranyable, recordat  tamb&eacute; per haver estat durant anys <em>el <strong>Mestre Campaner</strong></em>.`,
     origen:`<strong><em>&laquo;Cal Bolet&raquo;:</em></strong> Segons explic&agrave; Jaume Gut&eacute;s  Orriols, el sobrenom &laquo;Bolet&raquo; prov&eacute; del seu avi <strong>Jaume Gut&eacute;s Casanovas</strong> (1854-1923), gran afeccionat als bolets.<br>
   Altres fonts apunten, per&ograve;, que el  sobrenom &laquo;Bolet&raquo; podria haver estat vinculat anteriorment a <strong>Joan Casanovas  Argem&iacute;</strong>, dada que tampoc ha pogut ser plenament confirmada.<br>
   <br>
