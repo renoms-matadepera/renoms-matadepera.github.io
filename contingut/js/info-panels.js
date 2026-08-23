@@ -1057,8 +1057,16 @@ Delf&iacute; Busqueta Vicente, conegut popularment com el &laquo;<em>Fin</em>&ra
 "cal-joan-sord": {
     title:`Cal Joan Sord`,
     altres:``,
-    historia:``,
-    origen:`El renom prové d’en Joan Utset Aymerich, conegut com a “Joan Sord”, perquè efectivament era sord.`,
+    historia:`Aquesta va ser una de  les primeres cases que en Pi de la Serra va establir, dins dels seus terrenys  de Can Vinyers, a la banda sud del carrer de Sant Isidre, a ponent.<br>
+  <br>
+  L&rsquo;any 1859 va fer dos establiments d&rsquo;uns 40 pams cadascun als germans Josep i  Bartomeu Pi Torras, fills de Juli&agrave; Pi Singla (1795&ndash;?) de <em>Cal Juli&agrave;</em> i  de Catarina Torras Quer (1811&ndash;1878), de <em>Cal Mag&iacute;</em>.<br>
+  <br>
+  Els dos germans es van casar amb dues germanes de Rub&iacute;, Maria i Anna Puiggr&ograve;s  Morera. Bartomeu es va casar amb Maria, donant origen a <em>Ca la Bona Maria</em>,  mentre que el seu germ&agrave; Josep Pi Torras (1831&ndash;1867) es va casar amb Anna  Puiggr&ograve;s Morera (1835&ndash;?) i es van establir en aquesta casa a continuaci&oacute; de la  del seu germ&agrave;. <br>
+  <br>
+  A comen&ccedil;aments del segle XX, en aquesta casa ja hi trobem vivint Joan Utset  Aymerich (1881&ndash;?), que &eacute;s qui dona origen al renom del lloc. Estava casat amb  Rosa Genesc&agrave; Arch (1880&ndash;1964), de <em>Cal Marc</em>, i tenien tres filles:  Llu&iuml;sa (1910), Maria (1913) i Dolors (1917).<br>
+  <br>
+  <strong>Joan Utset Aymerich</strong> era fill de Llu&iacute;s Utset Altimira (1846&ndash;?), de <em>Cal  Llu&iacute;s</em>, i d&rsquo;Aniceta Aymerich Pi (1857&ndash;1933), de <em>Cal Parrot</em>.  L&rsquo;Aniceta es va tornar a casar, en segones n&uacute;pcies, amb Jaume Pi Puiggr&ograve;s  (1860&ndash;1933), de <em>Ca la Bona Maria</em>, que era nebot del primer establert  d&rsquo;aquesta casa, Josep Pi Torras, i aquesta relaci&oacute; familiar podria haver  propiciat, potser per her&egrave;ncia o per alguna altra ra&oacute;, l&rsquo;establiment de la  fam&iacute;lia de Joan Utset Aymerich en aquesta casa.`,
+    origen:`<strong><em>Cal Joan Sord</em></strong>:  El renom prov&eacute; de <strong>Joan Utset Aymerich</strong> (1881&ndash;?), conegut com a &laquo;<em>Joan  Sord</em>&raquo; a causa de la seva discapacitat auditiva.`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 6A, Matadepera`
    },
 "cal-fusteret": {
