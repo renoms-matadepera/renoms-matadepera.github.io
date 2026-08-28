@@ -885,12 +885,32 @@ Cent anys després, la seva besneta i hereva, Maria Martí i Morera, es casa amb
 "cal-quim": {
     title:`Cal Quim`,
     altres:``,
-    historia:`L’any 1794, Pratginestós estableix Joan Marcet i Colomer, fill de Can Marcet, amb dos casals al carrer Sant Joan de Matadepera.<br>
-Amb el temps, el propietari hereu de <em>Can Marcet</em>, Francesc Marcet i Carreras, hereta aquests casals i, l’any 1844, adquireix 25 pams més de terreny al costat.<br>
-En morir Francesc, la seva vídua, Teresa Colomer i Cadafalch, queda sense descendència, ja que tots els seus fills moren abans, l’últim amb 40 anys i solter. Davant d’aquesta situació, Teresa Colomer nomena hereva la seva cunyada Teresa Marcet i Carreras, casada amb Andreu Altimira i Carcassona, masovers de <em>Can Roure</em><br>.
-Aquest matrimoni tingué tres fills: Francesc (“el Cesc de Can Roure”), Joaquim i Maria.<br>
-El fill Joaquim Altimira i Marcet, conegut com <em>el Quim de Can Roure</em>, es casa amb Margarida Soler i hereta la casa, que a partir d’aleshores serà coneguda com a <em>Cal Quim</em>.`,
-    origen:`<em>Cal Quim</em> prové del diminutiu “Quim”, de Joaquim Altimira. El seu net, Joaquim Altimira Colomé “en Quimet de Cal Quim”, juntament amb la seva esposa Palmira Estrada, regentà durant molts anys la popular taverna coneguda com <em>Cal Quim</em>, ubicada a la mateixa casa. Aquesta activitat consolidà definitivament el renom.`,
+    historia:`L&rsquo;any <strong>1794</strong>,  en un dels darrers establiments fets per Josep Pratginest&oacute;s en aquest carrer,  va establir <strong>dos casals a Joan Marcet</strong>, pag&egrave;s de Matadepera i fill de <strong><em>Can  Marcet</em></strong>.<br>
+<br>
+Amb el temps, aquella casa passaria a mans de <strong>Francesc Marcet Carreras</strong>,  propietari de <em>Can Marcet</em>, que l&rsquo;havia heretat, i que l&rsquo;any <strong>1844</strong> va ampliar la propietat adquirint 25 pams m&eacute;s de terreny al costat.<br>
+<br>
+Francesc Marcet estava casat amb Teresa Colomer i Cadafalch. El matrimoni no va  tenir descend&egrave;ncia que pogu&eacute;s continuar la casa: els seus fills van morir abans  que la mare. Davant d&rsquo;aquesta situaci&oacute;, la v&iacute;dua de Francesc, Teresa Colomer,  va deixar com a hereva la seva cunyada <strong>Teresa Marcet Carreras</strong> (1820-1880), germana de Francesc i esposa d&rsquo;<strong>Andreu Altimira Carcassona</strong> (1799-1886).<br>
+<br>
+Els Altimira, originaris de Sant Vicen&ccedil;, havien arribat a Matadepera a finals  del segle XVIII i s&rsquo;havien establert com a treballadors i masovers en diverses  cases de pag&egrave;s. Andreu Altimira i Teresa Marcet vivien com a masovers de <strong><em>Can  Roure</em></strong>, on encara consten l&rsquo;any 1864.<br>
+<br>
+El matrimoni va tenir tres fills: <strong>Francesc</strong> (1840-1903), que seria  conegut com &laquo; <em>el Cesc de Can Roure&raquo;</em> i donaria origen a <em>Cal Cesc de Can  Roure</em>; <strong>Joaquim</strong> (1844-1918), que seria l&rsquo;origen d&rsquo;aquesta casa, &laquo;<strong><em>Cal  Quim</em></strong>&raquo;; i <strong>Maria</strong> (1852-1922), vinculada a <em>Cal Muletes</em>.<br>
+<br>
+En el seu testament, Teresa Marcet va deixar al seu fill <strong>Joaquim Altimira Marcet</strong> (1844-1918) la casa del carrer de Sant Joan que havia arribat a la  fam&iacute;lia a trav&eacute;s de l&rsquo;her&egrave;ncia dels Marcet. Joaquim, conegut tamb&eacute; com <em>el</em> &laquo;<em>Quim de Can Roure</em>&raquo;, es va casar amb <strong>Margarida Soler Valls (1848-?)</strong> i, a partir d&rsquo;aleshores, la casa va quedar vinculada al nom de &laquo;<strong><em>Cal Quim</em></strong>&raquo;.<br>
+<br>
+Joaquim Altimira i Margarida Soler van tenir cinc fills. Entre ells hi havia <strong>Andreu  Altimira Soler</strong> (1883-1912) i <strong>Joan Altimira Soler</strong> (1892-1970).<br>
+<br>
+Andreu es va casar l&rsquo;any <strong>1908</strong> amb <strong>Dolors Colomer Cardellach</strong>,  nascuda el 1886 a Terrassa. Quan Andreu va morir, amb nom&eacute;s 29 anys, Dolors es  va casar l&rsquo;any <strong>1917</strong> amb el seu cunyat Joan. D&rsquo;aquest segon matrimoni va  n&eacute;ixer, entre altres fills, <strong>Joaquim Altimira Colomer</strong> (1923-2016), que  seria conegut per tothom com &laquo;<strong><em>el Quimet</em></strong>&raquo;.<br>
+<br>
+En Quimet es va casar l&rsquo;any <strong>1938</strong>, quan nom&eacute;s tenia quinze anys, amb <strong>Palmira  Estrada Farr&eacute;</strong> (1922-2015), nascuda a Albelda, a la prov&iacute;ncia d&rsquo;Osca, que  havia arribat a Matadepera amb catorze anys. En Quimet es dedicava al  transport, per&ograve; a <em>Cal Quim</em>, com passava en moltes cases del poble, tamb&eacute; s&rsquo;hi  despatxava vi. La casa estava vinculada a unes vinyes pr&ograve;pies i, a l&rsquo;entrada,  hi havia les grans botes on es conservava el vi que es servia als ve&iuml;ns.<br>
+<br>
+Cap a finals de <strong>la d&egrave;cada dels seixanta</strong>, en Quimet va instal&middot;lar un  taulell davant de les botes perqu&egrave; la Palmira pogu&eacute;s atendre millor la  clientela. Aquell senzill canvi va acabar transformant el tradicional despatx  de vi en una de les <strong>tavernes m&eacute;s emblem&agrave;tiques i recordades de Matadepera: &laquo;<em>Cal  Quim</em>&raquo;</strong>.<br>
+<br>
+Durant molts anys, <em>Cal Quim</em> va ser molt m&eacute;s que un lloc on anar a  prendre un got de vi. Era un d&rsquo;aquells establiments de poble on es podia  esmorzar, fer tert&uacute;lia, trobar-se amb els amics o simplement passar una estona.  La casa, el taulell, les botes i l&rsquo;ambient de la taverna formaven part d&rsquo;una manera  de fer i de relacionar-se. La Palmira i el Quimet, darrere del taulell, van  compartir aquella vida de taverna que acabaria fent del nom de la casa un dels  llocs de trobada d&rsquo;estil r&uacute;stic m&eacute;s t&iacute;pics de Matadepera fins que es va tancar  definitivament.<br>
+<br>
+En el lloc  actualment hi ha <em>Buket</em>, un restaurant japon&egrave;s.`,
+    origen:`<strong><em>Cal Quim</em></strong>: El renom prov&eacute; de <strong>Joaquim  Altimira i Marcet</strong> (1844-1918), conegut familiarment com &laquo;<em>el Quim de Can Roure</em>&raquo;, que va rebre la casa a trav&eacute;s de  l&rsquo;her&egrave;ncia de la seva mare, Teresa Marcet i Carreras.<br>
+    <br>
+El seu net, <strong>Joaquim Altimira Colomer</strong> (1923-2016), &laquo;<em>el Quimet</em>&raquo;,  juntament amb la seva esposa <strong>Palmira Estrada Farr&eacute;</strong> (1922-2015), van  regentar durant molts anys la popular<strong> <em>Taverna de Cal Quim</em></strong> que hi havia a la mateixa casa,  fet que va consolidar definitivament el renom.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 87, Matadepera`
    },
 "ca-la-filomena": {
