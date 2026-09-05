@@ -1141,7 +1141,7 @@ Tanmateix, ambdues versions resten pendents de confirmació definitiva.`,
     altres:``,
     historia:`L'origen  d'aquest renom est&agrave; estretament lligat a la <strong>fam&iacute;lia Porcar-Fabra</strong>,  arribada a Matadepera cap al <strong>1900</strong> des de les terres de Castell&oacute;. <strong>Constant&iacute;  Porcar Parch</strong> (1873&ndash;1926), de <em>Ca l'Escalda-sants</em> de Figueroles,  casat amb <strong>Albina Fabra Mart&iacute;nez</strong> (1870&ndash;1957), de <em>Cal Raboses</em> de  Llucena, s'hi establ&iacute; amb el seu primer fill, Josep, que encara no tenia un  any. Inicialment visqueren al carrer de Sant Lloren&ccedil;, on la fam&iacute;lia cresqu&eacute; amb  el naixement de tres fills m&eacute;s a Matadepera: Emili, Constant&iacute; i Marcel&middot;l&iacute;.<br>
 <br>
-La seva arribada al poble es produ&iacute; en un moment en qu&egrave; la <strong>fil&middot;loxera havia  provocat una greu crisi de la vinya a Figueroles i altres pobles de la comarca</strong>,  fet que va impulsar moltes fam&iacute;lies a emigrar cap a Catalunya. Els Porcar i els  Fabra no foren els &uacute;nics que seguiren aquest cam&iacute;. Diversos membres de la  fam&iacute;lia, procedents de Figueroles i Llucena, ja s&rsquo;havien establert a Matadepera  en aquells mateixos anys. Entre ells hi havia familiars de la mateixa Albina,  com el seu germ&agrave; Vicente Fabra Mart&iacute;nez, <strong>&laquo;<em>Cal Santo</em>&raquo;</strong>, pare de  Lino Fabra Moliner,<strong> &laquo;<em>Cal Lino</em>&raquo;</strong>, i la seva germana Irene Fabra  Mart&iacute;nez, mare de Joaquim Manuel Garcia Fabra<strong>, &laquo;<em>Cal Ximu</em>&raquo;</strong>.<br>
+La seva arribada al poble es produ&iacute; en un moment en qu&egrave; la <strong>fil&middot;loxera havia  provocat una greu crisi de la vinya a Figueroles i altres pobles de la comarca</strong>,  fet que va impulsar moltes fam&iacute;lies a emigrar cap a Catalunya. Els Porcar i els  Fabra no foren els &uacute;nics que seguiren aquest cam&iacute;. Diversos membres de la  fam&iacute;lia, procedents de Figueroles i Llucena, ja s&rsquo;havien establert a Matadepera  en aquells mateixos anys. Entre ells hi havia familiars de la mateixa Albina,  com el seu germ&agrave; Vicente Fabra Mart&iacute;nez, <strong>&laquo;<em>Cal Santo</em>&raquo;</strong>, pare de  Lino Fabra Moliner,<strong> &laquo;<em>Cal Lino</em>&raquo;</strong>, i la seva germana Irene Fabra  Mart&iacute;nez, mare de Joaquim Manuel Garcia Fabra<strong>, &laquo;<em>Cal Ximo</em>&raquo;</strong>.<br>
 <br>
 Durant els primers anys, Constant&iacute; i els seus fills treballaren principalment  com a traginers, transportant llenya destinada als forns de cal&ccedil; dels boscos de  Matadepera. Cap als anys vint la fam&iacute;lia es traslladar a aquesta casa del  carrer de Sant Isidre, que des d'aleshores restaria definitivament vinculada al  renom de &laquo;<strong><em>Cal Tante</em></strong>&raquo;.<br>
 <br>
@@ -1512,8 +1512,8 @@ Amb el temps, aquest sobrenom pass&agrave; a la casa del carrer de Sant Lloren&c
 <strong><em>Cal Passaserres</em></strong>: <strong>Joan Bosch Casals</strong> (1906-1990), entre  molts altres sobrenoms, tamb&eacute; era conegut com &laquo;<em>el Passaserres</em>&raquo;, perqu&egrave;  era un caminador infatigable. Bon coneixedor dels termes i de les muntanyes de  l&rsquo;entorn, es deia que era capa&ccedil; de donar tres voltes a la muntanya de Sant  Lloren&ccedil; en un sol dia.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 73, Matadepera`
    },
-"cal-ximu": {
-    title:`Cal Ximu`,
+"cal-ximo": {
+    title:`Cal Ximo`,
     altres:`Cal Matagats<br>
 Ca l'Abuela`,
     historia:`Eren gent molt pobre, amb 13 fills. Diuen que els fills gaire bé van viure tots, gracies al caldo de serp. `,
