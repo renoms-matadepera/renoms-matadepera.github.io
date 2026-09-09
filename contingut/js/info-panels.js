@@ -575,15 +575,33 @@ Actualment molts  matadeperencs identifiquen la casa amb la &laquo;<em>Teresa de
    },
 "cal-roig": {
     title:`Cal Roig`,
-    altres:`Ca l’Arangader`,
-    historia:`Aquesta casa fou residència de la família Sellarès de Cal Roig.<br>
-Josep Sellarès Ventayol, casat primer amb Teresa Gutés Casanovas i després amb Maria Vila Campos, es dedicava al cultiu de la vinya i al negoci dels transports. Amb les dues dones, tingué fins a disset fills.<br>
-De Cal Roig en descendeixen la Teresa Sellarès Vila “la Tereseta de <em>Cal Tante</em>”, casada amb Constantí Porcar, <em>Tanta</em>; i també Antònia Sellarès Puig, de Cal Pintoret, filla de Ramon Sellarès (també de <em>Cal Roig</em>) i de Teresa “Tereseta” Puig Font.<br>
+    altres:`Ca l’Arengader`,
+    historia:`El <strong>17 de maig de  1769</strong>, a tocar de l&rsquo;Hostal de la Marieta per la banda de migdia i a peu del  cam&iacute; ral de Barcelona a Manresa, Narc&iacute;s Gorina va establir a Joan Mauri, pag&egrave;s  de Matadepera per&ograve; habitant a Terrassa, un tros de terra erma de dos casals, de  54 pams d&rsquo;ampl&agrave;ria i les habituals 27 canes de llarg&agrave;ria, que seria el <strong>tercer  que es convertiria en un habitatge del nou nucli urb&agrave; de Matadepera</strong>.<br>
 <br>
-Posteriorment, la casa fou adquirida per Emili Pomar Padró i Angeleta Argerich Pons, que hi van obrir una botiga de queviures, especialitzada en bacallà i arengades civils. Des de llavors, la casa fou coneguda com <em>Ca l’Arangader</em>.`,
-    origen:`<em>Cal Roig</em>: El renom prové del color roig del cavall de Josep Sellarès Ventayol, que utilitzava per a les seves feines de transport i treball al camp.<br>
+A mitjan segle XIX s&rsquo;hi va establir <strong>Anton Sellar&egrave;s</strong>, traginer, nascut a  Viladecavalls el 1820, que es va casar amb <strong>Madrona </strong><strong>Ventayol</strong>, de Matadepera. El  matrimoni va tenir tres fills, Francesc (1848), <strong>Josep</strong> (1851) i Valent&iacute;  (1855).<br>
 <br>
-<em>Ca l’Arangader</em>: Aquest nom popular sorgí arran de la botiga de queviures dels Pomar, coneguda perquè venien principalment bacallà i arengades civils.`,
+La casa va  quedar vinculada especialment al seu fill <strong>Josep Sellar&egrave;s Ventayol</strong> (1851-1934).  Es va casar en primeres n&uacute;pcies amb <strong>Teresa Gut&eacute;s Casanovas</strong> (1852-1892),  de <em>Cal Monet</em>, amb qui va tenir sis fills. Un d&rsquo;aquests fills, Ramon  Sellar&egrave;s Gut&eacute;s (1888), es va casar amb Teresa Puig Font (1888), de <em>Cal  Xisco</em>, i van ser els pares d&rsquo;<strong>Ant&ograve;nia Sellar&egrave;s Puig</strong>, que  posteriorment, casada amb Fernando Garc&iacute;a de Horta, formaria la nissaga de <strong><em>Cal  Pintoret</em></strong>.<br>
+<br>
+A la mort de  Teresa Gut&eacute;s, el 1892, Josep Sellar&egrave;s es va casar en segones n&uacute;pcies, cap al  1895, amb <strong>Maria Vila Campos</strong> (1868-?), natural de Vacarisses. Alguns  familiars descendents d&rsquo;aquestes fam&iacute;lies explicaven que Josep Sellar&egrave;s va  arribar a tenir fins a <strong>17 fills</strong> entre els dos matrimonis. Aquesta dada  no s&rsquo;ha pogut confirmar i tampoc no n&rsquo;hem trobat tants, per la qual cosa &eacute;s  possible que alguns morissin de petits.<br>
+<br>
+D&rsquo;aquest segon  matrimoni va n&eacute;ixer, entre altres, <strong>Teresa Sellar&egrave;s Vila</strong> (1900), que es  casaria posteriorment amb <strong>Josep Porcar Fabra</strong> (1889-1960), donant  continu&iuml;tat a la nissaga de <strong><em>Cal Tanta</em></strong>.<br>
+<br>
+En <strong>Josep  Sellar&egrave;s Ventayol</strong> va seguir l&rsquo;ofici del seu pare, dedicant-se tamb&eacute; al  negoci dels <strong>transports amb cavalls</strong>. La peculiaritat rogenca del pelatge  d&rsquo;un dels seus cavalls va donar origen al renom <strong>&laquo;<em>Cal Roig</em>&raquo;</strong> de la  casa. Dins del primer quart del segle XX, i amb 38 anys, tamb&eacute; trobem vivint en  aquesta casa <strong>Simon Vi&ntilde;as Orriols</strong> (1886), com a mosso, que m&eacute;s tard es  dedicaria tamb&eacute; pel seu compte a la mateixa feina de transport, al carrer de  Sant Lloren&ccedil;, on seria conegut com &laquo;<strong><em>El Simon del Carros</em></strong>&raquo;.<br>
+<br>
+Els pocs  descendents de <em>Cal Roig</em> que finalment restaren a la casa, cap als anys  trenta, van anar a viure a Terrassa, i el lloc va quedar progressivament  abandonat, passant a tenir principalment funcions de magatzem i quadra per als  cavalls i altres animals.<br>
+<br>
+Poc despr&eacute;s, la  casa canviaria de propietaris i d&rsquo;activitat. <strong>Emili Pomar Padr&oacute;</strong> (1913-1962), nascut a Terrassa, era fill de <strong>Lloren&ccedil; Pomar Aguilar</strong>,  natural de Fraga, que regentava un comer&ccedil; de bacall&agrave; al carrer de Topeta de  Terrassa, on, vidu, vivia amb els seus fills. Tamb&eacute; tenia una coneguda parada  de bacall&agrave; al Mercat de la Independ&egrave;ncia de Terrassa. L&rsquo;Emili, cap al 1936, ja  hi constava treballant amb el seu pare en el comer&ccedil; bacallaner.<br>
+<br>
+Emili Pomar es va casar cap al 1935 amb <strong>&Agrave;ngela Argerich Pons</strong> (1912-1995), natural de Biosca, Lleida. La fam&iacute;lia va arribar a Matadepera <strong>cap  al 1938 i va comprar la casa que havia estat de Cal Roig</strong>. Hi van fer les  reformes necess&agrave;ries per viure-hi amb comoditat i, continuant aix&iacute; amb  l&rsquo;activitat que ja exercien a Terrassa, hi van instal&middot;lar una botiga de  comestibles, tamb&eacute; de bacall&agrave; i arengades civils, que apareix documentada l&rsquo;any  1944 en un anunci del programa de la Festa Major, amb el nom de <strong>Casa  Arengader</strong>.<br>
+<br>
+La botiga va ser un establiment especialment conegut a Matadepera i el nom  d&rsquo;Arengader va acabar convertint-se en el renom amb qu&egrave; s&rsquo;identificaria la  fam&iacute;lia i la casa com a <strong>Ca l&rsquo;Arengader</strong>. Va continuar oberta durant dues  d&egrave;cades.<br>
+<br>
+Emili Pomar  Padr&oacute; va morir l&rsquo;any <strong>1962</strong>, als 49 anys. Dos anys m&eacute;s tard, l&rsquo;<strong>octubre  de 1964</strong>, la botiga de <strong><em>Ca l'Arengader</em> va tancar definitivament</strong>.<br>
+<br>
+Posteriorment,  en el lloc que havia ocupat la casa es va construir un edifici de planta baixa  i pisos, que &eacute;s el que encara hi ha actualment.`,
+    origen:`<em><strong>Cal Roig</strong></em>: El renom estaria relacionat amb l&rsquo;activitat de transport de <strong>Josep Sellar&egrave;s Ventayol</strong>, que utilitzava cavalls  per a les seves feines. Segons la tradici&oacute; popular, un o m&eacute;s dels cavalls eren  de pelatge <strong>roig</strong>,  caracter&iacute;stica que hauria originat aquest renom.<br>
+<br>
+<em><strong>Ca l'Arengader</strong></em>: El renom va sorgir arran de la botiga de comestibles dels Pomar,  coneguda especialment per la venda de <strong>bacall&agrave; i arengades civils</strong>.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 54, Matadepera`
    },
 "cal-trapet": {
