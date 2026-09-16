@@ -1540,11 +1540,11 @@ Amb el temps, aquest sobrenom pass&agrave; a la casa del carrer de Sant Lloren&c
    },
 "cal-ximo": {
     title:`Cal Ximo`,
-    altres:`Cal Matagats<br>
-Ca l'Abuela`,
-    historia:`Eren gent molt pobre, amb 13 fills. Diuen que els fills gaire bé van viure tots, gracies al caldo de serp. `,
-    origen:`<em>Cal Matagats</em> perquè matava gats per alimentar la família i molts fills.<br>
-<em>Ca l'Abuela</em> provablement perquè hi vivia una dona molt gran, ja que el seu marit "El Matagats" va acabar a la presó per lladre.`,
+    altres:`Cal Matagats`,
+    historia:`Eren gent molt pobre, amb molts fills. Diuen que els fills gaire bé van viure tots, gracies al caldo de serp. `,
+    origen:`<strong><em>Cal Ximo</em></strong>: Per a la forma valenciana  del nom de Joaquim Garcia Fabra<br>
+  <br>
+  <strong><em>Cal Matagats</em>:</strong>&nbsp;Perqu&egrave; matava gats per alimentar la fam&iacute;lia  i molts fills.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 75, Matadepera`
    },
 "cal-mingo": {
