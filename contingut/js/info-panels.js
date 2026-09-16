@@ -1187,13 +1187,6 @@ Cal Guerresenyo`,
     origen:`També conegut com Ca la Mundeta, perquè era el nom de l'àvia de la família Riera`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 17, Matadepera`
    },
-"cal-sereno": {
-    title:`Cal Sereno`,
-    altres:``,
-    historia:`El 19 de abril de 1958, en Pi de la Serra, estableix al carrer Sant Isidre, a la banda esquerra, mirant des de la plaça, dins dels seus terrenys que pertanyien a Can Vinyés, 40 pams de façana i 192 pams de llargària, on avui encara s’alça la casa de <em>Ca l’Arnau</em> a en Josep Arnau i Mundet, Pagès de Granera, que va arribar ser l’agutzil i sereno del poble, de manera que tothom l’anomenava “El Sereno”`,
-    origen:`Per la professió de sereno del seu primer propietari, Josep Arnau i Mundet`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 22, Matadepera`
-   },
 "cal-pauet": {
     title:`Cal Pauet`,
     altres:`Cal la Pietat`,
@@ -1212,9 +1205,24 @@ Hi vivia en Joan Gorina Xandri, casat amb Elvira Vitó Tosell. En Joan Gorina er
 "cal-talant": {
     title:`Cal Talant`,
     altres:``,
-    historia:``,
-    origen:`En Joan Gutés de cal Monet festejava l'Angeleta de cal Rei. Sortí un altre pretendent i, en fer-li observar els amics que li perillava la promesa perquè el pretendent tenia molt talent, respongué que ell tenia més talant (presència o decisió) i així nasqué el motiu de «Talant».`,
-    adreca:`Adreça actual: Carrer de Sant Isidre, 29, Matadepera`
+    historia:`<strong>Cap a finals  del segle XIX</strong> trobem vivint a aquesta casa i com a propietari a <strong>Joan Gut&eacute;s Casanovas</strong> (1860-1923) que era el fill petit de <em>Cal Monet</em> i es  cas&agrave; amb <strong>Angelina</strong><strong> Riera i Farell</strong> (1866-1926) de <em>Cal  Rei</em>.<br>
+  <br>
+La fam&iacute;lia Gut&eacute;s-Riera van tenir sis fills, Josep (1886), Isidre (1887), Antoni  (1892), Carme (1896), Ramon (1898) i Gabriel (1903).<br>
+<br>
+El 1924, en aquest lloc, hi trobem vivint &Agrave;ngela Riera i Farell, ja v&iacute;dua, amb  el seu fill Isidre Gut&eacute;s Riera (1887) casat amb N&uacute;ria Ventayol Boada  (1888), i quatre fills, per&ograve; nom&eacute;s tres anys m&eacute;s tard es traslladarien a viure  a Terrassa.<br>
+<br>
+Als voltants de la d&egrave;cada del 1930, ja hi trobem la fam&iacute;lia Gran&eacute;, amb Valent&iacute;  Gran&eacute; Farell (1885-1958), que s&rsquo;havia casat el 1920 amb Ant&ograve;nia Pi i Pi  (1897-1983).<br>
+<strong><br>
+</strong>Actualment i des de fa molts anys &eacute;s un solar sense edificar.`,
+    origen:`<strong><em>Cal  Talant</em></strong>: En <strong>Joan Gut&eacute;s Casanovas (1860-1923)</strong>,  de <em>Cal Monet</em>, festejava <strong>Angelina Riera  Farell (1866-1926)</strong>, de <em>Cal Rei</em>. Sort&iacute; un altre  pretendent i, en fer-li observar els amics que li perillava la promesa perqu&egrave;  el pretendent tenia molt talent, respongu&eacute; que ell tenia m&eacute;s talant (pres&egrave;ncia  o decisi&oacute;) i aix&iacute; nasqu&eacute; el motiu de &laquo;<em><strong>Talant</strong></em>&raquo;.`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 20, Matadepera`
+   },
+"cal-sereno": {
+    title:`Cal Sereno`,
+    altres:``,
+    historia:`El 19 de abril de 1958, en Pi de la Serra, estableix al carrer Sant Isidre, a la banda esquerra, mirant des de la plaça, dins dels seus terrenys que pertanyien a Can Vinyés, 40 pams de façana i 192 pams de llargària, on avui encara s’alça la casa de <em>Ca l’Arnau</em> a en Josep Arnau i Mundet, Pagès de Granera, que va arribar ser l’agutzil i sereno del poble, de manera que tothom l’anomenava “El Sereno”`,
+    origen:`Per la professió de sereno del seu primer propietari, Josep Arnau i Mundet`,
+    adreca:`Adreça actual: Carrer de Sant Isidre, 22, Matadepera`
    },
 "ca-la-marcelina": {
     title:`Ca la Marcelina`,
