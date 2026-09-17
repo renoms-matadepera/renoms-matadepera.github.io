@@ -83,7 +83,7 @@ Enderrocada el 1996.`,
 <strong><em>Cal Negre</em></strong>: Deriva del sobrenom amb qu&egrave;  era conegut <strong>Joan Genesc&agrave; Gut&eacute;s</strong> (1917&ndash;1969), home de pell molt morena i  ferreny, ennegrida encara m&eacute;s per les llargues jornades treballant al bosc i  fent carb&oacute;, passant temporades als &Ograve;bits i retornant al poble carregat amb sacs  de carb&oacute;.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 13, Matadepera`
    },
-"ca-l’enriquet": {
+"ca-lenriquet": {
     title:`Ca l’Enriquet`,
     altres:``,
     historia:`En aquesta casa hi va viure <strong>Enric Genesc&agrave; Cort&egrave;s </strong>(1888-1970), casat amb  Catalina Gut&eacute;s Arnau, amb qui tingueren sis fills (dos dels quals van morir  infants).<br>
@@ -527,44 +527,27 @@ El 1772, <strong>Josep Argemir Puigdomènech</strong> (avui Argemí, ja que amb 
     title:`Cal Magí`,
     altres:`Cal Lan<br>
 Ca la Nita`,
-    historia:`El 22 de gener de 1781,  Josep Pratginest&oacute;s, hereu de <em>Cal Jep</em>, establ&iacute; <strong>Mag&iacute; Torras Juliana</strong>,  pag&egrave;s de Sant Pere de Terrassa, en uns terrenys situats al nou sector de  creixement del poble, dins les terres que anteriorment havia adquirit a la  fam&iacute;lia Gorina.<br>
+    historia:`El 22 de gener de 1781,  Josep Pratginest&oacute;s, hereu de <em>Cal Jep</em>, establ&iacute; <strong>Mag&iacute; Torras Juliana </strong>(1758),  pag&egrave;s de Sant Pere de Terrassa, en uns terrenys situats al nou sector de  creixement del poble, dins les terres que anteriorment havia adquirit a la  fam&iacute;lia Gorina.<br>
   <br>
-  Mag&iacute; Torras Juliana (1758), juntament amb els seus germans Ignasi i Jaume,  formava part d&rsquo;una fam&iacute;lia coneguda popularment com &laquo;<em>els de la Pedrera</em>&raquo;,  probablement per la seva vinculaci&oacute; amb la pedrera de Can Candi.<br>
+  Mag&iacute; Torras Juliana, juntament amb els seus germans Ignasi i Jaume, formava  part d&rsquo;una fam&iacute;lia coneguda popularment com &laquo;<em>els de la Pedrera</em>&raquo;,  probablement per la seva vinculaci&oacute; amb la pedrera de <em>Can Candi</em>.<br>
   <br>
   Casat amb Rosa Quer, de Mag&iacute; Torras en descendiren nombroses branques familiars  de Matadepera. Entre els seus descendents destac&agrave; especialment <strong>Jaume Torras  Pi </strong>(1870&ndash;1940), casat el 18 de gener de 1900 amb <strong>Josefa Gumfaus Altimira</strong> (1880&ndash;1928).<br>
   <br>
   <strong>Jaume Torras Pi</strong> fou una figura  rellevant de la Matadepera de principis del segle XX. Exerc&iacute; <strong>d&rsquo;alcalde entre  1923 i 1929</strong> i, durant el seu mandat, culmin&agrave; un dels projectes m&eacute;s  importants del municipi: la <strong>posada en funcionament de les primeres escoles  nacionals del poble</strong>, inaugurades oficialment l&rsquo;any 1925, un equipament  llargament esperat en una Matadepera que aleshores tot just superava els  sis-cents habitants.<br>
   <br>
-  El matrimoni Torras  Gumfaus tingu&eacute; diversos fills: Maria, <strong>Joan</strong>, Isidre i Merc&egrave;. D&rsquo;aquesta  darrera descendiria tamb&eacute; la branca de <em>Cal Peret Xisco</em>, en casar-se  amb Salvador Puig Sol&agrave;.<br>
+  El matrimoni Torras  Gumfaus tingu&eacute; diversos fills: Maria (1901), <strong>Joan (1902)</strong>, Isidre (1906),  Merc&egrave; (1912) i Magina (1918) . De la Merc&egrave; Torras Gumfaus (1912-1989) casada  amb Salvador Puig Sol&agrave; (1909-1988) de <em>Cal Peret Xisco</em> tindria  continuat la branca de <em>Cal Peret S&rsquo;escanya</em>.<br>
   <br>
-  L&rsquo;&uacute;ltima etapa de la  casa qued&agrave; especialment vinculada a <strong>Joan &laquo;Lan&raquo; Torras Gumfaus</strong> (1902&ndash;1999), fill de Jaume Torras Pi, casat amb <strong>Anna &laquo;Nita&raquo; Lluellas Ribas</strong> (1902&ndash;1978), amb qui no tingueren descend&egrave;ncia.<br>
+  L&rsquo;&uacute;ltima etapa de la  casa qued&agrave; especialment vinculada a <strong>Joan &laquo;<em>Lan</em>&raquo; Torras Gumfaus</strong> (1902&ndash;1999), fill de Jaume Torras Pi, casat amb <strong>Anna &laquo;<em>Nita</em>&raquo; Lluellas Ribas</strong> (1902&ndash;1978), amb qui no tingueren descend&egrave;ncia.<br>
   <br>
-  Durant d&egrave;cades foren  les darreres figures de la fam&iacute;lia vinculades a aquesta casa cantonera del  carrer de Sant Joan amb la carretera de Terrassa, un indret molt concorregut i  punt de trobada habitual de molts matadeperencs de mitjan segle XX, especialment  pel popular establiment conegut com &laquo;<strong>Ca la Nita</strong>&raquo;.<br>
+  Durant d&egrave;cades foren  les darreres figures de la fam&iacute;lia vinculades a aquesta casa cantonera del  carrer de Sant Joan amb la carretera de Terrassa, un indret molt concorregut i  punt de trobada habitual de molts matadeperencs de mitjan segle XX, especialment  pel popular establiment conegut com <strong><em>Ca la Nita</em></strong>.<br>
   <br>
   Actualment, l&rsquo;antic  edifici ha desaparegut i el lloc correspon a una finca moderna d&rsquo;habitatges i  locals comercials.`,
-    origen:`<strong><em>Cal Mag&iacute;</em>:</strong> Prov&eacute; de Mag&iacute; Torras  Juliana (1758), primer membre de la fam&iacute;lia establert en aquest indret i origen  de la nissaga vinculada a la casa.<br>
+    origen:`<strong><em>Cal Mag&iacute;</em>:</strong> Prov&eacute; de <strong>Mag&iacute;  Torras Juliana</strong> (1758), primer membre de la fam&iacute;lia establert en aquest  indret i origen de la nissaga vinculada a la casa.<br>
     <br>
-    <strong><em>Cal Lan</em>:</strong> Prov&eacute; de Joan Torras Gumfaus (1902&ndash;1999), darrer descendent  de la fam&iacute;lia que resid&iacute; a la casa. &laquo;<em>Lan</em>&raquo; correspon a una deformaci&oacute; oral  popular del nom <em>Joan</em>, for&ccedil;a habitual d&rsquo;aquell temps.<br>
+    <strong><em>Cal Lan</em>:</strong> Prov&eacute; de <strong>Joan Torras Gumfaus</strong> (1902&ndash;1999),  darrer descendent de la fam&iacute;lia que resid&iacute; a la casa. &laquo;<em><strong>Lan</strong></em>&raquo; correspon a una  deformaci&oacute; oral popular del nom Joan, for&ccedil;a habitual d&rsquo;aquell temps.<br>
     <br>
-    <strong><em>Ca la Nita</em>&raquo;:</strong> Deriva d&rsquo;Anna  Lluellas Ribas (1902&ndash;1978). &laquo;<em>Nita</em>&raquo;  correspon a una forma escur&ccedil;ada i popular d&rsquo;&laquo;<em>Anita</em>&raquo;, diminutiu habitual del nom  <em>Anna / Ana</em>, tal com era freq&uuml;ent en la parla popular de l&rsquo;&egrave;poca.`,
+    <strong><em>Ca la Nita</em>:</strong> Deriva d&rsquo;<strong>Anna Lluellas Ribas </strong>(1902&ndash;1978).  &laquo;<strong><em>Nita</em></strong>&raquo; correspon a una forma escur&ccedil;ada i popular d&rsquo;&laquo;<em>Anita</em>&raquo;,  diminutiu habitual del nom Anna / Ana, tal com era freq&uuml;ent en la parla popular  de l&rsquo;&egrave;poca.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 51, Matadepera`
-   },
-"ca-la-sibina": {
-    title:`Ca la Sibina`,
-    altres:``,
-    historia:`L&rsquo;any 1773 Pantale&oacute;n  Argemir Puigdom&egrave;nech compr&agrave; a Narc&iacute;s Gorina una parcel&middot;la de 27 pams d&rsquo;amplada  a continuaci&oacute; del casal del seu germ&agrave;, al carrer Nou de Matadepera, conegut m&eacute;s  endavant com el carrer de la Llagosta i actual carrer de Sant Joan. Aquesta  finca correspondria a aquesta casa. Tanmateix, l&rsquo;any 1780, en traslladar-se a  Sant Lloren&ccedil; Savall, la vengu&eacute; al seu germ&agrave; Josep Argemir (Amb el temps es  perd&eacute; la &laquo;r&raquo; final).<br>
-  <br>
-De la nissaga Argem&iacute; en sorgiren diverses branques del poble, per&ograve; la persona  que acabaria donant nom a la casa fou <strong>Sabina Argem&iacute; Pratginest&oacute;s</strong> (1859&ndash;1922), besneta del propietari.  Casada amb Joan Ventayol Pi (1856&ndash;1929). En aquesta casa criaren els seus fills  Lloren&ccedil; (1882), Joan (1885), Esteve (1888), Josep (1891) i Carme (1896).<br>
-<br>
-D&rsquo;aquesta fam&iacute;lia  descendiren diverses nissagues i personatges ben coneguts de Matadepera. Entre  ells, Joan Ventayol Genesc&agrave; (1918-1999), de <em>Cal Satlari</em>, fill d&rsquo;Esteve  Ventayol Argem&iacute; i Rosa Genesc&agrave; de <em>Cal Baldir&oacute;</em>, o Lloren&ccedil; Trabal  Ventayol (1928-2024), sovint identificat com &laquo;<em>Lloren&ccedil; Trabal de Ca la Sibina&raquo;</em>,  fill de Carme Ventayol Argem&iacute; i del mosso d&rsquo;esquadra Josep Trabal Rovira,  natural de Vilafranca del Pened&egrave;s.<br>
-<br>
-La continu&iuml;tat de la  casa recaigu&eacute; principalment en Josep Ventayol Argem&iacute; (1891&ndash;1967), casat amb <strong>Concepci&oacute;  Mas Valls</strong> (1893&ndash;1970), popularment coneguda com &laquo;<strong><em>la Conxita de Ca la  Sibina</em></strong>&raquo;. La seva personalitat deix&agrave; una forta empremta al poble fins al  punt que moss&egrave;n Josep Maria Ballar&iacute;n Monset, sacerdot, escriptor i una de les  figures m&eacute;s singulars de la literatura catalana contempor&agrave;nia, li dedic&agrave; un  cap&iacute;tol sencer del seu llibre de mem&ograve;ries <em>El sac dels records</em>. Hi  descriu una dona de car&agrave;cter fort i directe, per&ograve; tamb&eacute; afectuosa, molt  estimada al poble i recordada com una cuinera extraordin&agrave;ria.<br>
-<br>
-M&eacute;s endavant la casa  acoll&iacute; com a llogaters altres fam&iacute;lies conegudes del poble. Entre elles,  Enriqueta Sala Mas (1903), de <em>Cal Jordi</em>, casada amb Arturo Padr&oacute;s  Mussons, que continuaren despatxant llet des del quart&oacute; de reixa.<br>
-<br>
-Actualment molts  matadeperencs identifiquen la casa amb la &laquo;<em>Teresa de Cal Roc</em>&raquo;.`,
-    origen:`<strong><em>Ca la Sibina</em></strong>: El renom prov&eacute; de <strong>Sabina Argem&iacute;  Pratginest&oacute;s</strong> (1859&ndash;1922), que resid&iacute; en aquesta casa a finals del segle XIX  i comen&ccedil;aments del XX. El nom &laquo;<em>Sibina</em>&raquo; correspon a una deformaci&oacute; popular i  afectiva de &laquo;Sabina&raquo;, forma amb qu&egrave; fou coneguda durant generacions i que acab&agrave;  identificant la casa.`,
-    adreca:`Adreça actual: Carrer de Sant Joan, 52, Matadepera`
    },
 "cal-motxo": {
     title:`Cal Motxo`,
