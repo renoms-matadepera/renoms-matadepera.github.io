@@ -1557,10 +1557,17 @@ L&rsquo;habitatge avui encara conserva el seu aspecte rural aturat en el temps, 
    },
 "cal-lino": {
     title:`Cal Lino`,
-    altres:``,
+    altres:`Cal Santo`,
     historia:``,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 81, Matadepera`
+   },
+"ca-l’abuela": {
+    title:`Ca l’Abuela`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Llorenç, 83, Matadepera`
    },
 
 
