@@ -1558,18 +1558,43 @@ L&rsquo;habitatge avui encara conserva el seu aspecte rural aturat en el temps, 
 "cal-lino": {
     title:`Cal Lino`,
     altres:`Cal Santo`,
-    historia:``,
-    origen:``,
+    historia:`A finals del segle XIX, <strong>procedent</strong><strong> </strong>de Llucena, comarca l&rsquo;Alcalat&eacute;n, Castell&oacute;, on la fil&middot;loxera havia afectat  greument la poblaci&oacute;, s&rsquo;establ&iacute; a Matadepera <strong>Vicente Fabra Mart&iacute;nez (1855-?)</strong>,  conegut al seu lloc d'origen com <strong>&laquo;<em>el Cento</em>&raquo;</strong>. Era germ&agrave; d&rsquo;Albina Fabra  Mart&iacute;nez, que tamb&eacute; acabaria establint-se a Matadepera  vinculada a la nissaga de <em>Cal Tante</em>, i d&rsquo;Antonio Fabra Mart&iacute;nez, que tamb&eacute;  acabaria establint-se a Matadepera, a la casa coneguda com <em>Ca l&rsquo;Abuela</em>, on viuria amb  la seva mare i matriarca de tots ells, Irene Mart&iacute;nez Olaria, de qui es diu  que arrib&agrave; als 105 anys.<br>
+<br>
+Vicente s&rsquo;havia casat a Figueroles, el 19 de juliol de 1882, amb <strong>Carmen Moliner Carranza (1859-?)</strong>,  nascuda en aquesta poblaci&oacute;. El matrimoni va tenir cinc fills: Carmen (1884), <strong>Lino</strong> (1890), Rosa  (1893), Juli&agrave; (1895) i Joan (1901). Carmen, la filla gran, havia nascut a  Figueroles. Lino va n&eacute;ixer a Barcelona, a Hostafrancs, on havien emigrat moltes  fam&iacute;lies procedents de la comarca de l&rsquo;Alcalat&eacute;n, Castell&oacute;, mentre que Rosa,  Juli&agrave; i Joan ja van n&eacute;ixer a Matadepera.<br>
+<br>
+En la primera d&egrave;cada del segle XX, Vicente Fabra, &laquo;<strong>el Santo</strong>&raquo;, com ja  l&rsquo;anomenaven al poble, vivia en aquesta casa amb tota la fam&iacute;lia, incl&ograve;s el  gendre, casat amb la seva filla gran. El seu fill i hereu, <strong>Lino Fabra Moliner</strong>,  seria qui acabaria donant l&rsquo;altre renom a la casa.<br>
+<br>
+Amb els anys, els fills de Vicente i Carmen es van anar establint en diferents  cases de Matadepera, tant al mateix carrer de Sant Lloren&ccedil; com al carrer de  Sant Isidre i fins i tot al carrer de Sant Joan. Aquesta dispersi&oacute; explica la  pres&egrave;ncia de diferents branques de la fam&iacute;lia Fabra en diversos renoms del  poble, entre els quals <em>Cal  Tanta</em> i <em>Cal  Ximo</em>.<br>
+<br>
+Cap a mitjan segle XX, <strong>Lino Fabra Moliner (1890-?)</strong> el trobem amb la seva pr&ograve;pia  fam&iacute;lia en aquesta casa, casat amb <strong>Ant&ograve;nia Navarro Guill&eacute;n (1898-?)</strong>, nascuda a Huesa del  Com&uacute;n, Terol, i amb els seus fills Vicente (1921), Carmen (1925) i Marcelino  (1928), que tamb&eacute; seria conegut com &laquo;<strong>El Lino</strong>&raquo; per les generacions coet&agrave;nies.`,
+    origen:`<strong><em>Cal Lino</em></strong>: Pel nom de <strong>Lino Fabra Moliner</strong> (1890-?), fill de Vicente  Fabra Mart&iacute;nez (1855-?).<br>
+<br>
+<strong><em>Cal Santo</em>:</strong> L'origen del renom es deu a una  adaptaci&oacute; fon&egrave;tica de &laquo;Sento&raquo; o &laquo;Cento&raquo;, forma popular  hipocor&iacute;stica (nom afectu&oacute;s) de Vicent en valenci&agrave;, que el ve&iuml;nat de  Matadepera transformar i catalanitzar com a &ldquo;<em><strong>Santo</strong></em>&rdquo;, per referir-se a <strong>Vicente  Fabra Mart&iacute;nez </strong>(1855-?), originari Llucena  (Castell&oacute;).`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 81, Matadepera`
    },
 "ca-l’abuela": {
     title:`Ca l’Abuela`,
     altres:``,
-    historia:``,
-    origen:``,
+    historia:`A tocar de <em>Cal Lino</em>,  a la banda nord del carrer de Sant Lloren&ccedil;, hi havia un lloc que els padrons  antics identifiquen amb el n&uacute;mero 51 i que probablement correspondria avui m&eacute;s  o menys al n&uacute;mero 83, hi hauria hagut la casa que va estar associada a <strong>Irene  Mart&iacute;nez Olaria</strong>, una dona origin&agrave;ria de Llucena, al Pa&iacute;s Valenci&agrave;, que hi  va viure bona part dels darrers anys de la seva vida.<br>
+<br>
+Irene Mart&iacute;nez Olaria <strong>va n&eacute;ixer a Llucena el 25 de mar&ccedil; de 1833</strong>. Era  filla de Juan Mart&iacute;nez Centelles, de Vistabella del Maestrat, i de Maria Olaria  Nebot, de Llucena. El 10 de febrer de 1855 es va casar a Llucena amb Longino  Fabra Monferrer.<br>
+<br>
+El matrimoni va tenir set fills, tots nascuts a Llucena: Vicente (1855), Irene  (1859), Longino (1862), Magdalena (1865), Marcelino (1868), Albina (1870) i  Antonio (1874). D&rsquo;aquesta fam&iacute;lia en sorgiria una &agrave;mplia xarxa familiar que,  amb el temps, acabaria establint-se a Matadepera i que donaria origen de  diversos renoms que trobem al poble.<br>
+<br>
+La crisi de la fil&middot;loxera, que va afectar greument els pobles de la comarca de  l&rsquo;Alcalat&eacute;n durant les darreres d&egrave;cades del segle XIX, va provocar una  important emigraci&oacute; des de Figueroles i altres poblacions de la zona. Segons  explica l&rsquo;investigador Amadeu Porcar Hueso, molts dels emigrants es van dirigir  inicialment cap a Hostafrancs, a les hores un poble independent de Barcelona, i  posteriorment, es van anar escampant per altres pobles i ciutats de Catalunya.  &Eacute;s en aquest context migratori que diverses branques de la fam&iacute;lia Fabra-Mart&iacute;nez  acabarien arribant a Matadepera.<br>
+<br>
+Entre aquestes branques hi havia diversos dels set fills d&rsquo;Irene: Vicente Fabra  Mart&iacute;nez (1855-?), de <em>Cal Santo</em>, casat amb Carmen Moliner Carranza i  pare de Lino Fabra Moliner (1890-?), que acabaria donant nom a la mateixa casa  com a <em>Cal Lino</em>. Albina Fabra Mart&iacute;nez (1870-1957) que casada amb Constantino  Porcar Par (1873-1926), donarien origen a la nissaga de <em>Cal Tanta</em>. Del  net d&rsquo;Irene, Joaquim &laquo;Ximu&raquo; Garcia Fabra (1880), fill de la seva filla Irene  Fabra Mart&iacute;nez (1859), sorgiria la nissaga de <em>Cal Ximu</em>. Tota la  descend&egrave;ncia d&rsquo;aquestes fam&iacute;lies d&rsquo;origen valenci&agrave; quedaria estretament  vinculada a diverses cases i fam&iacute;lies de Matadepera.<br>
+<br>
+Per&ograve; precisament &eacute;s amb el darrer dels seus fills, <strong>Antonio Fabra Mart&iacute;nez  (1874-?)</strong>, amb qui trobem <strong>Irene Mart&iacute;nez Olaria (1833-c.1938)</strong> vivint  a la primera d&egrave;cada del segle XX, just al costat de Cal Santo, la fam&iacute;lia del  seu fill gran. Tots dos haurien arribat a Matadepera cap al 1899.<br>
+<br>
+<strong>Irene</strong>, que aleshores ja era una dona d&rsquo;edat molt avan&ccedil;ada, <strong>acabaria  condicionat el renom de la casa</strong>.<br>
+<br>
+Cap al 1924, Irene ja no apareix a aquesta casa. Ja nom&eacute;s hi viu el seu fill,  sol. Desconeixem la ra&oacute;, per&ograve; ella s&rsquo;ha traslladat a <em>Cal Tanta</em> amb la  seva filla Albina.<br>
+<br>
+La tradici&oacute; familiar conservada pels descendents de <em>Cal Tanta</em> explica  que <strong>hauria arribat fins als 105 anys</strong>. Tamb&eacute; expliquen l&rsquo;an&egrave;cdota que, a  la mort d&rsquo;un dels seus fills, probablement el gran, Irene hauria respost: &ldquo;<em>Pobret, &eacute;s que ja era vell</em>&rdquo;.`,
+    origen:`<strong><em>Ca l&rsquo;Abuela</em>: </strong>Per <strong>Irene  Mart&iacute;nez Olaria</strong> (1833-c.1939) originaria de Llucena, Castell&ograve;, que ja v&iacute;dua, es va  traslladar a aquesta casa per viure a prop dels seus fill&nbsp; i descendents els quals explicaven que va  viure fins els 105 anys. <em>&laquo;Abuela&raquo; </em>&eacute;s una forma castellana que, en aquella &egrave;poca,  tamb&eacute; podia apar&egrave;ixer ocasionalment en la parla popular catalana o valenciana,  especialment en &agrave;mbits familiars, principalment per identificar a una dona  d&rsquo;edat excepcional.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 83, Matadepera`
    },
-
 
 // Carretera de Terrassa
 
