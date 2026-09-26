@@ -1524,10 +1524,21 @@ Amb el temps, aquest sobrenom pass&agrave; a la casa del carrer de Sant Lloren&c
 "cal-ximo": {
     title:`Cal Ximo`,
     altres:`Cal Matagats`,
-    historia:`Eren gent molt pobre, amb molts fills. Diuen que els fills gaire bé van viure tots, gracies al caldo de serp. `,
-    origen:`<strong><em>Cal Ximo</em></strong>: Per a la forma valenciana  del nom de Joaquim Garcia Fabra<br>
+    historia:`<strong><em>Cal Ximo</em></strong> est&agrave; vinculat a la fam&iacute;lia <strong>Garcia  Fabra</strong>, origin&agrave;ria de les comarques de Castell&oacute;.<br>
+    <br>
+  La pres&egrave;ncia a Catalunya d&rsquo;aquestes fam&iacute;lies s&rsquo;emmarca en l&rsquo;emigraci&oacute; provocada  per la fil&middot;loxera, que entre 1885 i 1900 va comportar una important p&egrave;rdua de  poblaci&oacute; a Figueroles i altres pobles de la comarca. Segons Amadeu Porcar,  molts dels emigrants de Figueroles es van establir inicialment a Hostafrancs,  on van treballar principalment a les f&agrave;briques t&egrave;xtils, i posteriorment es van  dispersar per altres poblacions catalanes.<br>
   <br>
-  <strong><em>Cal Matagats</em>:</strong>&nbsp;Perqu&egrave; matava gats per alimentar la fam&iacute;lia  i molts fills.`,
+  Per aquest motiu, a Matadepera tamb&eacute; trobem altres fam&iacute;lies emparentades i  procedents del mateix origen, <em>Cal Tanta</em>, <em>Cal Santo</em> i <em>Cal  Lino</em>.<br>
+  <br>
+  <strong>Joaquim &laquo;<em>Ximu</em>&raquo; Garcia Fabra</strong> (1880-?), casat amb <strong>Isabel Gall&eacute;n  Escrig</strong> (1881-?), va arribar a Matadepera a finals del segle XIX. El  matrimoni ja consta vivint al poble l&rsquo;any 1905, quan el seu primer fill, Manel  Garcia Gall&eacute;n, va n&eacute;ixer al carrer de Sant Joan, 43.<br>
+  <br>
+  La fam&iacute;lia Garcia Gall&eacute;n va tenir 4 fills: Manel (1905) i Joan Antoni (1908), a  Matadepera; Isabel (1911), a Hostafrancs, i Joaquim (1916), a Olesa de  Montserrat. El fet que alguns fills nasquessin a Hostafrancs i Olesa de  Montserrat mostra els <strong>diferents despla&ccedil;aments de la fam&iacute;lia</strong>,  probablement relacionats amb la feina. Cap a la d&egrave;cada del 1920, la fam&iacute;lia <strong>va  tornar a viure a Matadepera</strong> i es va instal&middot;lar <strong>al carrer de Sant  Lloren&ccedil;, 21, on tamb&eacute; va ser conegut com &laquo;<em>Cal Ximo</em>&raquo;</strong>. Aquesta  mobilitat explica que el renom no sempre aparegui associat al mateix domicili.<br>
+  <br>
+  Cap a mitjans del segle XX, el fill petit, <strong>Joaquim Garcia Gall&eacute;n</strong> (1916-?), tamb&eacute; conegut com el &laquo;<em>Ximo</em>&raquo;, casat amb <strong>Maria Ribas Ribas</strong> (1916-?), <strong>es va instal&middot;lar en aquesta casa</strong>, on va viure amb els seus  sogres, fam&iacute;lia i nets, formant una gran colla i tamb&eacute; continuant el renom &laquo;<strong><em>Cal  Ximo</em></strong>&raquo; a aquest indret.`,
+    origen:`</strong><strong><em>Cal Ximo</em></strong>: &eacute;s la forma valenciana de <strong>Joaquim</strong>, nom de <strong>Joaquim Garcia Fabra</strong> (1880-?) i <strong>Joaquim Garcia Gall&eacute;n</strong> (1916-?).<br>
+  &laquo;<strong>Ximo</strong>&raquo; &eacute;s un hipocor&iacute;stic tradicional <strong>del nom de Joaquim en l&rsquo;&agrave;mbit  valenci&agrave;</strong>.<br>
+  <br>
+  <strong><em>Cal Matagats</em></strong>: el malnom s&rsquo;explica per la tradici&oacute; segons la  qual <strong>Joaquim Garcia Gall&eacute;n</strong> ca&ccedil;ava gats i els aprofitava com a aliment en  una &egrave;poca de gran pobresa. La tradici&oacute; oral tamb&eacute; relaciona aquesta fam&iacute;lia  nombrosa amb el record del caldo de serp que preparava la seva sogra, Coloma  Ribas Quimero, per tenir cura de molta canalla.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 75, Matadepera`
    },
 "cal-mingo": {
