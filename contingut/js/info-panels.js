@@ -1526,9 +1526,9 @@ Amb el temps, aquest sobrenom pass&agrave; a la casa del carrer de Sant Lloren&c
     altres:`Cal Matagats`,
     historia:`<strong><em>Cal Ximo</em></strong> est&agrave; vinculat a la fam&iacute;lia <strong>Garcia  Fabra</strong>, origin&agrave;ria de les comarques de Castell&oacute;.<br>
     <br>
-  La pres&egrave;ncia a Catalunya d&rsquo;aquestes fam&iacute;lies s&rsquo;emmarca en l&rsquo;emigraci&oacute; provocada  per la fil&middot;loxera, que entre 1885 i 1900 va comportar una important p&egrave;rdua de  poblaci&oacute; a Figueroles i altres pobles de la comarca. Segons Amadeu Porcar,  molts dels emigrants de Figueroles es van establir inicialment a Hostafrancs,  on van treballar principalment a les f&agrave;briques t&egrave;xtils, i posteriorment es van  dispersar per altres poblacions catalanes.<br>
+La pres&egrave;ncia a Catalunya  d&rsquo;aquestes fam&iacute;lies s&rsquo;emmarca en l&rsquo;emigraci&oacute; provocada per la fil&middot;loxera, que  entre 1885 i 1900 va comportar una important p&egrave;rdua de poblaci&oacute; a Figueroles i  altres pobles de la comarca. Segons explica l&rsquo;investigador Amadeu Porcar Hueso, molts dels emigrants de Figueroles es van establir inicialment a  Hostafrancs, on van treballar principalment a les f&agrave;briques t&egrave;xtils, i  posteriorment es van dispersar per altres poblacions catalanes.<br>
   <br>
-  Per aquest motiu, a Matadepera tamb&eacute; trobem altres fam&iacute;lies emparentades i  procedents del mateix origen, <em>Cal Tanta</em>, <em>Cal Santo</em> i <em>Cal  Lino</em>.<br>
+  Per aquest motiu, a Matadepera tamb&eacute; trobem altres fam&iacute;lies emparentades i  procedents del mateix origen, <em>Ca l&rsquo;Abuela</em>, <em>Cal  Santo</em>, <em>Cal Lino</em>, <em>Cal Tante</em>...<br>
   <br>
   <strong>Joaquim &laquo;<em>Ximu</em>&raquo; Garcia Fabra</strong> (1880-?), casat amb <strong>Isabel Gall&eacute;n  Escrig</strong> (1881-?), va arribar a Matadepera a finals del segle XIX. El  matrimoni ja consta vivint al poble l&rsquo;any 1905, quan el seu primer fill, Manel  Garcia Gall&eacute;n, va n&eacute;ixer al carrer de Sant Joan, 43.<br>
   <br>
