@@ -678,9 +678,9 @@ A mitjan segle XIX tenia contracte per forjar i  trempar les barrines destinades
 <br>
 Amb Teresa Lleonart  tingueren tres fills: Rosa, Carme i <strong>Joan</strong>.<br>
 La Rosa Riba Lleonart es casà amb Salvador Pi Soler, de <em>Cal Xic Xumeco</em>, durant molts anys carter de Matadepera i germà d’Elvira Pi Soler, de <em>Cal Ferreret</em>.<br>
-La Carme Riba Lleonart es casà amb Jaume Mabres Rius i foren els pares de la coneguda «<em>Pepeta de Cal Mabras</em>.<strong>Del Joan descendeix l’extensa nissaga Riba de Matadepera</strong>.<br>
+La Carme Riba Lleonart es casà amb Jaume Mabres Rius i foren els pares de la coneguda «<em>Pepeta de Cal Mabras</em>. <strong>Del Joan descendeix l’extensa nissaga Riba de Matadepera</strong>.<br>
 <br>
-Joan Riba Lleonart</strong> (1872&ndash;1926) es cas&agrave; amb <strong>Teresa Arnau Gorina</strong> (1881&ndash;1964) i  continu&agrave; l&rsquo;ofici de ferrer del seu pare. Tingueren quatre fills: Narc&iacute;s Riba  Arnau (1900&ndash;1985), &laquo;<em>Siset</em>&raquo;; &Agrave;ngel Riba Arnau (1906&ndash;2001), &laquo;<em>Angelet</em>&raquo;;  Joaquima Riba Arnau (1912&ndash;?), que, casada amb Felip Padr&oacute;s, de <em>Ca l&rsquo;Oliva</em>,  continu&agrave; la nissaga d&rsquo;aquella casa; i Teresa Riba Arnau, morta abans de 1926.<br>
+<strong>Joan Riba Lleonart</strong> (1872&ndash;1926) es cas&agrave; amb <strong>Teresa Arnau Gorina</strong> (1881&ndash;1964) i  continu&agrave; l&rsquo;ofici de ferrer del seu pare. Tingueren quatre fills: Narc&iacute;s Riba  Arnau (1900&ndash;1985), &laquo;<em>Siset</em>&raquo;; &Agrave;ngel Riba Arnau (1906&ndash;2001), &laquo;<em>Angelet</em>&raquo;;  Joaquima Riba Arnau (1912&ndash;?), que, casada amb Felip Padr&oacute;s, de <em>Ca l&rsquo;Oliva</em>,  continu&agrave; la nissaga d&rsquo;aquella casa; i Teresa Riba Arnau, morta abans de 1926.<br>
 <br>
 Al padr&oacute; de 1911 el  matrimoni, dos fills i l&rsquo;&agrave;via consten vivint a la Carretera de Terrassa,  11, <em>Cal Siset</em>. Probablement fou aleshores que Joan Naspl&egrave; Antonell,  nascut a Castellter&ccedil;ol el 15 d&rsquo;agost de 1885 i establert a Matadepera des de  1909 per treballar de ferrer amb els Riba, s&rsquo;instal&middot;l&agrave; a aquesta casa i pass&agrave; a  regentar la ferreria.<br>
 <br>
