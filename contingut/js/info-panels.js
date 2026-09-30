@@ -749,7 +749,7 @@ Cap a l'any 1950, <strong>Joan Vivet Padr&oacute;</strong>, descendent de la con
   L&rsquo;11 de gener de 1943 Llu&iuml;sa Pratginest&oacute;s Codina  (1865&ndash;1944), &laquo;la Llu&iuml;sa de Cal Jep&raquo;, &uacute;ltima hereva dels Pratginest&oacute;s, v&iacute;dua i  sense descend&egrave;ncia, ced&iacute; tota la finca a l&rsquo;Institut de les Germanes de la  Sagrada Fam&iacute;lia a canvi d&rsquo;atenci&oacute; fins a la seva mort.<br>
 <br>Ja sota propietat de la comunitat religiosa, el 8 de febrer  de 1946 l&rsquo;immoble fou venut a Josep Beltr&agrave; Valero, que ja regentava el forn i  la fleca, conegut popularment com &laquo;El Forn de Cal Beltr&agrave;&raquo;.<br>
   <br>
-  L&rsquo;any 1949 la fam&iacute;lia Beltr&agrave; ced&iacute; la part de la parcel&middot;la on  hi havia l&rsquo;estable i l&rsquo;acc&eacute;s al forn perqu&egrave; l&rsquo;Ajuntament hi obr&iacute;s un carrer des  del carrer de Sant Joan fins al passeig d&rsquo;&Agrave;ngel Guimer&agrave;.<br>
+  L&rsquo;any 1949 la fam&iacute;lia Beltr&agrave; va haver de cedir la part de la parcel&middot;la on  hi havia l&rsquo;estable i l&rsquo;acc&eacute;s al forn perqu&egrave; l&rsquo;Ajuntament hi obr&iacute;s un carrer des  del carrer de Sant Joan fins al passeig d&rsquo;&Agrave;ngel Guimer&agrave;.<br>
   <br>
   Aquest vial, inicialment anomenat carrer d&rsquo;Ignasi Iglesias,  fou rebatejat oficialment l&rsquo;any 2016, per acord de la Comissi&oacute; del Nomencl&agrave;tor  de l&rsquo;Ajuntament de Matadepera, com a<em> Carrer de Cal Beltr&agrave;</em>, nom amb qu&egrave;  popularment ja era conegut.`,
     origen:`<em>Cal Beltr&agrave;</em>: pel cognom de la fam&iacute;lia que hi regent&agrave; el forn, un  dels primers de Matadepera.`,
