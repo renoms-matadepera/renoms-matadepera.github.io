@@ -240,13 +240,6 @@ Cal fer <strong>un reconeixement a Joan Font Pi “Corcola”</strong> (1902-198
     origen:`El renom <strong><em>Corcola</em></strong> prové de <strong>Joan Torras i Arnella</strong> (1822-1896), avantpassat de Joan Font Pi. Mentre cavil·lava com construir una casa en un terreny acensat a en Pi de la Serra, al carrer Sant Joan, li van preguntar què feia, i ell va respondre que estava "corcolant" (calculant). Qui l’escoltava, rient, va exclamar: “El Joan Corcola!”, i així va néixer el mot.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 30, Matadepera`
    },
-"cal-ton": {
-    title:`Cal Ton`,
-    altres:``,
-    historia:``,
-    origen:`Pel la contració del nom de l'Antonio Rosiñol`,
-    adreca:`Adreça actual: Carrer de Sant Joan, 31, Matadepera`
-   },
 "cal-manco": {
     title:`Cal Manco`,
     altres:``,
@@ -864,13 +857,6 @@ Més tard, van anar a viure al número 66 del carrer Sant Joan.`,
 El seu fill, en Salvador Sala, nascut l'any 1801, es va casar amb na Rosa Casassayas, membre d'una altra família també procedent de Mura, que ja havia fixat la seva residència a Matadepera. La nissaga dels Sala deixarien una petjada històrica al municipi. Finalment aquella casa seria la llar dels Turu – Barranco.`,
     origen:`El renom de <em>Cal Espardenyer</em>deriva directament de l'ofici del seu primer propietari conegut, en Valentí Sala, qui es dedicava a la fabricació d'espardenyes.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 81, Matadepera`
-   },
-"cal-castro": {
-    title:`Cal Castro`,
-    altres:``,
-    historia:`En Castro tenia una petita botiga de reparació de calçat al costat, dins de la mateixa casa de <em>Cal Macià</em>, tocant la paret de Cal Vivet. El lloc també era conegut amb el mateix nom.`,
-    origen:`Pel Cognom`,
-    adreca:`Adreça actual: Carrer de Sant Joan, 82, Matadepera`
    },
 "cal-parrot": {
     title:`Cal Parrot`,
@@ -1563,11 +1549,27 @@ L&rsquo;habitatge avui encara conserva el seu aspecte rural aturat en el temps, 
     origen:`El renom &laquo;Mingo&raquo; prov&eacute; de la contracci&oacute; del nom Domingo, propi de Domingo Comas&ograve;livas Borrell.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 77, Matadepera`
    },
-"cal-garbonaire": {
-    title:`Cal Garbonaire`,
-    altres:``,
-    historia:``,
-    origen:`Feien garba, tallaven el bosc i també venien carbó i feia tacs per les estufes.`,
+"cal-pauli": {
+    title:`Cal Paulí`,
+    altres:`Cal Garbonaire`,
+    historia:`Aquesta casa formava  part dels terrenys establerts l&rsquo;any 1826 per Jaume Torrella, de Can Torrella de  Baix, a favor de <strong>Pau Cuixart Rovira (1798&ndash;1873)</strong>, qui, amb tota  probabilitat, pel diminutiu del seu nom, don&eacute;s origen al renom de &laquo;<em>Cal Paul&iacute;</em>&raquo;.<br>
+<br>
+En Pau Cuixart,  natural d&rsquo;Horta, aleshores municipi agr&iacute;cola i avui integrat a Barcelona, es  cas&agrave; amb Maria Argem&iacute; Sallent, de <em>Cal Gallifa</em>. Despr&eacute;s d&rsquo;haver viscut  al terme de Castellar, probablement al Mas Girbau, el matrimoni es va establir  definitivament a Matadepera.<br>
+<br>
+Una de les  filles de Pau Cuixart, <strong>Francesca Cuixart Argem&iacute;</strong>, es va casar amb <strong>Joan  Pi Cort&egrave;s</strong>, de <em>Cal Xumeco</em>. En morir Pau Cuixart, l&rsquo;any 1873,  Francesca va heretar la propietat. Posteriorment, els terrenys es van dividir  entre dos dels seus fills: la part superior, situada al nord, va passar a  Bartomeu Pi Cuixart (1877&ndash;1959), mentre que la part inferior, al sud, va  correspondre a la seva germana Maria Pi Cuixart (1873&ndash;1925), casada amb Joan  Font Torras, de <em>Cal Corcola</em>.<br>
+<br>
+Bartomeu Pi  Cuixart va llogar, dins del primer ter&ccedil; del segle XX, aquesta casa de la part  nord a <strong>Joan Mart&iacute; Ford (1894&ndash;?)</strong>, qui seria conegut com el &laquo;<em>Garbonaire</em>&raquo;.  La part sud, b&agrave;sicament, va ser un magatzem durant uns quants anys, fins que,  ben entrada la segona meitat del segle XX, i un cop convertida tamb&eacute; en  habitatge, esdevindria <em>Cal Mingo</em>.<br>
+<br>
+Joan Mart&iacute; Ford, nascut a Nev&agrave; (Girona), i la seva esposa, Francisca Masdeu  Corominas (1899&ndash;?), natural de Ribes (Girona), van arribar a Matadepera cap al  1918. Inicialment els trobem vivint al carrer de Sant Joan. El matrimoni va  tenir sis fills: Joaquim (1919), Leonor (1921), Maria (1924), Margarita (1925),  Josep (1927) i Lloren&ccedil; (1933).<br>
+<br>
+L&rsquo;any 1940, Joan Mart&iacute; i Francisca Masdeu ja consten a aquesta adre&ccedil;a del  carrer de Sant Lloren&ccedil;, amb la fam&iacute;lia ja ampliada. La casa que avui coneixem  com &laquo;<em>Cal Garbonaire</em>&raquo; forma part, per tant, d&rsquo;un indret que durant bona part del  segle XX va estar vinculat a les activitats forestals.<br>
+<br>
+Joan Mart&iacute; era  llenyataire, feia garba, tallava el bosc, venia carb&oacute; i tamb&eacute; feia tacs per a  les estufes. Aquesta activitat forestal &eacute;s la que explica que fos conegut com  el &laquo;Garbonaire&raquo;. El fet que a la mateixa casa hi hagu&eacute;s tamb&eacute; un estadant de  rellogat que es dedicava a fer de carboner i que emmagatzem&eacute;s carb&oacute; a la ve&iuml;na  casa de <em>Cal Mingo</em> &eacute;s una circumst&agrave;ncia relacionada amb l&rsquo;activitat de  l&rsquo;&egrave;poca, per&ograve; no amb l&rsquo;origen del renom.<br>
+<br>
+Un dels seus fills, <strong>Lloren&ccedil;  Mart&iacute; Masdeu (1933)</strong>, fou conegut tamb&eacute; com el &laquo;<em>Mart&iacute; de la Nevera</em>&raquo;, en  refer&egrave;ncia a &laquo;<em>La Nevera</em>&raquo;, la f&agrave;brica de gel de Matadepera.`,
+    origen:`<strong><em>Cal Paul&iacute;</em></strong>: El renom &eacute;s un diminutiu de Pau i, amb tota  probabilitat, fa refer&egrave;ncia a <strong>Pau Cuixart Rovira (1798&ndash;1873)</strong>, que &eacute;s  l&rsquo;&uacute;nic Pau de la fam&iacute;lia de qui tenim const&agrave;ncia. Diversos testimonis i  refer&egrave;ncies populars relacionen els seus descendents amb &laquo;<em>Cal Paul&iacute;</em>&raquo;.<br>
+  <br>
+  <strong><em>Cal Garbonaire</em></strong>: El renom ve per <strong>Joan Mart&iacute; Ford (1894&ndash;?)</strong>,  llenyataire, relacionat amb les feines del bosc i especialment amb l&rsquo;elaboraci&oacute;  de &laquo;garba&raquo; o &laquo;garb&oacute;&raquo;, &eacute;s a dir, feixos de llenya prima.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 79, Matadepera`
    },
 "cal-lino": {
