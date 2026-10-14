@@ -328,6 +328,61 @@ font-family: serif;
   .cognoms { text-align: left; }
   .renom { text-align: left; }
 
+  
+/* ===== Llistat de renoms pendents ===== */
+
+.llistat-pendents {
+    max-width: 1000px;
+    margin: 1.5em auto 2em;
+}
+
+.llistat-pendents ul {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.65em 1.2em;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.llistat-pendents li {
+    margin: 0;
+    padding: 0.25em 0;
+    font-weight: bold;
+}
+
+/* Pantalles mitjanes: 3 columnes */
+@media (max-width: 900px) {
+    .llistat-pendents ul {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+/* Pantalles estretes: 2 columnes */
+@media (max-width: 650px) {
+    .llistat-pendents ul {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+/* Mòbils: dues columnes adaptables */
+@media (max-width: 428px) {
+    .llistat-pendents ul {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        column-gap: 0.4em;
+        font-size: 0.9em;
+    }
+
+    .llistat-pendents li {
+        min-width: 0;
+        white-space: normal;
+        overflow-wrap: anywhere;
+    }
+}
+
+/* ===== Fi llistat de renoms pendents ===== */
+
+
 @media (max-width: 428px) {
   .testimonis {
     display: block;      /* deixem de fer servir taula */
