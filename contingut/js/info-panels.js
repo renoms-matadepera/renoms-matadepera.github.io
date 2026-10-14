@@ -43,20 +43,6 @@ La casa tamb&eacute; va ser l&rsquo;habitatge de la seva filla, Francesca Marlet
     origen:`La casa fou coneguda com  a <strong><em>Cal Marlet</em></strong> pel cognom del seu resident m&eacute;s emblem&agrave;tic.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 9, Matadepera`
    },
-"ca-lestevet": {
-    title:`Ca l'Estevet`,
-    altres:`Villa Catalina<br>
-Cal Barret`,
-    historia:`En aquesta casa  visqu&eacute; <strong>Esteve Genesc&agrave; Gut&eacute;s </strong>(1915-1985), casat amb Montserrat Garrigosa  Palet. D&rsquo;aquest matrimoni descendeix l&rsquo;extensa nissaga Genesc&agrave; Garrigosa de  Matadepera.<br>
-<br>
-La casa va ser constru&iuml;da pel seu pare, Enric Genesc&agrave; Cort&egrave;s, just davant de  casa seva, <em>Cal Enriquet</em>, i li pos&agrave; el nom de &laquo;<em>Villa Catalina</em>&raquo; en  record de la seva dona, <strong>Catalina Gut&eacute;s Arnau</strong>.`,
-    origen:`<strong><em>Ca l&rsquo;Estevet:</em></strong> El  nom <em>Esteve</em> es repeteix constantment en tota la branca familiar dels  Genesc&agrave;, descendents d&rsquo;Esteve Genesc&agrave; Padr&oacute;s. Tant el mateix Esteve Genesc&agrave;  Gut&eacute;s com el seu avi havien estat dels germans m&eacute;s petits, d&rsquo;aqu&iacute; el diminutiu &laquo;<em>Estevet&raquo;</em>.  Segons expliquen, el renom l&rsquo;hauria heretat del seu avi, per&ograve; tamb&eacute; era una  manera pr&agrave;ctica de distingir-lo entre tants &laquo;Esteves&raquo; de la fam&iacute;lia.<br>
-<br>
-<strong><em>Villa Catalina</em>:</strong> Nom triat per Enric Genesc&agrave; Cort&egrave;s en homenatge a  la seva dona, <strong>Catalina Gut&eacute;s Arnau</strong>, quan va construir aquesta casa  davant de casa seva, <em>Cal Enriquet</em>.<br>
-<br>
-<strong><em>Cal Barret</em></strong>: La fam&iacute;lia Genesc&agrave; Cort&egrave;s treballava al bosc, per&ograve;  el fill Esteve, que era qui portava els comptes, sempre anava molt ben vestit.  Els treballadors en feien broma, i ell, cansat, un dia va dir: &ldquo;<em>Algun dia,  fins i tot, em veureu amb barret!</em>&rdquo;. A partir de llavors, gaireb&eacute; sempre  port&agrave; barret, i aix&iacute; va n&eacute;ixer aquest renom.`,
-    adreca:`Adreça actual: Carrer de Sant Joan, 11, Matadepera`
-   },
 "ca-la-pepa-quela": {
     title:`Ca la Pepa Quela`,
     altres:``,
@@ -65,6 +51,20 @@ Construcci&oacute; 1869 &ndash; Arquitecte: Llu&iacute;s Muncunill.  <br>
 Enderrocada el 1996.`,
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Joan, 12, Matadepera`
+   },
+   "ca-lestevet": {
+    title:`Ca l'Estevet`,
+    altres:`Villa Catalina<br>
+Cal Barret`,
+    historia:` En aquesta casa  visqu&eacute; <strong>Esteve Genesc&agrave; Gut&eacute;s </strong>(1915-1985), casat amb Montserrat Garrigosa  Palet. D&rsquo;aquest matrimoni descendeix l&rsquo;extensa nissaga Genesc&agrave; Garrigosa de  Matadepera.<br>
+  <br>
+  Esteve Genesc&agrave;  Gut&eacute;s, que sempre duia barret, era conegut amb el sobrenom d&rsquo;&laquo;El Barret&raquo;.<br>
+  <br>
+  La casa va ser constru&iuml;da pel seu pare, Enric Genesc&agrave; Cort&egrave;s, just davant de  casa seva, <em>Cal Enriquet</em>, i li pos&agrave; el nom de &laquo;<em>Villa Catalina</em>&raquo; en  record de la seva dona, <strong>Catalina Gut&eacute;s Arnau</strong>.`,
+    origen:`<strong><em>Ca l&rsquo;Estevet:</em></strong> El nom <em>Esteve</em> es repeteix  constantment en tota la branca familiar dels Genesc&agrave;, descendents d&rsquo;Esteve  Genesc&agrave; Padr&oacute;s. Tant el mateix Esteve Genesc&agrave; Gut&eacute;s com el seu avi havien estat  dels germans m&eacute;s petits, d&rsquo;aqu&iacute; el diminutiu &laquo;<em>Estevet&raquo;</em>. Segons  expliquen, el renom l&rsquo;hauria heretat del seu avi, per&ograve; tamb&eacute; era una manera  pr&agrave;ctica de distingir-lo entre tants &laquo;Esteves&raquo; de la fam&iacute;lia.<br>
+  <br>
+  <strong><em>Villa Catalina</em>:</strong> Nom triat per Enric Genesc&agrave; Cort&egrave;s en homenatge a  la seva dona, <strong>Catalina Gut&eacute;s Arnau</strong>, quan va construir aquesta casa  davant de casa seva, <em>Cal Enriquet</em>.`,
+    adreca:`Adreça actual: Carrer de Sant Joan, 11, Matadepera`
    },
 "cal-peret-xisco": {
     title:`Cal Peret Xisco`,
@@ -167,13 +167,11 @@ Actualment en aquesta casa hi t&eacute; la seu <strong><em>Entreactes (ea)</em><
    },
 "cal-dents-xic": {
     title:`Cal Dents Xic`,
-    altres:`Cal Crema Morros`,
+    altres:``,
     historia:`<strong>Joan Arola Caelles</strong> era <strong>fill de &laquo;<em>Cal Dents</em>&raquo</strong>;. El seu germ&agrave; gran, Josep Arola,  l&rsquo;hereu, es va quedar amb la casa i els terrenys de Cal Dents, situats a la  carretera de Terrassa, 23, cantonada amb el carrer Balmes, que arribaven fins  al capdavall del carrer Balmes, a la cantonada amb el carrer Montserrat.<br>
   <br>
-  En Joan Arola es va instal&middot;lar en aquesta casa del carrer Sant Joan, on hi  tenia una botiga de queviures. Va ser alcalde de Matadepera abans i durant la  Guerra. En qualitat d&rsquo;alcalde, l&rsquo;any 1923 va col&middot;locar una ampolla als  fonaments de les futures escoles de la carretera de Terrassa, amb els noms de  tots els membres del consistori. Aquelles escoles serien inaugurades el 20 de  desembre de 1925.<br />
-  <br>
-  Tamb&eacute; era conegut pel malnom de &laquo;<em>Crema Morros</em>&raquo;.`,
-    origen:`L’origen del malnom <em>Crema Morros</em> ve d’un episodi explicat per Magdalena Font, segons el qual en Joan Arola, en veure una nena al seu càrrec amb els morros tacats de xocolata —fet que delatava que n’havia agafat de la botiga—, li hauria netejat la cara amb una collera calenta.`,
+  En Joan Arola es va instal&middot;lar en aquesta casa del carrer Sant Joan, on hi  tenia una botiga de queviures. Va ser alcalde de Matadepera abans i durant la  Guerra. En qualitat d&rsquo;alcalde, l&rsquo;any 1923 va col&middot;locar una ampolla als  fonaments de les futures escoles de la carretera de Terrassa, amb els noms de  tots els membres del consistori. Aquelles escoles serien inaugurades el 20 de  desembre de 1925.<br />`,
+    origen:``,
     adreca:`Adreça actual: Carrer de Sant Joan, 23, Matadepera`
    },
 "cal-llogarí": {
@@ -828,18 +826,19 @@ Poc despr&eacute;s de n&eacute;ixer la Paquita, la fam&iacute;lia es trasllad&ag
    },
 "cal-julia": {
     title:`Cal Julià`,
-    altres:`Cal Paifarre`,
-    historia:`Tota una generaci&oacute; recorda <strong><em>Cal Juli&agrave;</em></strong> per les seves coques,  ensa&iuml;mades i croissants, per les entranyables <strong>Maria Sellar&egrave;s i Teresa  Altimira</strong> darrere el taulell, i per les llargues cues de gent, fins i tot de  fora de Matadepera, que els diumenges al mat&iacute; esperaven el seu torn per comprar  pa.<br>
-<br>
-Per&ograve; el nom de &laquo;<em>Cal Juli&agrave;&raquo;</em> ve de molt m&eacute;s lluny. Francesc Gorina i Riera  ja esmenta al seu dietari de finals del segle XIX (transcrit per Joan  Comas&ograve;livas) el &laquo;<em>Mag&iacute; de Cal Juli&agrave;</em>&raquo;, i les seg&uuml;ents dades fan pensar que  es tracta del mateix lloc: &nbsp;Aquest &laquo;<em>Mag&iacute;</em>&raquo;  era Mag&iacute; Pi Torras (1834&ndash;1896), fill de <strong>Juli&agrave; Pi Singla</strong> (1795) i avi de <strong>Juli&agrave;  Pi i Pi</strong> (1896&ndash;1972).<br>
+    altres:``,
+    historia:`Tota una generaci&oacute; recorda <strong><em>Cal Juli&agrave;</em></strong> per les  seves coques, ensa&iuml;mades i croissants, per les entranyables <strong>Maria Sellar&egrave;s i  Teresa Altimira</strong> darrere el taulell, i per les llargues cues de gent, fins i  tot de fora de Matadepera, que els diumenges al mat&iacute; esperaven el seu torn per  comprar pa.<br>
+  <br>
+Per&ograve; el nom de &laquo;<em>Cal Juli&agrave;&raquo;</em> ve de molt m&eacute;s lluny. Francesc Gorina i Riera  ja esmenta al seu dietari de finals del segle XIX (transcrit per Joan  Comas&ograve;livas) el &laquo;<em>Mag&iacute; de Cal Juli&agrave;</em>&raquo;, i les seg&uuml;ents dades fan pensar que  es tracta del mateix lloc: &nbsp;Aquest &laquo;Mag&iacute;&raquo;  era Mag&iacute; Pi Torras (1834&ndash;1896), fill de <strong>Juli&agrave; Pi Singla</strong> (1795) i avi de <strong>Juli&agrave;  Pi i Pi</strong> (1896&ndash;1972).<br>
 <br>
 Al 1911, a aquesta casa, hi trobem <strong>Joan Pi Ribera</strong> (1861&ndash;1948), <strong>de  professi&oacute; forner</strong>, casat amb Concepci&oacute; Pi Aymerich (1872&ndash;1933). El matrimoni  tingu&eacute; quatre fills: Mag&iacute; (1892), Teresa (1894), Juli&agrave; (1896) i Josep (1904).<br>
 <br>
-D&rsquo;entre ells, <strong>Juli&agrave; Pi i Pi </strong>(1896&ndash;1972)<strong>, casat amb Maria Sellar&egrave;s  Vives</strong> (n.1906), continuaren amb el negoci familiar del forn, que es  mantingu&eacute; obert durant d&egrave;cades i fou conegut popularment com &laquo;<strong><em>Cal Juli&agrave;</em></strong><em>&raquo;</em>.<br>
+D&rsquo;entre ells, <strong>Juli&agrave; Pi i Pi </strong>(1896&ndash;1972)<strong>, casat amb Maria Sellar&egrave;s  Vives</strong> (n. 1906), continuaren amb el negoci familiar del forn, que es  mantingu&eacute; obert durant d&egrave;cades i fou conegut popularment com <strong><em>Cal Juli&agrave;</em></strong>.<br>
+<br>
+Segons recorda la gent m&eacute;s gran, Juli&agrave; Pi i Pi tamb&eacute; era conegut amb el malnom  de &laquo;<em>Paifarre&raquo;</em>. Quan era petit i li preguntaven a l&rsquo;escola qu&egrave; havia  esmorzat, ell responia amb ingenu&iuml;tat: &ldquo;Pa i farra&rdquo;, referint-se al pa amb  botifarra, i d&rsquo;aqu&iacute; li qued&agrave; el sobrenom.<br>
 <br>
 Actualment, aquest lloc &eacute;s una botiga-taller de bicicletes.`,
-    origen:`<strong><em>Cal Juli&agrave;</em></strong>: Per a la generaci&oacute; m&eacute;s recent, el nom s&rsquo;associa  al forn, per&ograve; l&rsquo;origen es remunta molt m&eacute;s enrere: tot indica que prov&eacute; de <strong>Juli&agrave;  Pi Singla, </strong>nascut el 1795, probablement el primer &laquo;Juli&agrave;&raquo; de la nissaga.</p>
-<strong><em>Cal Paifarre</em></strong>: Segons recorda la  gent m&eacute;s gran, <strong>Juli&agrave; Pi i Pi</strong> tamb&eacute; era conegut amb el malnom de <em>&laquo;el Paifarre&raquo;</em>.  Quan era petit i li preguntaven a l&rsquo;escola qu&egrave; havia esmorzat, ell responia amb  ingenu&iuml;tat: &ldquo;<em>Pa i farra</em>&rdquo;, referint-se al pa amb botifarra, i d&rsquo;aqu&iacute; li qued&agrave; el  sobrenom.`,
+    origen:`<strong><em>Cal Juli&agrave;</em></strong>: Per a la generaci&oacute; m&eacute;s recent, el nom  s&rsquo;associa al forn, per&ograve; l&rsquo;origen es remunta molt m&eacute;s enrere: tot indica que  prov&eacute; de <strong>Juli&agrave; Pi Singla, </strong>nascut el 1795, probablement el primer &laquo;Juli&agrave;&raquo;  de la nissaga.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 79, Matadepera`
    },
 "cal-nasi": {
@@ -1469,7 +1468,7 @@ Cal Fusteret`,
     origen:`<em>Cal Fuster Crispin</em>, provablement per el nom de pila del fuster.<br>
 <br><em>Cal Cacauer</em>: Era el tiet solter que venia cacauets per els cines de Terrassa i Matadepera.<br>
 <br>
-<em>Cal Sis dists</em>: a l'home li sortia una petita protuberància a la mà que semblava un sisè dit.`,
+<em>Cal Sis dits</em>: a l'home li sortia una petita protuberància a la mà que semblava un sisè dit.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 63, Matadepera`
    },
 "cal-pinxe": {
@@ -1493,22 +1492,22 @@ La casa es va repartir i dividir en dues vivendes:<br>
 "cal-croc-croc": {
     title:`Cal Croc-croc`,
     altres:`Cal Passaserres`,
-    historia:`Isidre Bosch Puig</strong>, conegut com &laquo;<em>el Croc</em>&raquo;, havia nascut el 1884 a <em>Can  Poble</em>. Casat el 1904 amb <strong>Clotilde Casals Amor&oacute;s</strong>, nascuda el 1884 a  Viladecavalls, van fer de masovers primer a <em>Can Garrigosa</em>, on van tenir cinc  fills, i m&eacute;s tard, dins la primera d&egrave;cada del segle XX, a <em>Can Torres</em>, on  residiren una vintena d&rsquo;anys.<br>
+    historia:`<strong>Isidre Bosch Puig</strong>, conegut com &laquo;el Croc&raquo;, havia  nascut el 1884 a <em>Can Poble</em>. Casat el 1904 amb <strong>Clotilde Casals Amor&oacute;s</strong>,  nascuda el 1884 a Viladecavalls, van fer de masovers primer a <em>Can Garrigosa</em>,  on van tenir cinc fills, i m&eacute;s tard, dins la primera d&egrave;cada del segle XX, a <em>Can  Torres</em>, on residiren una vintena d&rsquo;anys.<br>
   <br>
-Un dels seus fills, <strong>Joan Bosch Casals</strong> (1906-1990), conegut tamb&eacute; com &laquo;<em>el  Joan de Can Torres</em>&raquo;, es cas&agrave; el 1931 amb <strong>Maria Borrell Sellar&egrave;s</strong> (1906-1991), de <em>Can Gorina</em>. La parella s&rsquo;instal&middot;l&agrave; en aquesta casa del  carrer de Sant Lloren&ccedil;, on ja vivien els pares i el germ&agrave; petit, Ramon, des de  feia uns deu anys.<br>
+Un dels seus fills, <strong>Joan Bosch Casals</strong> (1906-1990), conegut tamb&eacute; com &laquo;<strong><em>el  Joan de Can Torres</em></strong>&raquo;, es cas&agrave; el 1931 amb <strong>Maria Borrell Sellar&egrave;s</strong> (1906-1991), de <em>Can Gorina</em>. La parella s&rsquo;instal&middot;l&agrave; en aquesta casa del  carrer de Sant Lloren&ccedil;, on ja vivien els pares i el germ&agrave; petit, Ramon, des de  feia uns deu anys.<br>
 <br>
 En Joan Bosch fou un home de bosc i de camp: treballava netejant boscos i  tallant arbres per fer-ne bigues, i era tan bon coneixedor de l&rsquo;entorn natural  de l&rsquo;actual Parc Natural de Sant Lloren&ccedil; del Munt i l&rsquo;Obac que organismes i  institucions oficials requerien sovint la seva col&middot;laboraci&oacute; per datar camins i  termes i ajudar a elaborar mapes.<br>
 <br>
-Al llarg de la seva vida es dedic&agrave; tamb&eacute; al conreu d&rsquo;arbres fruiters,  especialment les pomeres, i a la vinya, que ell considerava nom&eacute;s un  entreteniment per a diumenges i dies festius. A m&eacute;s de ca&ccedil;ador, tamb&eacute; era un  expert boletaire, coneixedor de tots els secrets dels bolets i dels millors  indrets per trobar-los. Per&ograve; sobretot destac&agrave; com a apicultor: cuidava  nombrosos ruscos i elaborava mel que ell i la seva dona venien des de casa  seva. Per aquest motiu, tamb&eacute; era conegut popularment com &laquo;<strong><em>el Joan de la  Mel</em></strong>&raquo;.`,
-    origen:`Cal Croc-croc</em></strong>: Aquest renom  s&rsquo;origin&agrave; amb <strong>Isidre Bosch Puig</strong> (1884), pare d&rsquo;en Joan Bosch Casals.  Segons la tradici&oacute; oral, un dia que ca&ccedil;ava amb els seus fills top&agrave; amb un  esquirol espavilat que no aconseguia encertar. Fart de la situaci&oacute;, Isidre  exclam&agrave;:<br>
+Entre altres sobrenoms, Joan Bosch, tamb&eacute; era conegut com &laquo;<strong><em>el  Passaserres</em></strong>&raquo;, perqu&egrave; era un caminador infatigable. Bon coneixedor dels  termes i de les muntanyes de l&rsquo;entorn, es deia que era capa&ccedil; de donar tres  voltes a la muntanya de Sant Lloren&ccedil; en un sol dia.<br>
 <br>
-&mdash;&laquo;<em>Au, escapa&rsquo;t tant com vulguis, per&ograve; quan caiguis&hellip; ja far&agrave;s croc!</em>&raquo;<br>
+Al llarg de la seva vida es dedic&agrave; tamb&eacute; al conreu d&rsquo;arbres fruiters,  especialment les pomeres, i a la vinya, que ell considerava nom&eacute;s un  entreteniment per a diumenges i dies festius. A m&eacute;s de ca&ccedil;ador, tamb&eacute; era un  expert boletaire, coneixedor de tots els secrets dels bolets i dels millors  indrets per trobar-los. Per&ograve; sobretot destac&agrave; com a apicultor: cuidava  nombrosos ruscos i elaborava mel que ell i la seva dona venien des de casa  seva. Per aquest motiu, tamb&eacute; era conegut popularment com &laquo;<strong><em>el Joan de la  Mel</em></strong>&raquo;.`,
+    origen:`<strong><em>Cal Croc-croc</em></strong>: Aquest renom s&rsquo;origin&agrave; amb <strong>Isidre Bosch Puig</strong> (1884), pare d&rsquo;en Joan Bosch Casals. Segons la tradici&oacute; oral, un dia que ca&ccedil;ava  amb els seus fills top&agrave; amb un esquirol espavilat que no aconseguia encertar.  Fart de la situaci&oacute;, Isidre exclam&agrave;:<br>
+<br>
+&mdash;&laquo;Au, escapa&rsquo;t tant com vulguis, per&ograve; quan caiguis&hellip; ja far&agrave;s croc!&raquo;<br>
 <br>
 Els altres ca&ccedil;adors que l&rsquo;acompanyaven en feren broma i, des d&rsquo;aquell dia, li  qued&agrave; el sobrenom d&rsquo;&laquo;<strong><em>el Croc</em></strong>&raquo;.<br>
 <br>
-Amb el temps, aquest sobrenom pass&agrave; a la casa del carrer de Sant Lloren&ccedil; i hi  arrel&agrave; amb la forma repetida &laquo;<em>Croc-croc</em>&raquo;.<br>
-<br>
-<strong><em>Cal Passaserres</em></strong>: <strong>Joan Bosch Casals</strong> (1906-1990), entre  molts altres sobrenoms, tamb&eacute; era conegut com &laquo;<em>el Passaserres</em>&raquo;, perqu&egrave;  era un caminador infatigable. Bon coneixedor dels termes i de les muntanyes de  l&rsquo;entorn, es deia que era capa&ccedil; de donar tres voltes a la muntanya de Sant  Lloren&ccedil; en un sol dia.`,
+Amb el temps, aquest sobrenom pass&agrave; a la casa del carrer de Sant Lloren&ccedil; i hi  arrel&agrave; amb la forma repetida &laquo;Croc-croc&raquo;.`,
     adreca:`Adreça actual: Carrer de Sant Llorenç, 73, Matadepera`
    },
 "cal-ximo": {
