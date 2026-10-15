@@ -604,10 +604,10 @@ Actualment l'establiment continua en un nou empla&ccedil;ament, ja desvinculat d
     adreca:`Adreça actual: Carrer de Sant Joan, 55, Matadepera`
    },
 "ca-les-virginies": {
-    title:`Ca les Virginies`,
+    title:`Ca les Virg&iacute;nies`,
     altres:`Cal Noi-Noi`,
     historia:``,
-    origen:`La casa era coneguda com <em>Ca les Virginies</em>, perquè hi vivien dues germanes que la gent anomenava així.
+    origen:`La casa era coneguda com <em>Ca les Virg&iacute;nies</em>, perquè hi vivien dues germanes que la gent anomenava així.
 Una d’elles estava casada amb qui era conegut pel sobrenom de el <em>Noi-Noi</em>, i per això també en deien <em>Cal Noi-Noi</em>.`,
     adreca:`Adreça actual: Carrer de Sant Joan, 56, Matadepera`
    },
@@ -1460,12 +1460,12 @@ El seu fill, Santi Barbero Vall-llovera, es cas&agrave; amb Montserrat Llad&oacu
     adreca:`Adreça actual: Carrer de Sant Llorenç, 30, Matadepera`
    },
 "cal-fuster-crispin": {
-    title:`Cal Fuster Crispin`,
+    title:`Cal Fuster Crispín`,
     altres:`Cal Cacauer<br>
 Cal Sis dists<br>
 Cal Fusteret`,
     historia:``,
-    origen:`<em>Cal Fuster Crispin</em>, provablement per el nom de pila del fuster.<br>
+    origen:`<em>Cal Fuster Crispín</em>, provablement per el nom de pila del fuster.<br>
 <br><em>Cal Cacauer</em>: Era el tiet solter que venia cacauets per els cines de Terrassa i Matadepera.<br>
 <br>
 <em>Cal Sis dits</em>: a l'home li sortia una petita protuberància a la mà que semblava un sisè dit.`,
