@@ -5,7 +5,7 @@
 
    Creació i disseny:  Marc Sellarès Genescà
    Funcionament:       Web estàtica (HTML, CSS, JavaScript)
-   Data:               2025
+   Data:               2026
    Llicència:          Creative Commons Reconeixement - Sense Obres Derivades 
                        4.0 Internacional (CC BY-ND 4.0)
                        https://creativecommons.org/licenses/by-nd/4.0/
@@ -34,7 +34,7 @@ a:hover {
     text-decoration: underline;
 }
 header {
-    background: #461200;
+    background: #541500;
     color: #fbf0de;
     text-align: center;
     padding-top: 1em;
@@ -74,7 +74,7 @@ header h1{
     font-size: 18px;
 }
 .navbar {
-    background: #1f0903;
+    background: #240a03;
     color: #fbf0de;
     padding: 0.2em;
     position: relative;
@@ -87,7 +87,7 @@ header h1{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: #1f0903;
+  background-color: #240a03;
 }
 
 .menu li {
@@ -107,7 +107,7 @@ header h1{
 }
 
 .menu a.active {
-  background-color: #461200;
+  background-color: #541500;
   font-weight: bold;
 }
 
@@ -201,7 +201,7 @@ table.taula-renoms td:nth-child(5) {
   text-decoration: none;
   font-weight: bold;
   font-size: 1;
-  color: #461200;
+  color: #541500;
 }
 .back-to-list:hover {
   color: #a32900;
@@ -248,7 +248,7 @@ table.taula-renoms td:nth-child(5) {
 .info-panel h3 {
   margin-top: 0;
   font-size: 1.2rem;
-  color: #461200;
+  color: #541500;
 }
 .info-panel .close-btn {
   background: none;
@@ -258,7 +258,7 @@ table.taula-renoms td:nth-child(5) {
   top: 10px;
   right: 15px;
   cursor: pointer;
-  color: #461200;
+  color: #541500;
 }
 .info-label {
   font-weight: bold;
@@ -272,7 +272,7 @@ table.taula-renoms td:nth-child(5) {
 }
 .info-text-altres {
   margin: 0.2em 0 1em;
-  color: #461200;
+  color: #541500;
   font-weight: bold;
 }
 .info-address {
