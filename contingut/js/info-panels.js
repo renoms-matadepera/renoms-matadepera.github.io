@@ -245,6 +245,13 @@ Cal fer <strong>un reconeixement a Joan Font Pi “Corcola”</strong> (1902-198
     origen:``,
     adreca:`Adreça actual: Carrer de Sant Joan, 32, Matadepera`
    },
+"cal-ton-de-ca-narnella": {
+    title:`Cal Ton de Ca n'Arnella`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carrer de Sant Joan, 31, Matadepera`
+   },
 "cal-pepito": {
     title:`Cal Pepito`,
     altres:``,
@@ -445,7 +452,7 @@ Els fills de la fam&iacute;lia Gut&eacute;s-Orriols, Jaume (1933-2018) amb la se
    },
 "cal-caga-cristos": {
     title:`Cal Caga Cristos`,
-    altres:`Cal Gitenet<br>
+    altres:`Cal Gitanet<br>
 Cal Parramon
 `,
     historia:`Actualment aquest  indret correspon a la <strong>pla&ccedil;a de la Germandat de Sant Sebasti&agrave;</strong>, per&ograve;  antigament hi havia existit una gran casa que ocupava tot l&rsquo;espai de l&rsquo;actual  pla&ccedil;a. Al llarg del temps fou un dels llocs m&eacute;s actius i emblem&agrave;tics del nucli  antic de Matadepera, amb habitatges, comer&ccedil;os, espais municipals i punts de  trobada social.<br>
@@ -469,7 +476,7 @@ Durant la segona meitat  del segle XX, la carnisseria Parramon es consolid&agrav
 Finalment, l&rsquo;edifici  fou enderrocat i l&rsquo;espai es convert&iacute; en l&rsquo;actual pla&ccedil;a de la Germandat de Sant  Sebasti&agrave;. Tot i la desaparici&oacute; de la casa, encara s&rsquo;hi conserva, a manera de  petit monument hist&ograve;ric, l&rsquo;antiga pedra de mol&iacute; que, incrustada a la cantonada,  protegia la casa dels carros en girar. Amb el pas dels anys aquella pedra acab&agrave;  esdevenint un punt de trobada emblem&agrave;tic i una de les petites icones de la  Matadepera antiga.`,
     origen:` <strong><em>Cal Caga Cristos</em></strong>:  Prov&eacute; de <strong>Mart&iacute; Llaur&oacute; Costa</strong>, el forner que regentava el negoci a <strong>principis  del segle XX</strong>. Segons expliquen les fonts orals i recollia tamb&eacute; Miquel  Ballb&eacute; Boada, tenia el costum de renegar constantment i repetir cont&iacute;nuament  expressions on es cagava amb Crist. Mn. Jaume Torres, rector de Matadepera,  deia ir&ograve;nicament que aquell home no cometia pecat, perqu&egrave; ni tan sols era  conscient del que deia.<br>
   <br>
-  <strong><em>Cal Gitenet</em></strong>:  Fa refer&egrave;ncia a <strong>Joan Freixa Alaball</strong> (1923-2006), conegut popularment com  &laquo;<strong><em>el Gitanet</em></strong>&raquo;, que hi va viure a partir de la segona meitat del  segle XX. Segons testimoni d&rsquo;un descendent, ell mateix s&rsquo;autoanomenava aix&iacute;  perqu&egrave; es considerava una persona molt negociadora i amb gran habilitat per  regatejar en els tractes.<br>
+  <strong><em>Cal Gitanet</em></strong>:  Fa refer&egrave;ncia a <strong>Joan Freixa Alaball</strong> (1923-2006), conegut popularment com  &laquo;<strong><em>el Gitanet</em></strong>&raquo;, que hi va viure a partir de la segona meitat del  segle XX. Segons testimoni d&rsquo;un descendent, ell mateix s&rsquo;autoanomenava aix&iacute;  perqu&egrave; es considerava una persona molt negociadora i amb gran habilitat per  regatejar en els tractes.<br>
   <br>
   <strong><em>Cal Parramon</em></strong>:  Deriva del nom de la <strong>carnisseria regentada per la fam&iacute;lia Parramon</strong> des  de mitjan segle XX. Tot i no residir-hi de manera permanent, foren els darrers  ocupants del lloc abans de l&rsquo;enderroc de l&rsquo;edifici i la posterior creaci&oacute; de la  pla&ccedil;a actual.`,
     adreca:`Adreça actual: Plaça de la Germandat de Sant Sebastià, Matadepera`
