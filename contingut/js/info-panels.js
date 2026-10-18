@@ -1168,7 +1168,8 @@ Cal Guerresenyo`,
    },
 "cal-pauet": {
     title:`Cal Pauet`,
-    altres:`Cal la Pietat`,
+    altres:`Cal Patotxo<br>
+    Cal la Pietat`,
     historia:``,
     origen:`<em>Pauet</em>: Del diminutiu del nom Pau Solé`,
     adreca:`Adreça actual: Carrer de Sant Isidre, 23, Matadepera`
