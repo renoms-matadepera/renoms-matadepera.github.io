@@ -220,7 +220,7 @@ Pel que fa al renom <strong><em>Cal Petapet</em></strong>, era  un dels varis mo
 "cal-soca": {
     title:`Cal Soca`,
     altres:``,
-    historia:`A principis de la d&egrave;cada de 1970, en Narc&iacute;s Riba  Arnau, <em>Siset</em>, i en Joan Font Pi, <em>Corcola</em>, cronista de la  hist&ograve;ria local, van recollir en les seves cr&ograve;niques, publicades als programes  de la Festa Major, una curiosa an&egrave;cdota relacionada amb aquesta casa.<br>
+    historia:`A principis de la d&egrave;cada de 1970, en Narc&iacute;s Riba  Arnau, <em>Siset</em>, i en Joan Font Pi, <em>Corcola</em>, cronistes de la  hist&ograve;ria local, van recollir en les seves cr&ograve;niques, publicades als programes  de la Festa Major, una curiosa an&egrave;cdota relacionada amb aquesta casa.<br>
   <br>
 L'any 1905, l'ensorrament de la sala de ball de <em>Cal Genet</em> va deixar  sense local el jovent que hi anava a ballar. Per disposar d'un espai propi, van  aconseguir utilitzar provisionalment l'entrada de <em>Cal Soca</em>, que era prou  gran, per&ograve; for&ccedil;a m&eacute;s petita que la sala desapareguda. Hi van posar una catifa  que calia repassar i cosir abans de cada festa. L&rsquo;Arola de <em>Cal Dents</em>,  en Ventura &laquo;<em>tocinaire</em>&raquo;, juntament amb els Ventayol de <em>Ca la Sibina</em>,  eren els encarregats d&rsquo;apeda&ccedil;ar-la. Fins i tot van llogar un piano que en Pepet  Campaner, de Terrassa, venia a tocar els dies de ball.<br>
 <br>
