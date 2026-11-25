@@ -1663,7 +1663,13 @@ Irene <strong>va morir l&rsquo;1 de mar&ccedil; de 1928, pr&agrave;cticament a l
    },
 
 // Carretera de Terrassa
-
+"cal-rajoler": {
+    title:`Cal Rajoler`,
+    altres:``,
+    historia:``,
+    origen:``,
+    adreca:`Adreça actual: Carretera de Terrassa, 9, Matadepera`
+   },
 "cal-siset": {
     title:`Cal Siset`,
     altres:``,
